@@ -51,16 +51,16 @@ Des représentants du département Incubateur de services numériques de la DINU
 Les membres du nouveau département Opérateur de produits interministériels de la DINUM présenteront les produits et outils interministériels open source de l’État (tels que Tchap la messagerie instantanée de l’État ou Démarches Simplifiées). 
 
 ### Programme détaillé :
-
 #### Programme « OFF » du mercredi 18 octobre :
-<br>Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
+Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
 
-<br>**Cette journée se déroulera à l'espace Athénée de 9h30 à 19h**
-<br>Au cours de la matinée, les personnes pourront bénéficier d'un accueil petit déjeuner devant l'espace. Ensuite, une intervention sera proposée par un agent de la DINUM dans le cadre du Tour de France des produits numériques interministériels afin de présenter Beta.gouv.fr et certains de ces produits. Des espaces de travail seront mis à disposition tels que des forums ouverts, un amphithéâtre et des salles.
+**Cette journée se déroulera à l'espace Athénée de 9h30 à 19h**
+Au cours de la matinée, les personnes pourront bénéficier d'un accueil petit déjeuner devant l'espace. Ensuite, une intervention sera proposée par un agent de la DINUM dans le cadre du Tour de France des produits numériques interministériels afin de présenter Beta.gouv.fr et certains de ces produits. Des espaces de travail seront mis à disposition tels que des forums ouverts, un amphithéâtre et des salles.
 
-<br>La présentation des produits numériques interministériels se poursuivra jusqu'au midi et se clôturera par une pause déjeuner. Le déjeuner étant à la charge des participants, vous aurez la possibilité de manger en dehors du lieu de l'événement.
+La présentation des produits numériques interministériels se poursuivra jusqu'au midi et se clôturera par une pause déjeuner. Le déjeuner étant à la charge des participants, vous aurez la possibilité de manger en dehors du lieu de l'événement.
  
-<br>La session de l'après-midi commencera par un forum ouvert où tout le monde est invité à venir (y compris les participants du NEC et ceux du Tour de France des produits interministériels).
+La session de l'après-midi commencera par un forum ouvert où tout le monde est invité à venir (y compris les participants du NEC et ceux du Tour de France des produits interministériels).
+<br>
 <br>
 
 #### Programme « IN » du jeudi 19/10/23 :
@@ -74,11 +74,13 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 * L’incubateur de services numériques de la DINUM [beta.gouv.fr](https://beta.gouv.fr/)
 * Des équipes de produits phares tels que : [Démarches Simplifiées](https://www.demarches-simplifiees.fr/) et [Tchap](https://tchap.beta.gouv.fr/?mtm_campaign=TchapWebConnectLogo)
 <br>
+<br>
 
 #### Programme « IN » du vendredi 20/10/23 :
-<br>Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
+Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
 
-<br>Cet événement se clôturera par un cocktail (le soir, inscription obligatoire).
+Cet événement se clôturera par un cocktail (le soir, inscription obligatoire).
+<br>
 <br>
 
 <div align="center"><a href="https://numerique-en-communs.fr/la-programmation/" class="button"><b>En savoir plus sur le programme - Consultez le site de Numérique en Commun[s]</b></a></div>
