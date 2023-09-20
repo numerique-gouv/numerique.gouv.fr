@@ -52,11 +52,10 @@ Les membres du nouveau département Opérateur de produits interministériels de
 
 ### Programme détaillé :
 
-#### Programme « Off » du mercredi 18 octobre :
+#### Programme « OFF » du mercredi 18 octobre :
 <br>Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
 
 <br>**Cette journée se déroulera à l'espace Athénée de 9h30 à 19h**
-
 <br>Au cours de la matinée, les personnes pourront bénéficier d'un accueil petit déjeuner devant l'espace. Ensuite, une intervention sera proposée par un agent de la DINUM dans le cadre du Tour de France des produits numériques interministériels afin de présenter Beta.gouv.fr et certains de ces produits. Des espaces de travail seront mis à disposition tels que des forums ouverts, un amphithéâtre et des salles.
 
 <br>La présentation des produits numériques interministériels se poursuivra jusqu'au midi et se clôturera par une pause déjeuner. Le déjeuner étant à la charge des participants, vous aurez la possibilité de manger en dehors du lieu de l'événement.
@@ -79,6 +78,7 @@ Des ateliers, pitchs, retex et masterclass sont prévus !
 <br>Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
 
 <br>Cet événement se clôturera par un cocktail (le soir, inscription obligatoire).
+<br>
 
 <div align="center"><a href="https://numerique-en-communs.fr/la-programmation/" class="button"><b>En savoir plus sur le programme - Consultez le site de Numérique en Commun[s]</b></a></div>
 <br>
