@@ -61,7 +61,7 @@ Les membres du nouveau département Opérateur de produits interministériels de
 <br>La présentation des produits numériques interministériels se poursuivra jusqu'au midi et se clôturera par une pause déjeuner. Le déjeuner étant à la charge des participants, vous aurez la possibilité de manger en dehors du lieu de l'événement.
  
 <br>La session de l'après-midi commencera par un forum ouvert où tout le monde est invité à venir (y compris les participants du NEC et ceux du Tour de France des produits interministériels).
-
+<br>
 
 #### Programme « IN » du jeudi 19/10/23 :
 Des ateliers, pitchs, retex et masterclass sont prévus !
@@ -73,6 +73,7 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 * [La mission logiciels libres](https://code.gouv.fr/fr/)
 * L’incubateur de services numériques de la DINUM [beta.gouv.fr](https://beta.gouv.fr/)
 * Des équipes de produits phares tels que : [Démarches Simplifiées](https://www.demarches-simplifiees.fr/) et [Tchap](https://tchap.beta.gouv.fr/?mtm_campaign=TchapWebConnectLogo)
+<br>
 
 #### Programme « IN » du vendredi 20/10/23 :
 <br>Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
