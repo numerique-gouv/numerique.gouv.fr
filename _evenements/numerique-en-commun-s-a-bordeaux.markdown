@@ -51,18 +51,37 @@ Des représentants du département Incubateur de services numériques de la DINU
 Les membres du nouveau département Opérateur de produits interministériels de la DINUM présenteront les produits et outils interministériels open source de l’État (tels que Tchap la messagerie instantanée de l’État ou Démarches Simplifiées). 
 
 ### Programme détaillé :
+#### Programme « OFF » du mercredi 18 octobre :
+Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
 
-**Programme « Off » du mercredi 18 octobre** :
-<br>Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
+**Cette journée se déroulera à l'espace Athénée de 9h30 à 19h**
+Au cours de la matinée, les personnes pourront bénéficier d'un accueil petit déjeuner devant l'espace. Ensuite, une intervention sera proposée par un agent de la DINUM dans le cadre du Tour de France des produits numériques interministériels afin de présenter Beta.gouv.fr et certains de ces produits. Des espaces de travail seront mis à disposition tels que des forums ouverts, un amphithéâtre et des salles.
 
-### Programme « IN » du jeudi 19/10/23 :
+La présentation des produits numériques interministériels se poursuivra jusqu'au midi et se clôturera par une pause déjeuner. Le déjeuner étant à la charge des participants, vous aurez la possibilité de manger en dehors du lieu de l'événement.
+ 
+La session de l'après-midi commencera par un forum ouvert où tout le monde est invité à venir (y compris les participants du NEC et ceux du Tour de France des produits interministériels).
+<br>
+<br>
+
+#### Programme « IN » du jeudi 19/10/23 :
 Des ateliers, pitchs, retex et masterclass sont prévus !
+
+Pour cette première journée ouverte à tous, deux lieux vous sont proposés à savoir, l'Hôtel de Ville de Bordeaux et le Palais de la Bourse de Bordeaux.
 
 À retrouver lors de l’événement des équipes de la DINUM telles que :
 * [L’Accélérateur d’initiatives citoyennes (AIC)](https://citoyens.transformation.gouv.fr/) et ses lauréats : [Umap](https://umap.openstreetmap.fr/en/) et [Pyronear](https://pyronear.org/) 
 * [La mission logiciels libres](https://code.gouv.fr/fr/)
 * L’incubateur de services numériques de la DINUM [beta.gouv.fr](https://beta.gouv.fr/)
 * Des équipes de produits phares tels que : [Démarches Simplifiées](https://www.demarches-simplifiees.fr/) et [Tchap](https://tchap.beta.gouv.fr/?mtm_campaign=TchapWebConnectLogo)
+<br>
+<br>
+
+#### Programme « IN » du vendredi 20/10/23 :
+Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
+
+Cet événement se clôturera par un cocktail (le soir, inscription obligatoire).
+<br>
+<br>
 
 <div align="center"><a href="https://numerique-en-communs.fr/la-programmation/" class="button"><b>En savoir plus sur le programme - Consultez le site de Numérique en Commun[s]</b></a></div>
 <br>
