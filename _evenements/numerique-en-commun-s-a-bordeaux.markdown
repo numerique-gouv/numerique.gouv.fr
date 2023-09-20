@@ -66,7 +66,7 @@ Les membres du nouveau département Opérateur de produits interministériels de
 #### Programme « IN » du jeudi 19/10/23 :
 Des ateliers, pitchs, retex et masterclass sont prévus !
 
-<br>Pour cette première journée ouverte à tous, deux lieux vous sont proposés à savoir, l'Hôtel de Ville de Bordeaux et le Palais de la Bourse de Bordeaux.
+Pour cette première journée ouverte à tous, deux lieux vous sont proposés à savoir, l'Hôtel de Ville de Bordeaux et le Palais de la Bourse de Bordeaux.
 
 À retrouver lors de l’événement des équipes de la DINUM telles que :
 * [L’Accélérateur d’initiatives citoyennes (AIC)](https://citoyens.transformation.gouv.fr/) et ses lauréats : [Umap](https://umap.openstreetmap.fr/en/) et [Pyronear](https://pyronear.org/) 
