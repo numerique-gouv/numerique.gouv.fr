@@ -17,13 +17,6 @@ Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer d
 
 #### Soyez soutenu dans votre projet proactif par nos équipes
 
-La DINUM consolide une offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
-
-* Le Défenseur des droits
-* La Commission nationale de l'informatique et des libertés (CNIL)
-* La Direction interministérielle de la transformation publique (DITP)
-* Cybermalveillance.gouv.fr
-
 #### 8 expertises clés
 
 ![Infographie_admin_proactive.png](/uploads/Infographie_admin_proactive.png)
@@ -86,3 +79,9 @@ Nous testons – avec quelques AOM volontaires partenaires – une **méthodolog
 {: .noir .encadre}
 <br>
 <br>
+
+La DINUM consolide cette offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
+
+* La Commission nationale de l'informatique et des libertés (CNIL)
+* La Direction interministérielle de la transformation publique (DITP)
+* Cybermalveillance.gouv.fr
