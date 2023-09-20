@@ -15,15 +15,6 @@ layout: rgaa
 #### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
-#### Soyez soutenu dans votre projet proactif par nos équipes
-
-La DINUM consolide une offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
-
-* Le Défenseur des droits
-* La Commission nationale de l'informatique et des libertés (CNIL)
-* La Direction interministérielle de la transformation publique (DITP)
-* Cybermalveillance.gouv.fr
-
 #### 8 expertises clés
 
 ![Infographie_admin_proactive.png](/uploads/Infographie_admin_proactive.png)
@@ -76,6 +67,14 @@ Depuis le 1er mars 2022, **l’intermédiation financière entre les parents sé
 
 Depuis plus de deux ans, la DINUM accompagne les autorités organisatrices de la mobilité (AOM) dans la récupération automatique des justificatifs nécessaires à la mise en place du « Dites-le nous une fois » (ex. justificatif du statut étudiant / boursier) pour **l’attribution des tarifs sociaux ou solidaires des transports.** 
 Nous testons – avec quelques AOM volontaires partenaires – une **méthodologie de notification automatique d’éligibilité à ces tarifs**. Une équipe dédiée a été constituée à la DINUM, accompagnée d’un responsable projet à la Direction générale des infrastructures, des transports et des mobilités et s’appuyant sur l’expertise du GART. 
+
+#### Soyez vous aussi soutenu dans votre projet proactif par nos équipes
+
+La DINUM consolide cette offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
+
+* La Commission nationale de l'informatique et des libertés (CNIL)
+* La Direction interministérielle de la transformation publique (DITP)
+* Cybermalveillance.gouv.fr
 
 > ## Comment solliciter notre offre d'appui ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
