@@ -26,6 +26,7 @@ files:
 Si l’État a lancé un plan de rattrapage massif pour garantir l’accessibilité des démarches et sites internet publics, l’enjeu est désormais d’accélérer les efforts engagés et contrôler le respect de la mise en conformité de tous les sites à compter 2024.
 
 L'ordonnance introduit trois nouveautés relatives à l'accessibilité des sites web des administrations publiques :
+
 1) En ce qui concerne l'accessibilité des sites, déjà rendue obligatoire depuis la loi de 2005, **le non-respect de cette exigence est maintenant passible de sanctions**, dont le montant maximal est fixé à 50 000€.
 
 2) **L'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) est désormais compétente pour identifier et constater les manquements, en s’appuyant notamment sur des méthodes de collecte automatisée, émettre des injonctions préalables aux sanctions.**
