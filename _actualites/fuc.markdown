@@ -2,6 +2,10 @@
 title: FUC
 date: 2023-09-21 17:01:00 +02:00
 published: false
+categories:
+- Article
+tags:
+- Services numériques
 chapeau-text: La Startup d’État [France Chaleur Urbaine](https://france-chaleur-urbaine.beta.gouv.fr/)
   a ouvert les données cartographiques des réseaux de chaleur au public le 1er septembre
   2023. Cette ouverture permet la diffusion de données de 639 réseaux de chaleur en
