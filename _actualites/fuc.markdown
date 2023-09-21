@@ -1,7 +1,6 @@
 ---
 title: FUC
 date: 2023-09-21 17:01:00 +02:00
-published: false
 categories:
 - Article
 tags:
@@ -16,5 +15,7 @@ chapeau-text: La Startup d’État [France Chaleur Urbaine](https://france-chale
   de France Chaleur Urbaine et Mael Inizan, coach produit et en charge du suivi de
   France Chaleur Urbaine au sein de l’incubateur de services numériques beta.gouv.fr
   de la DINUM.
+une-ou-diaporama:
+- image: "/uploads/Article%20FCU.png"
 ---
 
