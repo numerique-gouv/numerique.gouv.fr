@@ -23,7 +23,7 @@ une-ou-diaporama:
 
 France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, professionnel…) de vérifier si un réseau de chaleur* passe à proximité de son bâtiment. L’ouverture des données cartographique des réseaux de chaleur est un pas supplémentaire de franchi : il rend possible leur appropriation par l’ensemble des acteurs de la rénovation énergétique (bureaux d’études, institutionnels, ...) et va ainsi permettre de faire beaucoup plus largement connaître ce mode de chauffage encore sous-exploité. Grâce aux raccordements ainsi générés, les émissions de gaz à effet de serre produites par le chauffage des bâtiments seront réduites.
 
-[BOUTON] En savoir plus sur la mise en open des tracés des réseaux de chaleur et de froid
+[En savoir plus sur la mise en open des tracés des réseaux de chaleur et de froid](https://france-chaleur-urbaine.beta.gouv.fr/actus/mise-en-open-data-des-trac%C3%A9s-des-r%C3%A9seaux-de-chaleur-et-de-froid)
 
 #### 1) Question : A quoi correspond l’accompagnement de beta.gouv.fr ? 
 
@@ -35,10 +35,6 @@ France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, pr
 
 <br>
 <div align="center"><a href="https://beta.gouv.fr/fast/" class="button"><b>Pour en savoir plus sur le FAST</b></a></div>
-<br>
-
-<br>
-<div align="center"><a href="https://beta.gouv.fr/fast/" class="button"><b>Pour en savoir plus sur le FAST</b></a><p class="ouverture">Pour en savoir plus sur le FAST</p></div>
 <br>
 
 L'accompagnement de beta.gouv.fr nous a permis de nous **concentrer sur l'impact pour les usagers et de prendre conscience de l'importance du travail de déploiement**. Ainsi, nous interagissons en permanence avec nos usagers et tenons compte de leurs retours pour faire évoluer le service. **Cette démarche courante dans le monde du numérique est encore peu répandue dans l'administration d’où la nécessité d’un accompagnement par des équipes expertes**. L'accompagnement juridique dont nous avons pu bénéficier dans le cadre de beta.gouv.fr nous a également été précieux pour l'ouverture des données.
@@ -59,4 +55,4 @@ L'accompagnement de beta.gouv.fr nous a permis de nous **concentrer sur l'impact
 
 Beta.gouv.fr est une communauté de produits numériques du service public répondant à la fois aux problèmes d'intérêt général et aux vrais besoins des usagers. Utilisant les technologies de référence et les nouveaux modèles d'organisation, la communauté beta tente de réinventer l'administration pour améliorer la qualité des services publics. 
 
-<a href="https://beta.gouv.fr/fast/"><b>Pour en savoir plus sur l’accompagnement de beta.gouv.fr</b></a></p>
+<a href="https://beta.gouv.fr/fast/"><b>En savoir plus sur l’accompagnement de beta.gouv.fr</b></a></p>
