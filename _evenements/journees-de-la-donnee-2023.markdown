@@ -25,10 +25,10 @@ Les 10 et 11 octobre prochains se tiendront les Journées de la donnée, **le re
 
 **Dans ce cadre, les équipes de la DINUM seront présentes le 10 octobre.**
 
-**Ulrich TAN**, chef du pôle Datalab du département Etalab de la DINUM, participera à une séquence autour des **enjeux de l’IA pour la sphère publique**, une occasion d’évoquer l’expérimentation d’outils d’intelligence artificielle menée par la DITP et la DINUM afin d’améliorer la qualité des réponses apportées aux usagers sur la plateforme Services Publics + et dans plusieurs France services. 
+**Ulrich TAN**, chef du pôle Datalab du département Etalab de la DINUM, participera à une séquence autour du **sujet du large language model**, une occasion d’évoquer l’expérimentation d’outils d’intelligence artificielle menée par la DITP et la DINUM afin d’améliorer la qualité des réponses apportées aux usagers sur la plateforme Services Publics + et dans plusieurs France services. 
 
 Aux côtés de Ulrich TAN, interviendront également :
-* **Pierre-Etienne DEVINEAU**, lead data scientist au département Etalab de la DINUM, sur les enjeux de l’IA pour la sphère publique. 
+* **Pierre-Etienne DEVINEAU**, lead data scientist au département Etalab de la DINUM, sur le sujet du large language model.. 
 * **Marion LOUSTRIC**, directrice de programme Administration proactive au sein du département Appui, conseil et expertise de la DINUM, et **Cindy KUS**, chargée de mission administration proactive et transformation numérique de l’État, sur l’ouverture des données pour favoriser la proactivité.
 
 <div align="center"><a href="mettre le lien"><b>S'inscrire à l'évènement</b></a></div>
