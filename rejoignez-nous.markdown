@@ -92,6 +92,8 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-charge-e--de-mission-hf-reference-2023-1343571/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
+<br>
+<br>
 
 <h1 class="h3"><b>Incubateur de services numériques</b></h1>
 <div class="wrapper">
