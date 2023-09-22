@@ -1,5 +1,5 @@
 ---
-title: Journées de la donnée 2023
+title: La DINUM aux journées de la donnée 2023
 date: 2023-07-27 10:26:00 +02:00
 published: false
 categories:
@@ -20,7 +20,7 @@ champs_informations:
   lien: Lien à mettre
 ---
 
-Les Journées de la donnée sont une initiative portée par le Bercy Hub du Ministère de l'économie, des finances, de la souveraineté industrielle et numérique - Sécrétariat Général - Service du NUMérique.
+Les Journées de la donnée sont une initiative portée par le Bercy Hub du Ministère de l'économie, des finances, de la souveraineté industrielle et numérique - Sécrétariat Général - Service du Numérique.
 
 Rendez-vous annuel à Bercy sur les enjeux liés à la politique publique de la donnée, cet évènement est l’occasion d’échanger sur des thématiques variées autour de la **circulation et l’exploitation des données**,  des leviers à activer pour rendre l’**administration plus efficace** et ou encore de l’**utilisation de l’IA** au sein de la sphère publique.
 
