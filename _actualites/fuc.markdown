@@ -31,7 +31,9 @@ France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, pr
 
 **Réponse Florence Levy** : France Chaleur Urbaine a été lauréate du [fonds d'accélération des Startups d'État et de Territoires (FAST)](https://beta.gouv.fr/fast/) en 2021, puis d’un guichet France Relance porté par la DINUM, visant à développer la collaboration des écosystèmes grâce au numérique, en 2022. A ce titre, nous avons été accompagnés de manière opérationnelle et stratégique par des experts du numérique de la DINUM, en particulier des coachs produits, et soutenus financièrement à hauteur de 860 000 €.
 
-[Encadré ou BOUTON : pour en savoir plus sur le FAST : https://beta.gouv.fr/fast/]  https://beta.gouv.fr/fast/
+<br>
+<div align="center"><a href="https://beta.gouv.fr/fast/" class="button"><b>Pour en savoir plus sur le FAST</b></a><p class="ouverture">Pour en savoir plus sur le FAST</p></div>
+<br>
 
 L'accompagnement de beta.gouv.fr nous a permis de nous **concentrer sur l'impact pour les usagers et de prendre conscience de l'importance du travail de déploiement**. Ainsi, nous interagissons en permanence avec nos usagers et tenons compte de leurs retours pour faire évoluer le service. **Cette démarche courante dans le monde du numérique est encore peu répandue dans l'administration d’où la nécessité d’un accompagnement par des équipes expertes**. L'accompagnement juridique dont nous avons pu bénéficier dans le cadre de beta.gouv.fr nous a également été précieux pour l'ouverture des données.
 
