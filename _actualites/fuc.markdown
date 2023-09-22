@@ -53,4 +53,4 @@ L'accompagnement de beta.gouv.fr nous a permis de nous **concentrer sur l'impact
 
 Beta.gouv.fr est une communauté de produits numériques du service public répondant à la fois aux problèmes d'intérêt général et aux vrais besoins des usagers. Utilisant les technologies de référence et les nouveaux modèles d'organisation, la communauté beta tente de réinventer l'administration pour améliorer la qualité des services publics. 
 
-[Pour en savoir plus sur l’accompagnement de beta.gouv.fr](https://beta.gouv.fr/approche) </p>
+<a href="https://beta.gouv.fr/fast/"><b>Pour en savoir plus sur l’accompagnement de beta.gouv.fr</b></a></p>
