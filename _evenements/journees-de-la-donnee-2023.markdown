@@ -4,8 +4,9 @@ date: 2023-07-27 10:26:00 +02:00
 published: false
 categories:
 - Évènement
-chapeau-text: La DINUM participera aux Journées de la donnée le 10 octobre prochain.
-  Cette édition sera dédiée aux enjeux liés à la politique publique de la donnée.
+chapeau-text: Le 10 octobre lors des Journées de la donnée, des agents de la direction
+  interministérielle du numérique (DINUM) seront présents pour échanger sur la puissance
+  qu’offre le numérique pour rendre l’État plus simple, plus efficace et plus souverain.
 event_start_date: 2023-10-10 09:00:00 +02:00
 event_end_date: 2023-10-11 18:00:00 +02:00
 lieu: Bercy
@@ -20,26 +21,17 @@ champs_informations:
   lien: Lien à mettre
 ---
 
-Les Journées de la donnée sont une initiative portée par le Bercy Hub du Ministère de l'économie, des finances, de la souveraineté industrielle et numérique - Sécrétariat Général - Service du Numérique.
+Les 10 et 11 octobre prochains se tiendront les Journées de la donnée, **le rendez-vous annuel à Bercy portant sur les enjeux liés à la politique publique de la donnée. Cet évènement est l’occasion d’échanger sur des thématiques variées autour de la circulation et l’exploitation des données, des leviers à activer pour rendre l’administration plus efficace et proactive ou encore de l’utilisation de l’IA au sein de la sphère publique.**
 
-Rendez-vous annuel à Bercy sur les enjeux liés à la politique publique de la donnée, cet évènement est l’occasion d’échanger sur des thématiques variées autour de la **circulation et l’exploitation des données**,  des leviers à activer pour rendre l’**administration plus efficace** et ou encore de l’**utilisation de l’IA** au sein de la sphère publique.
+**Dans ce cadre, les équipes de la DINUM seront présentes le 10 octobre.**
 
-Lors de cet événement, **Ulrich TAN**, Chef du pôle Datalab du département Etalab au sein de la DINUM, participera à une séquence autour des enjeux de l’IA pour la sphère publique. Cette séquence sera l'occasion de mettre en valeur le projet de LLM (Large Language Models) mené conjointement par la [DITP](https://www.transformation.gouv.fr/le-ministere/ditp) et la DINUM avec [ServicesPublics+](https://www.gouvernement.fr/actualite/services-publics-un-service-public-plus-proche-plus-simple-plus-efficace). 
+**Ulrich TAN**, chef du pôle Datalab du département Etalab de la DINUM, participera à une séquence autour des **enjeux de l’IA pour la sphère publique**, une occasion d’évoquer l’expérimentation d’outils d’intelligence artificielle menée par la DITP et la DINUM afin d’améliorer la qualité des réponses apportées aux usagers sur la plateforme Services Publics + et dans plusieurs France services. 
 
 Aux côtés de Ulrich TAN, interviendront également :
-
-* Pierre-Etienne DEVINEAU, Data scientist sénior à la DINUM, lors d'une séquence autour des enjeux de l’IA pour la sphère publique
-* Marion LOUSTRIC, Directrice de programme – Administration proactive à la DINUM, lors d'une table ronde autour de l’ouverture des données pour favoriser la proactivité 
-
-#### Programme du 10/10/2023
-Table ronde : L’ouverture des données pour favoriser la proactivité
-1. Les enjeux de l’ouverture des données et les prérequis
-2. Appliquer le cadre légal autour de l'ouverture et l'exploitation des données (RGPD, CRPA, décret 3DS)
-3. Ouvrir les données de Bercy pour répondre aux besoins métiers  
-4. Les données sous-secrets pour favoriser la proactivité : Pourquoi ? Où en est-on ?  
-5. Comment identifier les cas d’usages ? L’approche moments de vie comme moyen d’identifier les parcours usagers à améliorer
-<br>
-<br>
+* **Pierre-Etienne DEVINEAU**, data scientist au département Etalab de la DINUM, sur les enjeux de l’IA pour la sphère publique. 
+* **Marion LOUSTRIC**, directrice de programme Administration proactive au sein du département Appui, conseil et expertise de la DINUM, sur l’ouverture des données pour favoriser la proactivité.
 
 <div align="center"><a href="mettre le lien"><b>S'inscrire à l'évènement</b></a></div>
 <br>
+
+Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finances, de la Souveraineté industrielle et numérique, le Bercy Hub porte l'ambition data du MESFIN en lien avec l'ensemble des directions du ministère. A sa tête, l'Administrateur Ministériel des Données impulse la stratégie sur la donnée sur la base d'une feuille de route déclinée dans chaque direction. Elle s'articule autour d'un axe 'RH' (acculturation, formation, attractivité), un axe 'Usages' (gouvernance, qualité, ouverture, circulation), un axe Infrastructure (approches et solutions techniques, incubation, science de la donnée). Au titre du premier axe, le Bercy Hub organise tous les ans, en novembre, les journées de la donnée pour prendre de la hauteur et du recul, éclairer sur l'actualité de la donnée, les enjeux et réflexions du moment, les tendances à venir.
