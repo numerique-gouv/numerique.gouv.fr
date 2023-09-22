@@ -16,7 +16,7 @@ chapeau-text: La Startup d’État [France Chaleur Urbaine](https://france-chale
   France Chaleur Urbaine au sein de l’incubateur de services numériques beta.gouv.fr
   de la DINUM.
 une-ou-diaporama:
-- image: "/uploads/Article%20FCU.png"
+- image: "/uploads/Article%20FCU%20(1).png"
 ---
 
 France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, professionnel…) de vérifier si un réseau de chaleur* passe à proximité de son bâtiment. L’ouverture des données cartographique des réseaux de chaleur est un pas supplémentaire de franchi : il rend possible leur appropriation par l’ensemble des acteurs de la rénovation énergétique (bureaux d’études, institutionnels, ...) et va ainsi permettre de faire beaucoup plus largement connaître ce mode de chauffage encore sous-exploité. Grâce aux raccordements ainsi générés, les émissions de gaz à effet de serre produites par le chauffage des bâtiments seront réduites.
