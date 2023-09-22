@@ -25,11 +25,11 @@ France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, pr
 
 [BOUTON] En savoir plus sur la mise en open des tracés des réseaux de chaleur et de froid
 
-### 1) Question : A quoi correspond l’accompagnement de beta.gouv.fr ? 
+#### 1) Question : A quoi correspond l’accompagnement de beta.gouv.fr ? 
 
 **Réponse Mael Inizan** : En intégrant le programme d’incubation de beta.gouv.fr, les Startups d’État suivent plusieurs phases allant de l’investigation au transfert. L’investigation consiste à identifier le problème à résoudre et à valider qu’il peut être résolu grâce au numérique. La construction a pour but de constituer son équipe et développer la première version de la solution sur un terrain d’expérimentation. La phase d’accélération consiste à disposer d’un produit fini déployé au niveau national et la phase de transfert créé les conditions de la reprise en assurant la pérennité du projet au sein de son administration d‘origine. 
 
-### 2) Question : De quel accompagnement a bénéficié la Startup d’État  France Chaleur Urbaine dans le cadre de l’ouverture des données des tracés des réseaux de chaleur et de froid ?
+#### 2) Question : De quel accompagnement a bénéficié la Startup d’État  France Chaleur Urbaine dans le cadre de l’ouverture des données des tracés des réseaux de chaleur et de froid ?
 
 **Réponse Florence Levy** : France Chaleur Urbaine a été lauréate du [fonds d'accélération des Startups d'État et de Territoires (FAST)](https://beta.gouv.fr/fast/) en 2021, puis d’un guichet France Relance porté par la DINUM, visant à développer la collaboration des écosystèmes grâce au numérique, en 2022. A ce titre, nous avons été accompagnés de manière opérationnelle et stratégique par des experts du numérique de la DINUM, en particulier des coachs produits, et soutenus financièrement à hauteur de 860 000 €.
 
@@ -43,7 +43,7 @@ France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, pr
 
 L'accompagnement de beta.gouv.fr nous a permis de nous **concentrer sur l'impact pour les usagers et de prendre conscience de l'importance du travail de déploiement**. Ainsi, nous interagissons en permanence avec nos usagers et tenons compte de leurs retours pour faire évoluer le service. **Cette démarche courante dans le monde du numérique est encore peu répandue dans l'administration d’où la nécessité d’un accompagnement par des équipes expertes**. L'accompagnement juridique dont nous avons pu bénéficier dans le cadre de beta.gouv.fr nous a également été précieux pour l'ouverture des données.
 
-### 3) Question : Où en est aujourd’hui France Chaleur Urbaine aujourd’hui ? 
+#### 3) Question : Où en est aujourd’hui France Chaleur Urbaine aujourd’hui ? 
 
 **Réponse Florence Levy** : Aujourd’hui, France chaleur Urbaine compte **plus de 10 000 visiteurs par mois, 55 000 adresses testées par des particuliers et plus de 300 000 adresses testées par des professionnels** (bailleurs sociaux, gestionnaires de parcs tertiaires…). 
 
