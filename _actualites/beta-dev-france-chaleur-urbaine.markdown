@@ -10,7 +10,7 @@ tags:
 - Données ouvertes
 - Open Data
 - beta.gouv.fr
-chapeau-text: Incubé au sein de la La Fabrique Numérique de l'Ecologie, le service
+chapeau-text: Incubé au sein de la La Fabrique Numérique de l'Écologie, le service
   public numérique [France Chaleur Urbaine](https://france-chaleur-urbaine.beta.gouv.fr/)
   a ouvert les données cartographiques des réseaux de chaleur au public le 1er septembre
   2023. Cette ouverture permet la diffusion de données de 639 réseaux de chaleur en
