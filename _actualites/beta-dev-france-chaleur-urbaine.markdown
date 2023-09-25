@@ -9,7 +9,6 @@ tags:
 - Services numériques
 - Données ouvertes
 - Open Data
-- Innovation publique
 - beta.gouv.fr
 chapeau-text: Incubé au sein de la La Fabrique Numérique de l'Ecologie, le service
   public numérique [France Chaleur Urbaine](https://france-chaleur-urbaine.beta.gouv.fr/)
