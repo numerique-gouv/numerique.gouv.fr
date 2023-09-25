@@ -3,11 +3,14 @@ title: 'Ouverture des données des tracés des réseaux de chaleur et de froid :
   sur l’accompagnement de l’incubateur de services numériques de la DINUM beta.gouv.fr
   auprès de France Chaleur Urbaine'
 date: 2023-09-25 10:01:00 +02:00
-published: false
 categories:
 - Article
 tags:
 - Services numériques
+- Données ouvertes
+- Open Data
+- Innovation publique
+- beta.gouv.fr
 chapeau-text: Incubé au sein de la La Fabrique Numérique de l'Ecologie, le service
   public numérique [France Chaleur Urbaine](https://france-chaleur-urbaine.beta.gouv.fr/)
   a ouvert les données cartographiques des réseaux de chaleur au public le 1er septembre
