@@ -7,7 +7,7 @@ chapeau-text: Le 10 octobre lors des Journées de la donnée, des agents de la d
   interministérielle du numérique (DINUM) seront présents pour échanger sur la puissance
   qu’offre le numérique pour rendre l’État plus simple, plus efficace et plus souverain.
 une-ou-diaporama:
-- image: "/uploads/JDD23(1).png"
+- image: "/uploads/Journ%C3%A9es_de_la_donn%C3%A9e_2023.png"
 event_start_date: 2023-10-10 09:00:00 +02:00
 event_end_date: 2023-10-11 18:00:00 +02:00
 lieu: Bercy
