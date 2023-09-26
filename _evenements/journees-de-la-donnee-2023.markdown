@@ -1,6 +1,7 @@
 ---
 title: La DINUM aux journées de la donnée 2023
 date: 2023-07-27 10:26:00 +02:00
+published: false
 categories:
 - Évènement
 chapeau-text: Le 10 octobre lors des Journées de la donnée, des agents de la direction
