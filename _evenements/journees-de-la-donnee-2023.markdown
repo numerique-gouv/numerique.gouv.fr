@@ -1,12 +1,13 @@
 ---
 title: La DINUM aux journées de la donnée 2023
 date: 2023-07-27 10:26:00 +02:00
-published: false
 categories:
 - Évènement
 chapeau-text: Le 10 octobre lors des Journées de la donnée, des agents de la direction
   interministérielle du numérique (DINUM) seront présents pour échanger sur la puissance
   qu’offre le numérique pour rendre l’État plus simple, plus efficace et plus souverain.
+une-ou-diaporama:
+- image: "/uploads/Journ%C3%A9es_de_la_donn%C3%A9e_2023.png"
 event_start_date: 2023-10-10 09:00:00 +02:00
 event_end_date: 2023-10-11 18:00:00 +02:00
 lieu: Bercy
@@ -28,10 +29,25 @@ Les 10 et 11 octobre prochains se tiendront les Journées de la donnée, **le re
 **Ulrich TAN**, chef du pôle Datalab du département Etalab de la DINUM, participera à une séquence autour du **sujet du large language model**, une occasion d’évoquer l’expérimentation d’outils d’intelligence artificielle menée par la DITP et la DINUM afin d’améliorer la qualité des réponses apportées aux usagers sur la plateforme Services Publics + et dans plusieurs France services. 
 
 Aux côtés de Ulrich TAN, interviendront également :
-* **Pierre-Etienne DEVINEAU**, lead data scientist au département Etalab de la DINUM, sur le sujet du large language model.. 
+* **Pierre-Etienne DEVINEAU**, lead data scientist au département Etalab de la DINUM, sur le sujet du large language model.
 * **Marion LOUSTRIC**, directrice de programme Administration proactive au sein du département Appui, conseil et expertise de la DINUM, et **Cindy KUS**, chargée de mission administration proactive et transformation numérique de l’État, sur l’ouverture des données pour favoriser la proactivité.
 
-<div align="center"><a href="mettre le lien"><b>S'inscrire à l'évènement</b></a></div>
+Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finances, de la Souveraineté industrielle et numérique, le Bercy Hub porte l'ambition data du MESFIN en lien avec l'ensemble des directions du ministère. A sa tête, l'Administrateur Ministériel des Données impulse la stratégie sur la donnée sur la base d'une feuille de route déclinée dans chaque direction. Elle s'articule autour d'un axe 'RH' (acculturation, formation, attractivité), un axe 'Usages' (gouvernance, qualité, ouverture, circulation), un axe Infrastructure (approches et solutions techniques, incubation, science de la donnée). Au titre du premier axe, le Bercy Hub organise tous les ans, en novembre, les journées de la donnée pour prendre de la hauteur et du recul, éclairer sur l'actualité de la donnée, les enjeux et réflexions du moment, les tendances à venir.
+
+
+<div align="center"><a href="https://forms.lettres-snum.com/634fe5bd3bfecd4289f6ea3d/EiDCjjZeTD2VMq9IImshpw/3HZB4VtcQa-Qgyyi9Lf-Uw/form.html"><b>S'inscrire à l'évènement en présentiel à Bercy</b></a></div>
 <br>
 
-Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finances, de la Souveraineté industrielle et numérique, le Bercy Hub porte l'ambition data du MESFIN en lien avec l'ensemble des directions du ministère. A sa tête, l'Administrateur Ministériel des Données impulse la stratégie sur la donnée sur la base d'une feuille de route déclinée dans chaque direction. Elle s'articule autour d'un axe 'RH' (acculturation, formation, attractivité), un axe 'Usages' (gouvernance, qualité, ouverture, circulation), un axe Infrastructure (approches et solutions techniques, incubation, science de la donnée). Au titre du premier axe, le Bercy Hub organise tous les ans, en novembre, les journées de la donnée pour prendre de la hauteur et du recul, éclairer sur l'actualité de la donnée, les enjeux et réflexions du moment, les tendances à venir.
+<div align="center"><a href="https://video.finances.gouv.fr/lecteur_video/keypub/869dab0bccbd0911be19/id/3e1ac6c18cef8794f1c7f0c4ee10dd/type/pr/lang/fr"><b>Assister en direct à la journée du 10 octobre</b></a></div>
+<br>
+
+<div align="center"><a href="https://openvideopresenceadvanced.orange-business.com/join"><b>Assister en visioconférence à la journée du 11 octobre</b></a></div>
+<br>
+
+<div align="center"><a href="https://video.finances.gouv.fr/lecteur_video/keypub/869dab0bccbd0911be19/id/0f628244a7e9ca5b591f8793269280/type/pr/lang/fr"><b>Assister en direct à la journée du 11 octobre</b></a></div>
+<br>
+
+<div align="center"><p>L’ensemble des interventions sera également disponible en rediffusion.</p></div>
+
+<div align="center"><a href="https://video.finances.gouv.fr/amd.html"><b>Pour revoir les éditions précédentes</b></a></div>
+<br>
