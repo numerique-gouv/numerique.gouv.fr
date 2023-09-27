@@ -47,7 +47,7 @@ Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finan
 <div align="center"><a href="https://video.finances.gouv.fr/lecteur_video/keypub/869dab0bccbd0911be19/id/0f628244a7e9ca5b591f8793269280/type/pr/lang/fr"><b>Assister en direct à la journée du 11 octobre</b></a></div>
 <br>
 
-L’ensemble des interventions sera également disponible en rediffusion.
+<div align="center"><p>L’ensemble des interventions sera également disponible en rediffusion.</p></div>
 
 <div align="center"><a href="https://video.finances.gouv.fr/amd.html"><b>Pour revoir les éditions précédentes</b></a></div>
 <br>
