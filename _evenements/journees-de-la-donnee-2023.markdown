@@ -32,6 +32,9 @@ Aux côtés de Ulrich TAN, interviendront également :
 * **Pierre-Etienne DEVINEAU**, lead data scientist au département Etalab de la DINUM, sur le sujet du large language model.
 * **Marion LOUSTRIC**, directrice de programme Administration proactive au sein du département Appui, conseil et expertise de la DINUM, et **Cindy KUS**, chargée de mission administration proactive et transformation numérique de l’État, sur l’ouverture des données pour favoriser la proactivité.
 
+Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finances, de la Souveraineté industrielle et numérique, le Bercy Hub porte l'ambition data du MESFIN en lien avec l'ensemble des directions du ministère. A sa tête, l'Administrateur Ministériel des Données impulse la stratégie sur la donnée sur la base d'une feuille de route déclinée dans chaque direction. Elle s'articule autour d'un axe 'RH' (acculturation, formation, attractivité), un axe 'Usages' (gouvernance, qualité, ouverture, circulation), un axe Infrastructure (approches et solutions techniques, incubation, science de la donnée). Au titre du premier axe, le Bercy Hub organise tous les ans, en novembre, les journées de la donnée pour prendre de la hauteur et du recul, éclairer sur l'actualité de la donnée, les enjeux et réflexions du moment, les tendances à venir.
+
+
 <div align="center"><a href="https://forms.lettres-snum.com/634fe5bd3bfecd4289f6ea3d/EiDCjjZeTD2VMq9IImshpw/3HZB4VtcQa-Qgyyi9Lf-Uw/form.html"><b>S'inscrire à l'évènement en présentiel à Bercy</b></a></div>
 <br>
 
@@ -48,5 +51,3 @@ L’ensemble des interventions sera également disponible en rediffusion.
 
 <div align="center"><a href="https://video.finances.gouv.fr/amd.html"><b>Pour revoir les éditions précédentes</b></a></div>
 <br>
-
-Rattaché au Service du NUMérique du SG du ministère de l'Économie, des Finances, de la Souveraineté industrielle et numérique, le Bercy Hub porte l'ambition data du MESFIN en lien avec l'ensemble des directions du ministère. A sa tête, l'Administrateur Ministériel des Données impulse la stratégie sur la donnée sur la base d'une feuille de route déclinée dans chaque direction. Elle s'articule autour d'un axe 'RH' (acculturation, formation, attractivité), un axe 'Usages' (gouvernance, qualité, ouverture, circulation), un axe Infrastructure (approches et solutions techniques, incubation, science de la donnée). Au titre du premier axe, le Bercy Hub organise tous les ans, en novembre, les journées de la donnée pour prendre de la hauteur et du recul, éclairer sur l'actualité de la donnée, les enjeux et réflexions du moment, les tendances à venir.
