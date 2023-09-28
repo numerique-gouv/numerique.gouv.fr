@@ -14,9 +14,9 @@ une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20Agora.png"
 files:
 - file: "/uploads/CP_Lancement_Agora_application_dialogue%20direct%20citoyens%20et%20Gouvernement_28%20septembre%202023.pdf"
-  nom: 'Téléchargez le communiqué de presse '
+  nom: 'Télécharger le communiqué de presse '
 - file: "/uploads/Dossier%20de%20presse_Agora_Construire%20avec%20vous%20les%20d%C3%A9cisions%20de%20demain_28%20septembre%202023.pdf"
-  nom: 'Téléchargez le dossier de presse '
+  nom: 'Télécharger le dossier de presse '
 ---
 
 **La DITP et la DINUM mobilisées pour assurer la mise en œuvre d’Agora :**
