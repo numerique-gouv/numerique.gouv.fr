@@ -13,6 +13,11 @@ chapeau-text: |-
   **Source : Inspection générale des finances - Conseil général de l’économie. **Source : DGAFP.*
 une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20ADA-335162.png"
+  alternative-textuelle: |-
+    Place des femmes dans la Tech :
+    LANCEMENT de la nouvelle promotion du programme ADA
+    8 septembre 2023
+    9h - 11h
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/place-des-femmes-dans-la-tech-letat-lance-aujourdhui-la-nouvelle-promotion-du-programme-ada-daccompagnement-au-developpement-professionnel-des-agentes-du-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
