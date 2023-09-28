@@ -17,7 +17,8 @@ Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer d
 
 #### 8 expertises clés
 
-![Infographie_admin_proactive.png](/uploads/Infographie_admin_proactive.png)
+![Infographie_administration_proactive.png](/uploads/Infographie_administration_proactive.png)
+
 
 Retrouver les liens de l'infographie :
 * [Guide en ligne
