@@ -14,11 +14,6 @@ chapeau-text: |-
   Pour rendre son action plus efficace, plus simple et plus souveraine, l’État s’appuie sur la puissance offerte par le numérique : qu’il s’agisse par exemple de dématérialisation permettant de faciliter les démarches des usagers les plus à l’aise avec le numérique et libérer du temps aux agents publics pour mieux accompagner les citoyens les plus isolés du numérique ou encore d’expérimenter l’utilisation d’outils d’intelligence artificielle pour améliorer la qualité des réponses apportées aux usagers.
 une-ou-diaporama:
 - image: "/uploads/CPPPGG.png"
-  alternative-textuelle: "Le numérique, un accélérateur des politiques prioritaires
-    du gouvernement\nEvénement Organisé par l'incubateur beta.gouv.fr de la DINUM\nAnnonce
-    des 10 Startups d’État lauréates du fonds d’accélération des Startups d’État et
-    de territoires (FAST) n°13 :\nA-Just\nEnvergo\nAnnuaire des collectivités\nRéfugiés.info\nDataSubvention\nDocurba
-    \nDossierFacile\nMa Cantine\nMano\nMobilic"
 files:
 - file: "/uploads/CP_BETA.GOUV.FR_PPG_ETAT_SOUTIENT_DECIDEURS_PUBLICS_INVESTIT_VIA_FAST-28404b.pdf"
   nom: Télécharger le communiqué de presse
