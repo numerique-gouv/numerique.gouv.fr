@@ -96,9 +96,27 @@ Le tableau ci-dessous détaille les cookies de ce type qui peuvent être dépos�
         </tr>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
-            <td headers="cookies-mesure data2">piwik_ignore</td>
-            <td headers="cookies-mesure data3">Permet de mémoriser votre choix d'ignorer la mesure d'audience via Matomo</td>
-            <td headers="cookies-mesure data4">2 ans</td>
+            <td headers="cookies-mesure data2">_pk_ref#</td>
+            <td headers="cookies-mesure data3">utilisé pour stocker les informations d’attribution, le référent initialement utilisé pour visiter le site Web</td>
+            <td headers="cookies-mesure data4">6 mois</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">matomo_sessid</td>
+            <td headers="cookies-mesure data3">Il ne contient aucune donnée utilisée pour identifier les visiteurs, il est considéré comme un cookie essentiel par Matomo</td>
+            <td headers="cookies-mesure data4">14 jours</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">mtm_consent et mtm_consent_removed</td>
+            <td headers="cookies-mesure data3">Permet de mémoriser si vous avez donné (ou retiré) le consentement</td>
+            <td headers="cookies-mesure data4">30 ans</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">matomo_ignore</td>
+            <td headers="cookies-mesure data3">Permet de mémoriser votre choix d’ignorer la mesure d’audience via Matomo</td>
+            <td headers="cookies-mesure data4">30 ans</td>
         </tr>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
@@ -109,9 +127,9 @@ Le tableau ci-dessous détaille les cookies de ce type qui peuvent être dépos�
     </tbody>
 </table>
 
-Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
+Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo :
 
-* Matomo : <br/>
+* Matomo : <br/>
   <iframe style="border: 0; height: 150px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
 #### Cookies tiers, destinés à fournir des contenus du site
