@@ -28,7 +28,7 @@ Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](
 
 <h1 class="h2">Notre organisation</h1>
 
-La DINUM comprend six départements et trois missions :
+La DINUM comprend six départements et quatre missions :
 
 <ul><li>le département « Appui, conseil et expertise&nbsp;»</li> 
 <li>le département « Incubateur de services numériques&nbsp;»</li> 
