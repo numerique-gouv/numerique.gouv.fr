@@ -51,7 +51,7 @@ Le guichet est ouvert aux :
 </ul>
 <p>Le guichet pourra en complément financer le commando UX de la DINUM. </p>      
 <h3>Taille attendue des projets :</h3>
-<p>Entre 25 000 € et 100 000€ TTC</p>
+<p>Entre 50 000 € et 100 000€ TTC</p>
 
 <h3>Les projets privilégiés</h3>
 <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
