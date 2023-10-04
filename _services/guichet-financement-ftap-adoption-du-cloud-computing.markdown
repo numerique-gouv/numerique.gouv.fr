@@ -128,7 +128,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 
 
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
-<p>Entre 50 000 € et 1,5 M€ TTC</p> 
+<p>Entre 25 000 € et 1,5 M€ TTC</p> 
 
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
 <p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
