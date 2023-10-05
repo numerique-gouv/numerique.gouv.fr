@@ -39,8 +39,9 @@ réfléchir aux transformations induites et profiter pleinement de ses apports.*
 
 L’Etat renforce ses compétences dans le numérique. Stanislas GUERINI a entamé, avec
 l’ensemble du Gouvernement, un chantier de réarmement de la filière numérique de l’Etat. Dès l’année prochaine, 500 postes seront créés dans les métiers du numérique afin de retrouver des moyens d’action. Ce seront autant de data scientists, chefs de produits, de designer, de spécialistes de l’intelligence artificielle. Ce sont les compétences structurantes de demain. Dès cette année, l’ensemble des directeurs d’administration bénéficieront d’une formation aux enjeux de la transformation numérique.
+<br>
+<br>
 
-
-Service presse de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques
-Tel. : 01 53 18 42 68 / 42 76
-Mél. : presse.mtfp@transformation.gouv.fr
+<p>Service presse de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques</p>
+<p>Tel. : 01 53 18 42 68 / 42 76</p>
+<p>Mél. : [presse.mtfp@transformation.gouv.fr](presse.mtfp@transformation.gouv.fr)</p>
