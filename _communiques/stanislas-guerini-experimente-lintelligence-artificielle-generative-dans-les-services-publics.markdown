@@ -44,4 +44,4 @@ l’ensemble du Gouvernement, un chantier de réarmement de la filière numériq
 
 <p>Service presse de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques</p>
 <p>Tel. : 01 53 18 42 68 / 42 76</p>
-<p>Mél. : <a href= "presse.mtfp@transformation.gouv.fr" title="presse.mtfp@transformation.gouv.fr"></a></p>
+<p>Mél. : presse.mtfp@transformation.gouv.fr</p>
