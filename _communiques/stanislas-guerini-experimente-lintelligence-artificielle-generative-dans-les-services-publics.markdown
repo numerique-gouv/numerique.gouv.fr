@@ -15,7 +15,7 @@ Contact-presse:
   tel: 01 53 18 42 68 / 42 76
   email: presse.mtfp@transformation.gouv.fr
 files:
-- file: "/uploads/Communiqu%C3%A9%20de%20presse%20-%20Stanislas%20GUERINI%20exp%C3%A9rimente%20l%E2%80%99intelligence%20artificielle%20g%C3%A9n%C3%A9rative%20dans%20les%20services%20publics.pdf"
+- file: "/uploads/CP_Stanislas_GUERINI_experimente_l-IA_generative_dans_les_services_publics.pdf"
   nom: Lire le communiqué de presse
 ---
 
