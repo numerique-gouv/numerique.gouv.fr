@@ -14,11 +14,6 @@ contact-presse:
     Fonction publiques
   tel: 01 53 18 42 68 / 42 76
   email: presse.mtfp@transformation.gouv.fr
-contact-presse2:
-  name: Service presse de Stanislas GUERINI, ministre de la Transformation et de la
-    Fonction publiques
-  tel: 01 53 18 42 68 / 42 76
-  email: presse.mtfp@transformation.gouv.fr
 files:
 - file: "/uploads/CP_Stanislas_GUERINI_experimente_l-IA_generative_dans_les_services_publics.pdf"
   nom: Télécharger le communiqué de presse
