@@ -38,7 +38,6 @@ $("#contact-form").validate(
       var errors = validator.numberOfInvalids();
       if (errors) {
         validator.errorList.forEach(function(item){
-          console.log(item)
           let element = $(item.element)
           element.attr('aria-invalid', 'true')
           element.css('border-color', '#af0202')
