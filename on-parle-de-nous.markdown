@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.itforbusiness.fr/quand-15-regles-precisent-la-doctrine-cloud-au-centre-de-letat-64435" title="Quand 15 règles précisent la doctrine «cloud au centre» de l’État - Lien externe"> Quand 15 règles précisent la doctrine «cloud au centre» de l’État</a></titre>
+<date>22 juin 2023</date>
+<media> IT for Business </media>
+
 <titre><a href="https://www.rtl.fr/actu/sciences-tech/le-gouvernement-lance-rdv-service-public-pour-avoir-son-propre-doctolib-des-demarches-administratives-7900275036" title="Le gouvernement lance "RDV Service Public" pour avoir son propre Doctolib des démarches administratives - Lien externe"> Le gouvernement lance "RDV Service Public" pour avoir son propre Doctolib des démarches administratives</a></titre>
 <date>15 juin 2023</date>
 <media> RTL </media>
