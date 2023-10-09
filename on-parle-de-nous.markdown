@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.20minutes.fr/high-tech/4051892-20230906-lutter-contre-arnaques-adresse-75-sites-gouvernement-harmonisee-2026" title="L’adresse de 75 sites du gouvernement harmonisée d’ici à 2026 pour lutter contre les arnaques - Lien externe"> L’adresse de 75 sites du gouvernement harmonisée d’ici à 2026 pour lutter contre les arnaques</a></titre>
+<date>06 septembre 2023</date>
+<media> 20 minutes </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/audran-le-baron-education-nationale-notre-cap-pour-les-quatre-prochaines-annees-est-fixe.html" title="Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé » - Lien externe"> Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé »</a></titre>
 <date>1 septembre 2023</date>
 <media> Républik IT </media>
