@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-avec-le-numerique-on-peut-changer-la-vie-des-gens.html" title="Stéphanie Schaer (DINUM) : « avec le numérique, on peut changer la vie des gens » - Lien externe"> Stéphanie Schaer (DINUM) : « avec le numérique, on peut changer la vie des gens »</a></titre>
+<date>05 juin 2023</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.cio-online.com/actualites/lire-la-dinum-se-remplume-14973.html" title="La Dinum se remplume » - Lien externe"> La Dinum se remplume »</a></titre>
 <date>05 juin 2023</date>
 <media> CIO </media>
