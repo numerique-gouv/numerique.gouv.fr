@@ -27,7 +27,7 @@ layout: page-annexe
 <date>05 octobre 2023</date>
 <media> LA CROIX </media>
 
-<titre><a href="https://www.alliancy.fr/iag-services-publics-dinum-modele-souverain-open-source" title="L’IAG et les services publics : la Dinum à la manœuvre pour créer un modèle souverain et open-source - Lien externe"> L’IAG et les services publics : la Dinum à la manœuvre pour créer un modèle souverain et open-source</a></titre>
+<titre><a href="https://www.alliancy.fr/iag-services-publics-dinum-modele-souverain-open-source" title="L’IAG et les services publics : la DINUM à la manœuvre pour créer un modèle souverain et open-source - Lien externe"> L’IAG et les services publics : la DINUM à la manœuvre pour créer un modèle souverain et open-source</a></titre>
 <date>05 octobre 2023</date>
 <media> Alliancy </media>
 
