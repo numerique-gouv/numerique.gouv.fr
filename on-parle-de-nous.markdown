@@ -115,7 +115,7 @@ layout: page-annexe
 <date>15 juin 2023</date>
 <media> RTL </media>
 
-<titre><a href="https://www.lexpress.fr/economie/high-tech/stanislas-guerini-il-nous-faut-un-doctolib-des-services-publics-NG2HAUMRRFDIDG4JSJIJ6NITM4/" title=Stanislas Guerini : « Il nous faut un Doctolib des services publics » - Lien externe"> Stanislas Guerini : « Il nous faut un Doctolib des services publics »</a></titre>
+<titre><a href="https://www.lexpress.fr/economie/high-tech/stanislas-guerini-il-nous-faut-un-doctolib-des-services-publics-NG2HAUMRRFDIDG4JSJIJ6NITM4/" title="Stanislas Guerini : « Il nous faut un Doctolib des services publics » - Lien externe"> Stanislas Guerini : « Il nous faut un Doctolib des services publics »</a></titre>
 <date>15 juin 2023</date>
 <media> L'EXPRESS </media>
 
