@@ -11,7 +11,7 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.maddyness.com/2023/09/18/letat-pousse-ses-intrapreneurs-avec-laccompagnement-de-10-nouvelles-startups-au-sein-de-fast/" title="L’Etat pousse ses intrapreneurs avec l’accompagnement de 10 nouvelles startups au sein du Fast</a></titre>
+<titre><a href="https://www.maddyness.com/2023/09/18/letat-pousse-ses-intrapreneurs-avec-laccompagnement-de-10-nouvelles-startups-au-sein-de-fast/" title="L’État pousse ses intrapreneurs avec l’accompagnement de 10 nouvelles startups au sein du Fast</a></titre>
 <date>21 septembre 2023</date>
 <media> Maddyness </media>
 
