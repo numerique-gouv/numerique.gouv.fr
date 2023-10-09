@@ -68,7 +68,28 @@ Des ateliers, pitchs, retex et masterclass sont prévus !
 
 Pour cette première journée ouverte à tous, deux lieux vous sont proposés à savoir, l'Hôtel de Ville de Bordeaux et le Palais de la Bourse de Bordeaux.
 
-À retrouver lors de l’événement des équipes de la DINUM telles que :
+**9h30-11h : Découvrir la méthode Beta.gouv pour développer vos services numériques**
+<br>Atelier | DONNÉES ET TERRITOIRES
+<br>*Animé par Benjamin DOBERSET, membre de la communauté [Beta.gouv.fr](https://beta.gouv.fr/)*
+
+**13h45-15h15 : Carte blanche à Valérie Peugeot : les communs numériques, un levier pour lier l’action publique globale et locale**
+<br>Masterclass | COMMUNS ET SOUVERAINETÉ
+
+**17h-17h45 : Comment les données peuvent être mises au service d’un accompagnement des usagers, en insertion ?**
+<br>Retex | DONNÉES ET TERRITOIRES
+<br>*Avec Claire CASUBOLO, chargée de partenariats pour [data.insertion](https://www.rdv-insertion.fr/) et Amaury DUBOT, chargé de déploiement pour [beta.gouv.fr](https://beta.gouv.fr/).*
+
+
+#### Programme « IN » du vendredi 20/10/23 :
+Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
+
+**10h45-12h15 : Avec le Défenseur des droits, rédiger un guide des médiateurs numériques pour une dématérialisation inclusive**
+<br>Atelier | MÉDIATION ET COMPÉTENCES NUMÉRIQUES
+<br>*Animé par Hugo STEPHAN, designer de services publics pour [Réfugiés.info](https://refugies.info/fr) et Daniel AGACINSKI, délégué général à la médiation, directeur de l’action territoriale pour le [Défenseur des droits](https://www.defenseurdesdroits.fr/).*
+<br>
+<br>
+
+### À retrouver lors de l’événement des équipes de la DINUM telles que :
 * [L’Accélérateur d’initiatives citoyennes (AIC)](https://citoyens.transformation.gouv.fr/) et ses lauréats : [Umap](https://umap.openstreetmap.fr/en/) et [Pyronear](https://pyronear.org/) 
 * [La mission logiciels libres](https://code.gouv.fr/fr/)
 * L’incubateur de services numériques de la DINUM [beta.gouv.fr](https://beta.gouv.fr/)
@@ -76,10 +97,8 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 <br>
 <br>
 
-#### Programme « IN » du vendredi 20/10/23 :
-Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
 
-Cet événement se clôturera par un cocktail (le soir, inscription obligatoire).
+Numérique en Commun[s] se clôturera par un cocktail (le soir, inscription obligatoire).
 <br>
 <br>
 
