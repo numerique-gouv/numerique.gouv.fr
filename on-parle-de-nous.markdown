@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.finyear.com/Viva-Technology-l-Etat-francais-presente-pour-la-premiere-fois-un-pavillon-du-numerique-de-l-Etat_a49555.html" title="Viva Technology : l'État français présente pour la première fois un pavillon du numérique de l'État. - Lien externe"> Viva Technology : l'État français présente pour la première fois un pavillon du numérique de l'État.</a></titre>
+<date>13 juin 2023</date>
+<media> Finyear </media>
+
 <titre><a href="https://www.cio-online.com/actualites/lire-suite-collaborative-souveraine-le-discours-de-la-methode-de-la-dinum-14978.html" title="Suite collaborative souveraine : le discours de la méthode de la DINUM - Lien externe"> Suite collaborative souveraine : le discours de la méthode de la DINUM</a></titre>
 <date>06 juin 2023</date>
 <media> CIO </media>
@@ -55,7 +59,7 @@ layout: page-annexe
 <date>05 juin 2023</date>
 <media> Républik IT </media>
 
-<titre><a href="https://www.cio-online.com/actualites/lire-la-dinum-se-remplume-14973.html" title="La Dinum se remplume - Lien externe"> La Dinum se remplume</a></titre>
+<titre><a href="https://www.cio-online.com/actualites/lire-la-dinum-se-remplume-14973.html" title="La DINUM se remplume - Lien externe"> La DINUM se remplume</a></titre>
 <date>05 juin 2023</date>
 <media> CIO </media>
 
