@@ -47,6 +47,12 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+
+
+<titre><a href="https://www.eplaque.fr/infos/france-connect-plus-carte-grise" title="FranceConnect + : de quoi s’agit-il ? Utile pour faire une carte grise ? - Lien externe"> FranceConnect + : de quoi s’agit-il ? Utile pour faire une carte grise ?</a></titre>
+<date>14 juillet 2023</date>
+<media> Eplaque </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/la-grh-de-la-filiere-numerique-de-l-etat-confiee-a-cornelia-findeisen.html" title="La GRH de la filière numérique de l’État confiée à Cornélia Findeisen - Lien externe"> La GRH de la filière numérique de l’État confiée à Cornélia Findeisen</a></titre>
 <date>07 juillet 2023</date>
 <media> Républik IT </media>
