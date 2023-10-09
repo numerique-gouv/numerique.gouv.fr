@@ -47,7 +47,9 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
-
+<titre><a href="https://www.banquedesterritoires.fr/la-dinum-detaille-sa-feuille-de-route-pour-les-formalites-essentielles-dici-2026" title="La DINUM détaille sa feuille de route pour les formalités essentielles d'ici 2026 - Lien externe"> La DINUM détaille sa feuille de route pour les formalités essentielles d'ici 2026</a></titre>
+<date>19 juillet 2023</date>
+<media> Banque des Territoires </media>
 
 <titre><a href="https://www.eplaque.fr/infos/france-connect-plus-carte-grise" title="FranceConnect + : de quoi s’agit-il ? Utile pour faire une carte grise ? - Lien externe"> FranceConnect + : de quoi s’agit-il ? Utile pour faire une carte grise ?</a></titre>
 <date>14 juillet 2023</date>
