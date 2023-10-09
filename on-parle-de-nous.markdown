@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.tomsguide.fr/fini-les-galeres-et-les-cerfa-ladministration-francaise-met-le-paquet-sur-lintelligence-artificielle/" title="ChatGPT : l’Administration française opte pour l’IA pour faciliter les échanges, à quoi s’attendre ? - Lien externe"> ChatGPT : l’Administration française opte pour l’IA pour faciliter les échanges, à quoi s’attendre ?</a></titre>
+<date>17 août 2023</date>
+<media> tom's guide </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/faire-du-numerique-un-levier-pour-l-efficacite-de-l-etat.html" title="Faire du numérique un levier pour l’efficacité de l’État - Lien externe"> Faire du numérique un levier pour l’efficacité de l’État</a></titre>
 <date>21 juillet 2023</date>
 <media> Républik IT </media>
