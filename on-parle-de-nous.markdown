@@ -59,6 +59,10 @@ layout: page-annexe
 <date>05 juin 2023</date>
 <media> CIO </media>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/le-dites-le-nous-une-seule-fois-devient-la-regle.html" title="Le « Dites le nous une seule fois » devient la règle - Lien externe"> Le « Dites le nous une seule fois » devient la règle</a></titre>
+<date>15 Mai 2023</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.cio-online.com/actualites/lire-stephanie-schaer-directrice-interministerielle-du-numerique--etre-a-la-fois-une-tour-de-controle-et-un-animateur-de-communaute-14909.html" title="Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté » - Lien externe"> Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté »</a></titre>
 <date>03 Mai 2023</date>
 <media> CIO </media>
