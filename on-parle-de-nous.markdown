@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/rh/management/cornelia-findeisen-dinum-vous-pouvez-faire-carriere-dans-le-numerique-d-etat.html" title="Cornélia Findeisen (DINUM) : « vous pouvez faire carrière dans le numérique d’Etat » - Lien externe"> Cornélia Findeisen (DINUM) : « vous pouvez faire carrière dans le numérique d’Etat »</a></titre>
+<date>06 octobre 2023</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/l-etat-experimente-l-iag-pour-aider-les-agents-a-mieux-interagir-avec-les-citoyens.html" title="L’État expérimente l’IAG pour aider les agents à mieux interagir avec les citoyens - Lien externe"> L’État expérimente l’IAG pour aider les agents à mieux interagir avec les citoyens</a></titre>
 <date>05 octobre 2023</date>
 <media> Républik IT </media>
