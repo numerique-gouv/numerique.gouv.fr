@@ -51,6 +51,10 @@ layout: page-annexe
 <date>06 septembre 2023</date>
 <media> 20 minutes </media>
 
+<titre><a href="https://www.economiematin.fr/harmonisation-numerique-sites-officiels-gouvfr" title="Numérique : l’extension .gouv.fr bientôt pour tous les sites officiels - Lien externe"> Numérique : l’extension .gouv.fr bientôt pour tous les sites officiels</a></titre>
+<date>07 septembre 2023</date>
+<media> Économie Matin </media>
+
 <titre><a href="https://www.leparisien.fr/economie/arnaques-en-ligne-lusage-du-gouvfr-va-etre-etendu-a-75-sites-administratifs-05-09-2023-FXQDLCJ7RVDHXGUCYR4FGDDZRM.php" title="Arnaques en ligne : l’usage du « gouv.fr » va être étendu à 75 sites administratifs - Lien externe"> Arnaques en ligne : l’usage du « gouv.fr » va être étendu à 75 sites administratifs</a></titre>
 <date>05 septembre 2023</date>
 <media> Le Parisien </media>
