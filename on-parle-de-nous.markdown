@@ -27,7 +27,7 @@ layout: page-annexe
 <date>18 septembre 2023</date>
 <media> Maddyness </media>
 
-<titre><a href="https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html" title="Les Communs Numériques, outils pour accroître la performance du service public - Lien externe"> Les Communs Numériques, outils pour accroître la performance du service public</a></titre></a></titre>
+<titre><a href="https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html" title="Les Communs Numériques, outils pour accroître la performance du service public - Lien externe"> Les Communs Numériques, outils pour accroître la performance du service public</a></titre>
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
