@@ -47,7 +47,11 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
-<titre><a href="https://www.archimag.com/vie-numerique/2023/06/14/viva-technology-2023-etat-force-recruter-professionnels-numerique" title="VivaTechnology 2023 : l'Etat en force pour recruter des professionnels du numérique - Lien externe"> VivaTechnology 2023 : l'Etat en force pour recruter des professionnels du numérique</a></titre>
+<titre><a href="https://www.lexpress.fr/economie/high-tech/stanislas-guerini-il-nous-faut-un-doctolib-des-services-publics-NG2HAUMRRFDIDG4JSJIJ6NITM4/" title="Stanislas Guerini : "Il nous faut un Doctolib des services publics" - Lien externe"> Stanislas Guerini : "Il nous faut un Doctolib des services publics"</a></titre>
+<date>14 juin 2023</date>
+<media> L'EXPRESS </media>
+
+<titre><a href="https://www.archimag.com/vie-numerique/2023/06/14/viva-technology-2023-etat-force-recruter-professionnels-numerique" title="VivaTechnology 2023 : l'État en force pour recruter des professionnels du numérique - Lien externe"> VivaTechnology 2023 : l'État en force pour recruter des professionnels du numérique</a></titre>
 <date>14 juin 2023</date>
 <media> Archimag </media>
 
