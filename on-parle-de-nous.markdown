@@ -51,6 +51,10 @@ layout: page-annexe
 <date>06 septembre 2023</date>
 <media> 20 minutes </media>
 
+<titre><a href="https://www.leparisien.fr/economie/arnaques-en-ligne-lusage-du-gouvfr-va-etre-etendu-a-75-sites-administratifs-05-09-2023-FXQDLCJ7RVDHXGUCYR4FGDDZRM.php" title="Arnaques en ligne : l’usage du « gouv.fr » va être étendu à 75 sites administratifs - Lien externe"> Arnaques en ligne : l’usage du « gouv.fr » va être étendu à 75 sites administratifs</a></titre>
+<date>05 septembre 2023</date>
+<media> Le Parisien </media>
+
 <titre><a href="https://www.francetvinfo.fr/internet/securite-sur-internet/lutte-contre-les-arnaques-pour-dissiper-le-doute-le-gouvernement-va-harmoniser-l-adresse-de-75-sites-officiels-d-ici-a-2026_6045014.html" title="Lutte contre les arnaques : le gouvernement va harmoniser l'adresse de 75 sites officiels d'ici à 2026 pour dissiper les doutes sur les faux services publics - Lien externe"> Lutte contre les arnaques : le gouvernement va harmoniser l'adresse de 75 sites officiels d'ici à 2026 pour dissiper les doutes sur les faux services publics</a></titre>
 <date>05 septembre 2023</date>
 <media> franceinfo </media>
