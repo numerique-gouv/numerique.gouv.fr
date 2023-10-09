@@ -31,6 +31,10 @@ layout: page-annexe
 <date>05 octobre 2023</date>
 <media> Alliancy </media>
 
+<titre><a href="https://www.zdnet.fr/actualites/data-mobilite-et-environnement-la-dinum-finance-10-startups-d-tat-39961388.htm#xtor=RSS-1" title="Data, mobilité et environnement : la DINUM finance 10 startups d’État - Lien externe"> Data, mobilité et environnement : la DINUM finance 10 startups d’État</a></titre>
+<date>20 septembre 2023</date>
+<media> ZDNet </media>
+
 <titre><a href="https://www.alliancy.fr/politiques-prioritaires-gouvernement-dinum-manoeuvre" title="Politiques prioritaires du Gouvernement : la DINUM à la manœuvre - Lien externe"> Politiques prioritaires du Gouvernement : la DINUM à la manœuvre</a></titre>
 <date>20 septembre 2023</date>
 <media> Alliancy </media>
