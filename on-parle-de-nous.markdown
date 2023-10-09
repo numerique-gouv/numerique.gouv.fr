@@ -47,6 +47,14 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/la-grh-de-la-filiere-numerique-de-l-etat-confiee-a-cornelia-findeisen.html" title="La GRH de la filière numérique de l’État confiée à Cornélia Findeisen - Lien externe"> La GRH de la filière numérique de l’État confiée à Cornélia Findeisen</a></titre>
+<date>07 juillet 2023</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.silicon.fr/comment-ue-percoit-open-source-france-469390.html" title="Comment l’UE perçoit l’open source en France - Lien externe"> Comment l’UE perçoit l’open source en France</a></titre>
+<date>06 juillet 2023</date>
+<media> Silicon </media>
+
 <titre><a href="https://www.banquedesterritoires.fr/letat-enrichit-son-catalogue-de-connecteurs-de-donnees-pour-simplifier-les-formalites" title="L'État enrichit son catalogue de connecteurs de données pour simplifier les formalités - Lien externe"> L'État enrichit son catalogue de connecteurs de données pour simplifier les formalités</a></titre>
 <date>04 juillet 2023</date>
 <media> Banque des Territoires </media>
