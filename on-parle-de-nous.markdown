@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/faire-du-numerique-un-levier-pour-l-efficacite-de-l-etat.html" title="Faire du numérique un levier pour l’efficacité de l’État - Lien externe"> Faire du numérique un levier pour l’efficacité de l’État</a></titre>
+<date>21 juillet 2023</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.banquedesterritoires.fr/la-dinum-detaille-sa-feuille-de-route-pour-les-formalites-essentielles-dici-2026" title="La DINUM détaille sa feuille de route pour les formalités essentielles d'ici 2026 - Lien externe"> La DINUM détaille sa feuille de route pour les formalités essentielles d'ici 2026</a></titre>
 <date>19 juillet 2023</date>
 <media> Banque des Territoires </media>
@@ -71,11 +75,11 @@ layout: page-annexe
 <date>22 juin 2023</date>
 <media> IT for Business </media>
 
-<titre><a href="https://www.rtl.fr/actu/sciences-tech/le-gouvernement-lance-rdv-service-public-pour-avoir-son-propre-doctolib-des-demarches-administratives-7900275036" title="Le gouvernement lance "RDV Service Public" pour avoir son propre Doctolib des démarches administratives - Lien externe"> Le gouvernement lance "RDV Service Public" pour avoir son propre Doctolib des démarches administratives</a></titre>
+<titre><a href="https://www.rtl.fr/actu/sciences-tech/le-gouvernement-lance-rdv-service-public-pour-avoir-son-propre-doctolib-des-demarches-administratives-7900275036" title="Le gouvernement lance « RDV Service Public » pour avoir son propre Doctolib des démarches administratives - Lien externe"> Le gouvernement lance « RDV Service Public » pour avoir son propre Doctolib des démarches administratives</a></titre>
 <date>15 juin 2023</date>
 <media> RTL </media>
 
-<titre><a href="https://www.lexpress.fr/economie/high-tech/stanislas-guerini-il-nous-faut-un-doctolib-des-services-publics-NG2HAUMRRFDIDG4JSJIJ6NITM4/" title="Stanislas Guerini : "Il nous faut un Doctolib des services publics" - Lien externe"> Stanislas Guerini : "Il nous faut un Doctolib des services publics"</a></titre>
+<titre><a href="https://www.lexpress.fr/economie/high-tech/stanislas-guerini-il-nous-faut-un-doctolib-des-services-publics-NG2HAUMRRFDIDG4JSJIJ6NITM4/" title=Stanislas Guerini : « Il nous faut un Doctolib des services publics » - Lien externe"> Stanislas Guerini : « Il nous faut un Doctolib des services publics »</a></titre>
 <date>15 juin 2023</date>
 <media> L'EXPRESS </media>
 
