@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.banquedesterritoires.fr/letat-enrichit-son-catalogue-de-connecteurs-de-donnees-pour-simplifier-les-formalites" title="L'État enrichit son catalogue de connecteurs de données pour simplifier les formalités - Lien externe"> L'État enrichit son catalogue de connecteurs de données pour simplifier les formalités</a></titre>
+<date>04 juillet 2023</date>
+<media> Banque des Territoires </media>
+
 <titre><a href="https://www.itforbusiness.fr/quand-15-regles-precisent-la-doctrine-cloud-au-centre-de-letat-64435" title="Quand 15 règles précisent la doctrine «cloud au centre» de l’État - Lien externe"> Quand 15 règles précisent la doctrine «cloud au centre» de l’État</a></titre>
 <date>22 juin 2023</date>
 <media> IT for Business </media>
