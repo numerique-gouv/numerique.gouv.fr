@@ -39,9 +39,17 @@ layout: page-annexe
 <date>19 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.usine-digitale.fr/article/l-administration-francaise-veut-encourager-le-developpement-des-start-up-d-etat.N2172312" title="L'administration française veut encourager le développement des « start-up d'État » - Lien externe"> L'administration française veut encourager le développement des « start-up d'État »</a></titre>
+<date>19 septembre 2023</date>
+<media> L'USINE DIGITALE </media>
+
 <titre><a href="https://www.maddyness.com/2023/09/18/letat-pousse-ses-intrapreneurs-avec-laccompagnement-de-10-nouvelles-startups-au-sein-de-fast/" title="L’État pousse ses intrapreneurs avec l’accompagnement de 10 nouvelles startups au sein du Fast - Lien externe"> L’État pousse ses intrapreneurs avec l’accompagnement de 10 nouvelles startups au sein du Fast</a></titre>
 <date>18 septembre 2023</date>
 <media> Maddyness </media>
+
+<titre><a href="https://www.republik-it.fr/rh/management/feminisation-et-inclusion-dans-les-priorites-du-numerique-d-etat.html" title="Féminisation et inclusion dans les priorités du numérique d’État - Lien externe"> Féminisation et inclusion dans les priorités du numérique d’État</a></titre>
+<date>14 septembre 2023</date>
+<media> Républik IT </media>
 
 <titre><a href="https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html" title="Les Communs Numériques, outils pour accroître la performance du service public - Lien externe"> Les Communs Numériques, outils pour accroître la performance du service public</a></titre>
 <date>12 septembre 2023</date>
