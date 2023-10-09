@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/audran-le-baron-education-nationale-notre-cap-pour-les-quatre-prochaines-annees-est-fixe.html" title="Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé » - Lien externe"> Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé »</a></titre>
+<date>1 septembre 2023</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.tomsguide.fr/fini-les-galeres-et-les-cerfa-ladministration-francaise-met-le-paquet-sur-lintelligence-artificielle/" title="ChatGPT : l’Administration française opte pour l’IA pour faciliter les échanges, à quoi s’attendre ? - Lien externe"> ChatGPT : l’Administration française opte pour l’IA pour faciliter les échanges, à quoi s’attendre ?</a></titre>
 <date>17 août 2023</date>
 <media> tom's guide </media>
