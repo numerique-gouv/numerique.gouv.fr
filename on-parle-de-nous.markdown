@@ -11,8 +11,20 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.alliancy.fr/politiques-prioritaires-gouvernement-dinum-manoeuvre" title="Politiques prioritaires du Gouvernement : la DINUM à la manœuvre - Lien externe"> Politiques prioritaires du Gouvernement : la DINUM à la manœuvre</a></titre>
-<date>20 septembre 2023</date>
+<titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/l-etat-experimente-l-iag-pour-aider-les-agents-a-mieux-interagir-avec-les-citoyens.html" title="L’État expérimente l’IAG pour aider les agents à mieux interagir avec les citoyens - Lien externe"> L’État expérimente l’IAG pour aider les agents à mieux interagir avec les citoyens</a></titre>
+<date>05 octobre 2023</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.maddyness.com/2023/10/05/le-gouvernement-planche-sur-albert-une-intelligence-artificielle-maison/" title="Le gouvernement planche sur “Albert”, une intelligence artificielle maison - Lien externe"> Le gouvernement planche sur “Albert”, une intelligence artificielle maison</a></titre>
+<date>05 octobre 2023</date>
+<media> Maddyness </media>
+
+<titre><a href="https://www.la-croix.com/france/Intelligence-artificielle-experimentation-fonction-publique-2023-10-05-1201285626" title="Intelligence artificielle : une expérimentation dans la fonction publique - Lien externe"> Intelligence artificielle : une expérimentation dans la fonction publique</a></titre>
+<date>05 octobre 2023</date>
+<media> LA CROIX </media>
+
+<titre><a href="https://www.alliancy.fr/iag-services-publics-dinum-modele-souverain-open-source" title="L’IAG et les services publics : la Dinum à la manœuvre pour créer un modèle souverain et open-source - Lien externe"> L’IAG et les services publics : la Dinum à la manœuvre pour créer un modèle souverain et open-source</a></titre>
+<date>05 octobre 2023</date>
 <media> Alliancy </media>
 
 <titre><a href="https://www.alliancy.fr/politiques-prioritaires-gouvernement-dinum-manoeuvre" title="Politiques prioritaires du Gouvernement : la DINUM à la manœuvre - Lien externe"> Politiques prioritaires du Gouvernement : la DINUM à la manœuvre</a></titre>
