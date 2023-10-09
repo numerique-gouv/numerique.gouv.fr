@@ -11,7 +11,11 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.cio-online.com/actualites/lire-suite-collaborative-souveraine-le-discours-de-la-methode-de-la-dinum-14978.html" title="Suite collaborative souveraine : le discours de la méthode de la Dinum - Lien externe"> Suite collaborative souveraine : le discours de la méthode de la Dinum</a></titre>
+<titre><a href="https://www.republik-it.fr/decideurs-it/achat-it/les-communs-numeriques-outils-pour-accroitre-la-performance-du-service-public.html" title="Les Communs Numériques, outils pour accroître la performance du service public</a></titre>
+<date>12 septembre 2023</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.cio-online.com/actualites/lire-suite-collaborative-souveraine-le-discours-de-la-methode-de-la-dinum-14978.html" title="Suite collaborative souveraine : le discours de la méthode de la DINUM - Lien externe"> Suite collaborative souveraine : le discours de la méthode de la DINUM</a></titre>
 <date>06 juin 2023</date>
 <media> CIO </media>
 
@@ -19,7 +23,7 @@ layout: page-annexe
 <date>05 juin 2023</date>
 <media> Républik IT </media>
 
-<titre><a href="https://www.cio-online.com/actualites/lire-la-dinum-se-remplume-14973.html" title="La Dinum se remplume » - Lien externe"> La Dinum se remplume »</a></titre>
+<titre><a href="https://www.cio-online.com/actualites/lire-la-dinum-se-remplume-14973.html" title="La Dinum se remplume - Lien externe"> La Dinum se remplume</a></titre>
 <date>05 juin 2023</date>
 <media> CIO </media>
 
