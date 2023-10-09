@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.solutions-numeriques.com/lecole-ldlc-passe-a-la-semaine-de-4-jours/" title="Place des femmes dans le numérique public : l’État lance la nouvelle promotion de son programme d’accompagnement au développement professionnel - Lien externe"> Place des femmes dans le numérique public : l’État lance la nouvelle promotion de son programme d’accompagnement au développement professionnel</a></titre>
+<date>08 septembre 2023</date>
+<media> Solutions numériques </media>
+
 <titre><a href="https://www.20minutes.fr/high-tech/4051892-20230906-lutter-contre-arnaques-adresse-75-sites-gouvernement-harmonisee-2026" title="L’adresse de 75 sites du gouvernement harmonisée d’ici à 2026 pour lutter contre les arnaques - Lien externe"> L’adresse de 75 sites du gouvernement harmonisée d’ici à 2026 pour lutter contre les arnaques</a></titre>
 <date>06 septembre 2023</date>
 <media> 20 minutes </media>
