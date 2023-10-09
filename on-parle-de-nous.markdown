@@ -47,6 +47,10 @@ layout: page-annexe
 <date>12 septembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://www.archimag.com/vie-numerique/2023/06/14/viva-technology-2023-etat-force-recruter-professionnels-numerique" title="VivaTechnology 2023 : l'Etat en force pour recruter des professionnels du numérique - Lien externe"> VivaTechnology 2023 : l'Etat en force pour recruter des professionnels du numérique</a></titre>
+<date>14 juin 2023</date>
+<media> Archimag </media>
+
 <titre><a href="https://www.finyear.com/Viva-Technology-l-Etat-francais-presente-pour-la-premiere-fois-un-pavillon-du-numerique-de-l-Etat_a49555.html" title="Viva Technology : l'État français présente pour la première fois un pavillon du numérique de l'État. - Lien externe"> Viva Technology : l'État français présente pour la première fois un pavillon du numérique de l'État.</a></titre>
 <date>13 juin 2023</date>
 <media> Finyear </media>
