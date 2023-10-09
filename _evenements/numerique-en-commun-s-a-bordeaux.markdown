@@ -87,6 +87,7 @@ Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous 
 <br>Atelier | MÉDIATION ET COMPÉTENCES NUMÉRIQUES
 <br>*Animé par Hugo STEPHAN, designer de services publics pour [Réfugiés.info](https://refugies.info/fr) et Daniel AGACINSKI, délégué général à la médiation, directeur de l’action territoriale pour le [Défenseur des droits](https://www.defenseurdesdroits.fr/).*
 <br>
+<br>
 
 ### À retrouver lors de l’événement des équipes de la DINUM telles que :
 * [L’Accélérateur d’initiatives citoyennes (AIC)](https://citoyens.transformation.gouv.fr/) et ses lauréats : [Umap](https://umap.openstreetmap.fr/en/) et [Pyronear](https://pyronear.org/) 
