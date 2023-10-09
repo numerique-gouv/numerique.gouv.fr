@@ -31,6 +31,14 @@ layout: page-annexe
 <date>05 octobre 2023</date>
 <media> Alliancy </media>
 
+<titre><a href="https://www.lejdd.fr/politique/intelligence-artificielle-lexecutif-lance-une-experimentation-dans-son-administration-138720" title="Intelligence artificielle : l'exécutif lance une expérimentation dans son administration - Lien externe"> Intelligence artificielle : l'exécutif lance une expérimentation dans son administration</a></titre>
+<date>04 octobre 2023</date>
+<media> Le Journal du Dimanche </media>
+
+<titre><a href="https://www.linformaticien.com/magazine/biz-it/61207-2-5-millions-d-euros-pour-les-startups-d-etat.html" title="2,5 millions d’euros pour les startups d’État - Lien externe"> 2,5 millions d’euros pour les startups d’État</a></titre>
+<date>21 septembre 2023</date>
+<media> L'INFORMATICIEN </media>
+
 <titre><a href="https://www.zdnet.fr/actualites/data-mobilite-et-environnement-la-dinum-finance-10-startups-d-tat-39961388.htm#xtor=RSS-1" title="Data, mobilité et environnement : la DINUM finance 10 startups d’État - Lien externe"> Data, mobilité et environnement : la DINUM finance 10 startups d’État</a></titre>
 <date>20 septembre 2023</date>
 <media> ZDNet </media>
