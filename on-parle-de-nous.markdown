@@ -51,6 +51,10 @@ layout: page-annexe
 <date>06 septembre 2023</date>
 <media> 20 minutes </media>
 
+<titre><a href="https://www.francetvinfo.fr/internet/securite-sur-internet/lutte-contre-les-arnaques-pour-dissiper-le-doute-le-gouvernement-va-harmoniser-l-adresse-de-75-sites-officiels-d-ici-a-2026_6045014.html" title="Lutte contre les arnaques : le gouvernement va harmoniser l'adresse de 75 sites officiels d'ici à 2026 pour dissiper les doutes sur les faux services publics - Lien externe"> Lutte contre les arnaques : le gouvernement va harmoniser l'adresse de 75 sites officiels d'ici à 2026 pour dissiper les doutes sur les faux services publics</a></titre>
+<date>05 septembre 2023</date>
+<media> franceinfo </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/audran-le-baron-education-nationale-notre-cap-pour-les-quatre-prochaines-annees-est-fixe.html" title="Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé » - Lien externe"> Audran Le Baron (Education Nationale) : « notre cap pour les quatre prochaines années est fixé »</a></titre>
 <date>1 septembre 2023</date>
 <media> Républik IT </media>
