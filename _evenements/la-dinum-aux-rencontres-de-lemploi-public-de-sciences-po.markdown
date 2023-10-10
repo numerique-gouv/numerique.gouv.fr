@@ -31,11 +31,11 @@ La DINUM présentera sur son stand ses offres d’emploi et projets, produits et
 
 Aux cotés de :
 * [Ministère de la Transformation et de la fonction publiques, Direction générale de l’administration et la fonction publique](https://www.transformation.gouv.fr/) (DGAFP)
-* [Ministère de l'Europe et des Affaires étrangères, Délégation aux fonctionnaires internationaux](https://www.diplomatie.gouv.fr/fr/) (DFI), Direction des ressources humaines, Sous-direction des personnels contractuels
+* [Ministère de l'Europe et des Affaires étrangères, Délégation aux fonctionnaires internationaux](https://www.diplomatie.gouv.fr/fr/) (DFI), direction des ressources humaines, sous-direction des personnels contractuels
 * [Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/), [Direction générale du Trésor](https://www.tresor.economie.gouv.fr/)
 * [Ministère de la Justice](https://www.justice.gouv.fr/)
 * [Ministère des Armées](https://www.defense.gouv.fr/)
-* [Ministère de l'Education nationale, Enseignement supérieur, Recherche, Jeunesse et Sports](https://www.education.gouv.fr/), Direction générale des ressources humaines
+* [Ministère de l'Education nationale, Enseignement supérieur, Recherche, Jeunesse et Sports](https://www.education.gouv.fr/), direction générale des ressources humaines
 * Services de la Première ministre : [Délégation interministérielle à l’hébergement et à l’accès au logement](https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement) (DIHAL), [Secrétariat général des affaires européennes](https://sgae.gouv.fr/sites/SGAE/accueil.html) (SGAE)
 * [Inspection générale des finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html) (IGF)
 * [Banque de France](https://www.banque-france.fr/fr)
