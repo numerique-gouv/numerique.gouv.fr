@@ -28,3 +28,24 @@ Ces rencontrent s'inscrivent dans la quinzaine des métiers en affaires publique
 
 La DINUM présentera sur son stand ses offres d’emploi et projets, produits et services à destination des citoyens, agents et entreprises pour un État plus efficace, plus simple et plus souverain grâce au numérique. C’est aussi l’occasion pour les étudiants qui le souhaitent de mieux connaître les grands chantiers numériques de l’État et s’informer sur les parcours de carrière dans le numérique de l’État.
 
+Aux cotés de :
+• Ministère de la Transformation et de la fonction publiques, Direction générale de l’administration et la fonction publique (DGAFP)
+• Ministère de l'Europe et des Affaires étrangères, Délégation aux fonctionnaires internationaux (DFI), Direction des ressources humaines, Sous-direction des personnels contractuels
+• Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique, Direction générale du Trésor
+* Ministère de la Justice
+• Ministère des Armées
+• Ministère de l'Education nationale, Enseignement supérieur, Recherche, Jeunesse et Sports, Direction générale des ressources humaines
+• Services de la Première minister : Délégation interministérielle à l’hébergement et à l’accès au logement (DIHAL), Secrétariat général des affaires européennes (SGAE)
+• Inspection générale des finances (IGF)
+• Banque de France
+• Agence Régionale de Santé, Ile de France (ARS IDF)
+• Assemblée nationale
+• Cour des Comptes
+• Haut conseil à l'égalité entre les femmes et les hommes
+• Conseil National du Numérique
+• Office national de la biodiversité
+• Ville de Paris
+• Conseil départemental de Seine Saint-Denis
+• Représentation permanente de la Commission européenne en France
+• EPSO, ambassadrice des carrières européennes pour Sciences Po
+• Sciences Po Alumni Jeunes Groupe Affaires publiques
