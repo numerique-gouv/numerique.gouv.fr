@@ -131,18 +131,6 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Budget / Achats</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-fonds-de-transformation-de-l-action-publique-hf-reference-2023-1276861/" title="Chargé/e de mission FTAP (Fonds de transformation de l'action publique) H/F - Lien externe">Chargé/e de mission FTAP (Fonds de transformation de l'action publique) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-fonds-de-transformation-de-l-action-publique-hf-reference-2023-1276861/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
 <div class="encadre noir">
 <h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !</h3>
 <p class="margin-bottom-1">Labellisés <b>« égalité et diversité »</b>, les services de la Première ministre se mobilisent en faveur de la diversité culturelle, de l’égalité femmes hommes et du handicap.
