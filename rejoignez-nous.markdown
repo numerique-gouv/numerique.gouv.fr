@@ -83,7 +83,7 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Infrastructures et réseaux</b></h1>
+<h1 class="h3"><b>Infrastructures / Réseaux</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F - Lien externe">Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F</a></b>
