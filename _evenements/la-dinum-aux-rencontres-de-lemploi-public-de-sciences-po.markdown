@@ -1,6 +1,8 @@
 ---
 title: La DINUM aux rencontres de l’emploi public de Sciences Po
 date: 2023-10-10 10:48:00 +02:00
+categories:
+- Salon de l'emploi
 chapeau-text: L'École d'affaires publiques de Sciences Po organise pour la deuxième
   édition “Les rencontres de l'emploi public”. Pour l’occasion, la DINUM tiendra un
   stand dans les salons scientifiques du campus de Saint-Thomas.
