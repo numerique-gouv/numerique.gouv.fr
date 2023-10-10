@@ -19,7 +19,7 @@ chapeau-text: La loi relative à la réduction de l’empreinte environnementale
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
 files:
-- file: "/uploads/CP_Arcep%20et%20Arcom%20lancent%20une%20consultation%20publique%20sur%20le%20RGESN.pdf"
+- file: "/uploads/CP_Arcep_et_Arcom_lancent_une_consultation_publique_sur_le_RGESN.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
