@@ -21,8 +21,6 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription obligatoire avec des identifiants Sciences Po
   lien: https://carrieres.sciencespo.fr/index.php/fr/evenement/show/id_evenement/1957
-- contenu: Plus d'informations
-  lien: https://www.sciencespo.fr/ecole-affaires-publiques/fr/actualites/les-rencontres-de-l-emploi-public
 ---
 
 Cet événement est une opportunité pour les étudiantes et les étudiants de l'École d'échanger sur leur campus avec de nombreuses administrations et institutions publiques sur les enjeux de recrutement en contractuel (stage, apprentissage, premier emploi). 
