@@ -20,4 +20,4 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/larcep-et-larcom-lancent-une-consultation-publique-sur-le-referentiel-general-de-lecoconception-des-services-numeriques/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html">Lire le communiqué de presse sur le site de l'Arcep</a></p></div>
