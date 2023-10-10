@@ -2,7 +2,6 @@
 title: L’Arcep et l’Arcom lancent une consultation publique sur le référentiel général
   de l’écoconception des services numériques
 date: 2023-10-10 11:49:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -21,4 +20,4 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
 ---
 
-[Lire le communiqué sur le site internet de l'Arcep](https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html)
+<div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html"title"Lire le communiqué de presse sur le site de l'Arcep"</a></p></div>
