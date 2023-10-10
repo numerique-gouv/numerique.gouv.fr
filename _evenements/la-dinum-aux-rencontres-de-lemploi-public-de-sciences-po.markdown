@@ -39,7 +39,7 @@ Aux cotés de :
 * Services de la Première ministre : [Délégation interministérielle à l’hébergement et à l’accès au logement](https://www.gouvernement.fr/delegation-interministerielle-a-l-hebergement-et-a-l-acces-au-logement) (DIHAL), [Secrétariat général des affaires européennes](https://sgae.gouv.fr/sites/SGAE/accueil.html) (SGAE)
 * [Inspection générale des finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html) (IGF)
 * [Banque de France](https://www.banque-france.fr/fr)
-* [Agence Régionale de Santé](https://www.iledefrance.ars.sante.fr/), Ile de France (ARS IDF)
+* [Agence Régionale de Santé, Ile de France](https://www.iledefrance.ars.sante.fr/) (ARS IDF)
 * [Assemblée nationale](https://www.assemblee-nationale.fr/)
 * [Cour des Comptes](https://www.ccomptes.fr/fr)
 * [Haut conseil à l'égalité entre les femmes et les hommes](https://www.haut-conseil-egalite.gouv.fr/)
