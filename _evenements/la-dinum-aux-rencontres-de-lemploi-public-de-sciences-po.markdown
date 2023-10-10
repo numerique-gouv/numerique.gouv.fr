@@ -7,7 +7,6 @@ chapeau-text: L'École d'affaires publiques de Sciences Po organise pour la deux
 une-ou-diaporama:
 - image: "/uploads/Les%20rencontres%20de%20l'emploi%20public.png"
 event_start_date: 2023-10-27 10:00:00 +02:00
-event_end_date: 2023-10-27 13:00:00 +02:00
 lieu: Sciences Po Paris
 adresse: 1 Place St Thomas d'Aquin, 75007 Paris
 champs_informations:
