@@ -18,6 +18,9 @@ chapeau-text: La loi relative à la réduction de l’empreinte environnementale
   pour réduire l’empreinte environnementale des services numériques.
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
+files:
+- file: "/uploads/CP_Arcep%20et%20Arcom%20lancent%20une%20consultation%20publique%20sur%20le%20RGESN.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 <div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html"title="Lire le communiqué de presse sur le site de l'Arcep"</a></p></div>
