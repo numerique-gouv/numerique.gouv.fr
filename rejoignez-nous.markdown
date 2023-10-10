@@ -62,10 +62,10 @@ layout: page-annexe
 <h1 class="h3"><b>Incubateur de services numériques</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-d-operations-et-de-coordination-de-projets-pmo-hf-reference-2023-1328244/" title="Responsable d'opérations et de coordination de projets (PMO) H/F - Lien externe">Responsable d'opérations et de coordination de projets (PMO) H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="LEAD DEVOPS BETA.GOUV.FR H/F - Lien externe">LEAD DEVOPS BETA.GOUV.FR H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-d-operations-et-de-coordination-de-projets-pmo-hf-reference-2023-1328244/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
