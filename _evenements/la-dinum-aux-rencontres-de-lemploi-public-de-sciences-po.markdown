@@ -10,6 +10,16 @@ event_start_date: 2023-10-27 10:00:00 +02:00
 event_end_date: 2023-10-27 13:00:00 +02:00
 lieu: Sciences Po Paris
 adresse: 1 Place St Thomas d'Aquin, 75007 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 10h - 13h
+- intitule: Comment y aller ?
+  contenu: |-
+    Métro : 12
+    Bus : 39 63 68 69 72 73
+- intitule: Modalités
+  contenu: Inscription obligatoire avec des identifiants Sciences Po
+  lien: https://carrieres.sciencespo.fr/index.php/fr/evenement/show/id_evenement/1957
 ---
 
 Cet événement est une opportunité pour les étudiantes et les étudiants de l'École d'échanger sur leur campus avec de nombreuses administrations et institutions publiques sur les enjeux de recrutement en contractuel (stage, apprentissage, premier emploi). 
@@ -17,3 +27,4 @@ Cet événement est une opportunité pour les étudiantes et les étudiants de l
 Ces rencontrent s'inscrivent dans la quinzaine des métiers en affaires publiques, organisée en collaboration avec [Sciences Po Carrières](https://carrieres.sciencespo.fr/index.php/fr), la première semaine étant dédiée aux carrières par voie contractuelle et la deuxième par voie de concours.
 
 La DINUM présentera sur son stand ses offres d’emploi et projets, produits et services à destination des citoyens, agents et entreprises pour un État plus efficace, plus simple et plus souverain grâce au numérique. C’est aussi l’occasion pour les étudiants qui le souhaitent de mieux connaître les grands chantiers numériques de l’État et s’informer sur les parcours de carrière dans le numérique de l’État.
+
