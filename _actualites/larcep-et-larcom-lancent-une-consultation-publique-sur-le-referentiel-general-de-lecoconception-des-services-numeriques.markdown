@@ -20,4 +20,4 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
 ---
 
-<div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html">Lire le communiqué de presse sur le site de l'Arcep</a></p></div>
+<div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html">En savoir plus sur cette actualité et lire le communiqué de presse de l’Arcep et de l’Arcom</a></p></div>
