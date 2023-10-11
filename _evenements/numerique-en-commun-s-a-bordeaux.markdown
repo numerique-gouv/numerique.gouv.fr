@@ -74,6 +74,7 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 
 **13h45-15h15 : Carte blanche à Valérie Peugeot : les communs numériques, un levier pour lier l’action publique globale et locale**
 <br>Masterclass | COMMUNS ET SOUVERAINETÉ
+<br>*Avec*
 
 **17h-17h45 : Comment les données peuvent être mises au service d’un accompagnement des usagers, en insertion ?**
 <br>Retex | DONNÉES ET TERRITOIRES
@@ -81,7 +82,14 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 
 **17h15-18h45 : Régler les problèmes des communs en commun**
 <br>Atelier | COMMUNS ET SOUVERAINETÉ
-<br>*Animé par Nicolas BERTHELOT, responsable de la Fabrique des géocommuns de l’[IGN](https://www.ign.fr/), Benjamin JEAN, président et fondateur du cabinet de conseil spécialiste des modèles ouverts [Inno³](https://inno3.fr/), Bastien GUERRY, référent [logiciels libres](https://code.gouv.fr/fr/) au sein de la Direction Interministérielle du Numérique, Mathilde BRAS, responsable stratégie et innovation au sein de [Numéricité](https://numericite.eu/), Virgile DEVILLE, coach produit pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM, Judith LENGLET, coach d’équipe pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM et Alexis KAUFFMANN, chef de projet logiciel libre et ressources éducatives libres, au [Ministère de l’éducation Nationale](https://www.education.gouv.fr/) et fondateur de [Framasoft](https://framasoft.org/fr/).*
+<br>Animé par :
+** Nicolas BERTHELOT, responsable de la Fabrique des géocommuns de l’[IGN](https://www.ign.fr/),*
+** Benjamin JEAN, président et fondateur du cabinet de conseil spécialiste des modèles ouverts [Inno³](https://inno3.fr/),*
+** Bastien GUERRY, référent [logiciels libres](https://code.gouv.fr/fr/) au sein de la Direction Interministérielle du Numérique,*
+** Mathilde BRAS, responsable stratégie et innovation au sein de [Numéricité](https://numericite.eu/),*
+** Virgile DEVILLE, coach produit pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM,*
+** Judith LENGLET, coach d’équipe pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM*
+** et Alexis KAUFFMANN, chef de projet logiciel libre et ressources éducatives libres, au [Ministère de l’éducation Nationale](https://www.education.gouv.fr/) et fondateur de [Framasoft](https://framasoft.org/fr/).**
 
 **17h15-18h45 : Se saisir des outils numériques pour en finir avec la paperasse**
 <br>Retex | COMMUNS ET SOUVERAINETÉ
