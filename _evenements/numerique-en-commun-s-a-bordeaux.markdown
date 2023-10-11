@@ -89,10 +89,6 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 
 #### Programme « IN » du vendredi 20/10/23 :
 Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
-
-**10h45-12h15 : Avec le Défenseur des droits, rédiger un guide des médiateurs numériques pour une dématérialisation inclusive**
-<br>Atelier | MÉDIATION ET COMPÉTENCES NUMÉRIQUES
-<br>*Animé par Hugo STEPHAN, designer de services publics pour [Réfugiés.info](https://refugies.info/fr) et Daniel AGACINSKI, délégué général à la médiation, directeur de l’action territoriale pour le [Défenseur des droits](https://www.defenseurdesdroits.fr/).*
 <br>
 <br>
 
