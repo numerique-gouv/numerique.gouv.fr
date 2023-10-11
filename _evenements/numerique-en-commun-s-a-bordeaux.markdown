@@ -71,21 +71,50 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 **9h30-11h : Découvrir la méthode Beta.gouv pour développer vos services numériques**
 <br>Atelier | DONNÉES ET TERRITOIRES
 <br>*Animé par Benjamin DOBERSET, membre de la communauté [Beta.gouv.fr](https://beta.gouv.fr/)*
+<br>
+<br>
 
 **13h45-15h15 : Carte blanche à Valérie Peugeot : les communs numériques, un levier pour lier l’action publique globale et locale**
 <br>Masterclass | COMMUNS ET SOUVERAINETÉ
+<br>*Avec :*
+* *Nicolas BERTHELOT, responsable de la [Fabrique des géocommuns](https://www.ign.fr/institut/la-fabrique-des-geocommuns-incubateur-de-communs-lign) de l’[IGN](https://www.ign.fr/),*
+* *Héloïse CALVIER, chargée d’accompagnement à l’innovation au sein de l’[ADEME](https://www.ademe.fr/),*
+* *Xavier PERRIN, responsable du conseil en gestion et des systèmes d’information décisionnels au sein de la Mission d’Aide au Pilotage de la [Ville de Grenoble](https://www.grenoble.fr/),*
+* *et Marine ALBAREDE, cheffe de projet innovation, numérique et data au sein de [Laturbine.coop](https://turbine.coop/).*
+<br>
+<br>
 
 **17h-17h45 : Comment les données peuvent être mises au service d’un accompagnement des usagers, en insertion ?**
 <br>Retex | DONNÉES ET TERRITOIRES
 <br>*Avec Claire CASUBOLO, chargée de partenariats pour [data.insertion](https://www.rdv-insertion.fr/) et Amaury DUBOT, chargé de déploiement pour [beta.gouv.fr](https://beta.gouv.fr/).*
+<br>
+<br>
 
+**17h15-18h45 : Régler les problèmes des communs en commun**
+<br>Atelier | COMMUNS ET SOUVERAINETÉ
+<br>*Animé par :*
+* *Nicolas BERTHELOT, responsable de la Fabrique des géocommuns de l’[IGN](https://www.ign.fr/),*
+* *Benjamin JEAN, président et fondateur du cabinet de conseil spécialiste des modèles ouverts [Inno³](https://inno3.fr/),*
+* *Bastien GUERRY, référent [logiciels libres](https://code.gouv.fr/fr/) au sein de la Direction Interministérielle du Numérique,*
+* *Mathilde BRAS, responsable stratégie et innovation au sein de [Numéricité](https://numericite.eu/),*
+* *Virgile DEVILLE, coach produit pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM,*
+* *Judith LENGLET, coach d’équipe pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM,*
+* *et Alexis KAUFFMANN, chef de projet logiciel libre et ressources éducatives libres, au [Ministère de l’éducation Nationale](https://www.education.gouv.fr/) et fondateur de [Framasoft](https://framasoft.org/fr/).*
+<br>
+<br>
+
+**17h15-18h45 : Se saisir des outils numériques pour en finir avec la paperasse**
+<br>Retex | COMMUNS ET SOUVERAINETÉ
+<br>*Avec :*
+* *Philippe VRIGNAUD, chef du pôle “relations usagers-agents” ([Démarches Simplifiées](https://www.demarches-simplifiees.fr/)) à la Direction Interministérielle du Numérique,*
+* *Clément LAVABRE, chef de projet au sein de la Direction des Systèmes d’Information de la [ville de Limoges](https://www.limoges.fr/),*
+* *Pascal KUCZYNSKI, délégué général de l’[Adullact](https://adullact.org/), l’association qui promeut, développe et maintient un patrimoine de logiciels libres utiles aux missions de service public,*
+* *et Pascal BLANCHARD, directeur des systèmes d’information chez [Communauté d’agglomération du Libournais](https://www.lacali.fr/).*
+<br>
+<br>
 
 #### Programme « IN » du vendredi 20/10/23 :
 Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous pourrez assister à des ateliers, pitchs, retex et masterclass !
-
-**10h45-12h15 : Avec le Défenseur des droits, rédiger un guide des médiateurs numériques pour une dématérialisation inclusive**
-<br>Atelier | MÉDIATION ET COMPÉTENCES NUMÉRIQUES
-<br>*Animé par Hugo STEPHAN, designer de services publics pour [Réfugiés.info](https://refugies.info/fr) et Daniel AGACINSKI, délégué général à la médiation, directeur de l’action territoriale pour le [Défenseur des droits](https://www.defenseurdesdroits.fr/).*
 <br>
 <br>
 
