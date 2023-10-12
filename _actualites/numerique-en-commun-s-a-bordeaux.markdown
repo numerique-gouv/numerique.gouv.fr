@@ -1,6 +1,6 @@
 ---
 title: Numérique en Commun[s] à Bordeaux
-date: 2023-07-26 16:23:00 +02:00
+date: 2023-10-12 09:00:00 +02:00
 categories:
 - Événement
 chapeau-text: La DINUM est partenaire de Numérique en Commun[s] qui se tiendra du
