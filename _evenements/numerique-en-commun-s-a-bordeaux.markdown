@@ -127,6 +127,77 @@ Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous 
 <br>
 
 
+### Les produits beta.gouv.fr présents à Numérique en Commun[s]
+#### Aménagement
+* [Mon diagnostic artificialisation](https://beta.gouv.fr/startups/sparte.html) : Faciliter la mise en oeuvre du Zéro Artificialisation Nette
+* [Plus fraiche ma ville](https://beta.gouv.fr/startups/rafraichir.les.villes.html) : Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
+* [Franche chaleur urbaine](https://beta.gouv.fr/startups/chauffage-urbain.html) : Accélérer le raccordement des bâtiments aux réseaux de chaleur
+* [Docurba](https://beta.gouv.fr/startups/docurba.html) : Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
+* [Territoire en transition](https://beta.gouv.fr/startups/territoires-en-transitions.html) : Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
+* [Urban vitaliz](https://beta.gouv.fr/startups/urbanvitaliz.html) : Faciliter la réhabilitation des friches urbaines
+
+#### Environnement
+* [VigiEau](https://beta.gouv.fr/startups/vigieau.html) : Faire évoluer les usagers vers des pratiques sobres de l’eau et respectueuses des mesures de restriction.
+* [Trackdéchets](https://beta.gouv.fr/startups/trackdechets.html) : Gérer la traçabilité des déchets, en toute sécurité
+* [Mon diagnostic artificialisation](https://beta.gouv.fr/startups/sparte.html) : Faciliter la mise en oeuvre du Zéro Artificialisation Nette
+* [Nos gestes climat](https://beta.gouv.fr/startups/nosgestesclimat.html) : Permettre le calcul de son empreinte carbone individuelle et le passage à l'action pour la réduire
+* [Potentiel](https://beta.gouv.fr/startups/potentiel.html) : Faciliter le parcours des producteurs d'énergies renouvelables électriques
+* [Plus fraiche ma ville](https://beta.gouv.fr/startups/rafraichir.les.villes.html) : Accompagner les collectivités dans le choix de solutions de rafraîchissement urbain pérennes et durables
+* [Macantine](https://beta.gouv.fr/startups/ma-cantine-egalim.html) : Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable
+* [Franche chaleur urbaine](https://beta.gouv.fr/startups/chauffage-urbain.html) : Accélérer le raccordement des bâtiments aux réseaux de chaleur
+* [Docurba](https://beta.gouv.fr/startups/docurba.html) : Faciliter l'élaboration et le suivi des documents d'urbanisme en améliorant les échanges entre les collectivités et l'État
+* [Territoire en transition](https://beta.gouv.fr/startups/territoires-en-transitions.html) : Aider les collectivités à prioriser la mise en œuvre des actions les plus impactantes pour réussir la transition écologique
+* [Carbure](https://beta.gouv.fr/startups/carbure.html) : Gestion centralisée des flux de biocarburants
+* [Urban vitaliz](https://beta.gouv.fr/startups/urbanvitaliz.html) : Faciliter la réhabilitation des friches urbaines
+
+#### Relation usager
+* [RDV Service Public](https://beta.gouv.fr/startups/rdv-service-public.html) : Faciliter la prise des rendez-vous entre le service public et les usagers des territoires
+* [Conseiller numérique](https://beta.gouv.fr/startups/conseiller-numerique.html) : Former et déployer des conseillers numériques
+* [Agora](https://beta.gouv.fr/startups/agora.html) : La première appli qui fait dialoguer les citoyens et le Gouvernement
+* [Reva / France VAE](https://beta.gouv.fr/startups/reva.html) : Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
+* [Demarches simplifiées.fr](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html) : Dématérialiser n’importe quelle démarche administrative en quelques minutes
+* [POP](https://beta.gouv.fr/startups/pop.html) : Valoriser notre patrimoine culturel auprès du plus grand nombre
+
+#### Social
+[Aides Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html), OpenFisca : Faciliter le recours aux aides par les jeunes qui en ont le plus besoin
+* [Plateforme de l'inclusion](https://beta.gouv.fr/startups/itou.html) : Faciliter la mise en relation avec les employeurs solidaires
+* [Dossier facile](https://beta.gouv.fr/startups/locatio.html) : Remettre la confiance au centre de la relation entre propriétaires et locataires
+* [Cartographie Nationale des lieux d'inclusion numérique](https://beta.gouv.fr/startups/cartographie.nationale.html) : Orienter les publics vers les structures répondant à leur besoin
+* [Mon suivi social](https://beta.gouv.fr/startups/Mon-suivi-social.html) : Libérer du temps pour l'accompagnement social grâce à une solution simple, intuitive et sécurisée.
+* [DORA](https://beta.gouv.fr/startups/dora.html) : Recenser, mettre en visibilité et faciliter la prescription de services d'insertion, adaptés aux besoins des bénéficiaires
+* [Reva / France VAE](https://beta.gouv.fr/startups/reva.html) : Faciliter l'obtention d'un diplôme en Validation des Acquis d'Expérience (VAE)
+* [Je veux aider](https://beta.gouv.fr/startups/jeveuxaider.html) : Encourager l'engagement bénévole partout en France
+* [Inser jeunes](https://beta.gouv.fr/startups/expositionIJ.html) : Faciliter l’orientation et l’insertion professionnelle des jeunes en rendant visibles des indicateurs pertinents sur les débouchés possibles d'une formation de la voie professionnelle
+* [SNU](https://beta.gouv.fr/startups/snu.html) : Développer la conscience citoyenne des jeunes
+* [Mon suivi justice](https://beta.gouv.fr/startups/justif.html) : Diminuer les rendez-vous non-honorés des personnes placées sous main de justice
+* [Mano](https://beta.gouv.fr/startups/mano.html) : Service de soutien aux équipes mobiles visant à améliorer la vie des populations en rue et à favoriser leur réinsertion.
+* [Réfugiés.info](https://refugies.info/fr) : L’information simple et traduite pour les personnes réfugiées en France
+
+#### Outil Numérique
+* [Mon service sécurisé](https://beta.gouv.fr/startups/homologation.html) : Faciliter la sécurisation et l'homologation des services numériques
+* [Openfisca](https://beta.gouv.fr/startups/openfisca.html) : Rendre la loi exécutable numériquement
+* [Mon compte pro](https://beta.gouv.fr/startups/moncomptepro.html) : Nous identifions vos utilisateurs professionnels du privé ou du public.
+* [Mon aide cyber](https://beta.gouv.fr/startups/MonAideCyber.html) : Aider les entités publiques et privées à passer de la sensibilisation à l'action
+* [NIS2](https://beta.gouv.fr/startups/NIS2.html) : Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en œuvre en lien avec l'ANSSI
+* [Tchap](https://beta.gouv.fr/startups/tchap.html) : Proposer une messagerie instantanée, sécurisée et souveraine aux agents publics
+* [Annuaire des collectivités](https://beta.gouv.fr/startups/lannuaire.des.collectivites.html) : Offrir un site web à chaque commune de France
+* [Données et territoires](https://beta.gouv.fr/startups/donn%C3%A9es-et-territoires.html) : Outiller et accompagner les agents publics dans leurs usages de la donnée
+
+#### Relation entreprise
+[Projet Impact](https://beta.gouv.fr/startups/plateforme.impact.html) : Le meilleur moyen pour les entreprises de déclarer leur performance extra-financière
+
+#### Autres
+* [Dossier facile](https://beta.gouv.fr/startups/locatio.html) : Remettre la confiance au centre de la relation entre propriétaires et locataires
+* [Moana](https://beta.gouv.fr/startups/sndv_maritime.html) : Améliorer le traitement des données de voyages du transport maritime à des fins de contrôle et de sûreté
+* [Potentiel](https://beta.gouv.fr/startups/potentiel.html) : Faciliter le parcours des producteurs d'énergies renouvelables électriques
+* [NIS2](https://beta.gouv.fr/startups/NIS2.html) : Aider les entreprises et administrations à se préparer à l'entrée en vigueur de la directive NIS2 et à s'approprier sa mise en oeuvre en lien avec l'ANSSI
+* [EIMIS](https://beta.gouv.fr/startups/eimis.html) : Faciliter et sécuriser les communications des professionnels de santé
+* [Demarches simplifiées.fr](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html) : Dématérialiser n’importe quelle démarche administrative en quelques minutes
+* [Mon entreprise](https://beta.gouv.fr/startups/mon-entreprise.html) : Guider les créateurs et créatrices d’entreprise.
+* [Carbure](https://beta.gouv.fr/startups/carbure.html) : Gestion centralisée des flux de biocarburants
+<br>
+<br>
+
 Numérique en Commun[s] se clôturera par un cocktail (le soir, inscription obligatoire).
 <br>
 <br>
