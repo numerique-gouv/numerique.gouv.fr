@@ -185,8 +185,6 @@ Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous 
 
 #### Relation entreprise
 * [Projet Impact](https://beta.gouv.fr/startups/plateforme.impact.html) : Le meilleur moyen pour les entreprises de déclarer leur performance extra-financière
-
-#### Autres
 * [Dossier facile](https://beta.gouv.fr/startups/locatio.html) : Remettre la confiance au centre de la relation entre propriétaires et locataires
 * [Moana](https://beta.gouv.fr/startups/sndv_maritime.html) : Améliorer le traitement des données de voyages du transport maritime à des fins de contrôle et de sûreté
 * [Potentiel](https://beta.gouv.fr/startups/potentiel.html) : Faciliter le parcours des producteurs d'énergies renouvelables électriques
