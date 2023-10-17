@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/webtv/emissions/les-rencontres-des-acteurs-publics/marion-loustric-avec-la-proactivite-une-administration-peut-atteindre-les-usagers-quelle-ne-connait-pas-encore" title="Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore » - Lien externe"> Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore »</a></titre>
+<date>11 octobre 2023</date>
+<media> Acteurs Publics TV </media>
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-la-fonction-publique-accelere-pour-experimenter-l-ia-generative-91779.html" title="La fonction publique accélère pour expérimenter l'IA générative - Lien externe"> La fonction publique accélère pour expérimenter l'IA générative</a></titre>
 <date>06 octobre 2023</date>
 <media> Le Monde Informatique </media>
