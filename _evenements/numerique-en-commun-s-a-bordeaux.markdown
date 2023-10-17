@@ -159,7 +159,7 @@ Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous 
 * [POP](https://beta.gouv.fr/startups/pop.html) : Valoriser notre patrimoine culturel auprès du plus grand nombre
 
 #### Social
-[Aides Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html), OpenFisca : Faciliter le recours aux aides par les jeunes qui en ont le plus besoin
+* [Aides Jeunes](https://beta.gouv.fr/startups/aides.jeunes.html), OpenFisca : Faciliter le recours aux aides par les jeunes qui en ont le plus besoin
 * [Plateforme de l'inclusion](https://beta.gouv.fr/startups/itou.html) : Faciliter la mise en relation avec les employeurs solidaires
 * [Dossier facile](https://beta.gouv.fr/startups/locatio.html) : Remettre la confiance au centre de la relation entre propriétaires et locataires
 * [Cartographie Nationale des lieux d'inclusion numérique](https://beta.gouv.fr/startups/cartographie.nationale.html) : Orienter les publics vers les structures répondant à leur besoin
@@ -184,7 +184,7 @@ Cette dernière journée se déroulera au Palais de la Bourse de Bordeaux. Vous 
 * [Données et territoires](https://beta.gouv.fr/startups/donn%C3%A9es-et-territoires.html) : Outiller et accompagner les agents publics dans leurs usages de la donnée
 
 #### Relation entreprise
-[Projet Impact](https://beta.gouv.fr/startups/plateforme.impact.html) : Le meilleur moyen pour les entreprises de déclarer leur performance extra-financière
+* [Projet Impact](https://beta.gouv.fr/startups/plateforme.impact.html) : Le meilleur moyen pour les entreprises de déclarer leur performance extra-financière
 
 #### Autres
 * [Dossier facile](https://beta.gouv.fr/startups/locatio.html) : Remettre la confiance au centre de la relation entre propriétaires et locataires
