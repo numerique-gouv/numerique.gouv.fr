@@ -57,7 +57,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     <button onclick="myFunction('details-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-operations">
 <p>Ne sont finançables que les opérations visant un hébergement vers les offres de Cloud internes interministériels (PI ou NUBO) ou les offres Cloud commerciales qualifiées SecNumCloud.</p>
-      <p>Les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physiques, un Cloud interne autre que PI ou NUBO ou une solution Cloud non qualifiée SecNumCloud. Si l’hébergement d’origine est un Cloud de confiance qui ne donne pas satisfaction, merci de [contacter la DINUM](mailto:infonuage.dinum@modernisation.gouv.fr) pour évaluer le dossier.
+      <p>Les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physiques, un Cloud interne autre que PI ou NUBO ou une solution Cloud non qualifiée SecNumCloud. Si l’hébergement d’origine est un Cloud de confiance qui ne donne pas satisfaction, merci de <a href="mailto:infonuage.dinum@modernisation.gouv.fr">contacter la DINUM</a>pour évaluer le dossier.
       </p>
     </div>
   </div>
