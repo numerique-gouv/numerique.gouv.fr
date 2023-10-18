@@ -9,9 +9,10 @@ tags:
 - FTAP
 - Cloud
 chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
-  un cofinancement pour votre projet visant l'adoption du cloud computing, grâce à
-  ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation de
-  l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  un cofinancement pour vos projets de migration vers le Cloud de confiance ou d'extension
+  des offres de Cloud interne interministériel, grâce au guichet de financement «
+  Adoption du Cloud de confiance » piloté par la DINUM dans le cadre du [Fonds pour
+  la transformation de l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
   "Fonds pour la transformation de l'action publique - Lien externe").
 une:
   image: "/uploads/ILLUSTRATIONS_DINUM%20_cloud%20computing-03-f99bab.png"
