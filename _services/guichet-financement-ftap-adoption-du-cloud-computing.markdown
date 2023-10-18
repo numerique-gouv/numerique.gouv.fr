@@ -173,17 +173,6 @@ let button = document.getElementById("accordion-button");
 <ol start="4"><li><strong>Impact économique</strong>: investissement nécessaire pour mettre à disposition le service, impact de son évolution et de son maintien en conditions opérationnelles sur les budgets de fonctionnement, mode de refacturation du service, volume de clients et d’usages pour justifier son intérêt économique.</li></ol>
 </div>
 </div>
-<div class="accordion-item">
-<button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
-<div class="accordion-content" id="criteres-pour-tous-projets">
-<ol start="7">
-<li style="margin-bottom: 1em;"><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-<li style="margin-bottom: 1em;"><strong>Montée en compétence des agents</strong></li>
-<li><strong>Sobriété numérique</strong></li></ol>
-<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
-</div>
-</div>
-</div>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
