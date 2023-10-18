@@ -110,17 +110,7 @@ Le projet peut inclure des dépenses de formation et d’acculturation des agent
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs obligatoires</h1>
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Les candidats s'engagent à présenter et suivre les économies induites par le projet et le nombre d'agents formés et travaillant dans un contexte Cloud à son issue.</h2>
 Le dossier devra également présenter des indicateurs d'impact dont les mesures actuelles seront indiquées, ainsi que les mesures et cibles dans le temps.
-Ces indicateurs peuvent par exemple :
-
-* consister en la fréquence des déploiements en production
-
-* le temps de mise à disposition d'une nouvelle fonctionnalité,
-
-* le temps de restauration sur incident (RTO),
-
-* le taux de réussite des changements ou encore,
-
-* pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
+Ces indicateurs peuvent par exemple consister en la fréquence des déploiements en production, le temps de mise à disposition d'une nouvelle fonctionnalité, le temps de restauration sur incident (RTO), le taux de réussite des changements ou encore, pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 <p>Le dossier de candidature doit permettre d'évaluer les projets des candidats sur la base de quatre critères selon le type de projet :</p>
