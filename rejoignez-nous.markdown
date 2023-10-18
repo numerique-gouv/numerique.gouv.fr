@@ -43,6 +43,18 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-codes-sources-hf-reference-2023-1365406/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Directeur/trice technique du département Appui, conseil et expertise H/F - Lien externe">Directeur/trice technique du département Appui, conseil et expertise H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Product owner Logiciels Libres H/F - Lien externe">Product owner Logiciels Libres H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -132,6 +144,18 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-information-et-conseiller-a-la-securite-du-numerique-hf-reference-2023-1365401/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-circulation-de-la-donnee-hf-reference-2023-1367464/" title="Architecte technique du pôle circulation de la donnée H/F - Lien externe">Architecte technique du pôle circulation de la donnée H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-circulation-de-la-donnee-hf-reference-2023-1367464/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-europeens-au-sein-de-l-operateur-hf-reference-2023-1367521/" title="Responsable des partenariats européens au sein de l'opérateur H/F - Lien externe">Responsable des partenariats européens au sein de l'opérateur H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-europeens-au-sein-de-l-operateur-hf-reference-2023-1367521/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
