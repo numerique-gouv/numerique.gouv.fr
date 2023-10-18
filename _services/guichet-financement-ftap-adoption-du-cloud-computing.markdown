@@ -1,5 +1,5 @@
 ---
-title: 'Guichet de financement : Adoption du cloud computing'
+title: 'Guichet de financement : Adoption du Cloud de confiance'
 date: 2023-03-10 03:10:00 +01:00
 categories:
 - Guichet de financement
