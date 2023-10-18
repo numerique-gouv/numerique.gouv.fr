@@ -159,7 +159,7 @@ let button = document.getElementById("accordion-button");
 <li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul>
 <ol start="4"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne :</strong></li></ol>
 <p>équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</p>
-<ol start="4"><li><strong>Impact économique</strong></li></ol>
+<ol start="4"><li><strong>Impact économique : Présentation des </strong></li></ol>
 <p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
 <ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
 <ul><li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
@@ -169,6 +169,7 @@ let button = document.getElementById("accordion-button");
 </ul>
 </div>
 </div>
+
 <div class="accordion-item">
 <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO)</button>
 <div class="accordion-content" id="criteres-mise-a-niveau">
