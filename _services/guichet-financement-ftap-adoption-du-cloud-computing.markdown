@@ -19,28 +19,22 @@ une:
 layout: rgaa
 ---
 
-Vous souhaitez construire, transformer, migrer vos applications vers le Cloud ?
-<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maîtrise des données sensibles ? 
-<br>Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
+Vous souhaitez migrer vos applications vers le Cloud de confiance ?
+<br>Vous êtes un producteur de services cloud interne interministériels et souhaitez améliorer votre offre ?
 
-Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à financer vos projets :
-* de construction, transformation et de migrations d’applications vers le cloud
-* d’extension des offres de cloud interne interministériel
-* de mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
-
-Ce guichet vient en soutien de la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
+Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à cofinancer vos projets, en soutien à la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
-Le guichet est ouvert aux :
-* **administrations d’État** ;
-* **opérateurs de l’État**.
+Le guichet est ouvert :
+* **aux administrations d’État** ;
+* **aux opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
 
-<ol><li><strong>Des opérations techniques permettant d’opérer une application dans le Cloud</strong></li></ol>
+<ol><li><strong>Des opérations de migration d’application(s) vers le Cloud de confiance</strong></li></ol>
 
 <script>
   function myFunction(id) {
