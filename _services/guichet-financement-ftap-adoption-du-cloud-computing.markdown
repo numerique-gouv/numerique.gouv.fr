@@ -136,10 +136,10 @@ let button = document.getElementById("accordion-button");
 <div class="accordion-item">
 <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
 <div class="accordion-content" id="criteres-deploiement-applications-cloud">
-<ol>
+
 <li style="margin-bottom: 1em;"><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</li>
-</ol>
-<p>lLe niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
+
+<p>Le niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
 <ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
 <p>Est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
 <ul><li>L’amélioration de la résilience du SI, facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
