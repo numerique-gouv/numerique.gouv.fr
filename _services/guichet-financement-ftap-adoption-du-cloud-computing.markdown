@@ -147,21 +147,19 @@ let button = document.getElementById("accordion-button");
 <li>L’amélioration de la réactivité sur incident et la réduction d’erreurs humaines, grâce à la systématisation des contrôles via l'autonomisation des opérations de maintenance et des actions de détection et de correction des évènements de sécurité</li>
 <li>La réduction des possibilités d’attaques et des erreurs humaines lors des opérations de configuration, grâce à la validation de l'intégrité et la conformité des socles techniques avant leur démarrage.</li>
 <li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul>
-<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne :</strong></li></ol>
-<p>équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</p>
-<ol start="4"><li><strong>Impact économique : Présentation des </strong></li></ol>
-<p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
-<ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
-<ul><li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
-<li>Les activités de maintien en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</li></ul>
-<li>Sur le périmètre de la maintenance évolutive et corrective, les services au catalogue des fournisseurs Cloud, avec un haut niveau d’automatisation, de standardisation et scalable  par conception, permettent de réduire les charges de définition, construction et évolution des solutions techniques, pour un gain souvent estimé à 10 ou 15% des coûts d’un projet ;</li>
-<li>Les bénéfices métiers, s’ils sont observables par une plus grande disponibilité du service et une fréquence plus élevée de mise à disposition de services pertinents, ne peuvent donner lieu à une anticipation chiffrée de l’amélioration de la productivité.</li>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne : équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents)</strong></li></ol>
+
+<ol start="4"><li><strong>Impact économique : Présentation des différents postes de coûts du projet et des gains économiques ou des coûts évités pour la migration, par exemple :</strong></li></ol>
+<ul><li>Le coût plus faible des ressources Cloud par rapport à l’hébergement existant ;</li>
+<ul><li>Les gains de productivité des équipes numériques, aussi bien sur le maintien en conditions opérationnelles que sur les évolutions fonctionnelles, et ce grâce à l’automatisation, la standardisation et la capacité à itérer rapidement et avoir une boucle rétroaction écourtée ;</li>
+<ul><li>Les gains métiers lié à l’amélioration de la disponibilité du service, ou la fréquence plus élevée de mise à disposition de services pertinents ;</li></ul>
+<ul><li>Les projets à mener pour se mettre en conformité avec les exigences de sécurité des métiers si le projet de migration n’était pas lancé.</li>
 </ul>
 </div>
 </div>
 
 <div class="accordion-item">
-<button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO)</button>
+<button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">	Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO</button>
 <div class="accordion-content" id="criteres-mise-a-niveau">
 <ol start="5">
 <li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
