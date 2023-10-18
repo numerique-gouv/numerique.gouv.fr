@@ -161,15 +161,16 @@ let button = document.getElementById("accordion-button");
 <div class="accordion-item">
 <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">	Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO</button>
 <div class="accordion-content" id="criteres-mise-a-niveau">
-<ol start="5">
+<ol start="1">
 <li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
-<p>Les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
-<ul><li>gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
-<li>réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
-<li>bénéfice économique à utiliser les services développés.</li></ul>
+<p>les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
+<ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
+<li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
+<li>Bénéfice économique à utiliser les services développés.</li></ul>
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
-<ol start="6"><li><strong>Justification du « marché » identifié pour les évolutions</strong></li></ol>
-<p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
+<ol start="2"><li><strong>Justification du « marché » identifié pour les évolutions : le dossier doit établir que les services sont attendus et seront utilisés par un large panel d’équipes/produits, hors ministère porteur du projet, avec des utilisateurs pilotes déjà candidats à une phase de pilote.</strong></li></ol>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne </strong>: équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</li></ol>
+<ol start="4"><li><strong>Impact économique</strong>: investissement nécessaire pour mettre à disposition le service, impact de son évolution et de son maintien en conditions opérationnelles sur les budgets de fonctionnement, mode de refacturation du service, volume de clients et d’usages pour justifier son intérêt économique.</li></ol>
 </div>
 </div>
 <div class="accordion-item">
