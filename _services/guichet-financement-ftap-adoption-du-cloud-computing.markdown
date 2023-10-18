@@ -56,13 +56,8 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
   <div class="accordion-item">
     <button onclick="myFunction('details-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-operations">
-<p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
-      <p>Ne sont finançables que les opérations visant un hébergement :</p>
-      <ul>
-        <li>parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
-        <li>ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
-      </ul>
-      <p>Pour les cas de migration, les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physique, une solution Cloud soumise au droit extra-communautaire ou non-SecNumCloud, ou un Cloud interne autre que PI ou NUBO.
+<p>Ne sont finançables que les opérations visant un hébergement vers les offres de Cloud internes interministériels (PI ou NUBO) ou les offres Cloud commerciales qualifiées SecNumCloud.</p>
+      <p>Les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physiques, un Cloud interne autre que PI ou NUBO ou une solution Cloud non qualifiée SecNumCloud. Si l’hébergement d’origine est un Cloud de confiance qui ne donne pas satisfaction, merci de [contacter la DINUM](mailto:infonuage.dinum@modernisation.gouv.fr) pour évaluer le dossier.
       </p>
     </div>
   </div>
