@@ -150,14 +150,14 @@ let button = document.getElementById("accordion-button");
 <li style="margin-bottom: 1em;"><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</li>
 </ol>
 <p>lLe niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
-<ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
+<ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
 <p>Est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
 <ul><li>L’amélioration de la résilience du SI, facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
 <li>L’amélioration de la disponibilité du SI, facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
 <li>L’amélioration de la réactivité sur incident et la réduction d’erreurs humaines, grâce à la systématisation des contrôles via l'autonomisation des opérations de maintenance et des actions de détection et de correction des évènements de sécurité</li>
 <li>La réduction des possibilités d’attaques et des erreurs humaines lors des opérations de configuration, grâce à la validation de l'intégrité et la conformité des socles techniques avant leur démarrage.</li>
 <li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul>
-<ol start="4"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne :</strong></li></ol>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne :</strong></li></ol>
 <p>équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</p>
 <ol start="4"><li><strong>Impact économique : Présentation des </strong></li></ol>
 <p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
