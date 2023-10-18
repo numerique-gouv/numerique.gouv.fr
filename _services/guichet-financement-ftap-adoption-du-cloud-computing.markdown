@@ -60,7 +60,7 @@ let button = document.getElementById("accordion-button");
 <button onclick="myFunction('details-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
 <div class="accordion-content" id="details-operations">
 <p>Ne sont finançables que les opérations visant un hébergement vers les offres de Cloud internes interministériels (PI ou NUBO) ou les offres Cloud commerciales qualifiées SecNumCloud.</p>
-<p>Les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physiques, un Cloud interne autre que PI ou NUBO ou une solution Cloud non qualifiée SecNumCloud. Si l’hébergement d’origine est un Cloud de confiance qui ne donne pas satisfaction, merci de <a href="mailto:infonuage.dinum@modernisation.gouv.fr">contacter la DINUM</a>pour évaluer le dossier.
+<p>Les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physiques, un Cloud interne autre que PI ou NUBO ou une solution Cloud non qualifiée SecNumCloud. Si l’hébergement d’origine est un Cloud de confiance qui ne donne pas satisfaction, merci de <a href="mailto:infonuage.dinum@modernisation.gouv.fr">contacter la DINUM</a> pour évaluer le dossier.
 </p>
 </div>
 </div>
@@ -116,9 +116,9 @@ Ces indicateurs peuvent par exemple :
 
 * le temps de mise à disposition d'une nouvelle fonctionnalité,
 
-* le temps de restauration sur incident (RTO),</li>
+* le temps de restauration sur incident (RTO),
 
-* le taux de réussite des changements ou encore, </li>
+* le taux de réussite des changements ou encore,
 
 * pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
