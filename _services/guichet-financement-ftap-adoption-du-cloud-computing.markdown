@@ -62,7 +62,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     </div>
   </div>
 
-<ol start="2"><li><strong>L’extension ou la montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).</strong></li></ol>
+<ol start="2"><li><strong>L’extension ou la montée en qualité des offres de services de Cloud interministériels (PI et/ou NUBO).</strong></li></ol>
 
 <script>
   function myFunction(id) {
@@ -84,65 +84,25 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
   <div class="accordion-item">
     <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-extension">
-<p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD…), des services de sécurité (HSM, KMS, Log Lake…), des services PaaS (BDDaaS, orchestration de containers, OCRaaS…), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
-<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
+<p>Ces évolutions concernent la création de nouveaux services qui peuvent par exemple être une usine logicielle (CI/CD…), des services de sécurité (HSM, KMS, Log Lake…), des services PaaS (BDDaaS, orchestration de containers, OCRaaS…), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
+<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement formalisé d'un ministère tiers d’utiliser ces services une fois qu’ils seront disponibles.</p>
     </div>
   </div>
     </div>
-
-<ol start="3"><li><strong>Des projets combinant les deux types d'opérations</strong></li></ol>
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('details-combines')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
-    <div class="accordion-content" id="details-combines">
-<p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
-    </div>
-  </div>
-</div>
-
 
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
-<p>Entre 50 000 € et 1,5 M€ TTC</p> 
+<p>Entre 100 000 € et 3 M€ TTC, avec au minimum 50 000 € TTC éligible au cofinancement.</p> 
 
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
-<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
+<p>Pour limiter les risques « d'effet tunnel », <strong>les projets soumis présentant un impact réel attendu en moins de 6 mois seront privilégiés.</p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
-Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum) du coût total du projet,</strong> 50% restant à la charge de l’administration porteuse du projet.
+* Les projets lauréats bénéficieront d'un <strong>cofinancement jusqu'à 50% du coût total du projet.</strong> 
+* Les débours en matériel et en logiciel (licences, souscriptions, …), le coût des ressources Cloud utilisées et les dépenses liées à d’éventuelles évolutions fonctionnelles sur les applications migrées ne sont pas comptabilisées dans l’assiette du coût total du projet.
+* Le projet peut inclure des dépenses de formation et d’acculturation des agents, dans un volume raisonné par rapport à l’ambition du projet.
 <br>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles sont les règles de cofinancement ?</h1>
-<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les projets ayant un volet « déploiement d’application dans le Cloud »</h2>
-<p>Ne sont comptabilisés dans le coût total du projet que les coûts d’adaptation technique de l’application aux standards du cloud et de son éventuelle migration. Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud ne sont pas comptabilisés. Le projet peut comporter des évolutions fonctionnelles sur les applications construites/transformées/migrées mais le coût de ces évolutions ne sera pas intégré dans le coût du projet servant de base au calcul du cofinancement.</p>
-<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les projets ayant un volet « amélioration de services du Cloud interne »</h2>
-<p>Les dépenses en matériel et en logiciel (licences…) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
-
-<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les demandes de financement supérieures à 200 000 € ou s’étalant sur plus de 6 mois</h2>
-<p>Le financement sera débloqué par tranches.</p>
-<p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
-<ul><li>rendre compte de l’impact obtenu sur la période précédente ;</li>
-<li>ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
-<li>débloquer, avec l’accord de la DINUM, la tranche suivante.</li></ul>
-
-
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs obligatoires</h1>
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</h2>
 <ul>
 <li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
