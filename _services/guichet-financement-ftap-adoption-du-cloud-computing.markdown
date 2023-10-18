@@ -113,7 +113,7 @@ Le dossier devra également présenter des indicateurs d'impact dont les mesures
 Ces indicateurs peuvent par exemple consister en la fréquence des déploiements en production, le temps de mise à disposition d'une nouvelle fonctionnalité, le temps de restauration sur incident (RTO), le taux de réussite des changements ou encore, pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-<p>Le dossier de candidature doit permettre d'évaluer les projets des candidats sur la base de quatre critères selon le type de projet :</p>
+<p>Le dossier de candidature doit permettre d'évaluer les projets des candidats sur la base de quatre critères, selon le type de projet :</p>
 
 <script>
 function myFunction(id) {
@@ -137,16 +137,13 @@ let button = document.getElementById("accordion-button");
 <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets de migration d’application(s) vers le Cloud de confiance :</button>
 <div class="accordion-content" id="criteres-deploiement-applications-cloud">
 
-<ol start="1"><li><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</strong></li></ol>
-
-<p>Le niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
-<ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
-<p>Est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
+<ol start="1"><li><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</strong></li></ol> <p>Le niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
+<ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong> : est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
 <ul><li>L’amélioration de la résilience du SI, facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
 <li>L’amélioration de la disponibilité du SI, facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
 <li>L’amélioration de la réactivité sur incident et la réduction d’erreurs humaines, grâce à la systématisation des contrôles via l'autonomisation des opérations de maintenance et des actions de détection et de correction des évènements de sécurité</li>
 <li>La réduction des possibilités d’attaques et des erreurs humaines lors des opérations de configuration, grâce à la validation de l'intégrité et la conformité des socles techniques avant leur démarrage.</li>
-<li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul>
+<li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul></li></ol>
 <ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne : équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents)</strong></li></ol>
 
 <ol start="4"><li><strong>Impact économique : Présentation des différents postes de coûts du projet et des gains économiques ou des coûts évités pour la migration, par exemple :</strong></li></ol>
