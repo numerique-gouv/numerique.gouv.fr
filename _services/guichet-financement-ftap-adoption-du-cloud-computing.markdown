@@ -134,7 +134,7 @@ let button = document.getElementById("accordion-button");
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
-<button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
+<button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets de migration d’application(s) vers le Cloud de confiance :</button>
 <div class="accordion-content" id="criteres-deploiement-applications-cloud">
 
 <li style="margin-bottom: 1em;"><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</li>
