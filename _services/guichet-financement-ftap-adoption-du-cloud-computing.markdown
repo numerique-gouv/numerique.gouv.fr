@@ -103,24 +103,14 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 <br>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs obligatoires</h1>
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</h2>
-<ul>
-<li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
-<li>Au moins 2 ou 3 indicateurs « DevOps » parmi : </li>
-<ul><li>La fréquence des déploiements en production ;</li>
-<li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
-<li>Le temps de restauration sur incident (RTO) ;</li>
-<li>Le taux de réussite des changements.</li></ul></ul>
-
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</h2>
-<ul><li>Volumes d’utilisation des services dans le temps;</li>
-<li>Au moins un indicateur mesurant les bénéfices qualitatifs.</li></ul>
-
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour tous les projets :</h2>
-<ul><li>Les économies budgétaires induites ;</li>
-<li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet.</li></ul>
-<p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé.</p>
-
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Les candidats s'engagent à présenter et suivre les économies induites par le projet et le nombre d'agents formés et travaillant dans un contexte Cloud à son issue.</h2>
+Le dossier devra également présenter des indicateurs d'impact dont les mesures actuelles seront indiquées, ainsi que les mesures et cibles dans le temps. 
+Ces indicateurs peuvent par exemple :
+<li>consister en la fréquence des déploiements en production</li>
+<li>le temps de mise à disposition d'une nouvelle fonctionnalité,</li>
+<li>le temps de restauration sur incident (RTO),</li>
+<li>le taux de réussite des changements ou encore, </li>
+<li>pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 <p>Les projets des candidats seront évalués sur la base de cinq à neuf critères, selon le type de projet :</p>
