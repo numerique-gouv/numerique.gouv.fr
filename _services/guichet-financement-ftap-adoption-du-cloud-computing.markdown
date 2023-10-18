@@ -137,7 +137,7 @@ let button = document.getElementById("accordion-button");
 <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets de migration d’application(s) vers le Cloud de confiance :</button>
 <div class="accordion-content" id="criteres-deploiement-applications-cloud">
 
-<li style="margin-bottom: 1em;"><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</li>
+<ol start="1"><li><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</strong></li></ol>
 
 <p>Le niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
 <ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
