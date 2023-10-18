@@ -95,7 +95,7 @@ Pour cette première journée ouverte à tous, deux lieux vous sont proposés à
 <br>*Animé par :*
 * *Nicolas BERTHELOT, responsable de la Fabrique des géocommuns de l’[IGN](https://www.ign.fr/),*
 * *Benjamin JEAN, président et fondateur du cabinet de conseil spécialiste des modèles ouverts [Inno³](https://inno3.fr/),*
-* *Bastien GUERRY, référent [logiciels libres](https://code.gouv.fr/fr/) au sein de la Direction Interministérielle du Numérique,*
+* *Bastien GUERRY, responsable de la [mission logiciels libres et communs numériques](https://code.gouv.fr/fr/) au sein de la Direction Interministérielle du Numérique,*
 * *Mathilde BRAS, responsable stratégie et innovation au sein de [Numéricité](https://numericite.eu/),*
 * *Virgile DEVILLE, coach produit pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM,*
 * *Judith LENGLET, coach d’équipe pour l’[Accélérateur d’Initiatives Citoyennes](https://citoyens.transformation.gouv.fr/programme/#:~:text=L%27Acc%C3%A9l%C3%A9rateur%20d%27initiatives%20citoyennes%20apporte%20un%20soutien%20dans%20la,de%20l%E2%80%99administration%20pour%20acc%C3%A9l%C3%A9rer%20le%20d%C3%A9ploiement%20des%20projets.) au sein de la DINUM,*
