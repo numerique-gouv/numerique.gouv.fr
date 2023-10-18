@@ -98,9 +98,9 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
 Les projets lauréats bénéficieront d'un <strong>cofinancement jusqu'à 50% du coût total du projet.</strong> 
-
+<br>
 Les débours en matériel et en logiciel (licences, souscriptions, …), le coût des ressources Cloud utilisées et les dépenses liées à d’éventuelles évolutions fonctionnelles sur les applications migrées ne sont pas comptabilisées dans l’assiette du coût total du projet.
-* Le projet peut inclure des dépenses de formation et d’acculturation des agents, dans un volume raisonné par rapport à l’ambition du projet.
+Le projet peut inclure des dépenses de formation et d’acculturation des agents, dans un volume raisonné par rapport à l’ambition du projet.
 <br>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs obligatoires</h1>
