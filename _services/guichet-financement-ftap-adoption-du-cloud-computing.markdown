@@ -114,7 +114,7 @@ Ces indicateurs peuvent par exemple :
 * pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-<p>Les projets des candidats seront évalués sur la base de cinq à neuf critères, selon le type de projet :</p>
+<p>Le dossier de candidature doit permettre d'évaluer les projets des candidats sur la base de quatre critères selon le type de projet :</p>
 
 
 
@@ -139,15 +139,13 @@ Ces indicateurs peuvent par exemple :
     <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
     <div class="accordion-content" id="criteres-deploiement-applications-cloud">
       <ol>
-        <li style="margin-bottom: 1em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…) ;</li>
-        <li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
-<p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
+        <li style="margin-bottom: 1em;"><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</li>
+       </ol>
+<p>lLe niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
 <ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
-<p>La transformation vers le Cloud-computing impacte le niveau de menaces et les risques SI encourus par un système d’information.</p>
-<p>D’une part, la mutualisation des infrastructures, entre administrations pour les Cloud interministériels et avec d’autres entités pour les Cloud commerciaux, génère de nouvelles menaces qui doivent faire l’objet de contre-mesures adaptées et de risques acceptés avec les interlocuteurs métiers.</p>
-<p>D’autre part, les services mis à disposition permettent d’améliorer la posture de sécurité, le niveau de risques et la réactivité en cas d’évènement de sécurité :</p>
-<ul><li>L’amélioration de la résilience du SI est facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
-        <li>L’amélioration de la disponibilité du SI est facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
+<p>Est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
+<ul><li>L’amélioration de la résilience du SI, facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
+        <li>L’amélioration de la disponibilité du SI, facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
         <li>L’automatisation des opérations de maintenance et des actions de détection et de corrections des évènements de sécurité permet de systématiser les contrôles, d’améliorer la réactivité en cas d’incident et d’éliminer les risques d’erreurs humaines sur ces activités ;</li>
         <li>L’intégrité et la conformité des socles techniques peuvent être validées avant leurs démarrages, réduisant les possibilités d’attaques et les erreurs humaines lors des opérations de configuration.</li>
 <li>La gestion de l’obsolescence des composants est prise en charge par le fournisseur de Cloud pour les services consommés dans leurs catalogues. Cela permet une meilleure réactivité en cas d’évènements de sécurité et des charges de gestion plus faibles. De plus, cela évite les projets de traitement de l’obsolescence sur ces services.</li></ul>
