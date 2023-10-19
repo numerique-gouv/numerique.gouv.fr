@@ -89,7 +89,7 @@ let button = document.getElementById("accordion-button");
 <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
 <div class="accordion-content" id="details-extension">
 <p>Ces évolutions concernent la création de nouveaux services qui peuvent par exemple être une usine logicielle (CI/CD…), des services de sécurité (HSM, KMS, Log Lake…), des services PaaS (BDDaaS, orchestration de containers, OCRaaS…), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
-<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement formalisé d'un ministère tiers d’utiliser ces services une fois qu’ils seront disponibles.</p>
+<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par <strong>au moins un engagement formalisé d'un ministère tiers d’utiliser ces services</strong> une fois qu’ils seront disponibles.</p>
 </div>
 </div>
 </div>
