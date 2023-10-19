@@ -113,6 +113,84 @@ Le projet peut inclure des dépenses de formation et d’acculturation des agent
 <strong>Le dossier devra également présenter des indicateurs d'impact dont les mesures actuelles seront indiquées, ainsi que les mesures et cibles dans le temps.</strong>
 Ces indicateurs peuvent par exemple consister en la fréquence des déploiements en production, le temps de mise à disposition d'une nouvelle fonctionnalité, le temps de restauration sur incident (RTO), le taux de réussite des changements ou encore, pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
+<p>Le dossier de candidature doit permettre d'évaluer les projets des candidats sur la base de quatre critères, selon le type de projet :</p>
+
+<script>
+function myFunction(id) {
+let x = document.getElementById(id);
+let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+
+}
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="accordion-item">
+<button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets de migration d’application(s) vers le Cloud de confiance :</button>
+<div class="accordion-content" id="criteres-deploiement-applications-cloud">
+
+<ol start="1"><li><strong>Importance de l’application et bénéfices du projet pour les utilisateurs :</strong></li></ol> <p>Le niveau de criticité de l’application, le niveau de sensibilité des données traitées, le nombre d’utilisateurs, les bénéfices apportés (comme par exemple la réduction des délais de mise à disposition de nouvelles fonctionnalités « time to market », ou la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs).</p>
+<ol start="2"><li><strong>Réduction du niveau de risque sur les SI</strong> : est attendue une démarche structurée d'analyse de prise en comptes des menaces et des risques SSI. Celle-ci consiste en la prise en compte à la fois des enjeux de mutualisation des infrastructures inhérents au Cloud, et de l'impact du Cloud sur le poste de sécurité, comme par exemple :</p>
+<ul><li>L’amélioration de la résilience du SI, facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
+<li>L’amélioration de la disponibilité du SI, facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
+<li>L’amélioration de la réactivité sur incident et la réduction d’erreurs humaines, grâce à la systématisation des contrôles via l'autonomisation des opérations de maintenance et des actions de détection et de correction des évènements de sécurité</li>
+<li>La réduction des possibilités d’attaques et des erreurs humaines lors des opérations de configuration, grâce à la validation de l'intégrité et la conformité des socles techniques avant leur démarrage.</li>
+<li>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul></li></ol>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne : équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents)</strong></li></ol>
+
+<ol start="4"><li><strong>Impact économique : Présentation des différents postes de coûts du projet et des gains économiques ou des coûts évités pour la migration, par exemple :</strong></li></ol>
+<ul><li>Le coût plus faible des ressources Cloud par rapport à l’hébergement existant ;</li>
+<ul><li>Les gains de productivité des équipes numériques, aussi bien sur le maintien en conditions opérationnelles que sur les évolutions fonctionnelles, et ce grâce à l’automatisation, la standardisation et la capacité à itérer rapidement et avoir une boucle rétroaction écourtée ;</li>
+<ul><li>Les gains métiers lié à l’amélioration de la disponibilité du service, ou la fréquence plus élevée de mise à disposition de services pertinents ;</li></ul>
+<ul><li>Les projets à mener pour se mettre en conformité avec les exigences de sécurité des métiers si le projet de migration n’était pas lancé.</li>
+</ul>
+</div>
+</div>
+
+<ol start="2"><li><strong>Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO.</strong></li></ol>
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-extension">
+
+<ol start="1">
+<li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
+<p>les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
+<ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
+<li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
+<li>Bénéfice économique à utiliser les services développés.</li></ul>
+<p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
+<ol start="2"><li><strong>Justification du « marché » identifié pour les évolutions : le dossier doit établir que les services sont attendus et seront utilisés par un large panel d’équipes/produits, hors ministère porteur du projet, avec des utilisateurs pilotes déjà candidats à une phase de pilote.</strong></li></ol>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne </strong>: équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</li></ol>
+<ol start="4"><li><strong>Impact économique</strong>: investissement nécessaire pour mettre à disposition le service, impact de son évolution et de son maintien en conditions opérationnelles sur les budgets de fonctionnement, mode de refacturation du service, volume de clients et d’usages pour justifier son intérêt économique.</li></ol>
+</div>
+</div>
 
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
