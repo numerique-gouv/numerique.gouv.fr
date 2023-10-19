@@ -108,7 +108,7 @@ Les débours en matériel et en logiciel (licences, souscriptions, …), le coû
 Le projet peut inclure des dépenses de formation et d’acculturation des agents, dans un volume raisonné par rapport à l’ambition du projet.
 <br>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs obligatoires</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Indicateurs d'impact</h1>
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Les <strong>candidats s'engagent à présenter et suivre les économies induites par le projet et le nombre d'agents formés</strong> et travaillant dans un contexte Cloud à son issue.</h2>
 <strong>Le dossier devra également présenter des indicateurs d'impact dont les mesures actuelles seront indiquées, ainsi que les mesures et cibles dans le temps.</strong>
 Ces indicateurs peuvent par exemple consister en la fréquence des déploiements en production, le temps de mise à disposition d'une nouvelle fonctionnalité, le temps de restauration sur incident (RTO), le taux de réussite des changements ou encore, pour les projets d'extension des offres de service des Cloud internes interministériels : le volume d'utilisation des services dans le temps.
