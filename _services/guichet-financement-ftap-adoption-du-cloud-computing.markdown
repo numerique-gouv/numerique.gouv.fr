@@ -146,7 +146,7 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
 <li><strong>L’amélioration de la disponibilité du SI</strong>, facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
 <li><strong>L’amélioration de la réactivité sur incident et la réduction d’erreurs humaines</strong>, grâce à la systématisation des contrôles via l'autonomisation des opérations de maintenance et des actions de détection et de correction des évènements de sécurité</li>
 <li><strong>La réduction des possibilités d’attaques et des erreurs humaines</strong> lors des opérations de configuration, grâce à la validation de l'intégrité et la conformité des socles techniques avant leur démarrage.</li>
-<li><strong>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration</strong>, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul></li></ol>
+<li><strong>L'amélioration du traitement de l'obsolescence et du suivi des éléments de configuration</strong>, grâce à la consommation des composants sur étagère dans le catalogue du fournisseur Cloud.</li></ul>
 <ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne : </strong> équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents)</li></ol>
 <ol start="4"><li><strong>Impact économique : Présentation des différents postes de coûts du projet et des gains économiques ou des coûts évités pour la migration, par exemple :</strong></li></ol>
 <ul><li>Le coût plus faible des ressources Cloud par rapport à l’hébergement existant ;</li>
@@ -154,8 +154,6 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
 <ul><li>Les gains métiers lié à l’amélioration de la disponibilité du service, ou la fréquence plus élevée de mise à disposition de services pertinents ;</li></ul>
 <ul><li>Les projets à mener pour se mettre en conformité avec les exigences de sécurité des métiers si le projet de migration n’était pas lancé.</li>
       </ul>
-    </div>
-  </div>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
