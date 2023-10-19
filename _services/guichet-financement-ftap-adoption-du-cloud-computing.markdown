@@ -157,8 +157,6 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
     </div>
   </div>
 
-<ol start="2"><li><strong>Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO.</strong></li></ol>
-
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
