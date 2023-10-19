@@ -97,7 +97,7 @@ let button = document.getElementById("accordion-button");
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
 <p>Entre 100 000 € et 3 M€ TTC, avec au minimum 50 000 € TTC éligible au cofinancement.</p>
 
-<p>Pour limiter les risques « d'effet tunnel », <strong>les projets soumis présentant un impact réel attendu en moins de 6 mois seront privilégiés.
+<p>Pour limiter les risques « d'effet tunnel », <strong>les projets soumis présentant un impact réel attendu en moins de 6 mois seront privilégiés.</strong>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
