@@ -22,16 +22,16 @@ layout: rgaa
 Vous souhaitez migrer vos applications vers le Cloud de confiance ?
 <br>Vous êtes un producteur de services cloud interne interministériels et souhaitez améliorer votre offre ?
 
-Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à cofinancer vos projets, en soutien à la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
+Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à cofinancer vos projets, en soutien à la mise en œuvre de [la doctrine « Cloud au centre » de l’État](/services/cloud/doctrine/).
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet ?</h1>
 Le guichet est ouvert :
 
-* **aux administrations d’État** ;
+* **aux administrations d’État**
 
-* **aux opérateurs de l’État**.
+* **aux opérateurs de l’État**
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
