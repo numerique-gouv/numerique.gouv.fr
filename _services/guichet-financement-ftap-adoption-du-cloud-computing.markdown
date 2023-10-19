@@ -151,8 +151,8 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
 <ol start="4"><li><strong>Impact économique : Présentation des différents postes de coûts du projet et des gains économiques ou des coûts évités pour la migration, par exemple :</strong></li></ol>
 <ul><li>Le coût plus faible des ressources Cloud par rapport à l’hébergement existant ;</li>
 <ul><li>Les gains de productivité des équipes numériques, aussi bien sur le maintien en conditions opérationnelles que sur les évolutions fonctionnelles, et ce grâce à l’automatisation, la standardisation et la capacité à itérer rapidement et avoir une boucle rétroaction écourtée ;</li>
-<ul><li>Les gains métiers lié à l’amélioration de la disponibilité du service, ou la fréquence plus élevée de mise à disposition de services pertinents ;</li></ul>
-<li>Les projets à mener pour se mettre en conformité avec les exigences de sécurité des métiers si le projet de migration n’était pas lancé.</li>
+<ul><li>Les gains métiers lié à l’amélioration de la disponibilité du service, ou la fréquence plus élevée de mise à disposition de services pertinents ;</li>
+<ul><li>Les projets à mener pour se mettre en conformité avec les exigences de sécurité des métiers si le projet de migration n’était pas lancé.</li></ul>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
