@@ -157,6 +157,41 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
     </div>
   </div>
 
+<ol start="2"><li><strong>Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO.</strong></li></ol>
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-extension">
+
+<ol start="1">
+<li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
+<p>les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
+<ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
+<li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
+<li>Bénéfice économique à utiliser les services développés.</li></ul>
+<p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
+<ol start="2"><li><strong>Justification du « marché » identifié pour les évolutions : le dossier doit établir que les services sont attendus et seront utilisés par un large panel d’équipes/produits, hors ministère porteur du projet, avec des utilisateurs pilotes déjà candidats à une phase de pilote.</strong></li></ol>
+<ol start="3"><li><strong>Capacité à réaliser le projet et, une fois achevé, à le gérer en interne </strong>: équipe projets et compétences réunies, planning, formation et acculturation des agents, organisation du maintien en conditions opérationnelles et de la gestion des évolutions (idéalement dans un mode DevOps et avec des agents).</li></ol>
+<ol start="4"><li><strong>Impact économique</strong>: investissement nécessaire pour mettre à disposition le service, impact de son évolution et de son maintien en conditions opérationnelles sur les budgets de fonctionnement, mode de refacturation du service, volume de clients et d’usages pour justifier son intérêt économique.</li></ol>
+</div>
+</div>
 
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
