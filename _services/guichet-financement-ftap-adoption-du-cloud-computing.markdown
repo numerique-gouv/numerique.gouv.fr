@@ -179,7 +179,7 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
 
 
 <ol start="1">
-<li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
+<li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud :</strong></li></ol>
 <p>les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
 <ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
 <li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
