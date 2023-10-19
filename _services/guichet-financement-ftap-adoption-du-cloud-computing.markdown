@@ -175,10 +175,10 @@ Ces indicateurs peuvent par exemple consister en la fréquence des déploiements
 
 </script>
 
-<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
-    <div class="accordion-content" id="details-extension">
+ <div class="accordion-item">
+    <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets d’extension ou de montée en qualité des offres de services de Cloud interministériels PI et/ou NUBO.</button>
+    <div class="accordion-content" id="criteres-mise-a-niveau">
+
 
 <ol start="1">
 <li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
