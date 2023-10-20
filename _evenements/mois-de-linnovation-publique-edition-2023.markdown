@@ -31,9 +31,9 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 <p style="margin-top: 30px"><b>Le mardi 28/11 de 14h30 à 16h30 
 <br>[<span lang="EN">Meetup</span>]</b> <i>Le demo day du programme 10%</i></p>
 
-Le programme 10%, porté par la direction interministérielle du numérique (Dinum) et l'Insee, est une collaboration inédite entre experts publics de la data et de l'IA. 
-Ces 10 derniers mois, ces experts passionnés ont fait le choix de consacrer une partie de leur temps de travail à des projets d’intérêt commun entre les ministères. La saison 2 s'achève ! Il est temps pour les équipes interministérielles de vous présenter leurs solutions.
-L’événement aura lieu en présentiel le mardi 28 novembre à 14h30 au Lieu de la transformation publique.
+**Le programme 10%**, porté par la direction interministérielle du numérique (Dinum) et l'Insee, est une collaboration inédite entre experts publics de la data et de l'IA. 
+
+Ces 10 derniers mois, ces experts passionnés ont fait le choix de consacrer une partie de leur temps de travail à des **projets d’intérêt commun** entre les ministères. **La saison 2 s'achève !** Il est temps pour les équipes interministérielles de vous présenter leurs solutions.
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
