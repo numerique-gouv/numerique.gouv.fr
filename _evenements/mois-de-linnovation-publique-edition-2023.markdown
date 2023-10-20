@@ -10,7 +10,7 @@ chapeau-text: Du 2 au 30 novembre 2023, participez au Mois de l’innovation pub
   d’évènements en ligne et en présentiel !
 categorie: Mois de l'innovation publique
 une-ou-diaporama:
-- image: "/uploads/Agenda%20MIP%202023.png"
+- image: "/uploads/MIP2023.png"
 event_start_date: 2023-11-02 00:00:00 +01:00
 event_end_date: 2023-11-30 00:00:00 +01:00
 lieu: En ligne et en présentiel
