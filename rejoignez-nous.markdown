@@ -55,6 +55,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F - Lien externe">Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -99,6 +105,12 @@ layout: page-annexe
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes  H/F - Lien externe">Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Coach Produit Senior H/F - Lien externe">Coach Produit Senior H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
@@ -170,7 +182,7 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-de-proximite-des-ressources-humaines-et-logistique-hf-reference-2023-1367600/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-formation---campus-du-numerique-public-cdd1-renouvelable-hf-reference-2023-1372112/" title="Assistant/e formation - Campus du numérique public H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-formation---campus-du-numerique-public-cdd1-renouvelable-hf-reference-2023-1372112/" title="Assistant/e formation - Campus du numérique public H/F - Lien externe">Assistant/e formation - Campus du numérique public H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-formation---campus-du-numerique-public-cdd1-renouvelable-hf-reference-2023-1372112/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
