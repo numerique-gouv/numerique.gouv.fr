@@ -28,6 +28,15 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 ### À vos agendas
 *Calendrier des rendez-vous des équipes de la DINUM pour le Mois de l’innovation publique*
 
+<p style="margin-top: 30px"><b>Le lundi 13/11 de 14h30 à 15h30 
+<br>[<span lang="EN">Webinaire</span>]</b> <i>Simplifier les démarches des citoyens et le quotidien des agents grâce aux API</i></p>
+
+L’équipe « circulation de la donnée » expliquera comment simplifier les démarches en ligne et mettre en œuvre le principe **« Dites le nous une fois »** dans vos formulaires en ligne. 
+
+Assistez à une démonstration de l’usage des API qui vous permettra de découvrir plusieurs cas d’usage de leur utilisation. Ce webinaire sera aussi l’occasion de prendre connaissance de l’actualité des bouquets **API entreprise** et **API particulier** et des nouvelles offres de données (effectif des entreprise, complémentaire santé solidaire, statut de l’élève scolarisé…)
+
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions inscriptions</a></p></div>
+
 <p style="margin-top: 30px"><b>Le mardi 28/11 de 14h30 à 16h30 
 <br>[<span lang="EN">Meetup</span>]</b> <i>Le demo day du programme 10%</i></p>
 
