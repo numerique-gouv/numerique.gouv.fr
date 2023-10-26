@@ -35,7 +35,29 @@ L’équipe « circulation de la donnée » expliquera comment simplifier les d�
 
 Assistez à une démonstration de l’usage des API qui vous permettra de découvrir plusieurs cas d’usage de leur utilisation. Ce webinaire sera aussi l’occasion de prendre connaissance de l’actualité des bouquets **API entreprise** et **API particulier** et des nouvelles offres de données (effectif des entreprise, complémentaire santé solidaire, statut de l’élève scolarisé…)
 
-<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions obligatoires</a></p></div>
+
+<p style="margin-top: 30px"><b>Le 18/11 de 14h30 à 15h30 
+<br>[<span lang="EN">Webinaire</span>]</b> <i>Exposez vos données par API grâce à la DINUM</i></p>
+
+L’équipe « circulation de la donnée » expliquera comment simplifier les démarches en ligne et mettre en œuvre le principe **« Dites le nous une fois »** dans vos formulaires en ligne. 
+
+L'équipe « circulation de la donnée » détaillera son l’offre (à la carte) pour aider les ministères et leurs opérateurs à diffuser leurs données grâce aux API.
+* Donner visibilité à vos API sur API.GOUV.FR et guider vos utilisateurs grâce aux cas d’usage. 
+* Utiliser datapass pour habiliter l’accès à vos API.  
+* Diffuser vos données dans les bouquets (API entreprise et particulier) ou vous appuyer sur l’API manager de la DINUM pour exposer vos API. 
+
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions obligatoires</a></p></div>
+
+<p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
+<br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
+
+Selon l’INSEE 30% des adultes ont abandonné une démarche administrative en ligne, le baromètre de la complexité administrative tenu par la DITP en témoigne. Comment passer à l’action, repenser ces démarches pour simplifier la vie des usagers et bien souvent par ricochet celle de l’administration ? Dans un monde de plus en plus complexe, comment repérer les démarches trop complexes ? Parce que c’est compliqué de faire simple, on vous propose d’y réfléchir le temps d’une matinée.
+
+* Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 47 Avenue Marcelin Berthelot, 38100 Grenoble 
+
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077">Plus d'informations et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mardi 28/11 de 14h30 à 16h30 
 <br>[<span lang="EN">Meetup</span>]</b> <i>Le demo day du programme 10%</i></p>
