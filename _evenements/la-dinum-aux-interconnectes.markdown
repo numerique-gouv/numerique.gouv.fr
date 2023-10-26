@@ -1,5 +1,5 @@
 ---
-title: La DINUM aux Interconnectés
+title: La DINUM aux Interconnectés 2023
 date: 2023-10-25 11:17:00 +02:00
 categories:
 - Evénement
@@ -32,18 +32,13 @@ champs_informations:
   lien: https://www.evenements.interconnectes.com/inclusionnum-lemans-09112023
 ---
 
+### Participez à un atelier portant sur l'accessibilité
+ATELIER : **Prendre en compte le(s) handicap(s) au profit de tous** – 15h15 à 16h30, en exclusivité présentiel avec Erwan Le Gall, *chargé de mission accessibilité et qualité des services numériques et plan d'actions TR3 Observatoire*
+
 Cette journée réunira autour des experts du sujet, de nombreux témoignages et retours d’expériences. Elle est destinée aux collectivités et aux acteurs de l’écosystème de la Région Pays de la Loire et de toute la France souhaitant découvrir ou approfondir ces enjeux d’inclusion numérique. 
 
-**Que vous soyez déjà engagés ou que vous souhaitiez vous lancer cette journée est faite pour vous.**
+**Que vous soyez déjà engagés ou que vous souhaitiez vous lancer, cette journée est faite pour vous.**
 
-### Investir dans des outils numériques accessibles
-Cet investissement devra s’appuyer sur la doctrine du numérique public élaborée par la DINUM pour l’État et ses opérateurs et consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.
-
-### La DINUM sera présente aux Interconnectés le 9 novembre au Mans, Chapiteau du plongeoir
-Des interventions permettront aussi de valoriser les actions de la DINUM sur le volet de l'accessibilité.
-
-ATELIER | **Prendre en compte le(s) handicap(s) au profit de tous** – 15h15 à 16h30, en exclusivité présentiel avec Erwan Le Gall, *chargé de mission accessibilité et qualité des services numériques et plan d'actions TR3 Observatoire*
-
-Vous avez la possibilité de suivre cette journée en présentiel et/ou en distanciel. L'inscription est gratuite et obligatoire. 
+Vous avez la possibilité de suivre les Interconnectés en présentiel et/ou en distanciel. L'inscription est gratuite et obligatoire. 
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.evenements.interconnectes.com/inclusionnum-lemans-09112023" class="button" title="En savoir plus sur le programme - S'inscrire"><b>En savoir plus sur le programme - S'inscrire</b></a></div>
