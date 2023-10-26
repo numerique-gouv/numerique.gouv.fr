@@ -37,7 +37,7 @@ ATELIER : **Prendre en compte le(s) handicap(s) au profit de tous** – 15h15 à
 
 Cette journée réunira autour des experts du sujet, de nombreux témoignages et retours d’expériences. Elle est destinée aux collectivités et aux acteurs de l’écosystème de la Région Pays de la Loire et de toute la France souhaitant découvrir ou approfondir ces enjeux d’inclusion numérique. 
 
-**Que vous soyez déjà engagés ou que vous souhaitiez vous lancer, cette journée est faite pour vous.**
+**Que vous soyez déjà engagés ou que vous souhaitiez vous lancer, cette journée est faite pour vous !**
 
 Vous avez la possibilité de suivre les Interconnectés en présentiel et/ou en distanciel. L'inscription est gratuite et obligatoire. 
 
