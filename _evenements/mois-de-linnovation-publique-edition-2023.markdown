@@ -56,6 +56,18 @@ Le service Etalab, en charge de la coordination de la stratégie de l'État en m
 
 <div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-rencontrez-albert-demonstration-de-notre-outil-ia-generative-747179613337">Inscriptions obligatoires</a></p></div>
 
+<p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
+<br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
+
+DESCRIPTION EN ATTENTE DE MARION
+
+* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 avenue de Ségur 75015 Paris 
+
+LIEN D'INSCRIPTION EN ATTENTE DE MARION :
+
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
+
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
 
@@ -77,18 +89,6 @@ Ces 10 derniers mois, ces experts passionnés ont fait le choix de consacrer une
 * 77 avenue de Ségur 75015 Paris 
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077">Plus d'informations et inscriptions</a></p></div>
-
-<p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
-<br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
-
-DESCRIPTION EN ATTENTE DE MARION
-
-* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
-* 77 avenue de Ségur 75015 Paris 
-
-LIEN D'INSCRIPTION EN ATTENTE DE MARION :
-
-<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mercredi 29/11 
 <br>[<span lang="EN">Forum ouvert</span>]</b> <i>Parlons dématérialisation des démarches et de la qualité des services en ligne</i></p>
