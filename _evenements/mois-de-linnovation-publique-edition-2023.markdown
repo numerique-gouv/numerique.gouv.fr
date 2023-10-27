@@ -71,12 +71,28 @@ Ces 10 derniers mois, ces experts passionnés ont fait le choix de consacrer une
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077">Plus d'informations et inscriptions</a></p></div>
 
-<p style="margin-top: 30px"><b>Le lundi 07/11 de 9h30 à 16h
-<br>[Table ronde, Démo, Retex]</b> <i>Données à voir : la data au service des usagers et des décideurs publics</i></p>
+<p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
+<br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
 
-Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, organise une journée spéciale data au Lieu de la transformation publique pour partager méthodes, outils, solutions et projets qui transforment durablement l'action et les services publics !
+DESCRIPTION EN ATTENTE DE MARION
 
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
 
+LIEN D'INSCRIPTION EN ATTENTE DE MARION :
+
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
+
+<p style="margin-top: 30px"><b>Le mercredi 29/11 
+<br>[<span lang="EN">Forum ouvert</span>]</b> <i>Parlons dématérialisation des démarches et de la qualité des services en ligne</i></p>
+
+-	A l'occasion du 10 millionième dossier de démarches-simplifiées, la DINUM organise une journée sous la forme d'un forum ouvert à l'occasion du mois de l'innovation pour partager autour des enjeux d'une dématérialisation de qualité.
+-	Ce sera l'occasion de faire le bilan de l'année 2023, mais aussi des travaux en cours pour améliorer le produit.
+-	
+-	Ce sera aussi l’occasion pour les services administratifs et utilisateurs présents de partager autour de l’utilisation de demarches-simplifiees.fr
+ielles de vous présenter leurs solutions.
+
+* Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 avenue de Ségur 75015 Paris 
+
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/forum-ouvert-autour-de-la-dematerialisation-des-de">Plus d'informations et inscriptions</a></p></div>
