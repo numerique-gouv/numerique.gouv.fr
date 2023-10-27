@@ -52,12 +52,19 @@ L'équipe « circulation de la donnée » détaillera son l’offre (à la carte
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
 
-Selon l’INSEE 30% des adultes ont abandonné une démarche administrative en ligne, le baromètre de la complexité administrative tenu par la DITP en témoigne. Comment passer à l’action, repenser ces démarches pour simplifier la vie des usagers et bien souvent par ricochet celle de l’administration ? Dans un monde de plus en plus complexe, comment repérer les démarches trop complexes ? Parce que c’est compliqué de faire simple, on vous propose d’y réfléchir le temps d’une matinée.
+Le pôle « circulation de la donnée » détaillera son l’offre (à la carte) pour aider les ministères et leurs opérateurs à diffuser leurs données grâce aux API.
+
+* Donner de la visibilité à vos API sur [API.GOUV.FR](https://api.gouv.fr/) et guider vos utilisateurs grâce aux cas d’usage.
+* Utiliser datapass pour habiliter l’accès à vos API.
+* Diffuser vos données dans les bouquets (API entreprise et particulier) ou vous appuyer sur l’API manager de la DINUM pour exposer vos API.
+* FranceConnecter vos API
+
+Nous présenterons, grâce à un site de démonstration, l'utilisation d'API pour simplifier plusieurs démarches. Ce webinaire sera aussi l’occasion de prendre connaissance de l’actualité des bouquets API entreprise et API particulier et des nouvelles offres de données (effectifs des entreprises, complémentaire santé solidaire, statut de l’élève scolarisé…)
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 47 Avenue Marcelin Berthelot, 38100 Grenoble 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077">Plus d'informations et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://lapistelab.wordpress.com/j3-mois-de-linno-2023/">Programme et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mardi 28/11 de 14h30 à 16h30 
 <br>[<span lang="EN">Meetup</span>]</b> <i>Le demo day du programme 10%</i></p>
