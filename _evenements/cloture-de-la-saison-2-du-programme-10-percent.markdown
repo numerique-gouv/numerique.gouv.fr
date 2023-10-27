@@ -2,7 +2,7 @@
 title: Clôture de la saison 2 du programme 10%
 date: 2023-10-27 10:50:00 +02:00
 categories:
-- Evénement
+- Événement
 tags:
 - Etalab
 - Datalab
