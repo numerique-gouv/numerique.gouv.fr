@@ -49,6 +49,13 @@ Le pôle « circulation de la donnée » détaillera son l’offre (à la carte)
 
 <div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-appuyez-vous-sur-la-dinum-pour-exposer-vos-donnees-par-api-746149582487">Inscriptions obligatoires</a></p></div>
 
+<p style="margin-top: 30px"><b>Le lundi 20/11 de 13h à 14h 
+<br>[<span lang="EN">Webinaire</span>]</b> <i>Rencontrez Albert : démonstration de notre outil IA générative !</i></p>
+
+Le service Etalab, en charge de la coordination de la stratégie de l'État en matière de données, est fier de vous présenter Albert, notre nouvel outil d'IA générative. Développé par une équipe d’expert au sein du Datalab, nous vous invitons à participer à une démo interactive d'Albert, suivie d'une session de questions-réponses pour approfondir vos connaissances et objectifs.
+
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-rencontrez-albert-demonstration-de-notre-outil-ia-generative-747179613337">Inscriptions obligatoires</a></p></div>
+
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
 
