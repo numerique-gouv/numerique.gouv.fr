@@ -7,6 +7,7 @@ categories:
 tags:
 - salon
 - territoires
+- smcl2023
 chapeau-text: La DINUM tiendra un stand au Salon des Maires et des Collectivités Locales
   le 21, 22 et 23 novembre, Porte de Versailles, à Paris. L’occasion de rencontrer
   les agents du numérique de l’État, au Pavillon 4 dans l’espace « Tech et transformation
