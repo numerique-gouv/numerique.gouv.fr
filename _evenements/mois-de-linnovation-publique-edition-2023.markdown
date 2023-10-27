@@ -86,11 +86,10 @@ LIEN D'INSCRIPTION EN ATTENTE DE MARION :
 <p style="margin-top: 30px"><b>Le mercredi 29/11 
 <br>[<span lang="EN">Forum ouvert</span>]</b> <i>Parlons dématérialisation des démarches et de la qualité des services en ligne</i></p>
 
--	A l'occasion du 10 millionième dossier de démarches-simplifiées, la DINUM organise une journée sous la forme d'un forum ouvert à l'occasion du mois de l'innovation pour partager autour des enjeux d'une dématérialisation de qualité.
--	Ce sera l'occasion de faire le bilan de l'année 2023, mais aussi des travaux en cours pour améliorer le produit.
--	
--	Ce sera aussi l’occasion pour les services administratifs et utilisateurs présents de partager autour de l’utilisation de demarches-simplifiees.fr
-ielles de vous présenter leurs solutions.
+A l'occasion du 10 millionième dossier de [démarches-simplifiées](https://www.demarches-simplifiees.fr/), la DINUM organise une journée sous la forme d'un forum ouvert pour partager autour des enjeux d'une dématérialisation de qualité.
+
+* Ce sera l'occasion de faire le bilan de l'année 2023, mais aussi des travaux en cours pour améliorer le produit.
+* Ce sera aussi l’occasion pour les services administratifs et utilisateurs présents de partager autour de l’utilisation de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/)
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
