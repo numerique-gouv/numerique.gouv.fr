@@ -12,10 +12,8 @@ chapeau-text: "Le programme 10%, porté par la direction interministérielle du 
   (Dinum) et l'[Insee](https://www.insee.fr/fr/accueil), est une collaboration inédite
   entre experts publics de la data et de l'IA. \nCes 10 derniers mois, ces experts
   passionnés ont fait le choix de consacrer une partie de leur temps de travail à
-  des projets d’intérêt commun entre les ministères.\nLa saison 2 s'achève ! Il est
-  temps pour les équipes interministérielles de vous présenter leurs solutions !\nL’événement
-  aura lieu en présentiel le mardi 28 novembre à 14h30 au Lieu de la transformation
-  publique.\n"
+  des projets d’intérêt commun entre les ministères.\nL’événement aura lieu en présentiel
+  le mardi 28 novembre à 14h30 au Lieu de la transformation publique."
 une-ou-diaporama:
 - image: "/uploads/cloture_saison2_programme_10%25.jfif"
   alternative-textuelle: |-
@@ -38,6 +36,8 @@ champs_informations:
   contenu: S'inscrire
   lien: https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077?aff=oddtdtcreator
 ---
+
+La saison 2 s'achève ! Il est temps pour les équipes interministérielles de vous présenter leurs solutions !
 
 ## LE PROGRAMME :
 **14h30 :** Mots d'ouverture par Stéphanie Schaer, directrice interministérielle du numérique et Romain Lesur, responsable du datalab à l'Insee
