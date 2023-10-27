@@ -15,7 +15,7 @@ chapeau-text: "Le programme 10%, porté par la direction interministérielle du 
   des projets d’intérêt commun entre les ministères.\nL’événement aura lieu en présentiel
   le mardi 28 novembre à 14h30 au Lieu de la transformation publique."
 une-ou-diaporama:
-- image: "/uploads/cloture_saison2_programme_10%25.jfif"
+- image: "/uploads/Page%20Agenda%20-%20cl%C3%B4ture%20saison2%20programme%2010%25.png"
   alternative-textuelle: |-
     Programme 10%
     Clôture Saison 2
