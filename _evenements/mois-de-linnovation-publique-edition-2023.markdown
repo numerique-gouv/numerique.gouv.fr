@@ -1,6 +1,7 @@
 ---
 title: Mois de l’innovation publique édition 2023
 date: 2023-10-20 11:08:00 +02:00
+published: false
 categories:
 - Mois de l'innovation publique
 tags:
