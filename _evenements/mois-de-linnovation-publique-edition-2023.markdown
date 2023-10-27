@@ -37,7 +37,7 @@ Assistez à une démonstration de l’usage des API qui vous permettra de décou
 
 <div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>Le 18/11 de 14h30 à 15h30 
+<p style="margin-top: 30px"><b>Le vendredi 17/11 de 14h30 à 15h30 
 <br>[<span lang="EN">Webinaire</span>]</b> <i>Exposez vos données par API grâce à la DINUM</i></p>
 
 L’équipe « circulation de la donnée » expliquera comment simplifier les démarches en ligne et mettre en œuvre le principe **« Dites le nous une fois »** dans vos formulaires en ligne. 
@@ -47,7 +47,7 @@ L'équipe « circulation de la donnée » détaillera son l’offre (à la carte
 * Utiliser datapass pour habiliter l’accès à vos API.  
 * Diffuser vos données dans les bouquets (API entreprise et particulier) ou vous appuyer sur l’API manager de la DINUM pour exposer vos API. 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-simplifier-les-demarches-des-citoyens-746003224727">Inscriptions obligatoires</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-appuyez-vous-sur-la-dinum-pour-exposer-vos-donnees-par-api-746149582487">Inscriptions obligatoires</a></p></div>
 
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
