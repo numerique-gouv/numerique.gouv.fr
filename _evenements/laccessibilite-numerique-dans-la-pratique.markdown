@@ -37,7 +37,7 @@ Agents publics impliqués dans la conception et la gestion de services en ligne 
 * Savoir ce qu'est un bon service public numérique
 * Sensibiliser aux handicaps et aux situations de handicap
 * Développer l'accessibilité numérique
-* Comprendre la loi et le RGAA
+* Comprendre la loi et le RGAA (le référentiel général d’amélioration de l’accessibilité)
 * C’est à vous de jouer !
 * Analyser facilement quelques critères
 
