@@ -27,8 +27,6 @@ Cet atelier de formation vous permettra d’appréhender précisément ce que re
 ### **Public concerné**
 Agents publics impliqués dans la conception et la gestion de services en ligne de l'État.
 
-Pour cette formation chaque personne intéressée devra s'assurer d'avoir suivi ou visionné la formation [« Introduction à la recherche utilisateur »](https://design.numerique.gouv.fr/formations/recherche-utilisateur/introduction-recherche-utilisateur/)
-
 ### **Objectifs de la formation** 
 * Maîtriser les notions de design de services publics numériques, handicap, accessibilité numérique.
 * Connaître les obligations légales : loi, référentiel général d’amélioration de l’accessibilité (RGAA), etc.
