@@ -259,7 +259,13 @@ layout: page-annexe
 
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
-  <div class="panel">
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Chef(fe) adjoint(e) de la mission Europe et international H/F">Chef(fe) adjoint(e) de la mission Europe et international H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
