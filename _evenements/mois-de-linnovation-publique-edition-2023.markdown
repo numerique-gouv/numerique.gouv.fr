@@ -101,5 +101,4 @@ A l'occasion du 10 millionième dossier de [démarches-simplifiées](https://www
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/forum-ouvert-autour-de-la-dematerialisation-des-de">Plus d'informations et inscriptions</a></p></div>
 <br>
 <br>
-<br>
 Le Mois de l’innovation publique est porté par la direction interministérielle de la transformation publique (DITP) et fédère chaque année près de 400 événements dans toute la France. L'objectif : partager méthodes, bonnes pratiques, solutions et expérimentations qui transforment durablement l'action et les services publics.
