@@ -66,3 +66,5 @@ La saison 2 s'achève ! Il est temps pour les équipes interministérielles de v
 **16h30 :** Cocktail de clôture
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077?aff=oddtdtcreator" class="button" title="S'inscrire à l'événement de clôture"><b>S'inscrire à l'événement de clôture</b></a></div>
+
+Cet événement, organisé par la DINUM, s’inscrit dans le cadre du mois de l’innovation publique porté par la direction interministérielle de la transformation publique (DITP).
