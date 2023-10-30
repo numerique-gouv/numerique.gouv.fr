@@ -1,7 +1,6 @@
 ---
 title: Clôture de la saison 2 du programme 10%
 date: 2023-10-27 10:50:00 +02:00
-published: false
 categories:
 - Événement
 tags:
@@ -10,7 +9,7 @@ tags:
 - intelligence artificielle
 - IA
 chapeau-text: "Le programme 10%, porté par la direction interministérielle du numérique
-  (Dinum) et l'[Insee](https://www.insee.fr/fr/accueil), est une collaboration inédite
+  (DINUM) et l'[Insee](https://www.insee.fr/fr/accueil), est une collaboration inédite
   entre experts publics de la data et de l'IA. \nCes 10 derniers mois, ces experts
   passionnés ont fait le choix de consacrer une partie de leur temps de travail à
   des projets d’intérêt commun entre les ministères.\nL’événement aura lieu en présentiel
@@ -54,10 +53,16 @@ La saison 2 s'achève ! Il est temps pour les équipes interministérielles de v
 
 **16h00 :** Le meet-up inter-communautés : venez à la rencontre des communautés de la tech au service de l’intérêt général !
 
-[Beta.gouv.fr](https://beta.gouv.fr/) (incubateur de services publics numériques), [Entrepreneurs d'intérêt général](https://eig.etalab.gouv.fr/) (spécialistes de la technologie, du design et du droit du numérique relevant des défis d'intérêt général), [Accélérateur d'initiatives citoyennes](https://citoyens.transformation.gouv.fr/) (porteurs de projets portés par des citoyens ou des associations accompagnés par l'administration), [Blue hats](https://code.gouv.fr/fr/bluehats/) (communauté du logiciel libre), SSP Hub (datascientists de la statistique publique), [Data for Good](https://dataforgood.fr/) ( bénévoles de la Tech mettant leurs compétences au profit de la résolution de problèmes sociaux), [Kesk'IA](https://wordpress.evolukid.com/keskia/) (pépinière de talents de l'intelligence artificielle issus de quartiers prioritaires au service des communes).
+* [Beta.gouv.fr](https://beta.gouv.fr/) : incubateur de services publics numériques,
+* [Entrepreneurs d'intérêt général](https://eig.etalab.gouv.fr/) : spécialistes de la technologie, du design et du droit du numérique relevant des défis d'intérêt général,
+* [Accélérateur d'initiatives citoyennes](https://citoyens.transformation.gouv.fr/) : porteurs de projets portés par des citoyens ou des associations accompagnées par l'administration,
+* [Bluehats](https://code.gouv.fr/fr/bluehats/) : communauté du logiciel libre,
+* [SSP Hub](https://ssphub.netlify.app/) : réseau des data scientists de la statistique publique,
+* [Data for Good](https://dataforgood.fr/) : bénévoles de la Tech mettant leurs compétences au profit de la résolution de problèmes sociaux,
+* [Kesk'IA](https://wordpress.evolukid.com/keskia/) : pépinière de talents de l'intelligence artificielle issus de quartiers prioritaires au service des communes.
 
 **16h15 :** Conclusion par Guillaume Rozier, conseiller du président de la République sur le numérique et les données publiques.
 
-**16h30 :** Cocktail
+**16h30 :** Cocktail de clôture
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077?aff=oddtdtcreator" class="button" title="S'inscrire à l'événement de clôture"><b>S'inscrire à l'événement de clôture</b></a></div>
