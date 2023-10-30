@@ -58,7 +58,7 @@ Le service Etalab, en charge de la coordination de la stratégie de l'État en m
 <p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
 <br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
 
-Le programme est en cours de construction. 
+Le programme est en cours de construction et sera disponible très prochainement.
 
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
