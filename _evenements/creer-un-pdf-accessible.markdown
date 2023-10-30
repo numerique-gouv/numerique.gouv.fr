@@ -2,10 +2,23 @@
 title: Créer un PDF accessible
 date: 2023-10-30 17:48:00 +01:00
 published: false
+categories:
+- Formation
+tags:
+- Accessibilité
 chapeau-text: |-
   Contrôler l'accessibilité des interfaces comme premier pas vers l’audit de conformité au Référentiel général d’amélioration de l’accessibilité (RGAA).
 
   Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
+categorie: Atelier de formation DesignGouv
+event_start_date: 2023-12-14 09:30:00 +01:00
+event_end_date: 2023-12-14 00:30:00 +01:00
+lieu: Sur place
+adresse: Paris, 7e arrondissement
+champs_informations:
+- intitule: Programme
+  contenu: Détail des ateliers de formation DesignGouv
+  lien: https://design.numerique.gouv.fr/articles/2023-10-19-ateliers-de-formations/
 ---
 
 Au cours de cet atelier, vous découvrirez concrètement comment prendre en compte les usagers en situation de handicap lors de la production de fichiers PDF. Et cela que vous soyez créatrice ou créateur de documents bureautiques ou que vous soyez codeuse ou codeur utilisant une bibliothèque logicielle sur étagère. La présentation portera sur les principes techniques des PDF accessibles, leur transposition dans la pratique et les outils de vérification sur les fichiers PDF résultants.
@@ -36,4 +49,4 @@ Deux personnes sont en charge de cet atelier :
 
 **Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. **
 
-<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/atelier-coder-accessible/">Inscriptions obligatoires</a></p></div>
+<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/atelier-pdf-accessible/">Inscriptions obligatoires</a></p></div>
