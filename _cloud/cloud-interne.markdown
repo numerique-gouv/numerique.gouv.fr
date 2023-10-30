@@ -296,7 +296,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <h3 style="margin-top:40px">Le Cloud Nubo</h3>
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
 
-Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2&nbsp;000 machines virtuelles.
+Fin juin 2023, l’offre Cloud Nubo héberge 277 projets applicatifs, répartis sur 9200 machines virtuelles, au sein de 1362 espaces cloud.
 
 * **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
@@ -313,9 +313,9 @@ Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis s
 <h3 style="margin-top:40px">Cloud π (Pi)</h3>
 Dédié aux services de l’État, opéré par le ministère de l’Intérieur, Cloud π offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud π est orientée infrastructure à la demande, directement disponible via un portail ou des API.
 
-À fin juillet 2021, Cloud π compte plus de 8 000 machines virtuelles.
+A fin septembre 2023, Cloud π première génération compte 9 800 machines virtuelles et le Cloud π seconde génération compte 6 000 machines virtuelles.
 
-* **Socle technique** : L’offre π est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
+* **Socle technique** : L’offre π était basée sur une distribution OpenStack HPE Helion. La migration entre les deux génération de Cloud est en cours. Le décommissionnent de la première génération est prévue pour la fin de l’année 2023.
 
 * **Modèle de résilience** : Les infrastructures de π sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
