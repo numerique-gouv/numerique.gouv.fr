@@ -6,6 +6,15 @@ chapeau-text: |-
   Contrôler l'accessibilité des interfaces comme premier pas vers l’audit de conformité au Référentiel général d’amélioration de l’accessibilité (RGAA).
 
   Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
+categorie: Atelier de formation DesignGouv
+event_start_date: 2023-12-05 09:30:00 +01:00
+event_end_date: 2023-12-05 00:30:00 +01:00
+lieu: Sur place
+adresse: Paris, 7e arrondissement
+champs_informations:
+- intitule: Programme
+  contenu: Détail des ateliers de formation DesignGouv
+  lien: https://design.numerique.gouv.fr/articles/2023-10-19-ateliers-de-formations/
 ---
 
 Au cours de cet atelier, vous allez réaliser certains des contrôles essentiels de l'audit RGAA (référentiel général d’amélioration de l’accessibilité). Vous connaîtrez ainsi les différents types d'audit, leur contextes, les outils et ressources associés, la priorisation des correctifs, la notion de "critère bloquant". Vous aurez l'occasion de vous mettre dans la peau d'un auditeur ou auditrice et procéder à certains des contrôles - pas d'inquiétude : nous nous focaliserons sur ceux ne nécessitant pas de connaissances techniques approfondies.
