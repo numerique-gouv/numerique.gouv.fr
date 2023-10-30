@@ -63,8 +63,6 @@ Le programme est en cours de construction et sera disponible très prochainement
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
-
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
 
@@ -78,14 +76,14 @@ Selon l’INSEE 30% des adultes ont abandonné une démarche administrative en l
 <p style="margin-top: 30px"><b>Le mardi 28/11 de 14h30 à 16h30 
 <br>[<span lang="EN">Meetup</span>]</b> <i>Le demo day du programme 10%</i></p>
 
-**Le programme 10%**, porté par la direction interministérielle du numérique (Dinum) et l'Insee, est une collaboration inédite entre experts publics de la data et de l'IA. 
+**Le programme 10%**, porté par la direction interministérielle du numérique (DINUM) et l'Insee, est une collaboration inédite entre experts publics de la data et de l'IA. 
 
 Ces 10 derniers mois, ces experts passionnés ont fait le choix de consacrer une partie de leur temps de travail à des **projets d’intérêt commun** entre les ministères. **La saison 2 s'achève !** Il est temps pour les équipes interministérielles de vous présenter leurs solutions.
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cloture-de-la-saison-2-du-programme-10-730265603077">Plus d'informations et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/cloture-de-la-saison-2-du-programme-10-percent/">Plus d'informations et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mercredi 29/11 
 <br>[<span lang="EN">Forum ouvert</span>]</b> <i>Parlons dématérialisation des démarches et de la qualité des services en ligne</i></p>
