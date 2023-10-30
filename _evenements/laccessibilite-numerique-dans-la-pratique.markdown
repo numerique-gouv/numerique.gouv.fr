@@ -6,6 +6,11 @@ chapeau-text: |-
   Intégrer concrètement l’accessibilité dans les services publics numériques.
 
   Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
+categorie: Atelier de formation DesignGouv
+event_start_date: 2023-11-21 00:00:00 +01:00
+event_end_date: 2023-11-21 00:00:00 +01:00
+lieu: Sur place
+adresse: Paris, 7e arrondissement
 ---
 
 Cet atelier de formation vous permettra d’appréhender précisément ce que recouvre l'accessibilité numérique et de répondre aux problèmes concrets rencontrés : tests, formations, marchés, argumentaires, relations prestataires... L’atelier permettra aux participants de mettre en pratique en séance des tests de base d’accessibilité numérique. L’objectif est, entre autres, que chacun soit ensuite en mesure d’évaluer facilement et rapidement les livrables des prestataires et de leur présenter de manière concrète les éventuels problèmes à résoudre.
@@ -40,4 +45,4 @@ Deux personnes sont en charge de cet atelier :
 
 **Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. **
 
-<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/">Inscriptions obligatoires</a></p></div>
+<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-pratique/">Inscriptions obligatoires</a></p></div>
