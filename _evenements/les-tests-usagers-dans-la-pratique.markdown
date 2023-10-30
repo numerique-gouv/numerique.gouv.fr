@@ -11,7 +11,7 @@ tags:
 chapeau-text: |-
   Préparer et animer des tests avec des usagers puis analyser les résultats.
 
-  Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne
+  Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
 categorie: Atelier de formation DesignGouv
 event_start_date: 2023-11-21 00:00:00 +01:00
 lieu: Sur place
@@ -44,12 +44,13 @@ Pour cette formation chaque personne intéressée devra s'assurer d'avoir suivi 
 * Analyser et restituer un test usager
 * Intégrer les résultats de test dans les processus de conception
 
-Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. 
-
 ### **Présentation de l'équipe de formation*
 
 Deux personnes sont en charge de cet atelier :
 * Kheira Belkacem, Experte recherche utilisateur au sein de DesignGouv
 * Marine Dias, Experte recherche utilisateur au sein de DesignGouv
+
+
+**Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. **
 
 <div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/">Inscriptions obligatoires</a></p></div>
