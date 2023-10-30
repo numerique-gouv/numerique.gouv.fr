@@ -2,6 +2,10 @@
 title: Vérifier l'accessibilité
 date: 2023-10-30 17:37:00 +01:00
 published: false
+categories:
+- Formation
+tags:
+- Accessibilité
 chapeau-text: |-
   Contrôler l'accessibilité des interfaces comme premier pas vers l’audit de conformité au Référentiel général d’amélioration de l’accessibilité (RGAA).
 
