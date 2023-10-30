@@ -31,11 +31,23 @@ layout: page-annexe
 
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Adjoint/e au Directeur/trice de programme – Administration proactive H/F - Lien externe">Adjoint/e au Directeur/trice de programme – Administration proactive H/F</a></b>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Adjoint(e) à la Directrice de programme – Administration proactive H/F - Lien externe">Adjoint(e) à la Directrice de programme – Administration proactive H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission---programme-administration-proactive-hf-reference-2023-1380302/" title="Chargé(e) de mission - Programme Administration proactive H/F - Lien externe">Chargé(e) de mission - Programme Administration proactive H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission---programme-administration-proactive-hf-reference-2023-1380302/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Chargé (e) de mission FTAP et plan de relance H/F - Lien externe">Chargé (e) de mission FTAP et plan de relance H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A+</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-codes-sources-hf-reference-2023-1365406/" title="Product owner Codes Sources H/F - Lien externe">Product owner Codes Sources H/F</a></b>
@@ -92,7 +104,7 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1249261/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Ingénieur data H/F - Lien externe">Ingénieur data H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Ingénieur(e) data H/F - Lien externe">Ingénieur(e) data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
@@ -139,7 +151,13 @@ layout: page-annexe
 
 <h1 class="h3"><b>Infrastructures / Réseaux</b></h1>
 <div class="wrapper">
-  <div class="panel">
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe">Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie B</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F - Lien externe">Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -157,11 +175,29 @@ layout: page-annexe
 
 <h1 class="h3"><b>Produits interministériels</b></h1>
 <div class="wrapper">
-  <div class="panel">
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Intrapreneur(e) Fédération d'identité des citoyens - chef(fe) de pôle H/F - Lien externe">Intrapreneur(e) Fédération d'identité des citoyens - chef(fe) de pôle H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeureuse-junior-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1221883/" title="Développeur/euse junior Interopérabilité des produits au sein de l'Etat H/F - Lien externe">Développeur/euse junior Interopérabilité des produits au sein de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeureuse-junior-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1221883/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F">Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-senior-federation-d-identite-des-citoyens-hf-reference-2023-1282366/" title="Devops sénior fédération d'identité des citoyens H/F - Lien externe">Devops sénior fédération d'identité des citoyens H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-senior-federation-d-identite-des-citoyens-hf-reference-2023-1282366/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-information-et-conseiller-a-la-securite-du-numerique-hf-reference-2023-1365401/" title="Responsable de la sécurité des systèmes d'information et Conseiller à la sécurité du numérique H/F - Lien externe">Responsable de la sécurité des systèmes d'information et Conseiller à la sécurité du numérique H/F</a></b>
@@ -187,7 +223,19 @@ layout: page-annexe
 
 <h1 class="h3"><b>RH de la filière numérique de l'État</b></h1>
 <div class="wrapper">
-  <div class="panel">
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="PMO - Chef/Cheffe de projet DRHN H/F - Lien externe">PMO - Chef/Cheffe de projet DRHN H/F"</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="Chargé(e) de mission « RH et attractivité » H/F - Lien externe">Chargé(e) de mission « RH et attractivité » H/F"</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1254901/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-mobilite-et-parcours-reference-2023-1215497/" title="Chargé/e de mission Mobilité et parcours H/F - Lien externe">Chargé/e de mission Mobilité et parcours H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -211,7 +259,13 @@ layout: page-annexe
 
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
-  <div class="panel">
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Chef(fe) adjoint(e) de la mission Europe et international H/F">Chef(fe) adjoint(e) de la mission Europe et international H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
