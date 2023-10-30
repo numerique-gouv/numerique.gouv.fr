@@ -45,4 +45,12 @@ Pour cette formation chaque personne intéressée devra s'assurer d'avoir suivi 
 * Analyser et restituer un test usager
 * Intégrer les résultats de test dans les processus de conception
 
+Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. 
 
+### **Présentation de l'équipe de formation*
+
+Deux personnes sont en charge de cet atelier :
+* Kheira Belkacem, Experte recherche utilisateur au sein de DesignGouv
+* Marine Dias, Experte recherche utilisateur au sein de DesignGouv
+
+<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/">Inscriptions obligatoires</a></p></div>
