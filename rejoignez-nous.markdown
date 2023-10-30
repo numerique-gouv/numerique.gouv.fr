@@ -32,6 +32,12 @@ layout: page-annexe
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Adjoint(e) à la Directrice de programme – Administration proactive H/F - Lien externe">Adjoint(e) à Directrice de programme – Administration proactive H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission---programme-administration-proactive-hf-reference-2023-1380302/" title="Chargé(e) de mission - Programme Administration proactive H/F - Lien externe">Chargé(e) de mission - Programme Administration proactive H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
