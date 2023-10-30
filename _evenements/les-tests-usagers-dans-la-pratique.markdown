@@ -26,7 +26,23 @@ champs_informations:
 Cette session est consacrée aux tests usagers, une des méthodes de recherche évaluative. L’exploration se fera à travers des exercices pratiques comme la préparation des tests, les postures à adopter pour leur animation et les bonnes pratiques d’analyse suite aux observations. 
 Ce sera aussi l’occasion d’apprendre à prioriser les enseignements pour mieux les intégrer dans le processus de conception de services publics numériques de qualité.
 
-### Public concerné
+### **Public concerné**
 Agents publics impliqués dans la conception d’un service en ligne de l'État, en particulier les designers et chefs de projet.
 
-Pour cette formation chaque personne intéressée devra s'assurer d'avoir suivi ou visionné l formation [« Introduction à la recherche utilisateur »](https://design.numerique.gouv.fr/formations/recherche-utilisateur/introduction-recherche-utilisateur/)
+Pour cette formation chaque personne intéressée devra s'assurer d'avoir suivi ou visionné la formation [« Introduction à la recherche utilisateur »](https://design.numerique.gouv.fr/formations/recherche-utilisateur/introduction-recherche-utilisateur/)
+
+### **Objectifs de la formation** 
+* Découvrir les bénéfices du test usager
+* Acquérir les bonnes pratiques pour préparer, réaliser et analyser les tests
+* Connaître les bonnes postures à adopter pendant un test
+* Mettre en œuvre ces enseignements au cours d’ateliers pratiques
+
+### **Programme**
+* Découvrir ce que désigne un test usager, ses objectifs, ses principes, et ses méthodes
+* Présentation du cas à travailler en commun pendant cet atelier
+* Préparer et rédiger un protocole test usager
+* Conduire un test usager
+* Analyser et restituer un test usager
+* Intégrer les résultats de test dans les processus de conception
+
+
