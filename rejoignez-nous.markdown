@@ -154,7 +154,7 @@ layout: page-annexe
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe">Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie B</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande(35136)(télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande(télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
