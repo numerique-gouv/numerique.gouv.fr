@@ -1,7 +1,6 @@
 ---
 title: Mois de l’innovation publique édition 2023
 date: 2023-10-20 11:08:00 +02:00
-published: false
 categories:
 - Mois de l'innovation publique
 tags:
@@ -59,12 +58,10 @@ Le service Etalab, en charge de la coordination de la stratégie de l'État en m
 <p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
 <br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
 
-DESCRIPTION EN ATTENTE DE MARION
+Le programme est en cours de construction et sera disponible très prochainement.
 
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
-
-LIEN D'INSCRIPTION EN ATTENTE DE MARION :
 
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
