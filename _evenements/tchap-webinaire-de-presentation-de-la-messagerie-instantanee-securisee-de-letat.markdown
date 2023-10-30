@@ -42,5 +42,5 @@ Ayant convaincu plus de 400 000 utilisateurs, l’ambition de Tchap est de s’o
 
 * **Pour rejoindre Tchap :** [cliquez ici](https://tchap.beta.gouv.fr/?mtm_campaign=numerique-gouv-fr)
 * **Pour en savoir plus :** [consultez cette page](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) ou la [FAQ](https://aide.tchap.beta.gouv.fr/fr/), les équipes sont disponibles via [tchap@beta.gouv.fr](tchap@beta.gouv.fr)
-* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, les 7 et 14 septembre à 10h  : [cliquez ici](https://tally.so/r/wA2PrD)
+* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, le 23 novembre et le 5 décembre à xxh  : [cliquez ici](lien à mettre)
 * **Votre administration n’a pas encore accès à Tchap :** complétez cette [démarche en ligne](https://www.demarches-simplifiees.fr/commencer/utiliser-tchap) en quelques clics
