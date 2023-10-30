@@ -12,8 +12,8 @@ chapeau-text: |-
 
   Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
 categorie: Atelier de formation DesignGouv
-event_start_date: 2023-11-21 00:00:00 +01:00
-event_end_date: 2023-11-21 00:00:00 +01:00
+event_start_date: 2023-11-21 09:30:00 +01:00
+event_end_date: 2023-11-21 17:30:00 +01:00
 lieu: Sur place
 adresse: Paris, 7e arrondissement
 champs_informations:
