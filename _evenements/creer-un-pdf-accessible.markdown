@@ -8,7 +8,7 @@ chapeau-text: |-
   Pour la fin d’année, la Direction interministérielle du numérique (DINUM) a conçu un programme de 5 ateliers de formation pour vous aider à améliorer les services publics en ligne.
 ---
 
-Au cours de cet atelier, vous allez réaliser certains des contrôles essentiels de l'audit RGAA (référentiel général d’amélioration de l’accessibilité). Vous connaîtrez ainsi les différents types d'audit, leur contextes, les outils et ressources associés, la priorisation des correctifs, la notion de "critère bloquant". Vous aurez l'occasion de vous mettre dans la peau d'un auditeur ou auditrice et procéder à certains des contrôles - pas d'inquiétude : nous nous focaliserons sur ceux ne nécessitant pas de connaissances techniques approfondies.
+Au cours de cet atelier, vous découvrirez concrètement comment prendre en compte les usagers en situation de handicap lors de la production de fichiers PDF. Et cela que vous soyez créatrice ou créateur de documents bureautiques ou que vous soyez codeuse ou codeur utilisant une bibliothèque logicielle sur étagère. Nous présenterons les principes techniques des PDF accessibles, leur transposition dans la pratique et les outils de vérification sur les fichiers PDF résultants.
 
 ### **Public concerné**
 Agents publics impliqués dans la conception et la gestion de services en ligne de l'État, y compris les profils techniques (développeurs et développeuses).
