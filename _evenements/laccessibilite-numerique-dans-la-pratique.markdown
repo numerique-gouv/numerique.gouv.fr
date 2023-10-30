@@ -2,6 +2,11 @@
 title: L’accessibilité numérique dans la pratique
 date: 2023-10-30 17:02:00 +01:00
 published: false
+categories:
+- Formation
+tags:
+- Design
+- Accessibilité
 chapeau-text: |-
   Intégrer concrètement l’accessibilité dans les services publics numériques.
 
@@ -11,6 +16,10 @@ event_start_date: 2023-11-21 00:00:00 +01:00
 event_end_date: 2023-11-21 00:00:00 +01:00
 lieu: Sur place
 adresse: Paris, 7e arrondissement
+champs_informations:
+- intitule: Programme
+  contenu: Détail des ateliers de formation DesignGouv
+  lien: https://design.numerique.gouv.fr/articles/2023-10-19-ateliers-de-formations/
 ---
 
 Cet atelier de formation vous permettra d’appréhender précisément ce que recouvre l'accessibilité numérique et de répondre aux problèmes concrets rencontrés : tests, formations, marchés, argumentaires, relations prestataires... L’atelier permettra aux participants de mettre en pratique en séance des tests de base d’accessibilité numérique. L’objectif est, entre autres, que chacun soit ensuite en mesure d’évaluer facilement et rapidement les livrables des prestataires et de leur présenter de manière concrète les éventuels problèmes à résoudre.
@@ -38,9 +47,10 @@ Lors de cette journée, vous aurez besoin d'un ordinateur portable avec une conn
 
 ### **Présentation de l'équipe de formation*
 
-Deux personnes sont en charge de cet atelier :
-* Kheira Belkacem, Experte recherche utilisateur au sein de DesignGouv
-* Marine Dias, Experte recherche utilisateur au sein de DesignGouv
+Trois personnes sont en charge de cet atelier :
+* Anthony Brunelli, Chargé de mission Formation et communication
+* Erwan le Gall, Chargé de mission Accessibilité numérique au pôle design des services numériques de la DINUM
+* Benoît Dequick, Expert accessibilité au sein de DesignGouv
 
 
 **Le format a pour prétention à la collaboration des personnes. Les équipes seront donc restreintes. Le maximum de personnes acceptée sera de vingt au plus. **
