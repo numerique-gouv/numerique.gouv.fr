@@ -50,7 +50,7 @@ beta.gouv.fr accompagne les administrations publiques à construire des services
 Concrètement, des équipes sont constituées d’agents publics endossant un rôle « d’intrapreneur » et d’experts du numérique de beta.gouv.fr pour créer des services numériques prioritaires à impact, appelés Startups d’État. Ces dernières partent des besoins du terrain pour expérimenter des solutions jusqu’à trouver le modèle le plus adéquat qui répondra aux besoins des usagers avant d’être déployé à plus grande échelle s’il prouve son impact. 
 [En savoir plus](https://beta.gouv.fr/approche)
 
-> Le jeudi 23/11 de 12h30 à 13h : **conférence « RDV services publics »** par Philippe Vrignaud, chef du pôle Relations agents usagers au sein de l’opérateur des produits interministériels de la DINUM, agent aussi en charge de Démarches Simplifiées. 
+> Le jeudi 23/11 de 12h30 à 13h : conférence **« RDV services publics »** par Philippe Vrignaud, chef du pôle Relations agents usagers au sein de l’opérateur des produits interministériels de la DINUM, agent aussi en charge de Démarches Simplifiées. 
 
 *Programme complet à venir*
 
