@@ -6,6 +6,8 @@ categories:
 tags:
 - salon
 - territoires
+- TNT
+- Transformation numérique des territoires
 chapeau-text: |
   À l’occasion du [salon des Maires et des Collectivités  Locales](https://www.salondesmaires.com/) qui se tient du 21 au 23 novembre à Paris Porte de Versailles, les équipes de la DINUM de (re)présenteront [sa nouvelle feuille de route](https://www.numerique.gouv.fr/dinum/) et son offre à destination des territoires au sein d’un stand dédié, situé dans l’espace « Tech et transformation numérique » mais aussi et surtout échangeront avec les agents en charge de la transformation numérique publique.
 
