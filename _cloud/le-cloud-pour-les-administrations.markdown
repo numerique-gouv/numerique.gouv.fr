@@ -16,6 +16,8 @@ Afin de développer l’usage du Cloud par l’ensemble des administrations – 
 
 Intitulée « Cloud au centre », cette doctrine fait du Cloud le prérequis pour tout nouveau projet numérique. Elle a été officialisée par le Premier ministre à travers [la circulaire du 5 juillet 2021](https://www.legifrance.gouv.fr/circulaire/id/45205 "la circulaire du 5 juillet 2021 - Lien externe"), sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.
 
+Le 31 mai 2023, la Première ministre a signé une circulaire qui actualise la doctrine d’utilisation de l’informatique en nuage par l’État et notamment la notion de « données sensibles ». Cette nouvelle circulaire remplace la circulaire du 5 juillet 2021.
+
 Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics deux offres de services Cloud, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
 
 <div class="noir encadre">

@@ -300,7 +300,7 @@ Fin juin 2023, l’offre Cloud Nubo héberge 277 projets applicatifs, répartis 
 
 * **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
-* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
+* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité. Pour faciliter la résilience multi-sites des projets bénéficiaires, une nouvelle offre de répartition de charge bi-sites est prévue à horizon fin 2023.
 
 * **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
 
@@ -315,7 +315,7 @@ Dédié aux services de l’État, opéré par le ministère de l’Intérieur, 
 
 A fin septembre 2023, Cloud π première génération compte 9 800 machines virtuelles et le Cloud π seconde génération compte 6 000 machines virtuelles.
 
-* **Socle technique** : L’offre π était basée sur une distribution OpenStack HPE Helion. La migration entre les deux génération de Cloud est en cours. Le décommissionnent de la première génération est prévue pour la fin de l’année 2023.
+* **Socle technique** : L’offre π était basée sur une distribution OpenStack HPE Helion. La migration entre les deux générations de Cloud est en cours. Le décommissionnent de la première génération est prévue pour la fin de l’année 2023.
 
 * **Modèle de résilience** : Les infrastructures de π sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
