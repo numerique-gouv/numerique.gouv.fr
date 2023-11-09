@@ -12,7 +12,7 @@ chapeau-text: |-
   Agents publics, rejoignez la communauté Tchap pour échanger avec vos collègues, tous les autres agents publics et tous vos interlocuteurs même externes à l’État, de manière simple et sécurisée.
   Pour en savoir plus sur l’utilisation de Tchap, participez au webinaire de présentation avec les équipes le jeudis 23 novembre et le mardi 5 décembre à xxh, elles répondront à toutes vos questions portant sur l’utilisation de l’outil !
 une-ou-diaporama:
-- image: "/uploads/General.png"
+- image: "/uploads/Tchap%20webinaire%20d'infos%20-%2030_11.png"
   alternative-textuelle: "Agents publics, rejoignez la communauté Tchap, la messagerie
     instantanée sécurisée de l'Etat. \n\n- Ouverte à tous\n- Disponible sur mobile,
     tablette et web\n- Annuaire intégré des agents publics\n- Centralisation des échanges\n-
