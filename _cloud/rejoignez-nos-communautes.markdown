@@ -22,7 +22,7 @@ La [communauté « Adoption du Cloud »](https://osmose.numerique.gouv.fr/jcms/p
 * Répondre à vos interrogations sur la stratégie nationale pour le Cloud, les offres et accompagnement disponibles
 * Vous accompagner dans la déclinaison opérationnelle de la doctrine Cloud au centre
 * Partager les dernières actualités de Cloud Nubo et π (Pi)
-Construire, collecter et partager des savoir-faire autour des sujets techniques (landing zone, architectures de référence, socles techniques, etc.) 
+* Construire, collecter et partager des savoir-faire autour des sujets techniques (landing zone, architectures de référence, socles techniques, etc.) 
 * Partager des retours d’expérience et des actualités
 * Former et informer sur les nouvelles compétences pour le Cloud
 * (...) et bien d'autres sujets !
