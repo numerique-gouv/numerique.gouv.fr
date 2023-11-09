@@ -315,7 +315,7 @@ Dédié aux services de l’État, opéré par le ministère de l’Intérieur, 
 
 A fin septembre 2023, Cloud π première génération compte 9 800 machines virtuelles et le Cloud π seconde génération compte 6 000 machines virtuelles.
 
-* **Socle technique** : L’offre π était basée sur une distribution OpenStack HPE Helion. La migration entre les deux génération de Cloud est en cours. Le décommissionnent de la première génération est prévue pour la fin de l’année 2023.
+* **Socle technique** : L’offre π était basée sur une distribution OpenStack HPE Helion. La migration entre les deux générations de Cloud est en cours. Le décommissionnent de la première génération est prévue pour la fin de l’année 2023.
 
 * **Modèle de résilience** : Les infrastructures de π sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
