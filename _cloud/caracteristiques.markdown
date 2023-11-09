@@ -66,7 +66,7 @@ Nous avons résumé dans le tableau ci-dessous les caractéristiques principales
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
 </figure><div class="titre-critere">Catalogue de services</div>
-Les offres de Cloud commercial, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
+Les offres de Cloud commercial, issues des catalogues de services des principaux acteurs des marchés français, européen et mondial, proposent une plus grande diversité d’infrastructures, de plateformes et de services innovants que les offres de Cloud interne.
 </div>
 <div class="panel"><figure style="width: 12%; margin-bottom: 5px">
 <img src="/uploads/Modeles_economiques.svg"/></figure><div class="titre-critere">Modèles économiques</div>
