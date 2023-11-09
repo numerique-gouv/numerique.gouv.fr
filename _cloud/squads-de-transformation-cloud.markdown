@@ -84,3 +84,14 @@ Les activités de la section Cloud de la BIN sont ouvertes à toute administrati
 
 
 **N’hésitez pas à nous solliciter pour mener à bien votre projet et accompagner vos équipes !**
+
+### Accompagnement financier
+<h4 style="margin-bottom: 5px">Le guichet unique dédié au Cloud de confiance du Fonds pour la transformation de l’action publique (FTAP)</h4>
+
+Dans le cadre de l’actualisation de la doctrine d’utilisation de l’informatique en nuage par la Première Ministre et grâce aux Fonds pour la transformation de l’action publique, la DINUM a mis en place un guichet d’adoption du Cloud de confiance.
+
+Celui-ci concerne les administrations d’Etat et leurs opérateurs, qui peuvent candidater pour recevoir un cofinancement à hauteur de 50 % des coûts projet pour la migration d’applications vers des solutions Cloud de confiance (Clouds internes et offres commerciales qualifiées SecNumCloud). Ces offres peuvent complémenter l’utilisation existante d’offres de cloud commerciales, notamment en rendant possible l’hébergement d’applications manipulant des données sensibles dans le respect de la doctrine Cloud au centre.
+
+
+<div class="encadre"><div style="margin-bottom: 40px; margin-top: 60px;" align="center"><b>Pour tout complément d’information sur le sujet, vous pouvez contacter la DINUM à l’adresse&nbsp;?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" title="Contactez-nous à infonuage.dinum@modernisation.gouv.fr - Ouvre une messagerie courriel"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div></div>
+
