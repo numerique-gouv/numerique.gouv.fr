@@ -17,7 +17,9 @@ Field name:
 layout: cloud
 ---
 
+
 <h3 style="margin-top:-20px">La section Cloud de la Brigade d’intervention numérique - une mission : vous accompagner dans la transformation vers le Cloud</h3>
+
 **La doctrine « Cloud au centre » fait du Cloud la solution par défaut pour tout nouveau projet numérique.** L’approche privilégiée qui en découle, le **mode produit** promeut l’autonomie des équipes, la prise en charge continue des opérations, la confrontation rapide avec les utilisateurs du produit, ainsi qu’un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 Pour soutenir l’acquisition par les administrations de l’ensemble des savoir-faire liés à ce mode de fonctionnement, la DINUM met à votre disposition la section Cloud de sa Brigade d’intervention numérique (BIN). Cette équipe pluridisciplinaire est composée d’experts compétents sur l’ensemble des domaines à couvrir : agilité, architecture, sécurité, design, industrialisation de la construction et du déploiement des produits numériques.
