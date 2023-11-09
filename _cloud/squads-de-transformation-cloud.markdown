@@ -20,18 +20,17 @@ layout: cloud
 <h3 style="margin-top:-20px">La section Cloud de la Brigade d’intervention numérique - une mission : vous accompagner dans la transformation vers le Cloud</h3>
 **La doctrine « Cloud au centre » fait du Cloud la solution par défaut pour tout nouveau projet numérique.** L’approche privilégiée qui en découle, le **mode produit** promeut l’autonomie des équipes, la prise en charge continue des opérations, la confrontation rapide avec les utilisateurs du produit, ainsi qu’un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
-Pour soutenir l’acquisition par les administrations de l’ensemble des savoir-faire liés à ce mode de fonctionnement, **la DINUM met à votre disposition les squads Cloud, équipe pluridisciplinaire d’experts** compétents sur l’ensemble des domaines à couvrir : agilité, architecture, sécurité, design, industrialisation de la construction et du déploiement des produits numériques.
+Pour soutenir l’acquisition par les administrations de l’ensemble des savoir-faire liés à ce mode de fonctionnement, la DINUM met à votre disposition la section Cloud de sa Brigade d’intervention numérique (BIN). Cette équipe pluridisciplinaire est composée d’experts compétents sur l’ensemble des domaines à couvrir : agilité, architecture, sécurité, design, industrialisation de la construction et du déploiement des produits numériques.
 
 ### Une expertise Cloud & DevOps…
 L’agilité permet aux équipes de concevoir, déployer et adapter une application dans des délais très courts. Elle va de pair avec l’introduction du mode produit, qui contribue à orienter les développements vers une qualité perçue optimale.
 Dans un contexte Cloud, la combinaison des démarches agiles et du mode produit facilite l’adoption du DevOps, qui consiste à pousser l’agilité jusqu’aux opérations liées à la mise en production et à l’exploitation. Le DevOps s’accompagne d’une transformation des modes de fonctionnement qui permet aux équipes métier, de développement et d’exploitation de travailler de concert. Le DevOps associé à l’obsession de l’expérience client, propre au mode produit donne aux équipes une réactivité maximale dans une boucle d’amélioration permanente.
 
 ### … mobilisable sur deux natures d’interventions
-Pour vous accompagner dans cette transformation deux types d’interventions des squads Cloud sont proposés : **appui à la stratégie d’adoption et soutien à la montée en compétences.**
-Nos squads peuvent vous appuyer sur l’ensemble des thématiques liées à l’adoption du Cloud : aide au choix des plateformes cloud, identification des scénarios de migration, refonte des architectures vers un modèle cloud-native, montée en compétences des agents sur les métiers du Cloud et du DevOps ou encore mise en place des modes de fonctionnement DevOps.
+Pour vous accompagner dans cette transformation deux types d’interventions de la section Cloud de la BIN sont proposés : appui à la stratégie d’adoption, et soutien à la montée en compétences. Nos équipes peuvent vous appuyer sur l’ensemble des thématiques liées à l’adoption du Cloud : aide au choix des plateformes cloud, identification des scénarios de migration, refonte des architectures vers un modèle cloud-native, montée en compétences des agents sur les métiers du Cloud et du DevOps ou encore mise en place des modes de fonctionnement DevOps.
 
 ### Premier type d’intervention : définition de la stratégie d’adoption du Cloud
-Les squads vous accompagnent dans votre **réflexion et votre planification stratégiques pour la mise en œuvre du Cloud**, avec notamment l’identification des prérequis techniques et organisationnels, l’analyse économique associée et les transformations des modes de fonctionnement.
+La section Cloud de la BIN vous accompagne dans votre réflexion et votre planification stratégiques pour la mise en œuvre du Cloud, avec notamment l’identification des prérequis techniques et organisationnels, l’analyse économique associée et les transformations des modes de fonctionnement.
 
 Par exemple :	 
 * Comment instancier la doctrine Cloud au centre en une stratégie pour mon administration ?
