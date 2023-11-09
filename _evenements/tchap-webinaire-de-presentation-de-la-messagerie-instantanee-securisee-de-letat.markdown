@@ -17,14 +17,14 @@ une-ou-diaporama:
     instantanée sécurisée de l'Etat. \n\n- Ouverte à tous\n- Disponible sur mobile,
     tablette et web\n- Annuaire intégré des agents publics\n- Centralisation des échanges\n-
     Application souveraine et échanges sécurisés"
-event_start_date: 2023-11-23 00:00:00 +01:00
+event_start_date: 2023-11-30 11:00:00 +01:00
 lieu: En ligne
 champs_informations:
 - intitule: Dates et horaires
-  contenu: 23 novembre à xxh et 5 décembre à xxh
+  contenu: 30 novembre à 11h et 6 décembre à 9h
 - intitule: Modalités
   contenu: Inscription obligatoire
-  lien: 
+  lien: https://tally.so/r/w59RGP
 ---
 
 **Tchap est la messagerie instantanée sécurisée de l’État garantissant sécurité et confidentialité de vos échanges professionnels.**
@@ -42,5 +42,5 @@ Ayant convaincu plus de 400 000 utilisateurs, l’ambition de Tchap est de s’o
 
 * **Pour rejoindre Tchap :** [cliquez ici](https://tchap.beta.gouv.fr/?mtm_campaign=numerique-gouv-fr)
 * **Pour en savoir plus :** [consultez cette page](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) ou la [FAQ](https://aide.tchap.beta.gouv.fr/fr/), les équipes sont disponibles via [tchap@beta.gouv.fr](tchap@beta.gouv.fr)
-* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, le 23 novembre et le 5 décembre à xxh  : [cliquez ici](lien à mettre)
+* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, le 30 novembre à 11h et le 6 décembre à 9h  : [cliquez ici](https://tally.so/r/w59RGP)
 * **Votre administration n’a pas encore accès à Tchap :** complétez cette [démarche en ligne](https://www.demarches-simplifiees.fr/commencer/utiliser-tchap) en quelques clics
