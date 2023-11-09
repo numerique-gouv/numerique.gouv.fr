@@ -325,5 +325,6 @@ A fin septembre 2023, Cloud π première génération compte 9 800 machines virt
 
 * **Accompagnement** : π propose un portail, avec de la documentation en ligne à destination des projets.
 
+<div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://pi.interieur.rie.gouv.fr/description-de-loffre-cloud/" title="En savoir plus sur l’offre Pi - Lien externe">En savoir plus sur l’offre Pi</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
 
 <div class="encadre"><div style="margin-bottom: 40px; margin-top: 60px;" align="center"><b>Vous souhaitez recourir au Cloud interne&nbsp;? Obtenir plus d’infos sur les modalités d’accès&nbsp;?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" title="Contactez-nous à infonuage.dinum@modernisation.gouv.fr - Ouvre une messagerie courriel"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div></div>
