@@ -17,7 +17,9 @@ Field name:
 layout: cloud
 ---
 
+
 <h3 style="margin-top:-20px">La section Cloud de la Brigade d’intervention numérique - une mission : vous accompagner dans la transformation vers le Cloud</h3>
+
 **La doctrine « Cloud au centre » fait du Cloud la solution par défaut pour tout nouveau projet numérique.** L’approche privilégiée qui en découle, le **mode produit** promeut l’autonomie des équipes, la prise en charge continue des opérations, la confrontation rapide avec les utilisateurs du produit, ainsi qu’un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 Pour soutenir l’acquisition par les administrations de l’ensemble des savoir-faire liés à ce mode de fonctionnement, la DINUM met à votre disposition la section Cloud de sa Brigade d’intervention numérique (BIN). Cette équipe pluridisciplinaire est composée d’experts compétents sur l’ensemble des domaines à couvrir : agilité, architecture, sécurité, design, industrialisation de la construction et du déploiement des produits numériques.
@@ -88,7 +90,7 @@ Les activités de la section Cloud de la BIN sont ouvertes à toute administrati
 ### Accompagnement financier
 <h4 style="margin-bottom: 5px">Le guichet unique dédié au Cloud de confiance du Fonds pour la transformation de l’action publique (FTAP)</h4>
 
-Dans le cadre de l’actualisation de la doctrine d’utilisation de l’informatique en nuage par la Première Ministre et grâce aux Fonds pour la transformation de l’action publique, la DINUM a mis en place un guichet d’adoption du Cloud de confiance.
+Dans le cadre de l’actualisation de la doctrine d’utilisation de l’informatique en nuage par la Première Ministre et grâce aux Fonds pour la transformation de l’action publique, la DINUM a mis en place un [guichet d’adoption du Cloud de confiance](https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/).
 
 Celui-ci concerne les administrations d’Etat et leurs opérateurs, qui peuvent candidater pour recevoir un cofinancement à hauteur de 50 % des coûts projet pour la migration d’applications vers des solutions Cloud de confiance (Clouds internes et offres commerciales qualifiées SecNumCloud). Ces offres peuvent complémenter l’utilisation existante d’offres de cloud commerciales, notamment en rendant possible l’hébergement d’applications manipulant des données sensibles dans le respect de la doctrine Cloud au centre.
 

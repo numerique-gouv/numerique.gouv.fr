@@ -252,7 +252,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
 <h3 class="title-gauche">SecNumCloud</h3>
-<p class="description-gauche">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
+<p class="description-gauche">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href=": https://cyber.gouv.fr/produits-services-qualifies?sort_bef_combine=nom_du_fournisseur_ASC&field_type_service_value%5Bcloud%5D=cloud&categorie_psq">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </p>
 </div>
 </div>
