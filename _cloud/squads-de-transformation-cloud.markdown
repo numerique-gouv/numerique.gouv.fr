@@ -69,18 +69,18 @@ Lors de cette intervention, nous conseillons vos équipes sur les axes d’amél
 Une fois l’accompagnement terminé, nous effectuons une mesure de l’avancement de votre transformation Cloud, afin d’identifier les prochaines étapes et les priorités associées.
 Lorsque cela est opportun, nous proposons de partager vos retours d’expérience à la communauté Cloud de l’État.
 
-### Faire appel aux squads
-<h4 style="margin-bottom: 5px">Comment contacter les squads ?</h4>
+### Faire appel à la BIN
+<h4 style="margin-bottom: 5px">Comment contacter la section Cloud de la BIN ?</h4>
 Pour toute demande d’intervention ou question, vous pouvez nous contacter à l’adresse [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)	
 
 <h4 style="margin-bottom: 5px">Quel est le prix d’une intervention ?</h4>
-Les squads vous offrent une enveloppe initiale de 30 jours-hommes d’intervention par projet, financés par la DINUM. Par ailleurs, les squads vous proposent des ressources documentaires et méthodologiques en libre accès ou disponibles sur simple demande.
+Les équipes de la BIN vous offrent une enveloppe initiale de 30 jours-hommes d’intervention par projet, financés par la DINUM. Par ailleurs, elles vous proposent des ressources documentaires et méthodologiques en libre accès ou disponibles sur simple demande.
 
 <h4 style="margin-bottom: 5px">Quelle est la durée typique d’une intervention ?</h4>
 La durée des interventions est variable et dépend des besoins du projet ; en moyenne, une intervention est réalisée sur une période de 2 à 6 mois.
 
 <h4 style="margin-bottom: 5px">Mon administration peut-elle bénéficier d’un accompagnement de la DINUM ?</h4>
-Les activités des squads Cloud de la DINUM sont ouvertes à toute administration dans le périmètre du SI de l’État.
+Les activités de la section Cloud de la BIN sont ouvertes à toute administration dans le périmètre du SI de l’État.
 
 
-**N’hésitez pas à solliciter nos squads Cloud pour mener à bien votre projet et accompagner vos équipes !**
+**N’hésitez pas à nous solliciter pour mener à bien votre projet et accompagner vos équipes !**
