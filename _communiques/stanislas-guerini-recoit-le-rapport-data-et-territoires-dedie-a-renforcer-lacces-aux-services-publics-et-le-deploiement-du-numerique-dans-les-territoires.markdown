@@ -5,6 +5,10 @@ date: 2023-11-10 17:09:00 +01:00
 published: false
 categories:
 - Communiqué de presse
+tags:
+- data
+- territoires
+- Transformation Numérique des Territoires
 chapeau-text: "**En avril dernier, le ministre de la Transformation et de la Fonction
   publiques, Stanislas GUERINI, a confié à trois responsables politiques, appuyés
   par la direction interministérielle du numérique (DINUM), la mission d’identifier
