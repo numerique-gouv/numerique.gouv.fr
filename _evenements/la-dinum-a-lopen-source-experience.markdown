@@ -1,7 +1,6 @@
 ---
 title: La DINUM à l'Open Source Experience
 date: 2023-11-10 13:43:00 +01:00
-published: false
 categories:
 - Événement
 - Salon professionnel
@@ -12,13 +11,20 @@ chapeau-text: La mission logiciels libres de la DINUM sera présente au salon Op
   de découvrir ses objectifs et la communauté BlueHats qui interviendra lors de conférences
   sur un stand interministériel ! Sur ce stand vous retrouverez la DINUM, le [ministère
   de l'Intérieur et des Outre-Mer](https://www.interieur.gouv.fr/) et la [DGSE](https://www.dgse.gouv.fr/fr).
+une-ou-diaporama:
+- image: "/uploads/DINUM%20x%20Open%20Source%20Experience_page%20agenda%201.png"
+  alternative-textuelle: |-
+    La DINUM à l'Open Source Expérience
+    Conférences inédites de la mission logiciels libres en partenariat avec la communauté BlueHats
+    6 au 7 décembre 2023
+    Palais des congrès - Paris
 event_start_date: 2023-12-06 09:00:00 +01:00
 event_end_date: 2023-12-07 18:00:00 +01:00
 lieu: Palais des Congrès
 adresse: 2 Place de la Porte Maillot – 75017 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 9h-18H
+  contenu: 9h-18h
 - intitule: Comment y aller ?
   contenu: Métro Ligne 1, Station Porte Maillot – sortie 3. RER Ligne C, Station Neuilly
     – Porte Maillot. BUS Lignes 43, 73, 82, 244 PC
