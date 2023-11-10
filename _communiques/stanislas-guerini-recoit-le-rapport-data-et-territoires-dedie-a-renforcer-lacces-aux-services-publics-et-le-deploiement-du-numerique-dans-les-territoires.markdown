@@ -2,7 +2,6 @@
 title: Stanislas Guerini reçoit le rapport Data et Territoires dédié à renforcer l’accès
   aux services publics et le déploiement du numérique dans les territoires
 date: 2023-11-10 17:09:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -41,3 +40,7 @@ Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre 
 6. **Garantir la confiance** (encourager les démarches de charte éthique de la donnée, soutenir les initiatives citoyennes en matière de données) 
 
 Engagé pour réussir la transition numérique de l’État, le ministre de la Transformation et de la Fonction publiques, Stanislas GUERINI annoncera prochainement les suites qu’il entend donner à ces recommandations. 
+
+Contact presse du ministère de la Transformation et de la Fonction publiques
+Tél : 01 53 18 42 68 / 42 76
+Mél : presse.mtfp@transformation.gouv.fr
