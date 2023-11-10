@@ -3,6 +3,8 @@ title: Stanislas Guerini reçoit le rapport Data et Territoires dédié à renfo
   aux services publics et le déploiement du numérique dans les territoires
 date: 2023-11-10 17:09:00 +01:00
 published: false
+categories:
+- Communiqué de presse
 chapeau-text: "**En avril dernier, le ministre de la Transformation et de la Fonction
   publiques, Stanislas GUERINI, a confié à trois responsables politiques, appuyés
   par la direction interministérielle du numérique (DINUM), la mission d’identifier
@@ -11,6 +13,11 @@ chapeau-text: "**En avril dernier, le ministre de la Transformation et de la Fon
   agents publics et des politiques publiques. L’objectif : renforcer l’utilisation
   de la donnée par les collectivités territoriales au profit des citoyens, des agents
   ou des politiques publiques.**"
+une-ou-diaporama:
+- image: "/uploads/Copie%20de%20Base%20Post%20RS%201.png"
+files:
+- file: "/uploads/CP_STANISLAS_GUERINI_RECOIT_LE_RAPPORT_DATA_ET_TERRITOIRES.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Christine HENNION, ancienne députée des Hauts-de-Seine (3e circonscription) et conseillère municipale de Courbevoie, Magali ALTOUNIAN, adjointe au maire de Nice et conseillère régionale Région Sud et Bertrand MONTHUBERT, président du Conseil National de l’Information Géolocalisée (CNIG), d’Ekitia et d’OpenIG ont ainsi remis, le jeudi 9 novembre, les résultats du rapport Data et territoires. 
@@ -30,5 +37,3 @@ Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre 
 6. **Garantir la confiance** (encourager les démarches de charte éthique de la donnée, soutenir les initiatives citoyennes en matière de données) 
 
 Engagé pour réussir la transition numérique de l’État, le ministre de la Transformation et de la Fonction publiques, Stanislas GUERINI annoncera prochainement les suites qu’il entend donner à ces recommandations. 
-
-Rapport Data et Territoires
