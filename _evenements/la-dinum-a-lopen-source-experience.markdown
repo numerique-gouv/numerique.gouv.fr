@@ -38,7 +38,7 @@ champs_informations:
   lien: https://www.opensource-experience.com/
 ---
 
-**La mission logiciels libres du département Appui, Conseil et Expertise**, accompagne les ministères et opérateurs de l’État dans leur recours aux logiciels libres. Elle maintient le socle interministériel de logiciels libres et la liste des codes sources publiés par des administrations.  Elle anime la **communauté BlueHats**, qui rassemble les agents publics libristes. 
+**La mission logiciels libres** du **département Appui, Conseil et Expertise**, accompagne les ministères et opérateurs de l’État dans leur recours aux logiciels libres. Elle maintient le socle interministériel de logiciels libres et la liste des codes sources publiés par des administrations.  Elle anime la **communauté BlueHats**, qui rassemble les agents publics libristes. 
 
 L’objectif est que l’ensemble des systèmes d’information soient conçus, développés et opérés selon les meilleures pratiques numériques, avec une attention particulière portée sur les besoins des usagers, des agents et les coûts engagés. La promotion des logiciels libres, en tirant le meilleur parti possible concourt à cet objectif.
 
