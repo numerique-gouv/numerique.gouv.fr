@@ -17,7 +17,8 @@ chapeau-text: "**En avril dernier, le ministre de la Transformation et de la Fon
   de la donnée par les collectivités territoriales au profit des citoyens, des agents
   ou des politiques publiques.**"
 une-ou-diaporama:
-- image: "/uploads/Copie%20de%20Base%20Post%20RS%201.png"
+- image: "/uploads/10_11_2023.png"
+  alternative-textuelle: Remise du rapport Data et Territoires
 files:
 - file: "/uploads/CP_STANISLAS_GUERINI_RECOIT_LE_RAPPORT_DATA_ET_TERRITOIRES.pdf"
   nom: Télécharger le communiqué de presse
