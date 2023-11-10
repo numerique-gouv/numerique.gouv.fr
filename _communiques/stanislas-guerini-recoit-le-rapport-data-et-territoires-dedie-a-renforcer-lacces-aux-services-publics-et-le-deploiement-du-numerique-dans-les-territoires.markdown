@@ -42,6 +42,8 @@ Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre 
 
 Engagé pour réussir la transition numérique de l’État, le ministre de la Transformation et de la Fonction publiques, Stanislas GUERINI annoncera prochainement les suites qu’il entend donner à ces recommandations. 
 
+[Télécharger le rapport Data et Territoires](https://www.transformation.gouv.fr/files/ressource/Rapport_Mission_Data_Territoires.pdf)
+
 Contact presse du ministère de la Transformation et de la Fonction publiques
 Tél : 01 53 18 42 68 / 42 76
 Mél : presse.mtfp@transformation.gouv.fr
