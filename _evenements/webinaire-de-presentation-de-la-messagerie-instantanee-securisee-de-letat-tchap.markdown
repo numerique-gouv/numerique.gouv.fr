@@ -1,8 +1,7 @@
 ---
-title: Tchap - webinaire de présentation de la messagerie instantanée sécurisée de
-  l’État
-date: 2023-10-30 22:48:00 +01:00
-published: false
+title: Webinaire de présentation de la messagerie instantanée sécurisée de l’État
+  Tchap
+date: 2023-10-31 22:48:00 +01:00
 categories:
 - Webinaire
 - Webinaire d'information
@@ -10,21 +9,21 @@ tags:
 - Tchap
 chapeau-text: |-
   Agents publics, rejoignez la communauté Tchap pour échanger avec vos collègues, tous les autres agents publics et tous vos interlocuteurs même externes à l’État, de manière simple et sécurisée.
-  Pour en savoir plus sur l’utilisation de Tchap, participez au webinaire de présentation avec les équipes le jeudis 23 novembre et le mardi 5 décembre à xxh, elles répondront à toutes vos questions portant sur l’utilisation de l’outil !
+  Pour en savoir plus sur l’utilisation de Tchap, participez au webinaire de présentation avec les équipes le jeudi 30 novembre à 11h et le mercredi 6 décembre à 9h, elles répondront à toutes vos questions portant sur l’utilisation de l’outil !
 une-ou-diaporama:
-- image: "/uploads/General.png"
+- image: "/uploads/Tchap%20%20webinaire%20d'info%20-%2006_12.png"
   alternative-textuelle: "Agents publics, rejoignez la communauté Tchap, la messagerie
     instantanée sécurisée de l'Etat. \n\n- Ouverte à tous\n- Disponible sur mobile,
     tablette et web\n- Annuaire intégré des agents publics\n- Centralisation des échanges\n-
     Application souveraine et échanges sécurisés"
-event_start_date: 2023-12-05 00:00:00 +01:00
+event_start_date: 2023-12-06 09:00:00 +01:00
 lieu: En ligne
 champs_informations:
 - intitule: Dates et horaires
-  contenu: 23 novembre à xxh et 5 décembre à xxh
+  contenu: 30 novembre à 11h et 6 décembre à 09h
 - intitule: Modalités
   contenu: Inscription obligatoire
-  lien: 
+  lien: https://tally.so/r/w59RGP
 ---
 
 **Tchap est la messagerie instantanée sécurisée de l’État garantissant sécurité et confidentialité de vos échanges professionnels.**
@@ -42,4 +41,5 @@ Ayant convaincu plus de 400 000 utilisateurs, l’ambition de Tchap est de s’o
 
 * **Pour rejoindre Tchap :** [cliquez ici](https://tchap.beta.gouv.fr/?mtm_campaign=numerique-gouv-fr)
 * **Pour en savoir plus :** [consultez cette page](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) ou la [FAQ](https://aide.tchap.beta.gouv.fr/fr/), les équipes sont disponibles via [tchap@beta.gouv.fr](tchap@beta.gouv.fr)
+* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, le 30 novembre à 11h et le 6 décembre à 9h  : [cliquez ici](https://tally.so/r/w59RGP)
 * **Votre administration n’a pas encore accès à Tchap :** complétez cette [démarche en ligne](https://www.demarches-simplifiees.fr/commencer/utiliser-tchap) en quelques clics
