@@ -9,8 +9,9 @@ tags:
 - blue hats
 chapeau-text: La mission logiciels libres de la DINUM sera présente au salon Open
   Source Experience du 6 au 7 décembre 2023 au palais des Congrès. Vous aurez l’occasion
-  de découvrir ses objectifs et la communauté BlueHats qui interviendra lors de conférence
-  sur le stand !
+  de découvrir ses objectifs et la communauté BlueHats qui interviendra lors de conférences
+  sur un stand interministériel ! Sur ce stand vous retrouverez la DINUM, le [ministère
+  de l'Intérieur et des Outre-Mer](https://www.interieur.gouv.fr/) et la [DGSE](https://www.dgse.gouv.fr/fr).
 event_start_date: 2023-12-06 09:00:00 +01:00
 event_end_date: 2023-12-07 18:00:00 +01:00
 lieu: Palais des Congrès
@@ -35,7 +36,7 @@ champs_informations:
 
 L’objectif est que l’ensemble des systèmes d’information soient conçus, développés et opérés selon les meilleures pratiques numériques, avec une attention particulière portée sur les besoins des usagers, des agents et les coûts engagés. La promotion des logiciels libres, en tirant le meilleur parti possible concourt à cet objectif.
 
-## Programme 
+## Programme des conférences BlueHats
 *[en cours de construction]*
 
 #### Vous utilisez un logiciel libre dans votre administration et vous souhaitez intervenir sur le stand ? 
