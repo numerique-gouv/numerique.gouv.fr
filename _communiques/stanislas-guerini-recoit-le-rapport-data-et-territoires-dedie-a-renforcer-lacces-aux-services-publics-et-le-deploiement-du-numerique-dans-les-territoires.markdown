@@ -47,3 +47,7 @@ Engagé pour réussir la transition numérique de l’État, le ministre de la T
 Contact presse du ministère de la Transformation et de la Fonction publiques
 Tél : 01 53 18 42 68 / 42 76
 Mél : presse.mtfp@transformation.gouv.fr
+
+Contact presse de la direction interministérielle du numérique
+Tél : 01 71 21 12 50 – 06 10 60 41 19
+Mél : floriane.beaudron@modernisation.gouv.f
