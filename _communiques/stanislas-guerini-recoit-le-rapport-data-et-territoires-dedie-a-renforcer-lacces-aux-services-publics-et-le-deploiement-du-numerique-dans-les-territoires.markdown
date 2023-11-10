@@ -36,7 +36,7 @@ Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre 
 
 4. **Renforcer l’acculturation** mais aussi la **connaissance réciproque entre État et collectivités** (création d’un programme d’échanges de type Erasmus pour les agents de l’État et des collectivités travaillant dans le domaine des données)
 
-5. **Financer la politique de la donnée **
+5. **Financer la politique de la donnée**
 
 6. **Garantir la confiance** (encourager les démarches de charte éthique de la donnée, soutenir les initiatives citoyennes en matière de données) 
 
