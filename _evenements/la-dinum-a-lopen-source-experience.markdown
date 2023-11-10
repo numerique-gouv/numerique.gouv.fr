@@ -7,10 +7,11 @@ categories:
 tags:
 - blue hats
 chapeau-text: La mission logiciels libres de la DINUM sera présente au salon Open
-  Source Experience du 6 au 7 décembre 2023 au palais des Congrès. Vous aurez l’occasion
-  de découvrir ses objectifs et la communauté BlueHats qui interviendra lors de conférences
-  sur un stand interministériel ! Sur ce stand vous retrouverez la DINUM, le [ministère
-  de l'Intérieur et des Outre-Mer](https://www.interieur.gouv.fr/) et la [DGSE](https://www.dgse.gouv.fr/fr).
+  Source Experience du 6 au 7 décembre 2023 au palais des Congrès de Paris. Une occasion
+  d'en savoir plus sur son action et de (re)découvrir la communauté BlueHats. Au programme,
+  des conférences thématiques sur le stand interministériel L57, regroupant la DINUM,
+  le [ministère de l'Intérieur et des Outre-Mer](https://www.interieur.gouv.fr/) et
+  la [DGSE](https://www.dgse.gouv.fr/fr).
 une-ou-diaporama:
 - image: "/uploads/DINUM%20x%20Open%20Source%20Experience_page%20agenda%201.png"
   alternative-textuelle: |-
@@ -38,7 +39,7 @@ champs_informations:
   lien: https://www.opensource-experience.com/
 ---
 
-**La mission logiciels libres** du **département Appui, Conseil et Expertise**, accompagne les ministères et opérateurs de l’État dans leur recours aux logiciels libres. Elle maintient le socle interministériel de logiciels libres et la liste des codes sources publiés par des administrations.  Elle anime la **communauté BlueHats**, qui rassemble les agents publics libristes. 
+**La mission logiciels libres** du **département Appui, Conseil et Expertise** de la DINUM, accompagne les ministères et opérateurs de l’État dans leur recours aux logiciels libres. Elle maintient le socle interministériel de logiciels libres et la liste des codes sources publiés par des administrations.  Elle anime la **communauté BlueHats**, qui rassemble les agents publics libristes. 
 
 L’objectif est que l’ensemble des systèmes d’information soient conçus, développés et opérés selon les meilleures pratiques numériques, avec une attention particulière portée sur les besoins des usagers, des agents et les coûts engagés. La promotion des logiciels libres, en tirant le meilleur parti possible concourt à cet objectif.
 
@@ -52,4 +53,3 @@ Envoyez à [contact@code.gouv.fr](contact@code.gouv.fr) vos propositions d'inter
 Il est indispensable de s'inscrire au préalable au salon Open Source Experience - c'est libre et gratuit. [Inscrivez-vous en cliquant ici.](https://www.opensource-experience.com/creer-mon-badge/)
 
 Pour toute question, n’hésitez pas à écrire à l’équipe : [contact@code.gouv.fr](contact@code.gouv.fr) 
-
