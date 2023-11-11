@@ -1,7 +1,7 @@
 ---
 title: Tchap - webinaire de présentation de la messagerie instantanée sécurisée de
   l’État
-date: 2023-11-11 13:50:00 +01:00
+date: 2023-11-10 13:50:00 +01:00
 categories:
 - Webinaire d'information
 tags:
