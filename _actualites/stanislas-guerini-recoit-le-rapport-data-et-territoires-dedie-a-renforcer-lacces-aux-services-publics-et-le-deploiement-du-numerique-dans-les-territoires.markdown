@@ -1,7 +1,7 @@
 ---
 title: Stanislas Guerini reçoit le rapport Data et Territoires dédié à renforcer l’accès
   aux services publics et le déploiement du numérique dans les territoires
-date: 2023-11-11 13:43:00 +01:00
+date: 2023-11-10 13:43:00 +01:00
 categories:
 - Communiqué de presse
 tags:
