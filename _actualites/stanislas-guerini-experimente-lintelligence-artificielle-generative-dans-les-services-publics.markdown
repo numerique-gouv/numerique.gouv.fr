@@ -15,4 +15,4 @@ une-ou-diaporama:
   alternative-textuelle: Stanislas Guerini et Stéphanie Schaer le 5 octobre 2023
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/stanislas-guerini-experimente-lintelligence-artificielle-generative-dans-les-services-publics/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/stanislas-guerini-experimente-lintelligence-artificielle-generative-dans-les-services-publics/">Lire le dossier de presse</a></p></div>
