@@ -9,7 +9,7 @@ tags:
 - territoires
 - Transformation Numérique des Territoires
 chapeau-text: "**En avril dernier, le ministre de la Transformation et de la Fonction
-  publiques, Stanislas GUERINI, a confié à trois responsables politiques, appuyés
+  publiques, Stanislas Guerini, a confié à trois responsables politiques, appuyés
   par la direction interministérielle du numérique (DINUM), la mission d’identifier
   les opportunités de renforcement de l’exploitation des données par les collectivités
   territoriales autour de cas d’usages porteurs d’impact au profit des citoyens, des
@@ -24,7 +24,7 @@ files:
   nom: Télécharger le communiqué de presse
 ---
 
-Christine HENNION, ancienne députée des Hauts-de-Seine (3e circonscription) et conseillère municipale de Courbevoie, Magali ALTOUNIAN, adjointe au maire de Nice et conseillère régionale Région Sud et Bertrand MONTHUBERT, président du Conseil National de l’Information Géolocalisée (CNIG), d’Ekitia et d’OpenIG ont ainsi remis, le jeudi 9 novembre, les résultats du rapport Data et territoires. 
+Christine Hennion, ancienne députée des Hauts-de-Seine (3e circonscription) et conseillère municipale de Courbevoie, Magali Altounian, adjointe au maire de Nice et conseillère régionale Région Sud et Bertrand Monthubert, président du Conseil National de l’Information Géolocalisée (CNIG), d’Ekitia et d’OpenIG ont ainsi remis, le jeudi 9 novembre, les résultats du rapport Data et territoires. 
 
 Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre de manière plus efficace aux demandes croissantes de transparence dans la prise de décision publique et relever les défis mondiaux qui exigent une utilisation accrue des données, **22 recommandations reparties en 6 axes clés ont été formulées** afin de faire de la donnée territoriale un instrument puissant et partagé pour guider les décisions, améliorer la vie démocratique et relever les défis complexes de notre époque.
  
@@ -40,14 +40,14 @@ Dans l’optique de renforcer la collaboration interinstitutionnelle, répondre 
 
 6. **Garantir la confiance** (encourager les démarches de charte éthique de la donnée, soutenir les initiatives citoyennes en matière de données) 
 
-Engagé pour réussir la transition numérique de l’État, le ministre de la Transformation et de la Fonction publiques, Stanislas GUERINI annoncera prochainement les suites qu’il entend donner à ces recommandations. 
+Engagé pour réussir la transition numérique de l’État, le ministre de la Transformation et de la Fonction publiques, Stanislas Guerini annoncera prochainement les suites qu’il entend donner à ces recommandations. 
 
 [Télécharger le rapport Data et Territoires](https://www.transformation.gouv.fr/files/ressource/Rapport_Mission_Data_Territoires.pdf)
 
-Contact presse du ministère de la Transformation et de la Fonction publiques
+**Contact presse du ministère de la Transformation et de la Fonction publiques**
 Tél : 01 53 18 42 68 / 42 76
 Mél : presse.mtfp@transformation.gouv.fr
 
-Contact presse de la direction interministérielle du numérique
+**Contact presse de la direction interministérielle du numérique**
 Tél : 01 71 21 12 50 – 06 10 60 41 19
 Mél : floriane.beaudron@modernisation.gouv.f
