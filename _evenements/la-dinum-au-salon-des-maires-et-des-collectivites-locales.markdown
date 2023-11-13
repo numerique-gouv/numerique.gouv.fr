@@ -35,6 +35,8 @@ champs_informations:
   Lien: https://www.salondesmaires.com/participer/vous-etes-un-acteur-territorial/
 ---
 
+![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
+
 #### La transformation numérique des territoires :
 
 Dans la continuité de son programme dédié à la transformation numérique des territoires (TNT), les équipes de la DINUM seront présentes au sein d’un stand favorisant les échanges entre acteurs du terrain et agents du numérique public. 
@@ -51,8 +53,6 @@ Concrètement, des équipes sont constituées d’agents publics endossant un r�
 [En savoir plus](https://beta.gouv.fr/approche)
 
 > Le jeudi 23/11 de 12h30 à 13h : conférence **« RDV services publics »** par Philippe Vrignaud, chef du pôle Relations agents usagers au sein de l’opérateur des produits interministériels de la DINUM, agent aussi en charge de Démarches Simplifiées. 
-
-*Programme complet à venir*
 
 Le salon des Maires et des Collectivités Locales est organisé en partenariat avec l’association des maires de France (AMF) depuis près de 20 ans et en concomitance avec le Congrès des Maires de France et des Présidents d’intercommunalité. Pendant trois jours, ce sont 50 000 acteurs territoriaux qui rencontreront 1 200 exposants de 9 secteurs d’activités et sur 17 scènes de conférences.
 
