@@ -37,6 +37,9 @@ champs_informations:
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
 
+[Télécharger le programme]
+(file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
+
 #### La transformation numérique des territoires :
 
 Dans la continuité de son programme dédié à la transformation numérique des territoires (TNT), les équipes de la DINUM seront présentes au sein d’un stand favorisant les échanges entre acteurs du terrain et agents du numérique public. 
