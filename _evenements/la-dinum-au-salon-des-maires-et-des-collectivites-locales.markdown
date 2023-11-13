@@ -33,9 +33,6 @@ champs_informations:
 - intitule: Inscription
   contenu: S'inscrire
   Lien: https://www.salondesmaires.com/participer/vous-etes-un-acteur-territorial/
-- Key: 
-  file: "/uploads/Programme%20DINUM-SMCL-ad3404.png"
-  nom: Télécharger notre programme
 ---
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
