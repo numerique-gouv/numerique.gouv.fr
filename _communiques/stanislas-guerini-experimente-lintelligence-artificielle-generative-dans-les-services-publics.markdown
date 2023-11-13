@@ -10,7 +10,7 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/Espace%20Presse%20-%20IA.png"
 files:
-- file: "/uploads/CP_Stanislas_GUERINI_exp%C3%A9rimente_l_IA_g%C3%A9n%C3%A9rative_dans_les_services_publics-ad198a.pdf"
+- file: "/uploads/CP_Stanislas_Guerini_exp%C3%A9rimente_l_IA_g%C3%A9n%C3%A9rative_dans_les_services_publics-b10f2c.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
