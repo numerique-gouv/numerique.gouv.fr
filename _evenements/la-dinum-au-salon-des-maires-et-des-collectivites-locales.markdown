@@ -37,7 +37,7 @@ champs_informations:
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
 
-**Téléchargez le programme en bas de page**
+[Consulter notre programme ](https://www.canva.com/design/DAFyeOciY_s/GkvYyD2reZgLW2nkRvUgUA/view?utm_content=DAFyeOciY_s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 #### La transformation numérique des territoires :
 
