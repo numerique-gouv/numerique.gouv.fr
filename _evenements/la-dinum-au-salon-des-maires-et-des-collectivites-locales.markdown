@@ -37,8 +37,7 @@ champs_informations:
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
 
-[Télécharger le programme]
-(file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
+[Télécharger le programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
 
 #### La transformation numérique des territoires :
 
