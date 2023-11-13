@@ -27,12 +27,12 @@ champs_informations:
   contenu: Du 21 au 23 novembre  de 9h à 19h
 - intitule: Comment y aller ?
   contenu: Métro 12, Bus 80 ou 39, Tram T2 ou T3a
-  Lien: https://www.salondesmaires.com/informations-pratiques/
+  lien: https://www.salondesmaires.com/informations-pratiques/
 - intitule: Modalités
   contenu: Inscription obligatoire et gratuite
 - intitule: Inscription
   contenu: S'inscrire
-  Lien: https://smcl2023.site.calypso-event.net/visiteur.htm
+  lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
