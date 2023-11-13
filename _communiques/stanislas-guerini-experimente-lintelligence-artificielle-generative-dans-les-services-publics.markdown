@@ -1,16 +1,16 @@
 ---
-title: Stanislas GUERINI expérimente l’intelligence artificielle générative dans les
+title: Stanislas Guerini expérimente l’intelligence artificielle générative dans les
   services publics
 date: 2023-10-05 15:54:00 +02:00
 categories:
 - Communiqué de presse
 chapeau-text: |-
-  Stanislas GUERINI a lancé, ce jeudi 5 octobre, une expérimentation de l’intelligence
+  Stanislas Guerini a lancé, ce jeudi 5 octobre, une expérimentation de l’intelligence
   artificielle générative au sein des services publics. Le ministre a présenté sa stratégie pour anticiper et accompagner le déploiement de l’intelligence artificielle dans la fonction publique, dans la continuité de la stratégie nationale pour l’intelligence artificielle et du comité de l’intelligence artificielle générative installé par la Première ministre. Ce comité aura notamment vocation à éclairer notre politique sur l’usage de l’intelligence artificielle dans les services publics.
 une-ou-diaporama:
 - image: "/uploads/Espace%20Presse%20-%20IA.png"
 files:
-- file: "/uploads/CP_Stanislas_GUERINI_experimente_l-IA_generative_dans_les_services_publics.pdf"
+- file: "/uploads/CP_Stanislas_Guerini_exp%C3%A9rimente_l_IA_g%C3%A9n%C3%A9rative_dans_les_services_publics-b10f2c.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -37,11 +37,11 @@ modèles génériques pour les adapter aux spécificités des agents et des usag
 **Enfin, l’Etat reprend pleinement le contrôle de la transition numérique afin de
 réfléchir aux transformations induites et profiter pleinement de ses apports.**
 
-L’Etat renforce ses compétences dans le numérique. Stanislas GUERINI a entamé, avec
+L’Etat renforce ses compétences dans le numérique. Stanislas Guerini a entamé, avec
 l’ensemble du Gouvernement, un chantier de réarmement de la filière numérique de l’Etat. Dès l’année prochaine, 500 postes seront créés dans les métiers du numérique afin de retrouver des moyens d’action. Ce seront autant de data scientists, chefs de produits, de designer, de spécialistes de l’intelligence artificielle. Ce sont les compétences structurantes de demain. Dès cette année, l’ensemble des directeurs d’administration bénéficieront d’une formation aux enjeux de la transformation numérique.
 <br>
 <br>
 
-<p>Service presse de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques</p>
+<p>Service presse de Stanislas Guerini, ministre de la Transformation et de la Fonction publiques</p>
 <p>Tel. : 01 53 18 42 68 / 42 76</p>
 <p>Mél. : presse.mtfp@transformation.gouv.fr</p>

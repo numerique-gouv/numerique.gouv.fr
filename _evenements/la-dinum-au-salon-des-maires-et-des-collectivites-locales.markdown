@@ -27,17 +27,17 @@ champs_informations:
   contenu: Du 21 au 23 novembre  de 9h à 19h
 - intitule: Comment y aller ?
   contenu: Métro 12, Bus 80 ou 39, Tram T2 ou T3a
-  Lien: https://www.salondesmaires.com/informations-pratiques/
+  lien: https://www.salondesmaires.com/informations-pratiques/
 - intitule: Modalités
-  contenu: Inscription obligatoire et gratuit
+  contenu: Inscription obligatoire et gratuite
 - intitule: Inscription
   contenu: S'inscrire
-  Lien: https://www.salondesmaires.com/participer/vous-etes-un-acteur-territorial/
+  lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
 
-[Télécharger le programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
+[Consulter notre programme ](https://www.canva.com/design/DAFyeOciY_s/GkvYyD2reZgLW2nkRvUgUA/view?utm_content=DAFyeOciY_s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 #### La transformation numérique des territoires :
 
