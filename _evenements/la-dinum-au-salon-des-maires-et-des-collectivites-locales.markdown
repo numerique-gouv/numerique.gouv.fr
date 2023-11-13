@@ -29,10 +29,10 @@ champs_informations:
   contenu: Métro 12, Bus 80 ou 39, Tram T2 ou T3a
   Lien: https://www.salondesmaires.com/informations-pratiques/
 - intitule: Modalités
-  contenu: Inscription obligatoire et gratuit
+  contenu: Inscription obligatoire et gratuite
 - intitule: Inscription
   contenu: S'inscrire
-  Lien: https://www.salondesmaires.com/participer/vous-etes-un-acteur-territorial/
+  Lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
