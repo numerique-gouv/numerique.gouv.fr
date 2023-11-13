@@ -22,4 +22,4 @@ une-ou-diaporama:
     lors de la remise du rapport Data et Territoires.
 ---
 
-<div class="lien-important"><p><a href="https://preprod.numerique.gouv.fr/espace-presse/stanislas-guerini-recoit-le-rapport-data-et-territoires-dedie-a-renforcer-lacces-aux-services-publics-et-le-deploiement-du-numerique-dans-les-territoires/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/stanislas-guerini-recoit-le-rapport-data-et-territoires-dedie-a-renforcer-lacces-aux-services-publics-et-le-deploiement-du-numerique-dans-les-territoires/">Lire le communiqué de presse</a></p></div>
