@@ -33,11 +33,14 @@ champs_informations:
 - intitule: Inscription
   contenu: S'inscrire
   Lien: https://www.salondesmaires.com/participer/vous-etes-un-acteur-territorial/
+- Key: 
+  file: "/uploads/Programme%20DINUM-SMCL-ad3404.png"
+  nom: 
 ---
 
 ![Programme DINUM-SMCL.png](/uploads/Programme%20DINUM-SMCL.png)
 
-[Télécharger le programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
+**Téléchargez le programme en bas de page**
 
 #### La transformation numérique des territoires :
 
