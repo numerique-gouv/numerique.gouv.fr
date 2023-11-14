@@ -77,7 +77,7 @@ Si vous vous posez l'une des questions suivantes, n'hésitez pas à suivre nos i
 * 20 Avenue de Ségur 75007 Paris, Ségur - Salle Forum (RdC) 
 * Possibilité de visioconférence 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-enjeux-de-ladministration-proactive-regards-croises-cnil-dinum-et-ditp-757798183767?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl">Programme et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-enjeux-de-ladministration-proactive-regards-croises-cnil-dinum-et-ditp-757798183767?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl">Inscription obligatoire</a></p></div>
 
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
