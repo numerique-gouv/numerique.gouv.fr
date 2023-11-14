@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/ouverture-des-donnees-un-rapport-propose-de-rebattre-les-cartes-des-relations-etat-collectivites" title="Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités - Lien externe"> Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités</a></titre>
+<date>14 novembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/webtv/emissions/les-rencontres-des-acteurs-publics/marion-loustric-avec-la-proactivite-une-administration-peut-atteindre-les-usagers-quelle-ne-connait-pas-encore" title="Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore » - Lien externe"> Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore »</a></titre>
 <date>11 octobre 2023</date>
 <media> Acteurs Publics TV </media>
