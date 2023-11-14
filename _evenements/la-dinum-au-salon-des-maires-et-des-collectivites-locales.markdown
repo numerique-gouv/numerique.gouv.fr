@@ -35,7 +35,7 @@ champs_informations:
   lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
-![Programme DINUM-SMCL-98d6ee.png](/uploads/Programme%20DINUM-SMCL-98d6ee.png)
+![Programme DINUM-SMCL-8f45b8.png](/uploads/Programme%20DINUM-SMCL-8f45b8.png)
 
 [Télécharger notre programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
 
