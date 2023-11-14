@@ -73,6 +73,7 @@ Si vous vous posez l'une des questions suivantes, n'hésitez pas à suivre nos i
 * Comment la proactivité est-elle perçue par les usagers ? Comment bien communiquer ?
 * Comment rassurer et lutter contre l'hameçonnage ?
 
+
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite
 * 20 Avenue de Ségur 75007 Paris, Ségur - Salle Forum (RdC) 
 * Possibilité de visioconférence 
