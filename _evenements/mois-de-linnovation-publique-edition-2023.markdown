@@ -62,7 +62,7 @@ Développé par nos équipes au sein du pôle Datalab, nous vous invitons à par
 
 Découvrez la proactivité avec la DINUM, la CNIL, et la DITP. Circulation des données, transparence, sécurité, droits : un débat essentiel !
 
-La Direction Interministérielle du Numérique vous convie à une table ronde réunissant des experts de la Commission Nationale de l'Informatique et des Libertés et les experts en Sciences comportementales de la Direction Interministérielle Transformation Publique. Seront explorés les enjeux en matière de numérique et de données de l'administration « proactive ».
+La Direction Interministérielle du Numérique vous convie à une table ronde réunissant **des experts de la Commission Nationale de l'Informatique et des Libertés et les experts en Sciences comportementales de la Direction Interministérielle Transformation Publique**. Seront explorés les enjeux en matière de numérique et de données de l'administration « proactive ».
 
 Si vous vous posez l'une des questions suivantes, n'hésitez pas à suivre nos interventions !
 
