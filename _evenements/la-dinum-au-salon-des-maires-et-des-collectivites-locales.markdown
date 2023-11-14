@@ -35,9 +35,9 @@ champs_informations:
   lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
-![Programme DINUM-SMCL-2486c9.png](/uploads/Programme%20DINUM-SMCL-2486c9.png)
+![Programme DINUM-SMCL-8f45b8.png](/uploads/Programme%20DINUM-SMCL-8f45b8.png)
 
-[Consulter notre programme ](https://www.canva.com/design/DAFyeOciY_s/OA2OqrKF5hpK1COyGQ1Qqw/view?utm_content=DAFyeOciY_s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Télécharger notre programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM-SMCL.pdf)
 
 #### La transformation numérique des territoires :
 
