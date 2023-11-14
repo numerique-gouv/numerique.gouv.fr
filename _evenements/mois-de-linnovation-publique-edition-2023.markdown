@@ -57,13 +57,28 @@ Développé par nos équipes au sein du pôle Datalab, nous vous invitons à par
 
 <div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-rencontrez-albert-demonstration-de-notre-outil-ia-generative-747179613337">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>Le jeudi 23/11 à 14h
-<br>[Table ronde]</b> <i>Proactivité et information automatique des citoyens : quels enjeux et quels impacts ?</i></p>
+<p style="margin-top: 30px"><b>Le jeudi 23/11 de 17h à 18h
+<br>[Table ronde]</b> <i>Enjeux de l'administration proactive | Regards croisés CNIL DINUM et DITP</i></p>
 
-Le programme est en cours de construction et sera disponible très prochainement.
+Découvrez la **proactivité** avec la DINUM, la CNIL, et la DITP. Circulation des données, transparence, sécurité, droits : un débat essentiel !
 
-* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
-* 77 avenue de Ségur 75015 Paris 
+La Direction Interministérielle du Numérique vous convie à une table ronde réunissant **des experts de la Commission Nationale de l'Informatique et des Libertés et les experts en Sciences comportementales de la Direction Interministérielle Transformation Publique**. Seront explorés les enjeux en matière de numérique et de données de l'administration « proactive ».
+
+Si vous vous posez l'une des questions suivantes, n'hésitez pas à suivre nos interventions !
+
+* Comment utiliser la donnée pour notifier les usagers (citoyens et entreprises) voire leur attribuer automatiquement des droits ?
+* Quel nouveau cadre juridique pour la circulation des données entre administrations à des fins de proactivité ?
+* Comment garantir le respect du RGPD dans un contexte d'administration proactive ? Qu'est-ce qui est nouveau de ce point de vue ?
+* Quelles sont les bonnes pratiques en matière de transparence ?
+* Comment la proactivité est-elle perçue par les usagers ? Comment bien communiquer ?
+* Comment rassurer et lutter contre l'hameçonnage ?
+
+
+* Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite
+* 20 Avenue de Ségur 75007 Paris, Ségur - Salle Forum (RdC) 
+* Possibilité de visioconférence 
+
+<div class="lien-important"><p><a href="https://www.eventbrite.com/e/billets-enjeux-de-ladministration-proactive-regards-croises-cnil-dinum-et-ditp-757798183767?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl">Inscription obligatoire</a></p></div>
 
 <p style="margin-top: 30px"><b>Le vendredi 24/11 à 8h30
 <br>[<span lang="EN">Meetup</span>]</b> <i>Simplifier les démarches : et si tout le monde était gagnant ?</i></p>
