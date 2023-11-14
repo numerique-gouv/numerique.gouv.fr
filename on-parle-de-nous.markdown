@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.banquedesterritoires.fr/la-mission-data-et-territoires-incite-letat-et-les-collectivites-mieux-cooperer" title="La mission Data et territoires incite l'État et les collectivités à mieux coopérer - Lien externe"> La mission Data et territoires incite l'État et les collectivités à mieux coopérer </a></titre>
+<date>10 novembre 2023</date>
+<media> Banque des Territoires </media>
+
 <titre><a href="https://acteurspublics.fr/articles/ouverture-des-donnees-un-rapport-propose-de-rebattre-les-cartes-des-relations-etat-collectivites" title="Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités - Lien externe"> Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités</a></titre>
 <date>14 novembre 2023</date>
 <media> Acteurs Publics </media>
