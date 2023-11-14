@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/ouverture-des-donnees-un-rapport-propose-de-rebattre-les-cartes-des-relations-etat-collectivites" title="Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités - Lien externe"> Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités</a></titre>
+<date>14 novembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-le-rapport-data-et-territoires-prone-le-dialogue-etat-et-collectivites-92111.html" title="Le rapport data et territoires prône le dialogue État et collectivités - Lien externe"> Le rapport data et territoires prône le dialogue État et collectivités</a></titre>
 <date>13 novembre 2023</date>
 <media> Le Monde Informatique </media>
@@ -18,10 +22,6 @@ layout: page-annexe
 <titre><a href="https://www.banquedesterritoires.fr/la-mission-data-et-territoires-incite-letat-et-les-collectivites-mieux-cooperer" title="La mission Data et territoires incite l'État et les collectivités à mieux coopérer - Lien externe"> La mission Data et territoires incite l'État et les collectivités à mieux coopérer</a></titre>
 <date>10 novembre 2023</date>
 <media> Banque des Territoires </media>
-
-<titre><a href="https://acteurspublics.fr/articles/ouverture-des-donnees-un-rapport-propose-de-rebattre-les-cartes-des-relations-etat-collectivites" title="Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités - Lien externe"> Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités</a></titre>
-<date>14 novembre 2023</date>
-<media> Acteurs Publics </media>
 
 <titre><a href="https://acteurspublics.fr/webtv/emissions/les-rencontres-des-acteurs-publics/marion-loustric-avec-la-proactivite-une-administration-peut-atteindre-les-usagers-quelle-ne-connait-pas-encore" title="Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore » - Lien externe"> Marion Loustric : « Avec la proactivité, une administration peut atteindre les usagers qu'elle ne connaît pas encore »</a></titre>
 <date>11 octobre 2023</date>
