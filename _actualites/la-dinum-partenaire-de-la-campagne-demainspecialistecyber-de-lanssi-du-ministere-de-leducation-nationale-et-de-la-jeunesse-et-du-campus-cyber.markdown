@@ -6,9 +6,9 @@ categories:
 - Actualité
 tags:
 - attractivité
-- l'Etat recrute
 - ANSSI
 - DemainSpécialisteCyber
+- recrutement
 chapeau-text: "DemainSpécialisteCyber est une campagne nationale co-construite par
   l’ANSSI et son laboratoire d’innovation, le ministère de l’Éducation nationale et
   de la Jeunesse et le Campus Cyber, en vue de valoriser la cybersécurité et ses métiers.
