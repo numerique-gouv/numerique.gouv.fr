@@ -25,7 +25,4 @@ Vincent Strubel, directeur général de l’Agence nationale de la sécurité de
 
 L’émergence de spécialistes cyber de demain représente aujourd’hui un enjeu de société primordial. La pénurie de compétences en la matière est estimée à 15 000 postes vacants en France et pourrait s’accentuer à l’avenir. Il est donc prioritaire d’attirer plus de jeunes vers la filière cybersécurité en leur présentant la diversité des profils et des métiers pour déconstruire les préjugés actuels du secteur : uniquement tech, solitaire et masculin. 
 
-<iframe width="640" height="3160" src="[DSC_film_02.mp4](/uploads/DSC_film_02.mp4)" frameborder="0" allowfullscreen></iframe>
-
-
 <div class="lien-important"><p><a href="https://www.demainspecialistecyber.fr/">En savoir plus et consulter le site de la campagne</a></p></div>
