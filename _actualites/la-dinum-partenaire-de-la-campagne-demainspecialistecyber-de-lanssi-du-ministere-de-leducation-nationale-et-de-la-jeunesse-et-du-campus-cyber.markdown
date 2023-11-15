@@ -19,6 +19,7 @@ chapeau-text: "DemainSpécialisteCyber est une campagne nationale co-construite 
 une-ou-diaporama:
 - image: "/uploads/Campagne%20DemainSp%C3%A9cialisteCyber.jpg"
   alternative-textuelle: Visuel de la campagne DemainSpécialisteCyber
+Field name: https://media.demainspecialistecyber.fr/videos/Cybersecurite_01_1080p.mp4
 ---
 
 Vincent Strubel, directeur général de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), Édouard Geffray, directeur général de l’enseignement scolaire du ministère de l’Éducation nationale et de la Jeunesse, et Michel Van den Berghe, président du Campus Cyber, ont lancé ce lundi 13 novembre la campagne nationale « DemainSpécialisteCyber » dédiée à la découverte et à la sensibilisation aux métiers Cyber à destination des élèves de collèges et lycées.
