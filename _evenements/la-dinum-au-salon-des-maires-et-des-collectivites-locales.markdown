@@ -33,6 +33,7 @@ champs_informations:
 - intitule: Inscription
   contenu: S'inscrire
   lien: https://smcl2023.site.calypso-event.net/visiteur.htm
+is_une: true
 ---
 
 ![Programme DINUM SMCL-c25b8e.png](/uploads/Programme%20DINUM%20SMCL-c25b8e.png)
