@@ -36,7 +36,7 @@ champs_informations:
 is_une: true
 ---
 
-![Programme DINUM SMCL-c25b8e.png](/uploads/Programme%20DINUM%20SMCL-c25b8e.png)
+![Programme DINUM SMCL-b7be9d.png](/uploads/Programme%20DINUM%20SMCL-b7be9d.png)
 
 [Télécharger notre programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM%20SMCL.pdf)
 
