@@ -6,6 +6,7 @@ categories:
 - Webinaire d'information
 tags:
 - Tchap
+is_une: true
 chapeau-text: Agents publics, rejoignez la communauté Tchap pour échanger avec vos
   collègues, tous les autres agents publics et tous vos interlocuteurs même externes
   à l’État, de manière simple et sécurisée. Pour en savoir plus sur l’utilisation
