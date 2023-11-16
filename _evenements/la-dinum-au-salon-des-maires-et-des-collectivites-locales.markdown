@@ -8,7 +8,6 @@ tags:
 - territoires
 - TNT
 - Transformation numérique des territoires
-is_une: true
 chapeau-text: |
   À l’occasion du [salon des Maires et des Collectivités  Locales](https://www.salondesmaires.com/) qui se tient du 21 au 23 novembre à Paris Porte de Versailles, les équipes de la DINUM de (re)présenteront [sa nouvelle feuille de route](https://www.numerique.gouv.fr/dinum/) et son offre à destination des territoires au sein d’un stand dédié, situé dans l’espace « Tech et transformation numérique » mais aussi et surtout échangeront avec les agents en charge de la transformation numérique publique.
 
@@ -36,7 +35,7 @@ champs_informations:
   lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
-![Programme DINUM SMCL-b7be9d.png](/uploads/Programme%20DINUM%20SMCL-b7be9d.png)
+![Programme DINUM SMCL-1732e4.png](/uploads/Programme%20DINUM%20SMCL-1732e4.png)
 
 [Télécharger notre programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM%20SMCL.pdf)
 
