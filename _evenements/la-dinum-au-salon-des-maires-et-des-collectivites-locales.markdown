@@ -35,7 +35,7 @@ champs_informations:
   lien: https://smcl2023.site.calypso-event.net/visiteur.htm
 ---
 
-![PPT mardi 2111(1).png](/uploads/PPT%20mardi%202111(1).png)
+![Programme DINUM SMCL-c25b8e.png](/uploads/Programme%20DINUM%20SMCL-c25b8e.png)
 
 [Télécharger notre programme](file:///C:/Users/anazaret-adc/Downloads/Programme%20DINUM%20SMCL.pdf)
 
@@ -54,7 +54,7 @@ beta.gouv.fr accompagne les administrations publiques à construire des services
 Concrètement, des équipes sont constituées d’agents publics endossant un rôle « d’intrapreneur » et d’experts du numérique de beta.gouv.fr pour créer des services numériques prioritaires à impact, appelés Startups d’État. Ces dernières partent des besoins du terrain pour expérimenter des solutions jusqu’à trouver le modèle le plus adéquat qui répondra aux besoins des usagers avant d’être déployé à plus grande échelle s’il prouve son impact. 
 [En savoir plus](https://beta.gouv.fr/approche)
 
-> Le jeudi 23/11 de 12h30 à 13h : conférence **« RDV services publics »** par Philippe Vrignaud, chef du pôle Relations agents usagers au sein de l’opérateur des produits interministériels de la DINUM, agent aussi en charge de Démarches Simplifiées. 
+> Le jeudi 23/11 de 12h30 à 13h : conférence **« RDV service public »** par Philippe Vrignaud, chef du pôle Relations agents usagers au sein de l’opérateur des produits interministériels de la DINUM, agent aussi en charge de Démarches Simplifiées. 
 
 Le salon des Maires et des Collectivités Locales est organisé en partenariat avec l’association des maires de France (AMF) depuis près de 20 ans et en concomitance avec le Congrès des Maires de France et des Présidents d’intercommunalité. Pendant trois jours, ce sont 50 000 acteurs territoriaux qui rencontreront 1 200 exposants de 9 secteurs d’activités et sur 17 scènes de conférences.
 
