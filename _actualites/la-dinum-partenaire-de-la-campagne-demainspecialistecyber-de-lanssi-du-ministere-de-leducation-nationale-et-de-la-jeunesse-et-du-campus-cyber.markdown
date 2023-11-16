@@ -27,21 +27,4 @@ L’émergence de spécialistes cyber de demain représente aujourd’hui un enj
 
 <div class="lien-important"><p><a href="https://www.demainspecialistecyber.fr/">En savoir plus et consulter le site de la campagne</a></p></div>
 
-<!DOCTYPE html>
-<html>
-<head>
- <style>
-   video{
-     resize:both;
-   }
- </style>
-</head>
-<body>
-<video width="620" height="440" controls>
-  <source src=""https://media.demainspecialistecyber.fr/videos/Cybersecurite_02_1080p.mp4" controls="" poster="https://media.demainspecialistecyber.fr/videos/Cybersecurite_02.png"" type="video/mp4">      
-</video>
-
-</body>
-</html>
-
-<video><video width="620" height="440" src="https://media.demainspecialistecyber.fr/videos/Cybersecurite_02_1080p.mp4" controls="" poster="https://media.demainspecialistecyber.fr/videos/Cybersecurite_02.png"></video>
+<video width="620" height="440" src="https://media.demainspecialistecyber.fr/videos/Cybersecurite_02_1080p.mp4" controls="" poster="https://media.demainspecialistecyber.fr/videos/Cybersecurite_02.png">
