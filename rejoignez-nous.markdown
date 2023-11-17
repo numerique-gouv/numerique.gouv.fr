@@ -50,18 +50,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Directeur/trice technique du département Appui, conseil et expertise H/F - Lien externe">Directeur/trice technique du département Appui, conseil et expertise H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Product owner Logiciels Libres H/F - Lien externe">Product owner Logiciels Libres H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F - Lien externe">Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -92,22 +80,16 @@ layout: page-annexe
 <h1 class="h3"><b>Données / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1249261/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1394058/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1249261/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1394058/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Ingénieur(e) data H/F - Lien externe">Ingénieur(e) data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directricedirecteur-des-donnees-adjointeadjoint-au-chef-du-datalab-hf-reference-2023-1365409/" title="Directrice/Directeur des données, adjointe/adjoint au chef du Datalab H/F - Lien externe">Directrice/Directeur des données, adjointe/adjoint au chef du Datalab H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directricedirecteur-des-donnees-adjointeadjoint-au-chef-du-datalab-hf-reference-2023-1365409/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
