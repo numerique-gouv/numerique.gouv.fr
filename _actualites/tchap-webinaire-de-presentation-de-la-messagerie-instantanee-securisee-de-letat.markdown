@@ -10,11 +10,11 @@ is_une: true
 chapeau-text: Agents publics, rejoignez la communauté Tchap pour échanger avec vos
   collègues, tous les autres agents publics et tous vos interlocuteurs même externes
   à l’État, de manière simple et sécurisée. Pour en savoir plus sur l’utilisation
-  de Tchap, participez au webinaire de présentation avec les équipes le jeudi 30 novembre
-  à 11h et le mercredi 6 décembre à 9h, elles répondront à toutes vos questions portant
-  sur l’utilisation de l’outil !
+  de Tchap, participez au webinaire de présentation avec les équipes le mercredi 29
+  novembre à 10h et le mercredi 6 décembre à 9h, elles répondront à toutes vos questions
+  portant sur l’utilisation de l’outil !
 une-ou-diaporama:
-- image: "/uploads/Tchap%20webinaire%20d'infos%20-%2030_11-02e7a2.png"
+- image: "/uploads/Tchap%20webinaire%20d'infos%20-%202911.png"
   alternative-textuelle: 'Visuel avec texte : Tchap - webinaire de présentation de
     la messagerie instantanée sécurisée de l’État'
 ---
