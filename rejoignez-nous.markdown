@@ -140,12 +140,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeureuse-junior-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1221883/" title="Développeur/euse junior Interopérabilité des produits au sein de l'Etat H/F - Lien externe">Développeur/euse junior Interopérabilité des produits au sein de l'Etat H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeureuse-junior-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1221883/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F">Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -156,12 +150,6 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-senior-federation-d-identite-des-citoyens-hf-reference-2023-1282366/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-information-et-conseiller-a-la-securite-du-numerique-hf-reference-2023-1365401/" title="Responsable de la sécurité des systèmes d'information et Conseiller à la sécurité du numérique H/F - Lien externe">Responsable de la sécurité des systèmes d'information et Conseiller à la sécurité du numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-information-et-conseiller-a-la-securite-du-numerique-hf-reference-2023-1365401/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-circulation-de-la-donnee-hf-reference-2023-1367464/" title="Architecte technique du pôle circulation de la donnée H/F - Lien externe">Architecte technique du pôle circulation de la donnée H/F</a></b>
