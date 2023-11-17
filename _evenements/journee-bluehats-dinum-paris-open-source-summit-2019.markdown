@@ -34,7 +34,7 @@ L'événement s'adresse à toute personne intéressée par le logiciel libre et 
 
 [**Ce formulaire**](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
 
-Pour toute question, écrivez-nous : **[bluehats@etalab.gouv.fr](mailto:bluehats@etalab.gouv.fr)** <br>
+Pour toute question, écrivez-nous : **[bluehats@code.gouv.fr](mailto:bluehats@code.gouv.fr)** <br>
 ### Programme détaillé :
 
 **Salle PLATEAU 1 : « #BlueHats review »**

@@ -66,7 +66,7 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 <br>
 <br>
 
-Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire [bluehats@etalab.gouv.fr ](mailto:bluehats@etalab.gouv.fr) ou à [110bis@education.gouv.fr](mailto:110bis@education.gouv.fr) pour nous poser vos questions.
+Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire [bluehats@code.gouv.fr ](mailto:bluehats@code.gouv.fr) ou à [110bis@education.gouv.fr](mailto:110bis@education.gouv.fr) pour nous poser vos questions.
 
 L’organisation de ce tout premier sprint open source nous a permis de tirer quelques [enseignements et pistes d’amélioration](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-retours.org) pour de prochaines rencontres, que nous vous partageons.
 
