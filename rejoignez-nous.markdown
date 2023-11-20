@@ -205,6 +205,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-accompagnement--et-support-outils-de-partage-de-fichiers-et-gestion-de-projets-hf-reference-2023-1388050/" title="Responsable accompagnement et support outils de partage de fichiers et gestion de projets H/F - Lien externe">Responsable accompagnement et support outils de partage de fichiers et gestion de projets H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-accompagnement--et-support-outils-de-partage-de-fichiers-et-gestion-de-projets-hf-reference-2023-1388050/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
