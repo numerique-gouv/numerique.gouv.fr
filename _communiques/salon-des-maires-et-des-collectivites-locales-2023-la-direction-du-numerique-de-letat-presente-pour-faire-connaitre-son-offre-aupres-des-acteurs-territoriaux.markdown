@@ -2,6 +2,12 @@
 title: 'Salon des maires et des collectivités locales 2023 : la direction du numérique
   de l’État présente pour faire connaître son offre auprès des acteurs territoriaux'
 date: 2023-11-20 17:43:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Salon
+- collectivités territoriales
+- Numérique
 chapeau-text: "**À l’heure où 80 % des Français ont, comme premier contact avec une
   administration, un site internet ou une application mobile pour effectuer leurs
   démarches administratives, la transformation numérique de l’action publique dans
@@ -33,4 +39,6 @@ Cet événement intervient après la remise du [rapport Data et Territoires](htt
 <br>
 <br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
-Le salon des maires et des collectivités locales est organisé en partenariat avec l’association des maires de France (AMF) depuis près de 20 ans et en concomitance avec le Congrès des Maires de France et des Présidents d’intercommunalité. Pendant trois jours, ce sont 50 000 acteurs territoriaux qui rencontreront 1 200 exposants de 9 secteurs d’activités et sur 17 scènes de conférences. Pour en savoir plus sur le salon : [https://www.salondesmaires.com/](https://www.salondesmaires.com/) 
+Le salon des maires et des collectivités locales est organisé en partenariat avec l’association des maires de France (AMF) depuis près de 20 ans et en concomitance avec le Congrès des Maires de France et des Présidents d’intercommunalité. Pendant trois jours, ce sont 50 000 acteurs territoriaux qui rencontreront 1 200 exposants de 9 secteurs d’activités et sur 17 scènes de conférences. 
+
+[Pour en savoir plus sur le salon](https://www.salondesmaires.com/)
