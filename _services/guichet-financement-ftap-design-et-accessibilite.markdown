@@ -83,8 +83,6 @@ En complément de ce financement, la DINUM pourra, si cela lui semble pertinent,
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 
-<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="mailto:marine.boudeau@modernisation.gouv.fr">marine.boudeau@modernisation.gouv.fr</a>
-
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
 <img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
