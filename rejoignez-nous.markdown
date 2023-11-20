@@ -187,6 +187,24 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-senior-federation-d-identite-des-citoyens-hf-reference-2023-1282366/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Développeur/se Confirmé/e - FranceConnect H/F - Lien externe">Développeur/se Confirmé/e - FranceConnect H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Chargé/e de support fonctionnel Confirmé - FranceConnect H/F - Lien externe">Chargé/e de support fonctionnel Confirmé - FranceConnect H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Assistant/e de direction PMO (Project Management Officer) H/F - Lien externe">Assistant/e de direction PMO (Project Management Officer) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
