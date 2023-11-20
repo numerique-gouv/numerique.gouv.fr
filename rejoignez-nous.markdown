@@ -169,6 +169,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-fe-de-pole-adjoint-federation-d-identite-des-citoyens---directeurdirectrice-produit-hf-hf-reference-2023-1400637/" title="Chef/fe de pôle adjoint Fédération d'identité des citoyens - Directeur/Directrice produit H/F - Lien externe">Chef/fe de pôle adjoint Fédération d'identité des citoyens - Directeur/Directrice produit H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-fe-de-pole-adjoint-federation-d-identite-des-citoyens---directeurdirectrice-produit-hf-hf-reference-2023-1400637/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
    <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F">Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
@@ -188,13 +194,13 @@ layout: page-annexe
 <h1 class="h3"><b>RH de la filière numérique de l'État</b></h1>
 <div class="wrapper">
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="PMO - Chef/Cheffe de projet DRHN H/F - Lien externe">PMO - Chef/Cheffe de projet DRHN H/F"</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="PMO - Chef/Cheffe de projet DRHN H/F - Lien externe">PMO - Chef/Cheffe de projet DRHN H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="Chargé/e de mission « RH et attractivité » H/F - Lien externe">Chargé/e de mission « RH et attractivité » H/F"</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pmo---chefcheffe-de-projet-drhn-hf-reference-2023-1344377/" title="Chargé/e de mission « RH et attractivité » H/F - Lien externe">Chargé/e de mission « RH et attractivité » H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1254901/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
@@ -206,13 +212,13 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-formation---campus-du-numerique-public-cdd1-renouvelable-hf-reference-2023-1372112/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Assistant/e utilisateur informatique - GRID H/F - Lien externe">Assistant/e utilisateur informatique - GRID H/F"</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Assistant/e utilisateur informatique - GRID H/F - Lien externe">Assistant/e utilisateur informatique - GRID H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Chargé/e de mission formation - Campus du numérique public H/F - Lien externe">Chargé/e de mission formation - Campus du numérique public H/F"</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Chargé/e de mission formation - Campus du numérique public H/F - Lien externe">Chargé/e de mission formation - Campus du numérique public H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
