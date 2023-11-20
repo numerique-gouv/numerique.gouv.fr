@@ -2,7 +2,6 @@
 title: 'Salon des maires et des collectivités locales 2023 : la direction du numérique
   de l’État présente pour faire connaître son offre auprès des acteurs territoriaux'
 date: 2023-11-20 17:43:00 +01:00
-published: false
 chapeau-text: "**À l’heure où 80 % des Français ont, comme premier contact avec une
   administration, un site internet ou une application mobile pour effectuer leurs
   démarches administratives, la transformation numérique de l’action publique dans
