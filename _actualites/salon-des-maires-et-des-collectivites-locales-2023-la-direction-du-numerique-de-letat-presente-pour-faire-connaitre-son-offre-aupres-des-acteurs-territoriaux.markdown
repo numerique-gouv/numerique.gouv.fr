@@ -26,4 +26,4 @@ une-ou-diaporama:
     locales 2023 / Retrouvez  la DINUM du 21 au 23 novembre 2023
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/stanislas-guerini-recoit-le-rapport-data-et-territoires-dedie-a-renforcer-lacces-aux-services-publics-et-le-deploiement-du-numerique-dans-les-territoires/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/salon-des-maires-et-des-collectivites-locales-2023-la-direction-du-numerique-de-letat-presente-pour-faire-connaitre-son-offre-aupres-des-acteurs-territoriaux/">Lire le communiqué de presse</a></p></div>
