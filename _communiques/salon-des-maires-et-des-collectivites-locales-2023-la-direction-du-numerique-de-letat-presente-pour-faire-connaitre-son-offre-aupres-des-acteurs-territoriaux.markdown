@@ -26,7 +26,7 @@ une-ou-diaporama:
     locales 2023 / Retrouvez  la DINUM du 21 au 23 novembre 2023
 files:
 - file: "/uploads/CP_DINUM_SALON_DES_MAIRES_COLLECTIVITES_LOCALES.pdf"
-  nom: Télécharger le commun
+  nom: Télécharger le communiqué de presse
 ---
 
 Parmi les thématiques abordées : la création de services numériques s’appuyant sur les méthodes agiles et à impact et le fonds d’accélération des Startups d’État et de Territoires (FAST), la simplification par l’automatisation des données des justificatifs des usagers, la proactivité et le principe de l’aller-vers les usagers simplifiant drastiquement les démarches administratives et luttant contre le non-recours et la fraude, la souveraineté et l’usage de la messagerie instantanée du service public : Tchap, la présentation du baromètre collectivités et numérique, l’identité numérique avec FranceConnect et FranceConnect+, la facilitation de la prise de RDV et le programme de Transformation numérique des Territoires (TNT). 
