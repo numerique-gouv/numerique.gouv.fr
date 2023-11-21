@@ -9,6 +9,9 @@ tags:
 - Accessibilité
 - Numérique
 - accessibilité numérique
+- convention
+- FIPHFP
+- inclusion numérique
 chapeau-text: '10 ans après la première convention signée entre le Fonds pour l’insertion
   des personnes handicapées dans la fonction publique (FIPHFP) et la direction interministérielle
   du numérique (DINUM), une nouvelle convention est signée aujourd’hui, en présence
@@ -42,20 +45,24 @@ Cet accompagnement se déploie à travers les conventions passées avec les empl
 > « Au sein du FIPHFP, nous souhaitons proposer des mesures concrètes d’accompagnements avec des outils et des financements des projets à destination des employeurs publics. Il s’agit de lever les freins à l’accessibilité et de permettre in fine l’insertion et le maintien en emploi des personnes en situation de handicaps. Pour nous, l’accessibilité numérique est un catalyseur d’inclusion, cette convention avec la DINUM constituera un levier essentiel pour démultiplier les actions dans la fonction publique. Sa force est de s’appuyer sur des experts, de nous garantir une utilisation optimale des sommes mobilisées. »
 <br>
 
+**Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques :**
 > « L’accessibilité numérique à 100%, c’est une priorité du Gouvernement. L’inclusion numérique est un pilier de ma feuille de route et je me réjouis de la signature de cette convention entre le FIPHFP et la DINUM pour accélérer notre action en la matière. Il est nécessaire d’améliorer l’environnement de travail des agents publics en situation de handicap pour garantir l’accessibilité des services publics. »
 <br>
-<br>**Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques**
 
-**L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022 -2024 du FIPHFP.**
 
-**A propos du FIPHFP :**
+**L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022-2024 du FIPHFP.**
 
-<i>Créé en 2006 dans la foulée de la loi de 2005, le Fonds pour l’insertion des personnes en situations de handicap œuvre pour l’insertion professionnelle des personnes handicapées dans les trois versants de la fonction publique (FIPPHFP). C’est un acteur essentiel qui apporte des réponses concrètes et efficaces dans le champ de l’insertion et du maintien en emploi des personnes en situation de handicaps. Doté d’un budget annuel de 200 millions d’euros, il finance, impulse et aide les employeurs publics dans la réalisation de leurs politiques d’inclusion professionnelles. 
+**À propos de la DINUM : **
+Service de la Première ministre, placé sous l’autorité du ministre de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM) a été créée par le décret du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. Elle a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Sa mission est d’accompagner et de faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique. 
 
-<i>Ainsi en 2022, plus de 34 000 recrutements ont été réalisés et plus de 8 000 personnes ont été maintenues en emploi grâce au fonds, le taux d’emploi dans la fonction publique continuant à progresser pour atteindre 5,45%. Aujourd’hui, plus de 1,1 million de personnes en situation de handicap sont en emploi. C’est la première fois que ce seuil est atteint. Elles sont plus de 850 000 en poste dans le secteur privé et 260 095 à occuper un emploi dans la Fonction publique. 
+**À propos du FIPHFP : **
+Créé en 2006 dans la foulée de la loi de 2005, le Fonds pour l’insertion des personnes en situations de handicap œuvre pour l’insertion professionnelle des personnes handicapées dans les trois versants de la fonction publique (FIPPHFP). C’est un acteur essentiel qui apporte des réponses concrètes et efficaces dans le champ de l’insertion et du maintien en emploi des personnes en situation de handicaps. Doté d’un budget annuel de 200 millions d’euros, il finance, impulse et aide les employeurs publics dans la réalisation de leurs politiques d’inclusion professionnelles. 
+Ainsi en 2022, plus de 34 000 recrutements ont été réalisés et plus de 8 000 personnes ont été maintenues en emploi grâce au fonds, le taux d’emploi dans la fonction publique continuant à progresser pour atteindre 5,45%. Aujourd’hui, plus de 1,1 million de personnes en situation de handicap sont en emploi. C’est la première fois que ce seuil est atteint. Elles sont plus de 850 000 en poste dans le secteur privé et 260 095 à occuper un emploi dans la Fonction publique. 
 Le FIPHFP est un établissement public national dirigé par Marine Neuville.
 
-<i>L’établissement est placé sous la tutelle des ministres chargés des personnes handicapées, de la Fonction publique de l’État, de la Fonction publique territoriale, de la Fonction publique hospitalière et du budget (décret n° 2006-501 du 3 mai 2006). Sa gestion administrative est assurée par la Caisse des Dépôts.
+L’établissement est placé sous la tutelle des ministres chargés des personnes handicapées, de la Fonction publique de l’État, de la Fonction publique territoriale, de la Fonction publique hospitalière et du budget (décret n° 2006-501 du 3 mai 2006). Sa gestion administrative est assurée par la Caisse des Dépôts.
 
-**Documents :**
-<br>Consulter la circulaire n°6411/SG et les notes d’application : [ici](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application)
+@FIPHFP
+
+**Documents : **
+Consulter la circulaire n°6411/SG et les notes d’application : [ici](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application/)
