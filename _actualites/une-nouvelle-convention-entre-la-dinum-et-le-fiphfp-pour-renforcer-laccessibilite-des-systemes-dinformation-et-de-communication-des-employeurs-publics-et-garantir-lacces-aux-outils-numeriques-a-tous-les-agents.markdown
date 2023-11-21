@@ -2,8 +2,7 @@
 title: Une nouvelle convention entre la DINUM et le FIPHFP pour renforcer l’accessibilité
   des systèmes d’information et de communication des employeurs publics et garantir
   l’accès aux outils numériques à tous les agents
-date: 2023-11-21 11:28:00 +01:00
-published: false
+date: 2023-11-21 00:00:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -24,4 +23,4 @@ chapeau-text: '10 ans après la première convention signée entre le Fonds pour
   sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention). '
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/salon-des-maires-et-des-collectivites-locales-2023-la-direction-du-numerique-de-letat-presente-pour-faire-connaitre-son-offre-aupres-des-acteurs-territoriaux/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/une-nouvelle-convention-entre-la-dinum-et-le-fiphfp-pour-renforcer-laccessibilite-des-systemes-dinformation-et-de-communication-des-employeurs-publics-et-garantir-lacces-aux-outils-numeriques-a-tous-les-agents/">Lire le communiqué de presse</a></p></div>
