@@ -40,7 +40,7 @@ champs_informations:
 La saison 2 s'achève ! Il est temps pour les équipes interministérielles de vous présenter leurs solutions !
 
 ## LE PROGRAMME :
-**14h30 :** Mots d'ouverture par Stéphanie Schaer, directrice interministérielle du numérique et Romain Lesur, responsable du datalab à l'Insee
+**14h30 :** Mots d'ouverture par Marielle Chrisment, cheffe du département Etalab de la DINUM et Romain Lesur, responsable du datalab à l'Insee
 
 **14h45 :** Démo des 7 projets d'intérêt commun :
 * **ChartsGouv :** l’outil de visualisation des données de l’État
