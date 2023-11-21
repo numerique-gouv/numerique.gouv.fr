@@ -46,7 +46,7 @@ Cet accompagnement se déploie à travers les conventions passées avec les empl
 <br>
 <br>**Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques**
 
-L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022 -2024 du FIPHFP.
+**L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022 -2024 du FIPHFP.**
 
 **A propos du FIPHFP :**
 
