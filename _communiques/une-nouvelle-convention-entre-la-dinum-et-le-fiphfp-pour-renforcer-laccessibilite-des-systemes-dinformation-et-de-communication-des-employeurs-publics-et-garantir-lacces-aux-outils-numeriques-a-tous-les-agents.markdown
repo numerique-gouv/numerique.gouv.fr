@@ -1,5 +1,5 @@
 ---
-title: Une nouvelle convention entre la dinum et le FIPHFP pour renforcer l’accessibilité
+title: Une nouvelle convention entre la DINUM et le FIPHFP pour renforcer l’accessibilité
   des systèmes d’information et de communication des employeurs publics et garantir
   l’accès aux outils numériques à tous les agents
 date: 2023-11-21 09:38:00 +01:00
