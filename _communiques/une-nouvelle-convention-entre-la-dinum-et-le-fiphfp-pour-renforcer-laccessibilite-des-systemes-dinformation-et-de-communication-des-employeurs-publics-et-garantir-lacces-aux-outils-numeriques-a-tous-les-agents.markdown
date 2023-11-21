@@ -3,7 +3,6 @@ title: Une nouvelle convention entre la dinum et le FIPHFP pour renforcer l’ac
   des systèmes d’information et de communication des employeurs publics et garantir
   l’accès aux outils numériques à tous les agents
 date: 2023-11-21 09:38:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
