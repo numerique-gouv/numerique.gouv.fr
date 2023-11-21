@@ -21,8 +21,7 @@ chapeau-text: "**10 ans après la première convention signée entre le Fonds po
   et chef du département Appui, conseil et expertise de la DINUM, direction intervenant
   sous l’égide du ministère de la Transformation et de la Fonction publiques, un renouvellement
   ambitieux entre les 2 partenaires, avec à la clé un montant  de 20 millions d’euros
-  sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention).
-  **"
+  sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention).**"
 files:
 - file: "/uploads/CP_FIPHFPxDINUM_CONVENTION_ACCESSIBILITE_NUMERIQUE-a50ca4.pdf"
   nom: Télécharger le communiqué de presse
@@ -62,8 +61,6 @@ Ainsi en 2022, plus de 34 000 recrutements ont été réalisés et plus de 8 000
 Le FIPHFP est un établissement public national dirigé par Marine Neuville.
 
 L’établissement est placé sous la tutelle des ministres chargés des personnes handicapées, de la Fonction publique de l’État, de la Fonction publique territoriale, de la Fonction publique hospitalière et du budget (décret n° 2006-501 du 3 mai 2006). Sa gestion administrative est assurée par la Caisse des Dépôts.
-
-@FIPHFP
 
 **Documents :**
 Consulter la circulaire n°6411/SG et les notes d’application : [ici](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application/)
