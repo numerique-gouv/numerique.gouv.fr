@@ -38,3 +38,13 @@ Le FIPHFP travaille également à la mise à disposition de ressources RGAA mise
 
 Cet accompagnement se déploie à travers les conventions passées avec les employeurs qui déploient systématiquement un volet accessibilité numérique. Des aides plateformes sont disponibles pour les employeurs qui ne sont pas conventionnés.
 
+**Pour Françoise Descamps-Crosnier, présidente du Comité national du FIPHFP, le renouvellement de la convention avec la DINUM est crucial :**
+> « Au sein du FIPHFP, nous souhaitons proposer des mesures concrètes d’accompagnements avec des outils et des financements des projets à destination des employeurs publics. Il s’agit de lever les freins à l’accessibilité et de permettre in fine l’insertion et le maintien en emploi des personnes en situation de handicaps. Pour nous, l’accessibilité numérique est un catalyseur d’inclusion, cette convention avec la DINUM constituera un levier essentiel pour démultiplier les actions dans la fonction publique. Sa force est de s’appuyer sur des experts, de nous garantir une utilisation optimale des sommes mobilisées. »
+<br>
+
+> « L’accessibilité numérique à 100%, c’est une priorité du Gouvernement. L’inclusion numérique est un pilier de ma feuille de route et je me réjouis de la signature de cette convention entre le FIPHFP et la DINUM pour accélérer notre action en la matière. Il est nécessaire d’améliorer l’environnement de travail des agents publics en situation de handicap pour garantir l’accessibilité des services publics. »
+<br>
+<br>**Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques**
+
+L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022 -2024 du FIPHFP.
+
