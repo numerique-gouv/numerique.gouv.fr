@@ -23,6 +23,9 @@ chapeau-text: "**10 ans après la première convention signée entre le Fonds po
   ambitieux entre les 2 partenaires, avec à la clé un montant  de 20 millions d’euros
   sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention).
   **"
+files:
+- file: "/uploads/CP_FIPHFPxDINUM_CONVENTION_ACCESSIBILITE_NUMERIQUE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Signée à l’issue de la conférence *« L’accessibilité numérique, un tremplin pour l’emploi ? »* organisée par le FIPHFP, l’Agefiph et Le Monde ce jour, cette nouvelle convention avec la DINUM a pour objectif prioritaire de renforcer l’accessibilité des systèmes d’information et de communication des employeurs publics pour les agents en situation de handicap et de garantir à tous les agents publics l’accès à des outils numériques accessibles. 
