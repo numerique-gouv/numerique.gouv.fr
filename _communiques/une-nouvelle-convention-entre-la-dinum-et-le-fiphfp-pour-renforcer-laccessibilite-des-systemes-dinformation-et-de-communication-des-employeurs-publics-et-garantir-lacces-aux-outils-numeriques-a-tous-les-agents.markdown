@@ -23,7 +23,7 @@ files:
 - nom: Télécharger le communiqué de presse
 ---
 
-Signée à l’issue de la conférence « L’accessibilité numérique, un tremplin pour l’emploi ? » organisée par le FIPHFP, l’Agefiph et Le Monde ce jour, cette nouvelle convention avec la DINUM a pour objectif prioritaire de renforcer l’accessibilité des systèmes d’information et de communication des employeurs publics pour les agents en situation de handicap et de garantir à tous les agents publics l’accès à des outils numériques accessibles. 
+Signée à l’issue de la conférence *« L’accessibilité numérique, un tremplin pour l’emploi ? »* organisée par le FIPHFP, l’Agefiph et Le Monde ce jour, cette nouvelle convention avec la DINUM a pour objectif prioritaire de renforcer l’accessibilité des systèmes d’information et de communication des employeurs publics pour les agents en situation de handicap et de garantir à tous les agents publics l’accès à des outils numériques accessibles. 
 
 **L’inclusion passe notamment par des outils numériques accessibles :**
 
@@ -48,6 +48,7 @@ Cet accompagnement se déploie à travers les conventions passées avec les empl
 L’accessibilité numérique est l’un des 4 axes prioritaires du programme exceptionnel 2022 -2024 du FIPHFP.
 
 **A propos du FIPHFP :**
+
 *Créé en 2006 dans la foulée de la loi de 2005, le Fonds pour l’insertion des personnes en situations de handicap œuvre pour l’insertion professionnelle des personnes handicapées dans les trois versants de la fonction publique (FIPPHFP). C’est un acteur essentiel qui apporte des réponses concrètes et efficaces dans le champ de l’insertion et du maintien en emploi des personnes en situation de handicaps. Doté d’un budget annuel de 200 millions d’euros, il finance, impulse et aide les employeurs publics dans la réalisation de leurs politiques d’inclusion professionnelles. 
 
 Ainsi en 2022, plus de 34 000 recrutements ont été réalisés et plus de 8 000 personnes ont été maintenues en emploi grâce au fonds, le taux d’emploi dans la fonction publique continuant à progresser pour atteindre 5,45%. Aujourd’hui, plus de 1,1 million de personnes en situation de handicap sont en emploi. C’est la première fois que ce seuil est atteint. Elles sont plus de 850 000 en poste dans le secteur privé et 260 095 à occuper un emploi dans la Fonction publique. 
@@ -55,5 +56,5 @@ Le FIPHFP est un établissement public national dirigé par Marine Neuville.
 
 L’établissement est placé sous la tutelle des ministres chargés des personnes handicapées, de la Fonction publique de l’État, de la Fonction publique territoriale, de la Fonction publique hospitalière et du budget (décret n° 2006-501 du 3 mai 2006). Sa gestion administrative est assurée par la Caisse des Dépôts.*
 
-**Documents : **
+**Documents :**
 Consulter la circulaire n°6411/SG et les notes d’application : [ici](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application)
