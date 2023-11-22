@@ -2,7 +2,6 @@
 title: 'Accessibilité numérique : le Gouvernement entérine l’ordonnance visant à contrôler
   l’accessibilité des sites des administrations publiques à compter 2024'
 date: 2023-11-22 16:35:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -17,6 +16,9 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
   personnes handicapées.
 une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg"
+  alternative-textuelle: 'Accessibilité numérique : le Gouvernement entérine l’ordonnance
+    visant à contrôler l’accessibilité des sites des administrations publiques à compter
+    2024'
 files:
 - file: "/uploads/CP_ACCESSIBILITE_NUMERIQUE_LE_GOUVERNEMENT_PASSE_A_LA_VITESSE-708198.pdf"
   nom: Télécharger le communiqué de presse
@@ -31,6 +33,8 @@ Dès 2024, l’accessibilité numérique des sites web des administrations publi
 <b>2) L'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) sera compétente pour identifier et constater les manquements, en s’appuyant notamment sur des méthodes de collecte automatisée, émettre des injonctions préalables aux sanctions. 
 
 <b>3) Si un manquement sanctionné persiste plus de six mois après l'imposition de la sanction initiale, une nouvelle sanction pourra être imposée (au lieu d'un an auparavant).
+
+En savoir plus et consulter le compte-rendu du conseil des ministres du 22 novembre 2023 : https://www.gouvernement.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-22-11-2023
 
 Certaines obligations restent inchangées : les obligations complémentaires, qui incluent la publication d'une déclaration d'accessibilité, l'élaboration et la publication d'un schéma pluriannuel (sur trois ans) de mise en accessibilité décliné en plans d'actions annuels, la publication du plan d'action de l'année en cours, l'indication sur la page d'accueil si le site est conforme ou non, et la possibilité pour les utilisateurs de signaler facilement les manquements à l'accessibilité. Le non-respect des obligations complémentaires demeure passible de sanctions, avec une limite fixée à 25 000€.
 
