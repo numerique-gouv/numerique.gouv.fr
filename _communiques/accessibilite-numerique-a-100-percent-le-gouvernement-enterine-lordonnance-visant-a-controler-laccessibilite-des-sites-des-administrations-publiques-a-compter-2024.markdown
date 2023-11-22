@@ -1,6 +1,6 @@
 ---
-title: 'Accessibilité numérique à 100% : le Gouvernement entérine l’ordonnance visant
-  à contrôler l’accessibilité des sites des administrations publiques à compter 2024.'
+title: 'Accessibilité numérique : le Gouvernement entérine l’ordonnance visant à contrôler
+  l’accessibilité des sites des administrations publiques à compter 2024.'
 date: 2023-11-22 16:35:00 +01:00
 published: false
 chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des personnes handicapées,
@@ -12,7 +12,7 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
   personnes handicapées.
 ---
 
-Dès 2024, l’accessibilité numérique à 100% des sites web des administrations publiques ne sera plus seulement une intention mais une réalité concrétisant la promesse du Président de la République Emmanuel Macron faite le 26 avril dernier lors de la conférence nationale du handicap (CNH) auprès des acteurs du handicap ; les démarches essentielles, quant à elles, le seront d’ici au 31 décembre 2025.
+Dès 2024, l’accessibilité numérique des sites web des administrations publiques ne sera plus seulement une intention mais une réalité concrétisant la promesse du Président de la République Emmanuel Macron faite le 26 avril dernier lors de la conférence nationale du handicap (CNH) auprès des acteurs du handicap ; les démarches essentielles, quant à elles, le seront d’ici au 31 décembre 2025.
 
 **Dans près d’un mois :  
 
