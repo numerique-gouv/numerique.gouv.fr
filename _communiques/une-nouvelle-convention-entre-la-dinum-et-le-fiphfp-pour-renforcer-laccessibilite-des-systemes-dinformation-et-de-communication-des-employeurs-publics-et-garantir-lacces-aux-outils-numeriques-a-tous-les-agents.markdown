@@ -23,7 +23,7 @@ chapeau-text: "**10 ans après la première convention signée entre le Fonds po
   ambitieux entre les 2 partenaires, avec à la clé un montant  de 20 millions d’euros
   sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention).**"
 une-ou-diaporama:
-- image: "/uploads/SignatureConvention.jpg"
+- image: "/uploads/Signature%20FIP.png"
 files:
 - file: "/uploads/CP_FIPHFPxDINUM_CONVENTION_ACCESSIBILITE_NUMERIQUE-a50ca4.pdf"
   nom: Télécharger le communiqué de presse
