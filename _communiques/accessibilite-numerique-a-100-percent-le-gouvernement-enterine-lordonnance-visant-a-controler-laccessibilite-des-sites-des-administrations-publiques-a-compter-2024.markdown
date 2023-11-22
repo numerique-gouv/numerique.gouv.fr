@@ -1,7 +1,8 @@
 ---
 title: 'Accessibilité numérique : le Gouvernement entérine l’ordonnance visant à contrôler
-  l’accessibilité des sites des administrations publiques à compter 2024'
+  l’accessibilité des sites des administrations publiques à compter 2024.'
 date: 2023-11-22 16:35:00 +01:00
+published: false
 chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des personnes handicapées,
   le Gouvernement ratifie [l’ordonnance n° 2023-859 du 6 septembre 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674)
   visant à renforcer les sanctions des manquements aux obligations d’accessibilité
@@ -9,10 +10,6 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
   du 11 février 2005](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000809647/)
   pour l'égalité des droits et des chances, la participation et la citoyenneté des
   personnes handicapées.
-une-ou-diaporama:
-- image: "/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg"
-files:
-- nom: Télécharger le communiqué de presse
 ---
 
 Dès 2024, l’accessibilité numérique des sites web des administrations publiques ne sera plus seulement une intention mais une réalité concrétisant la promesse du Président de la République Emmanuel Macron faite le 26 avril dernier lors de la conférence nationale du handicap (CNH) auprès des acteurs du handicap ; les démarches essentielles, quant à elles, le seront d’ici au 31 décembre 2025.
