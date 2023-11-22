@@ -1,5 +1,5 @@
 ---
-title: 'Transformation numérique des territoires : lancement du baromètre collectivités
+title: 'Transformation numérique des territoires : lancement du baromètre Collectivités
   & numérique pour renforcer l’accompagnement des acteurs des territoires dans leur
   transformation numérique en vue de l’accélérer'
 date: 2023-11-22 11:32:00 +01:00

@@ -1,8 +1,12 @@
 ---
-title: 'Transformation numérique des territoires : lancement du baromètre collectivités
+title: 'Transformation numérique des territoires : lancement du baromètre Collectivités
   & numérique pour renforcer l’accompagnement des acteurs des territoires dans leur
   transformation numérique en vue de l’accélérer'
 date: 2023-11-22 11:51:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Programme TNT
 chapeau-text: Dans la dynamique du salon des maires et des collectivités locales qui
   rassemble cette semaine tous les acteurs des territoires, le programme Transformation
   numérique des territoires (TNT) de la direction interministérielle du numérique
