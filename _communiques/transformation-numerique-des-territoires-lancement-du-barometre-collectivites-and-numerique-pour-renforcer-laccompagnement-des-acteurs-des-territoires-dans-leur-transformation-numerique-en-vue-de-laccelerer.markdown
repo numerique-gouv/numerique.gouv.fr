@@ -15,6 +15,7 @@ chapeau-text: Dans la dynamique du salon des maires et des collectivités locale
   Numériques (OPSN), annoncent le lancement du baromètre Collectivités & numérique.
 une-ou-diaporama:
 - image: "/uploads/BaroTNTDeclic.png"
+  alternative-textuelle: Image représentant l'identité graphique du programme TNT
 files:
 - file: "/uploads/CP_DINUMxDECLIC_LANCENT_BAROMETRE_COLLECTIVITES_NUMERIQUE.pdf"
   nom: Télécharger le communiqué de presse
