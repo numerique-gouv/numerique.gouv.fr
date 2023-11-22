@@ -12,7 +12,7 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
 une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg"
 files:
-- file: "/uploads/CP_FIPHFPxDINUM_CONVENTION_ACCESSIBILITE_NUMERIQUE-004630.pdf"
+- file: "/uploads/CP_ACCESSIBILITE_NUMERIQUE_LE_GOUVERNEMENT_PASSE_A_LA_VITESSE-46856d.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
