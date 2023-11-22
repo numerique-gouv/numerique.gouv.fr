@@ -16,7 +16,8 @@ chapeau-text: Dans la dynamique du salon des maires et des collectivités locale
 une-ou-diaporama:
 - image: "/uploads/BaroTNTDeclic.png"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_DINUMxDECLIC_LANCENT_BAROMETRE_COLLECTIVITES_NUMERIQUE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Le niveau de transformation numérique des collectivités territoriales est aujourd’hui encore trop partiellement documenté : il existe peu de données solides, partagées et exhaustives sur le développement des services numériques au sein des collectivités. Pourtant, ces données sont indispensables à un pilotage, et à un accompagnement efficace de la transformation numérique des territoires. Face à ce constat et pour répondre aux besoins des collectivités territoriales de documenter et mesurer leur niveau de transformation numérique, la DINUM et Déclic ont coconstruit le baromètre Collectivités & numérique.
