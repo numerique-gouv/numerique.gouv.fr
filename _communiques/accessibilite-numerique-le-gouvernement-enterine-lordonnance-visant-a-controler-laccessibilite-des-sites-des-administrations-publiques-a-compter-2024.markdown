@@ -20,11 +20,11 @@ Dès 2024, l’accessibilité numérique des sites web des administrations publi
 
 <b>Dans près d’un mois :  
 
-1) Le non-respect de l'accessibilité des sites, déjà rendue obligatoire depuis la loi de 2005, sera passible de sanctions dont le montant maximal est fixé à 50 000€.
+<b>1) Le non-respect de l'accessibilité des sites, déjà rendue obligatoire depuis la loi de 2005, sera passible de sanctions dont le montant maximal est fixé à 50 000€.
 
-2) L'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) sera compétente pour identifier et constater les manquements, en s’appuyant notamment sur des méthodes de collecte automatisée, émettre des injonctions préalables aux sanctions. 
+<b>2) L'Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) sera compétente pour identifier et constater les manquements, en s’appuyant notamment sur des méthodes de collecte automatisée, émettre des injonctions préalables aux sanctions. 
 
-3) Si un manquement sanctionné persiste plus de six mois après l'imposition de la sanction initiale, une nouvelle sanction pourra être imposée (au lieu d'un an auparavant).</b>
+<b>3) Si un manquement sanctionné persiste plus de six mois après l'imposition de la sanction initiale, une nouvelle sanction pourra être imposée (au lieu d'un an auparavant).
 
 Certaines obligations restent inchangées : les obligations complémentaires, qui incluent la publication d'une déclaration d'accessibilité, l'élaboration et la publication d'un schéma pluriannuel (sur trois ans) de mise en accessibilité décliné en plans d'actions annuels, la publication du plan d'action de l'année en cours, l'indication sur la page d'accueil si le site est conforme ou non, et la possibilité pour les utilisateurs de signaler facilement les manquements à l'accessibilité. Le non-respect des obligations complémentaires demeure passible de sanctions, avec une limite fixée à 25 000€.
 
