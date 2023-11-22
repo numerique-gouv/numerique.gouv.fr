@@ -7,6 +7,7 @@ categories:
 tags:
 - Accessibilité
 - accessibilité numérique
+- ordonnance accessibilité numérique
 chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des personnes handicapées,
   le Gouvernement ratifie [l’ordonnance n° 2023-859 du 6 septembre 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674)
   visant à renforcer les sanctions des manquements aux obligations d’accessibilité
