@@ -7,6 +7,7 @@ categories:
 - Communiqué de presse
 tags:
 - Programme TNT
+- baromètre Collectivités & numérique
 chapeau-text: Dans la dynamique du salon des maires et des collectivités locales qui
   rassemble cette semaine tous les acteurs des territoires, le programme Transformation
   numérique des territoires (TNT) de la direction interministérielle du numérique
@@ -15,6 +16,7 @@ chapeau-text: Dans la dynamique du salon des maires et des collectivités locale
   Numériques (OPSN), annoncent le lancement du baromètre Collectivités & numérique.
 une-ou-diaporama:
 - image: "/uploads/BaroTNTDeclic.png"
+  alternative-textuelle: Image représentant l'identité graphique du programme TNT
 files:
 - file: "/uploads/CP_DINUMxDECLIC_LANCENT_BAROMETRE_COLLECTIVITES_NUMERIQUE.pdf"
   nom: Télécharger le communiqué de presse
@@ -40,7 +42,6 @@ La démarche bénéficie également du soutien d’associations représentantes 
 
 [En savoir plus et consulter les questionnaires](https://barometre-numerique-collectivites.fr/)
 
-Une intervention au salon des maires et des collectivités locales est prévue le 23/11/23 à 14h sur le stand de la DINUM, n°A40.
 
 **Prochaine étape : les résultats feront l’objet d’une synthèse annuelle en décembre 2024 et d’un outil en ligne permettant de visualiser et comparer les données récoltées par territoire et par thématique.**
 
