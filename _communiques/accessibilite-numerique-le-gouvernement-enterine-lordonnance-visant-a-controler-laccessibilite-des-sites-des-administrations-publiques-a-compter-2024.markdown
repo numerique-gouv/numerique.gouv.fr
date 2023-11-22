@@ -12,7 +12,8 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
 une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_FIPHFPxDINUM_CONVENTION_ACCESSIBILITE_NUMERIQUE-004630.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Dès 2024, l’accessibilité numérique des sites web des administrations publiques ne sera plus seulement une intention mais une réalité concrétisant la promesse du Président de la République Emmanuel Macron faite le 26 avril dernier lors de la conférence nationale du handicap (CNH) auprès des acteurs du handicap ; les démarches essentielles, quant à elles, le seront d’ici au 31 décembre 2025.
