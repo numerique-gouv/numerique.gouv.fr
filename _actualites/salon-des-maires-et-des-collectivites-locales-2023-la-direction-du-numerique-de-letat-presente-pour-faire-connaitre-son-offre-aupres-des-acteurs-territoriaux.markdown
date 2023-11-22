@@ -21,7 +21,7 @@ chapeau-text: À l’heure où 80 % des Français ont, comme premier contact ave
   maires et des collectivités locales, du 21 au 23 novembre, à Paris Porte de Versailles,
   au sein d’un stand dédié (A40).
 une-ou-diaporama:
-- image: "/uploads/2023_11_20-920053.png"
+- image: "/uploads/Mod%C3%A8le%20page%20agenda%203(1).png"
   alternative-textuelle: Image de présentation du Salon des maires et des collectivités
     locales 2023 / Retrouvez  la DINUM du 21 au 23 novembre 2023
 ---
