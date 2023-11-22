@@ -7,6 +7,7 @@ categories:
 - Communiqué de presse
 tags:
 - Programme TNT
+- baromètre Collectivités & numérique
 chapeau-text: Dans la dynamique du salon des maires et des collectivités locales qui
   rassemble cette semaine tous les acteurs des territoires, le programme Transformation
   numérique des territoires (TNT) de la direction interministérielle du numérique
