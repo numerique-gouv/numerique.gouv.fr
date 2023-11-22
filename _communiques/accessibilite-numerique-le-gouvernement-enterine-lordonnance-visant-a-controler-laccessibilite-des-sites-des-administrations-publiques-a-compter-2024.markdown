@@ -35,8 +35,9 @@ Dès 2024, l’accessibilité numérique des sites web des administrations publi
 
 <b>3) Si un manquement sanctionné persiste plus de six mois après l'imposition de la sanction initiale, une nouvelle sanction pourra être imposée (au lieu d'un an auparavant).
 
-En savoir plus et consulter le compte-rendu du conseil des ministres du 22 novembre 2023 : https://www.gouvernement.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-22-11-2023
 
 Certaines obligations restent inchangées : les obligations complémentaires, qui incluent la publication d'une déclaration d'accessibilité, l'élaboration et la publication d'un schéma pluriannuel (sur trois ans) de mise en accessibilité décliné en plans d'actions annuels, la publication du plan d'action de l'année en cours, l'indication sur la page d'accueil si le site est conforme ou non, et la possibilité pour les utilisateurs de signaler facilement les manquements à l'accessibilité. Le non-respect des obligations complémentaires demeure passible de sanctions, avec une limite fixée à 25 000€.
 
 Le projet de loi ratifie l’ordonnance n° 2023-859 du 6 septembre 2023 prise en application du 1° du VII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture. Le texte ratifie, sans modification, l’[ordonnance n° 2023-859](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674).
+
+[En savoir plus et consulter le compte-rendu du conseil des ministres du 22 novembre 2023](https://www.gouvernement.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-22-11-2023)
