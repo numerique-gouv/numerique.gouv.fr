@@ -22,7 +22,7 @@ chapeau-text: '10 ans après la première convention signée entre le Fonds pour
   ambitieux entre les 2 partenaires, avec à la clé un montant  de 20 millions d’euros
   sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention). '
 une-ou-diaporama:
-- image: "/uploads/SignatureConvention.jpg"
+- image: "/uploads/Signature%20FIP.png"
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/une-nouvelle-convention-entre-la-dinum-et-le-fiphfp-pour-renforcer-laccessibilite-des-systemes-dinformation-et-de-communication-des-employeurs-publics-et-garantir-lacces-aux-outils-numeriques-a-tous-les-agents/">Lire le communiqué de presse</a></p></div>
