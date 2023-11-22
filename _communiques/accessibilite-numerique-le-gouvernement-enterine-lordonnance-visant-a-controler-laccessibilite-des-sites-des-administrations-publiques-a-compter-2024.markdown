@@ -27,6 +27,4 @@ Dès 2024, l’accessibilité numérique des sites web des administrations publi
 
 Certaines obligations restent inchangées : les obligations complémentaires, qui incluent la publication d'une déclaration d'accessibilité, l'élaboration et la publication d'un schéma pluriannuel (sur trois ans) de mise en accessibilité décliné en plans d'actions annuels, la publication du plan d'action de l'année en cours, l'indication sur la page d'accueil si le site est conforme ou non, et la possibilité pour les utilisateurs de signaler facilement les manquements à l'accessibilité. Le non-respect des obligations complémentaires demeure passible de sanctions, avec une limite fixée à 25 000€.
 
-Pour en savoir plus : 
-
 Le projet de loi ratifie l’ordonnance n° 2023-859 du 6 septembre 2023 prise en application du 1° du VII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture. Le texte ratifie, sans modification, l’[ordonnance n° 2023-859](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674).
