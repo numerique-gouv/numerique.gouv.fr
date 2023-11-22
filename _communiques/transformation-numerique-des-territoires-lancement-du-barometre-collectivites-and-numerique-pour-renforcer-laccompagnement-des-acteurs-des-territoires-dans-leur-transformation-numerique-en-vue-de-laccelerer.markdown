@@ -27,14 +27,14 @@ Le niveau de transformation numérique des collectivités territoriales est aujo
 Pour atteindre ces objectifs, le baromètre s’appuie sur le croisement des données issues de neuf questionnaires thématiques adressés aux collectivités à raison de trois questionnaires par trimestre, et de données existantes au sein des administrations centrales et opérateurs de l’État (Ministères, Agences, etc.). Cette démarche vise non seulement à fournir une vision globale et détaillée des avancées numériques dans les territoires, mais aussi à devenir un outil d’aide à la décision pour chaque acteur impliqué dans ce processus de transformation.
 
 1) Inclusion numérique
-2) Cybersécurité
-3) Communication avec les administrés
-4) Infrastructures numériques du territoire
-5) Outils numériques en interne
-6) Service public local de la donnée
-7) Mise en œuvre des démarches de dématérialisation
-8) Services en ligne disponibles pour les habitants et usagers
-9) Stratégie numérique
+<br>2) Cybersécurité
+<br>3) Communication avec les administrés
+<br>4) Infrastructures numériques du territoire
+<br>5) Outils numériques en interne
+<br>6) Service public local de la donnée
+<br>7) Mise en œuvre des démarches de dématérialisation
+<br>8) Services en ligne disponibles pour les habitants et usagers
+<br>9) Stratégie numérique
 
 La démarche bénéficie également du soutien d’associations représentantes de collectivités territoriales qui ont souhaité s’associer à la diffusion et la valorisation de cet outil partagé entre État et collectivités territoriales.
 
@@ -49,4 +49,4 @@ Le baromètre Collectivités & numérique est le résultat d’un groupe projet 
 <i>**Le programme Transformation numérique des territoires (TNT)** est le programme de coopération État – collectivités en matière d’administration numérique dédié à accélérer la transformation numérique de l’action publique dans tous les territoires. La direction interministérielle du numérique assure la direction opérationnelle du Programme TNT, en concertation avec les principales associations représentatives de collectivités territoriales, l’Agence nationale de cohésion des territoires (ANCT) et la direction interministérielle de la transformation publique (DITP).
 
 **A propos de Déclic :**
-<i>Déclic est la fédération des Opérateurs Publics de Services Numériques (OPSN). Pour conseiller et agir auprès des collectivités, les agents dédiés à l’activité numérique agissant au sein de leur département décident de fonder en 2005 un réseau pour partager ensemble leurs connaissances. Le but du réseau Déclic est dévoué à l’intérêt général des collectivités et consiste à mutualiser l’information, les expériences, la veille technologique et réglementaire, par une mise en commun d’outils et de moyens. Il poursuit l’objectif d’équilibrer les relations entre les collectivités locales et leurs interlocuteurs, qui interagissent dans un pôle d’intérêt général devenu abondant, en renforçant la mutualisation de leurs ressources.
+<br><i>Déclic est la fédération des Opérateurs Publics de Services Numériques (OPSN). Pour conseiller et agir auprès des collectivités, les agents dédiés à l’activité numérique agissant au sein de leur département décident de fonder en 2005 un réseau pour partager ensemble leurs connaissances. Le but du réseau Déclic est dévoué à l’intérêt général des collectivités et consiste à mutualiser l’information, les expériences, la veille technologique et réglementaire, par une mise en commun d’outils et de moyens. Il poursuit l’objectif d’équilibrer les relations entre les collectivités locales et leurs interlocuteurs, qui interagissent dans un pôle d’intérêt général devenu abondant, en renforçant la mutualisation de leurs ressources.
