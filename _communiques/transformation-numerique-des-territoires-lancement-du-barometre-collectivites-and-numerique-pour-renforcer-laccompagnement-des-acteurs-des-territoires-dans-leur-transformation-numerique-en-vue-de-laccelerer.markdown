@@ -9,6 +9,8 @@ chapeau-text: Dans la dynamique du salon des maires et des collectivités locale
   (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction
   publiques, et le réseau Déclic, fédérateur national des Opérateurs Publics de Services
   Numériques (OPSN), annoncent le lancement du baromètre Collectivités & numérique.
+une-ou-diaporama:
+- image: "/uploads/BaroTNTDeclic.png"
 files:
 - nom: Télécharger le communiqué de presse
 ---
