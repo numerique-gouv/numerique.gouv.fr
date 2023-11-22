@@ -42,7 +42,6 @@ La démarche bénéficie également du soutien d’associations représentantes 
 
 [En savoir plus et consulter les questionnaires](https://barometre-numerique-collectivites.fr/)
 
-Une intervention au salon des maires et des collectivités locales est prévue le 23/11/23 à 14h sur le stand de la DINUM, n°A40.
 
 **Prochaine étape : les résultats feront l’objet d’une synthèse annuelle en décembre 2024 et d’un outil en ligne permettant de visualiser et comparer les données récoltées par territoire et par thématique.**
 
