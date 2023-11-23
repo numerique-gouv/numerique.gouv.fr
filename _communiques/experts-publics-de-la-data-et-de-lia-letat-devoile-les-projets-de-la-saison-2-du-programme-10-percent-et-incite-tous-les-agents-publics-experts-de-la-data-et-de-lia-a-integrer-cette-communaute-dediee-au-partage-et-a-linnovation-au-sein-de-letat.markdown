@@ -6,9 +6,10 @@ date: 2023-11-23 16:02:00 +01:00
 categories:
 - Communiqué de presse
 tags:
-- data
-- attractivité
+- Data
+- IA
 - Programme 10%
+- Attractivité
 chapeau-text: Contribuer à des projets data de l’État, échanger entre pairs, se former
   et transmettre ses compétences, c’est la promesse du programme 10% destiné aux agents
   publics de la data dont le principe est d’offrir 10% de son temps de travail pour

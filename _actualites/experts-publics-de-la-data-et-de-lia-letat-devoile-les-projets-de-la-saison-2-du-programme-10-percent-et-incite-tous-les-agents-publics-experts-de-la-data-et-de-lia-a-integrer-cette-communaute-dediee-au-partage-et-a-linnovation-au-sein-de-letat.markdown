@@ -3,6 +3,13 @@ title: 'Experts publics de la data et de l’IA : l’État dévoile les projets
   2 du programme 10% et incite tous les agents publics experts de la data et de l’IA
   à intégrer cette communauté dédiée au partage et à l’innovation au sein de l’État'
 date: 2023-11-23 16:48:00 +01:00
+categories:
+- Événement
+tags:
+- IA
+- Data
+- Programme 10%
+- Attractivité
 chapeau-text: Contribuer à des projets data de l’État, échanger entre pairs, se former
   et transmettre ses compétences, c’est la promesse du programme 10% destiné aux agents
   publics de la data dont le principe est d’offrir 10% de son temps de travail pour
