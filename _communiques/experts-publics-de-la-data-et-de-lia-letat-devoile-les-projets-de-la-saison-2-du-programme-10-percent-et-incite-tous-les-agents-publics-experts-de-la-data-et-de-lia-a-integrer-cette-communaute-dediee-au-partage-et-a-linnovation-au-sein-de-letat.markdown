@@ -61,7 +61,7 @@ Le programme 10% est porté par le département Etalab de la direction intermini
 
 > « Nous sommes seulement deux datascientists au MAE. Le programme 10%, c’était pour nous l’occasion de rencontrer d’autres data scientists issus de différents ministères, maintenir nos compétences data et découvrir de nouveaux outils comme le SSP cloud qui nous est directement utile. » 
 <br>
-<br>**Jean-Baptiste DELFAU, datascientist au sein de la Gendarmerie nationale**
+<br>**Nathalie FOUR, datascientist au sein du ministère de l'Europe et des Affaires étrangères**
 
 *Des photos et contacts complémentaires pour témoignages peuvent être transmis sur demande.*
 
