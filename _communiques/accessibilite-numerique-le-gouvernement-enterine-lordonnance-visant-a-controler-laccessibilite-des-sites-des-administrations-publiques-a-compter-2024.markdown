@@ -40,4 +40,4 @@ Certaines obligations restent inchangées : les obligations complémentaires, qu
 
 Le projet de loi ratifie l’ordonnance n° 2023-859 du 6 septembre 2023 prise en application du 1° du VII de l'article 16 de la loi n° 2023-171 du 9 mars 2023 portant diverses dispositions d'adaptation de l'Union européenne dans les domaines de l'économie, de la santé, du travail, des transports et de l'agriculture. Le texte ratifie, sans modification, l’[ordonnance n° 2023-859](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048049674).
 
-[En savoir plus et consulter le compte-rendu du conseil des ministres du 22 novembre 2023](https://www.gouvernement.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-22-11-2023)
+[En savoir plus et consulter le compte-rendu du conseil des ministres du 22 novembre 2023](https://www.gouvernement.fr/conseil-des-ministres/compte-rendu-du-conseil-des-ministres-du-22-11-2023#544c9e40-340c-46f5-a158-b50b0182069e-2)
