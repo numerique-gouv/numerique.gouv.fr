@@ -4,7 +4,7 @@ title: 'Experts publics de la data et de l’IA : l’État dévoile les projets
   à intégrer cette communauté dédiée au partage et à l’innovation au sein de l’État'
 date: 2023-11-23 16:48:00 +01:00
 categories:
-- Événement
+- Communiqué de presse
 tags:
 - IA
 - Data
