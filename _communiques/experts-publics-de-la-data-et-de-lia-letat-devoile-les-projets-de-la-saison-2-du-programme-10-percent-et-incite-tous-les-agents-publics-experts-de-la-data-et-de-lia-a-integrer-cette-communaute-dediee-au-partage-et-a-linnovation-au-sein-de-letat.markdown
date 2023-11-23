@@ -57,13 +57,12 @@ Le programme 10% est porté par le département Etalab de la direction intermini
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié <a href="https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/">sa nouvelle feuille de route</a> le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
+<p>LE PROGRAMME 10% EN BREF :
 <br>
-<br>Pour en savoir plus sur les ministères qui composeront le « Pavillon du numérique de l’État » : 
-<li>Ministère de l’Intérieur et des Outre-mer : <a href="https://www.interieur.gouv.fr/">interieur.gouv.fr</a></li>
-<li>Ministère de la Justice : <a href="http://www.justice.gouv.fr/">justice.gouv.fr</a></li>
-<li>Ministère de la Transition écologique et de la Cohésion des territoires : <a href="https://www.ecologie.gouv.fr/">ecologie.gouv.fr</a></li>
-<li>Ministères Sociaux : <a href="https://sante.gouv.fr/">sante.gouv.fr</a></li>
-<li>Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : 
-<a href="https://www.economie.gouv.fr/">economie.gouv.fr</a></li>
-<li>Direction interministérielle du numérique : <a href="https://www.numerique.gouv.fr/">numerique.gouv.fr</a>
+<li> 2 saisons ;</li>
+<li> 13 administrations participantes : ministère de la justice, ministère de l’Europe et des Affaires étrangères, ministère de l’intérieur, ministère de l’Economie et des Finances, ministère de la Culture, Gendarmerie nationale, Santé Publique France, SGAR Normandie, DREAL Haut de France, Assemblée Nationale, DINUM, INSEE, DITP ;</li>
+<li> 7 projets data et IA mis en œuvre : ChartsGouv, Transformers , FormIAble, Cartiflette, Impact environnemental, PoufDoc, TrouverMonExpertData (TED) ;</li>
+<li>Près de 30 experts publics de la data et de l’IA qui ont participé activement aux projets lors de la saison 2 ;</li>
+<li> 10 ateliers de travail organisés lors de la saison 2 ;</li>
+<li> 7 formations sur des sur des sujets data et IA ouvertes à l’ensemble des experts publics ;</li>
+<li> -	1 groupe Tchap dédié au programme 10% réunissant 360 experts publics de la data et de l’IA ;</li>
