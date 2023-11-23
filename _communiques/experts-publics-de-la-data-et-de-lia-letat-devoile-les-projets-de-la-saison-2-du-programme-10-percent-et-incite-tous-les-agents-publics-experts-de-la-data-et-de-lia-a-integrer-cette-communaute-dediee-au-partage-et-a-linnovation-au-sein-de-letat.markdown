@@ -25,7 +25,7 @@ Le 28 novembre 2023, est organisé un événement lors duquel 150 agents publics
 [En savoir plus sur l’événement et s’inscrire en visioconférence 
 ](https://www.numerique.gouv.fr/agenda/cloture-de-la-saison-2-du-programme-10-percent/)
 
-**Parmi les projets de la saison 2 : **
+**Parmi les projets de la saison 2 :**
 * **ChartsGouv** : l’outil de visualisation des données de l’État
 * **Transformers** : une IA open-source pour l’analyse de texte par les administrations
 * **FormIAble** : l’outil pour aider les administrations à extraire des informations de documents difficilement exploitables
