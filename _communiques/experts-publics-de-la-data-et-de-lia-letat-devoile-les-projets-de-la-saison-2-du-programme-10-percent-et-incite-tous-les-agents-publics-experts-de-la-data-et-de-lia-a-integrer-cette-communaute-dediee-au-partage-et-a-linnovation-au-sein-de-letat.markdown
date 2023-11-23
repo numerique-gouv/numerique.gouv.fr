@@ -67,7 +67,7 @@ Le programme 10% est porté par le département Etalab de la direction intermini
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>LE PROGRAMME 10% EN BREF :
+<p><b>LE PROGRAMME 10% EN BREF :</b>
 <br>
 <li> 2 saisons ;</li>
 <li> 13 administrations participantes : ministère de la justice, ministère de l’Europe et des Affaires étrangères, ministère de l’intérieur, ministère de l’Economie et des Finances, ministère de la Culture, Gendarmerie nationale, Santé Publique France, SGAR Normandie, DREAL Haut de France, Assemblée Nationale, DINUM, INSEE, DITP ;</li>
@@ -75,4 +75,4 @@ Le programme 10% est porté par le département Etalab de la direction intermini
 <li>Près de 30 experts publics de la data et de l’IA qui ont participé activement aux projets lors de la saison 2 ;</li>
 <li> 10 ateliers de travail organisés lors de la saison 2 ;</li>
 <li> 7 formations sur des sur des sujets data et IA ouvertes à l’ensemble des experts publics ;</li>
-<li> -	1 groupe Tchap dédié au programme 10% réunissant 360 experts publics de la data et de l’IA ;</li>
+<li> 1 groupe Tchap dédié au programme 10% réunissant 360 experts publics de la data et de l’IA ;</li>
