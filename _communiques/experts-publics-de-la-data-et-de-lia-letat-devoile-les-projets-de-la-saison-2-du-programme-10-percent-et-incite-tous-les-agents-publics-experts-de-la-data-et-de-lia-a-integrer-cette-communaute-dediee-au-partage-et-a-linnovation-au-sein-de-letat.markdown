@@ -18,6 +18,16 @@ chapeau-text: Contribuer à des projets data de l’État, échanger entre pairs
   sous l’égide du ministère de la Transformation et de la Fonction publiques, en association
   avec l’Institut national de la statistique et des études économiques (INSEE), ont
   lancé en 2022 ce programme inédit au sein de l’État.
+une-ou-diaporama:
+- image: "/uploads/Cloture_Saison2_Programme_10%25.png"
+  alternative-textuelle: |-
+    Programme 10%
+    Evénement clôture Saison 2
+    Mardi 28 novembre 2023, 14h30-16h30
+    Démo de 7 projets d’intérêts commun
+    Suivi d’un meet-up inter-communautés
+    au lieu de la transformation publique
+    Etalab.gouv.fr
 files:
 - file: "/uploads/CP_DINUM_PROGRAMME_10POURCENT_CLOTURE_SAISON2_LANCEMENT_SAISON3.pdf"
   nom: Télécharger le communiqué de presse
