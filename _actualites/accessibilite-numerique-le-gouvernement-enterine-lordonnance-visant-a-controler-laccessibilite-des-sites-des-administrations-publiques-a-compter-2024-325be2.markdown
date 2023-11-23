@@ -2,6 +2,7 @@
 title: 'Accessibilité numérique : le Gouvernement entérine l’ordonnance visant à contrôler
   l’accessibilité des sites des administrations publiques à compter 2024'
 date: 2023-11-22 21:05:00 +01:00
+published: false
 categories:
 - Communiqué de presse
 tags:
