@@ -199,49 +199,49 @@ layout: page-annexe
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Intrapreneur(e) Fédération d'identité des citoyens - chef(fe) de pôle H/F - Lien externe">Intrapreneur(e) Fédération d'identité des citoyens - chef(fe) de pôle H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-fe-de-pole-adjoint-federation-d-identite-des-citoyens---directeurdirectrice-produit-hf-hf-reference-2023-1400637/" title="Chef/fe de pôle adjoint Fédération d'identité des citoyens - Directeur/Directrice produit H/F - Lien externe">Chef/fe de pôle adjoint Fédération d'identité des citoyens - Directeur/Directrice produit H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-fe-de-pole-adjoint-federation-d-identite-des-citoyens---directeurdirectrice-produit-hf-hf-reference-2023-1400637/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-fe-de-pole-adjoint-federation-d-identite-des-citoyens---directeurdirectrice-produit-hf-hf-reference-2023-1400637/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Développeur/se Confirmé/e - FranceConnect H/F - Lien externe">Développeur/se Confirmé/e - FranceConnect H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Chargé/e de support fonctionnel Confirmé - FranceConnect H/F - Lien externe">Chargé/e de support fonctionnel Confirmé - FranceConnect H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Assistant/e de direction PMO (Project Management Officer) H/F - Lien externe">Assistant/e de direction PMO (Project Management Officer) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-des-relations-partenaires-et-technique-apigouvfr-hf-reference-2023-1386545/" title="Chargé/e des relations partenaires et technique api.gouv.fr H/F - Lien externe">Chargé/e des relations partenaires et technique api.gouv.fr H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-des-relations-partenaires-et-technique-apigouvfr-hf-reference-2023-1386545/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-des-relations-partenaires-et-technique-apigouvfr-hf-reference-2023-1386545/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dev-ops-du-pole-relation-usagers-agents-hf-reference-2023-1386531/" title="Dev Ops du pôle relation usagers-agents H/F - Lien externe">Dev Ops du pôle relation usagers-agents H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dev-ops-du-pole-relation-usagers-agents-hf-reference-2023-1386531/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dev-ops-du-pole-relation-usagers-agents-hf-reference-2023-1386531/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-relation-usagers-agents-hf-reference-2023-1383565/" title="Architecte technique du pôle relation usagers-agents H/F - Lien externe">Architecte technique du pôle relation usagers-agents H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-relation-usagers-agents-hf-reference-2023-1383565/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-relation-usagers-agents-hf-reference-2023-1383565/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
 </div>
 <br>
@@ -253,13 +253,13 @@ layout: page-annexe
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Assistant/e utilisateur informatique - GRID H/F - Lien externe">Assistant/e utilisateur informatique - GRID H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistant-e-utilisateur-informatique---grid-hf-reference-2023-1397933/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
    <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Chargé/e de mission formation - Campus du numérique public H/F - Lien externe">Chargé/e de mission formation - Campus du numérique public H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
 </div>
 <br>
@@ -271,7 +271,7 @@ layout: page-annexe
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Chef(fe) adjoint(e) de la mission Europe et international H/F">Chef(fe) adjoint(e) de la mission Europe et international H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
 <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Juriste - Droit du numérique public H/F">Juriste - Droit du numérique public H/F</a></b>
