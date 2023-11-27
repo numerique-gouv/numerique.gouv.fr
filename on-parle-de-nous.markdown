@@ -15,6 +15,10 @@ layout: page-annexe
 <date>14 novembre 2023</date>
 <media> Acteurs Publics </media>
 
+<titre><a href="https://www.lemonde.fr/societe/article/2023/11/21/handicap-l-accessibilite-numerique-un-tremplin-pour-l-emploi_6201459_3224.html" title="Handicap : l’accessibilité numérique, un tremplin pour l’emploi ? - Lien externe">Handicap : l’accessibilité numérique, un tremplin pour l’emploi ?</a></titre>
+<date>21 novembre 2023</date>
+<media> Le Monde </media>
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-le-rapport-data-et-territoires-prone-le-dialogue-etat-et-collectivites-92111.html" title="Le rapport data et territoires prône le dialogue État et collectivités - Lien externe"> Le rapport data et territoires prône le dialogue État et collectivités</a></titre>
 <date>13 novembre 2023</date>
 <media> Le Monde Informatique </media>
