@@ -244,6 +244,7 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-du-pole-relation-usagers-agents-hf-reference-2023-1383565/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
+
 </div>
 <br>
 <br>
@@ -262,6 +263,7 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1397922/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
+
 </div>
 <br>
 <br>
@@ -280,6 +282,7 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a>
   </div>
+
 </div>
 <br>
 <br>
