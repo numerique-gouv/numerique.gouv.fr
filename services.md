@@ -26,10 +26,6 @@ publications:
   url: "/services/guichet-financement-exploitation-valorisation-des-donnees/"
   une-ou-diaporama:
   - image: "/uploads/2023_01_16_Guichet-DATA_Services_740x500.jpg"
-- title: 'Catalogue GouvTech : des outils numériques pour les services publics'
-  url: "/services/catalogue-gouvtech-outils-numeriques-pour-services-publics/"
-  une-ou-diaporama:
-  - image: "/uploads/page-services-LABEL_rubrique.png"
 - title: Le Cloud pour les administrations
   url: "/services/cloud/"
   une-ou-diaporama:
@@ -43,10 +39,6 @@ publications:
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
-- title: Conseil en stratégie de transformation numérique
-  url: "/services/conseil-strategie-transformation-numerique/"
-  une-ou-diaporama:
-  - image: "/uploads/conseil-transfo-rub-service.png"
 - title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
     de la donnée
   url: "/services/guichet-dites-le-nous-une-fois/"

@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.lemonde.fr/societe/article/2023/11/21/handicap-l-accessibilite-numerique-un-tremplin-pour-l-emploi_6201459_3224.html" title="Handicap : l’accessibilité numérique, un tremplin pour l’emploi ? - Lien externe">Handicap : l’accessibilité numérique, un tremplin pour l’emploi ?</a></titre>
+<date>21 novembre 2023</date>
+<media> Le Monde </media>
+
 <titre><a href="https://acteurspublics.fr/articles/ouverture-des-donnees-un-rapport-propose-de-rebattre-les-cartes-des-relations-etat-collectivites" title="Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités - Lien externe"> Ouverture des données : un rapport propose de rebattre les cartes des relations État-collectivités</a></titre>
 <date>14 novembre 2023</date>
 <media> Acteurs Publics </media>
