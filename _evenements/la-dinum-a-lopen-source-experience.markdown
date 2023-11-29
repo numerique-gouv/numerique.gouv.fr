@@ -73,8 +73,8 @@ L’objectif est que l’ensemble des systèmes d’information soient conçus, 
 * **Assistant RGAA: une extension de navigateur libre pour vérifier les critères d'accessibilité numérique d'un site web** - *Antoine Cao, Direction interministérielle du numérique*
 * **90000 noms de domaine du secteur public, 1 liste pour les gouverner tous** - *Matthieu Faure, [Adullact](https://adullact.org/)*
 #### 16h
-* **Interopérer les logiciels des SAMU : une approche ouverte sur l’écosystème et le code** - *Romain Fouilland, [ANS](https://esante.gouv.fr/)*
-* **Contribuer plutôt que de développer : l’exemple du tableur collaboratif Grist** - *Ariane Rose et Florent Fayolle, [ANCT](https://agence-cohesion-territoires.gouv.fr/)*
+* **Interopérer les logiciels des SAMU : une approche ouverte sur l’écosystème et le code** - *Romain Fouilland, [Agence du Numérique en Santé](https://esante.gouv.fr/)*
+* **Contribuer plutôt que de développer : l’exemple du tableur collaboratif Grist** - *Ariane Rose et Florent Fayolle, [Agence Nationale de la Cohésion des Territoires](https://agence-cohesion-territoires.gouv.fr/)*
 #### 17h
 * **LLaMandement : Grands modèles de langue pour la synthèse de propositions législatives parlementaires** - *Joseph Gesnouin, [Direction générale des Finances publiques](https://www.economie.gouv.fr/dgfip)*
 * **La stratégie Open Source derrière Albert** - *Pierre-Etienne Devineau, Direction interministérielle du numérique*
