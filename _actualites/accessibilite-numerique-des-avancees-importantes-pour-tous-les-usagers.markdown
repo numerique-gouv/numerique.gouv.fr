@@ -1,6 +1,8 @@
 ---
 title: 'Accessibilité numérique : des avancées importantes pour tous les usagers'
 date: 2023-11-30 14:12:00 +01:00
+categories:
+- Actualité
 tags:
 - Accessibilité
 - accessibilité numérique
