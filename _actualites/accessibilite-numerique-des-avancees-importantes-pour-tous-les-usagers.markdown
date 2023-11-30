@@ -65,7 +65,7 @@ Pendant 2 min, en vidéo, il explique comment naviguer sur le web lorsque l’on
 
 <b>Le témoignage de Jamshid Kohandel souligne l'importance de l'accessibilité numérique, qui permet aux personnes handicapées d’utiliser pleinement toutes les fonctionnalités des espaces en ligne pour effectuer une démarche administrative.
 
-Il cite deux exemples concrets : les champs obligatoires indiqués uniquement par la couleur et les images sans alternative textuelle. Ces deux types de contenu peuvent être un obstacle majeur pour les personnes en situation de handicap.</b>
+Il cite deux exemples concrets : les champs obligatoires indiqués uniquement par la couleur et les images sans alternative textuelle. Ces deux types de contenu peuvent être un obstacle majeur pour les personnes en situation de handicap.
 
 #### **L’État est massivement engagé pour renforcer l’accessibilité numérique et tous les acteurs poursuivent leurs efforts pour une accessibilité numérique des sites web des administrations publiques.**
 
