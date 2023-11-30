@@ -40,7 +40,7 @@ Ce budget permettra notamment **d’améliorer l’accessibilité des applicatio
 
 La convention prévoit également de **développer l'accompagnement de la fonction publique territoriale**, notamment via des appels à projets pour inciter les collectivités locales à s’engager.
 
-#### Le 22/11/23 : l’adoption du Gouvernement de l’ordonnance visant à contrôler l’accessibilité des sites des administrations publiques à compter 2024 et à renforcer les sanctions en cas de manquements aux obligations.
+#### **Le 22/11/23 : l’adoption du Gouvernement de l’ordonnance visant à contrôler l’accessibilité des sites des administrations publiques à compter 2024 et à renforcer les sanctions en cas de manquements aux obligations.**
 
 ![Article_RGAA_v4_une-85fec5-690ce5.jpg](/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg)
 
@@ -50,7 +50,7 @@ Dès 2024 : le non-respect de l’accessibilité des sites, déjà rendue obliga
 
 <p align="center"><a href="https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-le-gouvernement-enterine-lordonnance-visant-a-controler-laccessibilite-des-sites-des-administrations-publiques-a-compter-2024/" class="button">Lire le communiqué de presse pour en savoir plus</a></p>
 
-#### Le 23/11/23 : Le renouvellement de la participation de la DINUM à l’opération nationale Duoday 
+#### **Le 23/11/23 : Le renouvellement de la participation de la DINUM à l’opération nationale Duoday**
 
 ![DD2023.jpg](/uploads/DD2023.jpg)
 
