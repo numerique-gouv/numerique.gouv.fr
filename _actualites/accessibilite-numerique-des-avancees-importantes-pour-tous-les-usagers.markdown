@@ -15,8 +15,8 @@ chapeau-text: 'Retour sur les avancées importantes en termes d’accessibilité
   26 novembre 2023.'
 une-ou-diaporama:
 - image: "/uploads/Retour%20SEEPH%202023.png"
-  legende: Couverture du dossier de presse "Semaine européenne pour l'emploi des personnes
-    handicapées"
+  alternative-textuelle: Couverture du dossier de presse "Semaine européenne pour
+    l'emploi des personnes handicapées"
 ---
 
 ### Rétrospective des actions de la DINUM lors de la semaine européenne pour l'emploi des personnes handicapées (SEEPH) :
