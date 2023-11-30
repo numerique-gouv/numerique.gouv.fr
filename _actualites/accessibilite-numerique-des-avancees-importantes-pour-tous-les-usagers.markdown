@@ -21,7 +21,7 @@ une-ou-diaporama:
 
 ### Rétrospective des actions de la DINUM lors de la semaine européenne pour l'emploi des personnes handicapées (SEEPH) :
 
-#### **Le 14/11/23 : introduction de la SEEPH avec l’intervention de la DINUM lors du séminaire organisé par le secrétariat général du Gouvernement et la direction des services administratifs et financiers de la Première ministre portant sur « La transition numérique : un accélérateur pour l’emploi des personnes en situation de handicap ? ».**
+#### **Le 14/11/23 : introduction de la SEEPH avec l’intervention de la DINUM lors du séminaire organisé par le secrétariat général du Gouvernement et la direction des services administratifs et financiers de la Première ministre portant sur *« La transition numérique : un accélérateur pour l’emploi des personnes en situation de handicap ? »*.**
 
 ![1700043484457.jpg](/uploads/1700043484457.jpg)
 
