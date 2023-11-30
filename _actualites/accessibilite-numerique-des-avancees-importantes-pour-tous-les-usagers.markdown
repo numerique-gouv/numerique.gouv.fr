@@ -21,14 +21,14 @@ une-ou-diaporama:
 
 ## Rétrospective des actions de la DINUM lors de la semaine européenne pour l'emploi des personnes handicapées (SEEPH) :
 
-### **Le 14/11/23 : introduction de la SEEPH avec l’intervention de la DINUM lors du séminaire organisé par le secrétariat général du Gouvernement et la direction des services administratifs et financiers de la Première ministre portant sur « La transition numérique : un accélérateur pour l’emploi des personnes en situation de handicap ? ».**
+#### **Le 14/11/23 : introduction de la SEEPH avec l’intervention de la DINUM lors du séminaire organisé par le secrétariat général du Gouvernement et la direction des services administratifs et financiers de la Première ministre portant sur « La transition numérique : un accélérateur pour l’emploi des personnes en situation de handicap ? ».**
 
 ![1700043484457.jpg](/uploads/1700043484457.jpg)
 
 **Stéphanie Schaer**, directrice interministérielle du numérique est intervenue aux côtés de **Marine Neuville**, directrice du Fonds pour l’insertion des personnes handicapées dans la fonction publique (FIPHFP) afin d’exposer les évolutions réglementaires en termes d’accessibilité numérique et évoquer le partenariat entre la DINUM et le [FIPHFP](https://www.fiphfp.fr/) faisant l’objet de la signature d’une convention. 
 Lors de cet événement, **Jamshid Kohandel**, chargé de mission accessibilité à la DINUM a partagé la manière dont le numérique peut accompagner le quotidien de travail des agents publics selon le type de handicap.
 
-### **Le 21/11/23 : signature d’une nouvelle convention entre la DINUM et le FIPHFP.** 
+#### **Le 21/11/23 : signature d’une nouvelle convention entre la DINUM et le FIPHFP.** 
 
 La première annonce importante a été la signature d'une nouvelle convention entre la DINUM et le FIPHFP, en présence de **Fadila Khattabi**, ministre déléguée chargée des personnes handicapées, entre Françoise Descamps-Crosnier, présidente du Comité national du FIPHFP, Marine Neuville, directrice du FIPHFP, et Jérémie Vallet, adjoint à la directrice interministérielle du numérique et chef du département Appui, conseil et expertise de la DINUM.
 
@@ -40,7 +40,7 @@ Ce budget permettra notamment **d’améliorer l’accessibilité des applicatio
 
 La convention prévoit également de **développer l'accompagnement de la fonction publique territoriale**, notamment via des appels à projets pour inciter les collectivités locales à s’engager.
 
-### Le 22/11/23 : l’adoption du Gouvernement de l’ordonnance visant à contrôler l’accessibilité des sites des administrations publiques à compter 2024 et à renforcer les sanctions en cas de manquements aux obligations.
+#### Le 22/11/23 : l’adoption du Gouvernement de l’ordonnance visant à contrôler l’accessibilité des sites des administrations publiques à compter 2024 et à renforcer les sanctions en cas de manquements aux obligations.
 
 ![Article_RGAA_v4_une-85fec5-690ce5.jpg](/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg)
 
@@ -50,14 +50,14 @@ Dès 2024 : le non-respect de l’accessibilité des sites, déjà rendue obliga
 
 <p align="center"><a href="https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-le-gouvernement-enterine-lordonnance-visant-a-controler-laccessibilite-des-sites-des-administrations-publiques-a-compter-2024/" class="button">Lire le communiqué de presse pour en savoir plus</a></p>
 
-### Le 23/11/23 : Le renouvellement de la participation de la DINUM à l’opération nationale Duoday 
+#### Le 23/11/23 : Le renouvellement de la participation de la DINUM à l’opération nationale Duoday 
 
 ![DD2023.jpg](/uploads/DD2023.jpg)
 
 Enfin, la DINUM a participé au DuoDay, une opération nationale qui permet à des personnes en situation de handicap de découvrir un métier et une entreprise. **Yowa Muzadi**, responsable de portefeuilles de produits numériques au sein de l'incubateur beta.gouv.fr de la DINUM, a partagé sa journée avec Claire, documentaliste.
 Cette journée a été l'occasion pour Claire de découvrir le travail d'un responsable de portefeuilles de produits numériques, et de participer à des ateliers sur les méthodes de travail agiles et les silent meetings pratiquées par l’incubateur, des réunions pendant lesquelles le silence est d'or.
 
-### Le 24/11/23 : interview vidéo de Jamshid Kohandel, chargé de mission qualité et accessibilité des services en ligne au sein de la brigade d’intervention numérique de la DINUM
+#### Le 24/11/23 : interview vidéo de Jamshid Kohandel, chargé de mission qualité et accessibilité des services en ligne au sein de la brigade d’intervention numérique de la DINUM
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ani4NkrRe4?si=yvQ45715ksUqimP1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ Pendant 2 min, en vidéo, il explique comment naviguer sur le web lorsque l’on
 
 Il cite deux exemples concrets : les champs obligatoires indiqués uniquement par la couleur et les images sans alternative textuelle. Ces deux types de contenu peuvent être un obstacle majeur pour les personnes en situation de handicap.**
 
-### L’État est massivement engagé pour renforcer l’accessibilité numérique et tous les acteurs poursuivent leurs efforts pour une accessibilité numérique des sites web des administrations publiques.
+#### L’État est massivement engagé pour renforcer l’accessibilité numérique et tous les acteurs poursuivent leurs efforts pour une accessibilité numérique des sites web des administrations publiques.
 
 > « L’accessibilité numérique à 100%, c’est une priorité du Gouvernement. L’inclusion numérique est un pilier de ma feuille de route et je me réjouis de la signature de cette convention entre le FIPHFP et la DINUM pour accélérer notre action en la matière. Il est nécessaire d’améliorer l’environnement de travail des agents publics en situation de handicap pour garantir l’accessibilité des services publics. »
 **Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques :**
