@@ -1,7 +1,7 @@
 ---
 title: Tchap - webinaire de présentation de la messagerie instantanée sécurisée de
   l’État
-date: 2023-11-15 13:50:00 +01:00
+date: 2023-11-30 13:50:00 +01:00
 categories:
 - Webinaire d'information
 tags:
@@ -14,9 +14,9 @@ chapeau-text: Agents publics, rejoignez la communauté Tchap pour échanger avec
   novembre à 10h et le mercredi 6 décembre à 9h, elles répondront à toutes vos questions
   portant sur l’utilisation de l’outil !
 une-ou-diaporama:
-- image: "/uploads/Tchap%20webinaire%20d'infos%20-%202911.png"
+- image: "/uploads/Tchap%20%20webinaire%20d'info%20-%2006_12.png"
   alternative-textuelle: 'Visuel avec texte : Tchap - webinaire de présentation de
     la messagerie instantanée sécurisée de l’État'
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/tchap-webinaire-de-presentation-de-la-messagerie-instantanee-securisee-de-letat/">En savoir plus et participer</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/webinaire-de-presentation-de-la-messagerie-instantanee-securisee-de-letat-tchap/">En savoir plus et participer</a></p></div>
