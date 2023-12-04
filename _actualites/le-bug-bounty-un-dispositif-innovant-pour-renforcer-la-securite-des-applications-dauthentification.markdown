@@ -14,7 +14,7 @@ tags:
 chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour son
   programme de Bug Bounty pour FranceConnect, FranceConnect+ et AgentConnect, les
   systèmes d’authentification unique des services et agents publics en France. Ce
-  programme, mis en place en partenariat [YesWeHack](https://www.yeswehack.com/fr),
+  programme, mis en place en partenariat avec [YesWeHack](https://www.yeswehack.com/fr),
   vise à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques
   à signaler les failles de sécurité qu’ils pourraient identifier.
 une-ou-diaporama:
@@ -24,13 +24,7 @@ une-ou-diaporama:
 
 Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques, permettant d’agir sur les vulnérabilités avant leur exploitation par des acteurs malveillants.
 
-Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ et AgentConnect est à ce jour de 20 000 €
-
-**Les gains en fonction du niveau de la faille :**
-* Faible : 100 €
-* Moyenne : 800 €
-* Élevée : 3 000 €
-* Critique : 20 000 €
+Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ et AgentConnect est à ce jour de 20 000 €.
 
 Pour participer au programme de Bug Bounty de FranceConnect, les hackers éthiques doivent directement [s’inscrire ici](https://yeswehack.com/programs/franceconnect-agentconnect-public). Ils pourront ensuite signaler les failles de sécurité qu’ils identifient en suivant les instructions fournies sur la plateforme.
 
