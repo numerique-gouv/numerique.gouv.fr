@@ -12,9 +12,9 @@ tags:
 - AgentConnect
 - Tchap
 chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour son
-  programme de Bug Bounty pour FranceConnect, FranceConnect+ AgentConnect et Tchap,
-  les systèmes d’authentification unique des services et agents publics en France.
-  Ce programme, mis en place en partenariat avec [YesWeHack](https://www.yeswehack.com/fr),
+  programme de Bug Bounty pour FranceConnect, FranceConnect+ et AgentConnect, les
+  systèmes d’authentification unique des services et agents publics en France. Ce
+  programme, mis en place en partenariat avec [YesWeHack](https://www.yeswehack.com/fr),
   vise à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques
   à signaler les failles de sécurité qu’ils pourraient identifier.
 une-ou-diaporama:
