@@ -11,11 +11,11 @@ tags:
 - FranceConnect+
 - AgentConnect
 chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour son
-  programme de Bug Bounty pour FranceConnect, FranceConnect+ et AgentConnect, les
-  systèmes d’authentification unique des services et agents publics en France. Ce
-  programme, mis en place en partenariat avec [YesWeHack](https://www.yeswehack.com/fr),
-  vise à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques
-  à signaler les failles de sécurité qu’ils pourraient identifier.
+  programme de Bug Bounty pour FranceConnect, FranceConnect+ et Tchap, les systèmes
+  d’authentification unique des services et agents publics en France. Ce programme,
+  mis en place en partenariat avec [YesWeHack](https://www.yeswehack.com/fr), vise
+  à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques à
+  signaler les failles de sécurité qu’ils pourraient identifier.
 une-ou-diaporama:
 - image: "/uploads/Mod%C3%A8le%20page%20agenda%201.png"
   alternative-textuelle: Logos de FranceConnect, FranceConnect+ et AgentConnect
