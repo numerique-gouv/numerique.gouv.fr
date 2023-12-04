@@ -24,7 +24,7 @@ une-ou-diaporama:
 
 Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques, permettant d’agir sur les vulnérabilités avant leur exploitation par des acteurs malveillants.
 
-Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ AgentConnect et Tchap est à ce jour de 20 000 €.
+Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ et AgentConnect est à ce jour de 20 000 € et de 4 000 € pour le programme sur Tchap.
 
 Pour participer au programme de Bug Bounty de FranceConnect, les hackers éthiques doivent directement [s’inscrire ici](https://yeswehack.com/programs/franceconnect-agentconnect-public). Ils pourront ensuite signaler les failles de sécurité qu’ils identifient en suivant les instructions fournies sur la plateforme.
 
