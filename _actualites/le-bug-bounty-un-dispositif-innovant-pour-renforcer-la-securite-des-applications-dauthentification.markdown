@@ -36,3 +36,5 @@ Pour participer au programme de Bug Bounty de FranceConnect, les hackers éthiqu
 * Éviter les tests qui pourraient endommager ou interrompre les plateformes.
 * Ne pas divulguer, exploiter ou supprimer les données d’un utilisateur.
 * Ne pas participer si l’on est un ancien ou actuel employé, entrepreneur ou auditeur de la DINUM, de FranceConnect, FranceConnect+ ou AgentConnect.
+
+<p align="center"><a href="https://yeswehack.com/programs/franceconnect-agentconnect-public" class="button">Participer au Bug Bounty</a></p>
