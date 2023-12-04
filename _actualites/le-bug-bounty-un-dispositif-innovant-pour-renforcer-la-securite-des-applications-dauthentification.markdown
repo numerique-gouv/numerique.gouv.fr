@@ -22,7 +22,9 @@ une-ou-diaporama:
   alternative-textuelle: Logos de FranceConnect, FranceConnect+ et AgentConnect
 ---
 
-Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques.
+Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques, permettant d’agir sur les vulnérabilités avant leur exploitation par des acteurs malveillants.
+
+Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ et AgentConnect est à ce jour de 20 000 €
 
 **Les gains en fonction du niveau de la faille :**
 * Faible : 100 €
