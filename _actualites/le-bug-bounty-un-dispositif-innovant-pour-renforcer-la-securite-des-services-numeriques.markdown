@@ -18,7 +18,7 @@ chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour
   vise à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques
   à signaler les failles de sécurité qu’ils pourraient identifier.
 une-ou-diaporama:
-- image: "/uploads/Mod%C3%A8le%20page%20agenda%201.png"
+- image: "/uploads/Programme%20BB.png"
   alternative-textuelle: Logos de FranceConnect, FranceConnect+ et AgentConnect
 ---
 
