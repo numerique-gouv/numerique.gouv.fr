@@ -10,6 +10,7 @@ tags:
 - France Connect
 - FranceConnect+
 - AgentConnect
+- Tchap
 chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour son
   programme de Bug Bounty pour FranceConnect, FranceConnect+ et Tchap, les systèmes
   d’authentification unique des services et agents publics en France. Ce programme,
