@@ -18,8 +18,8 @@ chapeau-text: La Direction interministérielle du numérique (DINUM) met à jour
   vise à renforcer la sécurité de FranceConnect en encourageant les hackers éthiques
   à signaler les failles de sécurité qu’ils pourraient identifier.
 une-ou-diaporama:
-- image: "/uploads/Programme%20BB.png"
-  alternative-textuelle: Logos de FranceConnect, FranceConnect+ et AgentConnect
+- image: "/uploads/Programme%20BBB.png"
+  alternative-textuelle: Logos de FranceConnect, FranceConnect+, AgentConnect et Tchap
 ---
 
 Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques, permettant d’agir sur les vulnérabilités avant leur exploitation par des acteurs malveillants.
