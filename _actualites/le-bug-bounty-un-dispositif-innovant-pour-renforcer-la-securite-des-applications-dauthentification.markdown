@@ -34,10 +34,11 @@ Chaque programme permet de définir une grille de primes, permettant une récomp
 
 Pour participer au programme de Bug Bounty de FranceConnect, les hackers éthiques doivent directement [s’inscrire ici](https://yeswehack.com/programs/franceconnect-agentconnect-public). Ils pourront ensuite signaler les failles de sécurité qu’ils identifient en suivant les instructions fournies sur la plateforme.
 
-**Les conditions d’éligibilité au programme :**
-* Être le premier à remonter une faille, réussir à se connecter à l’une des plateformes ou à décrire clairement toutes les étapes à suivre afin de reproduire le problème signalé.
-* Éviter les tests qui pourraient endommager ou interrompre les plateformes.
+**Les principales règles d’intervention sur le programme :**
+* Être le premier à remonter une faille en proposant une remédiation.
+* Éviter les tests qui pourraient endommager ou rendre indisponible les plateformes.
 * Ne pas divulguer, exploiter ou supprimer les données d’un utilisateur.
-* Ne pas participer si l’on est un ancien ou actuel employé, entrepreneur ou auditeur de la DINUM, de FranceConnect, FranceConnect+ ou AgentConnect.
+* Ne pas participer si l’on est FranceConnect, FranceConnect+ ou AgentConnect.
+* Ne pas être un ancien ou actuel employé, prestataire ou auditeur de la DINUM sur les produits FranceConnect ou AgentConnect.
 
 <p align="center"><a href="https://yeswehack.com/programs/franceconnect-agentconnect-public" class="button">Participer au Bug Bounty</a></p>
