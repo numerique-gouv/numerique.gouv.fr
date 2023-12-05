@@ -29,10 +29,10 @@ Ce programme vise à renforcer la sécurité de ces 4 services en encourageant d
 Chaque programme permet de définir une grille de primes, permettant une récompense financière différente en fonction de la criticité de la vulnérabilité découverte. A ce titre, la plus haute prime possible sur le programme FranceConnect/FranceConnect+ et AgentConnect est à ce jour de 20 000 € et de 4 000 € pour le programme sur Tchap.
 
 Pour l’État, les enjeux et bénéfices de cette opération sont clairs :
-1️⃣ : repérer des failles complexes ou inconnues de manière continue (VS un audit réalisé à un instant T) et de manière proactive ; 
-2️⃣ : renforcer la couverture de protection en cybersecurité, notamment en utilisant les modes opératoires des attaquants et ainsi améliorer la capacité de l’État à réagir et à se prémunir des attaques ; 
-3️⃣ : développer la montée en maturité des équipes en charge de la cybersécurité ; 
-4️⃣ : inciter les citoyens à s’engager pour construire avec l’État un service public de performant. Le code étant open source depuis fin 2021, tous ceux qui le souhaitent peuvent ainsi contribuer à l’amélioration de la sécurité de FranceConnect, le tout dans un cadre bienveillant et constructif.
+<br>1️⃣ : repérer des failles complexes ou inconnues de manière continue (VS un audit réalisé à un instant T) et de manière proactive ; 
+<br>2️⃣ : renforcer la couverture de protection en cybersecurité, notamment en utilisant les modes opératoires des attaquants et ainsi améliorer la capacité de l’État à réagir et à se prémunir des attaques ; 
+<br>3️⃣ : développer la montée en maturité des équipes en charge de la cybersécurité ; 
+<br>4️⃣ : inciter les citoyens à s’engager pour construire avec l’État un service public de performant. Le code étant open source depuis fin 2021, tous ceux qui le souhaitent peuvent ainsi contribuer à l’amélioration de la sécurité de FranceConnect, le tout dans un cadre bienveillant et constructif.
 
 Les hackers éthiques, également appelés “white hats”, sont des professionnels de la sécurité informatique qui utilisent leurs compétences pour identifier et signaler les failles de sécurité des systèmes informatiques. Ils jouent un rôle essentiel dans la protection des systèmes contre les cyberattaques, permettant d’agir sur les vulnérabilités avant leur exploitation par des acteurs malveillants.
 
