@@ -20,7 +20,7 @@ une-ou-diaporama:
 event_start_date: 2023-12-21 10:00:00 +01:00
 champs_informations:
 - intitule: Dates et horaires
-  contenu: 6 décembre à 10h
+  contenu: 21 décembre à 10h
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://tally.so/r/nW8ZWJ
