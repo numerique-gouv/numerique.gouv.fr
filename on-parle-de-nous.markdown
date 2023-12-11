@@ -11,6 +11,19 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+
+<titre><a href="https://www.banquedesterritoires.fr/la-dinum-et-le-fiphp-veulent-ameliorer-laccessibilite-des-systemes-dinformation-publics" title="La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics - Lien externe">La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics</a></titre>
+<date>23 novembre 2023</date>
+<media> Banque des Territoires </media>
+
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-videosurveillance-chatbot-llm-la-cnil-accompagne-4-projets-d-ia-92212.html" title="Vidéosurveillance, Chatbot, LLM : la Cnil accompagne 4 projets d'IA - Lien externe">Vidéosurveillance, Chatbot, LLM : la Cnil accompagne 4 projets d'IA</a></titre>
+<date>22 novembre 2023</date>
+<media> Le Monde Informatique </media>
+
+<titre><a href="https://acteurspublics.fr/articles/20-millions-deuros-pour-ameliorer-laccessibilite-des-outils-numeriques-des-agents" title="20 millions d’euros pour améliorer l’accessibilité des outils numériques des agents - Lien externe">20 millions d’euros pour améliorer l’accessibilité des outils numériques des agents</a></titre>
+<date>22 novembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://www.lemonde.fr/societe/article/2023/11/21/handicap-l-accessibilite-numerique-un-tremplin-pour-l-emploi_6201459_3224.html" title="Handicap : l’accessibilité numérique, un tremplin pour l’emploi ? - Lien externe">Handicap : l’accessibilité numérique, un tremplin pour l’emploi ?</a></titre>
 <date>21 novembre 2023</date>
 <media> Le Monde </media>
