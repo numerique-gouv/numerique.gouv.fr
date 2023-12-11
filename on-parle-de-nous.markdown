@@ -11,10 +11,6 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.banquedesterritoires.fr/la-dinum-et-le-fiphp-veulent-ameliorer-laccessibilite-des-systemes-dinformation-publics" title="La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics - Lien externe">La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics</a></titre>
-<date>23 novembre 2023</date>
-<media> Banque des Territoires </media>
-
 
 <titre><a href="https://www.banquedesterritoires.fr/la-dinum-et-le-fiphp-veulent-ameliorer-laccessibilite-des-systemes-dinformation-publics" title="La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics - Lien externe">La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics</a></titre>
 <date>23 novembre 2023</date>
