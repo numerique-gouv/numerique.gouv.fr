@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/20-millions-deuros-pour-ameliorer-laccessibilite-des-outils-numeriques-des-agents" title="20 millions d’euros pour améliorer l’accessibilité des outils numériques des agents - Lien externe">20 millions d’euros pour améliorer l’accessibilité des outils numériques des agents</a></titre>
+<date>22 novembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://www.lemonde.fr/societe/article/2023/11/21/handicap-l-accessibilite-numerique-un-tremplin-pour-l-emploi_6201459_3224.html" title="Handicap : l’accessibilité numérique, un tremplin pour l’emploi ? - Lien externe">Handicap : l’accessibilité numérique, un tremplin pour l’emploi ?</a></titre>
 <date>21 novembre 2023</date>
 <media> Le Monde </media>
