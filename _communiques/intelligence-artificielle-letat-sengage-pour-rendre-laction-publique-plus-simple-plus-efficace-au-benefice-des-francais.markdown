@@ -14,9 +14,9 @@ chapeau-text: |-
 
   L’objectif : revenir sur les premiers résultats de l’expérimentation de l’intelligence artificielle générative au sein des services publics et faire part des prochaines avancées en matière de transformation numérique de l’État.
 une-ou-diaporama:
-- image: "/uploads/Diapositive42.JPG"
+- image: "/uploads/CPIA.jpg"
 files:
-- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE.pdf"
+- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE-f33f34.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
