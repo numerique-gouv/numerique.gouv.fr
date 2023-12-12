@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/guy-duplaquet-le-reseau-interministeriel-de-letat-a-permis-de-faciliter-la-transformation-de-letat" title="Guy Duplaquet : “Le réseau interministériel de l’État a permis de faciliter la transformation de l’État” - Lien externe">Guy Duplaquet : “Le réseau interministériel de l’État a permis de faciliter la transformation de l’État”</a></titre>
+<date>8 décembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-veut-renforcer-sa-communaute-dexperts-des-donnees?utm_campaign=2023-12-05_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État veut renforcer sa communauté d’experts des données - Lien externe">La DSI de l’État veut renforcer sa communauté d’experts des données</a></titre>
 <date>5 décembre 2023</date>
 <media> Acteurs Publics </media>
