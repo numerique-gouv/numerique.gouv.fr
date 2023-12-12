@@ -14,7 +14,7 @@ chapeau-text: |-
 
   L’objectif : revenir sur les premiers résultats de l’expérimentation de l’intelligence artificielle générative au sein des services publics et faire part des prochaines avancées en matière de transformation numérique de l’État.
 une-ou-diaporama:
-- image: "/uploads/Design%20sans%20titre(2).jpg"
+- image: "/uploads/IA.jpg"
 files:
 - file: "/uploads/Design%20sans%20titre(2).jpg"
   nom: Télécharger le communiqué de presse
