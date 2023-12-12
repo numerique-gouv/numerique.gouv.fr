@@ -15,6 +15,9 @@ chapeau-text: |-
   L’objectif : revenir sur les premiers résultats de l’expérimentation de l’intelligence artificielle générative au sein des services publics et faire part des prochaines avancées en matière de transformation numérique de l’État.
 une-ou-diaporama:
 - image: "/uploads/Diapositive42.JPG"
+files:
+- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 L’Intelligence artificielle porte des promesses de transformations majeures. La fonction publique, premier employeur de France, se saisit de cette technologie pour la mettre à la disposition de ses agents afin de renforcer la qualité de l’accompagnement des Français.
