@@ -2,6 +2,11 @@
 title: 'Intelligence artificielle : l’État s’engage pour rendre l’action publique
   plus simple, plus efficace au bénéfice des français'
 date: 2023-12-12 16:40:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Intelligence artificielle
+- ServicesPublics+
 chapeau-text: |-
   Dans la continuité de la stratégie IA pour les services publics, Stanislas GUERINI, le ministre de la Transformation et de la Fonction publiques, et Jean-Noël BARROT, ministre délégué en charge du Numérique, étaient présents lors de la 4ème rencontre d’Alliance, l’incubateur IA animé par la direction interministérielle du numérique (DINUM).
 
