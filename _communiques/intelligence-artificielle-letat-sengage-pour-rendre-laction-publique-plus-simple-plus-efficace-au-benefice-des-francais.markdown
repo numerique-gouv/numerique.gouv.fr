@@ -6,7 +6,6 @@ categories:
 - Communiqué de presse
 tags:
 - Intelligence artificielle
-- ServicesPublics+
 chapeau-text: |-
   Dans la continuité de la stratégie IA pour les services publics, Stanislas GUERINI, le ministre de la Transformation et de la Fonction publiques, et Jean-Noël BARROT, ministre délégué en charge du Numérique, étaient présents lors de la 4ème rencontre d’Alliance, l’incubateur IA animé par la direction interministérielle du numérique (DINUM).
 
