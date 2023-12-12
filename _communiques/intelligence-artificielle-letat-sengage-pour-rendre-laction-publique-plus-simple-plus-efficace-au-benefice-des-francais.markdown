@@ -16,7 +16,7 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(2).jpg"
 files:
-- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE.pdf"
+- file: "/uploads/Design%20sans%20titre(2).jpg"
   nom: Télécharger le communiqué de presse
 ---
 
