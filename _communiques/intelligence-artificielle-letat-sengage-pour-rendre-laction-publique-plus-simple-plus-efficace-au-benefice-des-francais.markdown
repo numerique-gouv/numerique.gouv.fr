@@ -1,6 +1,6 @@
 ---
 title: 'Intelligence artificielle : l’État s’engage pour rendre l’action publique
-  plus simple, plus efficace au bénéfice des français'
+  plus simple, plus efficace au bénéfice des Français'
 date: 2023-12-12 16:40:00 +01:00
 categories:
 - Communiqué de presse
@@ -51,16 +51,16 @@ Par exemple : « CamemBERT » porté par l’institut national de recherche en s
 Parmi les membres qui se réunissent régulièrement : des administrations appartenant à des ministères, ANCT, CNED, CNIL, INA, ARCOM, Pôle Emploi, DILA, mais aussi des entreprises, dont Illuin, OVH, LightOn, Mistral, Meta, Google et des organismes de recherche et établissements d’enseignement supérieur : INRIA, CentraleSupélec, CNRS.
 
 **Contacts presse**
-
+<br>
 <br>Service presse de **Stanislas GUERINI**
 <br>Ministre de la Transformation et de la Fonction publiques
 <br>Tél : 01 53 18 42 68 / 42 76
 <br>Mél : presse.mtfp@transformation.gouv.fr 
-
+<br>
 <br>Service presse de **Jean-Noël BARROT**
 <br>Ministre délégué chargé du Numérique
 <br>Tél : 01 53 18 43 42 / Mél : presse@numerique.gouv.fr 
-
+<br>
 <br>Service presse de la **DINUM**
 <br>Tél : 01 71 21 12 50 – 06 10 60 41 19 
 <br>Mél : floriane.beaudron@modernisation.gouv.fr 
