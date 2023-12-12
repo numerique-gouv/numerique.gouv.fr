@@ -11,6 +11,9 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-veut-renforcer-sa-communaute-dexperts-des-donnees?utm_campaign=2023-12-05_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État veut renforcer sa communauté d’experts des données - Lien externe">La DSI de l’État veut renforcer sa communauté d’experts des données</a></titre>
+<date>5 décembre 2023</date>
+<media> Acteurs Publics </media>
 
 <titre><a href="https://www.banquedesterritoires.fr/la-dinum-et-le-fiphp-veulent-ameliorer-laccessibilite-des-systemes-dinformation-publics" title="La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics - Lien externe">La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics</a></titre>
 <date>23 novembre 2023</date>
