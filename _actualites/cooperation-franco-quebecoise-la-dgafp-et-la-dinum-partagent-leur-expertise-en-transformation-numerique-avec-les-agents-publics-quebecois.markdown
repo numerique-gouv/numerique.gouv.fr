@@ -9,6 +9,8 @@ chapeau-text: Dans le cadre du partenariat entre la [Direction interministériel
   une délégation française composée de représentants des deux institutions a participé
   à l'école d'automne en transformation numérique de l’ATN du Québec, les 5 et 6 décembre
   derniers.
+une-ou-diaporama:
+- image: "/uploads/Mission%20Quebec.png"
 ---
 
 L'ATN est l'opérateur de formation du gouvernement québécois pour les compétences numériques. Hébergée à l’université Laval à Québec pour renforcer les liens avec la recherche et le monde académique, elle a pour mission de contribuer à la transformation numérique du gouvernement québécois en favorisant le développement des compétences numériques des agents publics.
