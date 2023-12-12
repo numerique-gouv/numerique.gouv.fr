@@ -55,9 +55,11 @@ Parmi les membres qui se réunissent régulièrement : des administrations appar
 <br>Ministre de la Transformation et de la Fonction publiques
 <br>Tél : 01 53 18 42 68 / 42 76
 <br>Mél : presse.mtfp@transformation.gouv.fr 
+
 <br>Service presse de **Jean-Noël BARROT**
 <br>Ministre délégué chargé du Numérique
 <br>Tél : 01 53 18 43 42 / Mél : presse@numerique.gouv.fr 
+
 <br>Service presse de la **DINUM**
 <br>Tél : 01 71 21 12 50 – 06 10 60 41 19 
 <br>Mél : floriane.beaudron@modernisation.gouv.fr 
