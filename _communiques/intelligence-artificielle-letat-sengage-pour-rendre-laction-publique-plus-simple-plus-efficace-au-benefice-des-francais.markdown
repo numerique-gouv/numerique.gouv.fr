@@ -51,6 +51,7 @@ Par exemple : « CamemBERT » porté par l’institut national de recherche en s
 Parmi les membres qui se réunissent régulièrement : des administrations appartenant à des ministères, ANCT, CNED, CNIL, INA, ARCOM, Pôle Emploi, DILA, mais aussi des entreprises, dont Illuin, OVH, LightOn, Mistral, Meta, Google et des organismes de recherche et établissements d’enseignement supérieur : INRIA, CentraleSupélec, CNRS.
 
 **Contacts presse**
+
 <br>Service presse de **Stanislas GUERINI**
 <br>Ministre de la Transformation et de la Fonction publiques
 <br>Tél : 01 53 18 42 68 / 42 76
