@@ -16,7 +16,7 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/CPIA-56b382.jpg"
 files:
-- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE-f33f34.pdf"
+- file: "/uploads/CP_IA_L_ETAT_S_ENGAGE-c116f4.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -48,7 +48,7 @@ L’incubateur Alliance regroupe des membres qui ont une volonté commune d’em
 
 Par exemple : « CamemBERT » porté par l’institut national de recherche en sciences et technologies du numérique, est le modèle de traitement automatique de langage naturel le plus utilisé pour les entreprises françaises, comme ENEDIS, avec 22 millions de téléchargements depuis sa publication en 2019, permettant d’optimiser la répartition de milliers de demandes clients par jour, une tâche auparavant manuelle qui permet aujourd’hui un retour sur investissement d’environ 3 millions d’euros par an.
 
-Parmi les membres qui se réunissent régulièrement : des administrations appartenant à des ministères, ANCT, CNED, CNIL, INA, ARCOM, Pôle Emploi, DILA, mais aussi des entreprises, dont Illuin, OVH, LightOn, Mistral, Meta, Google et des organismes de recherche et établissements d’enseignement supérieur : INRIA, CentraleSupélec, CNRS.
+Parmi les membres qui se réunissent régulièrement : des administrations appartenant à des ministères, ANCT, CNED, CNIL, INA, ARCOM, Pôle Emploi, DILA, DGFIP, mais aussi des entreprises, dont Illuin, OVH, LightOn, Mistral, Meta, Google et des organismes de recherche et établissements d’enseignement supérieur : INRIA, CentraleSupélec, CNRS.
 
 **Contacts presse**
 <br>
