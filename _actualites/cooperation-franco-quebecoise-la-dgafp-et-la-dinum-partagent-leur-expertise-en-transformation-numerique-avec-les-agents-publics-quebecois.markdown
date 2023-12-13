@@ -41,4 +41,4 @@ Cette mission avait plusieurs enjeux pour la Direction interministérielle du nu
 * Promouvoir l'expérience française à l'international, à travers des interventions auprès des agents publics dans le cadre de l'université d'automne.
 * Consolider un partenariat qui sera poursuivi en 2024 et qui consiste à partager des ressources de formation au numérique et en la production de communs en matière de formation au numérique pour les agents publics.
 
-Plus largement, et c'est une volonté de la DINUM et de la DGAFP, asseoir la coopération en matière de transformation numérique dans la francophonie.
+Plus largement, et c'est une volonté de la DINUM et de la DGAFP, d'asseoir la coopération en matière de transformation numérique dans la francophonie.
