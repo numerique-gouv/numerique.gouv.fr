@@ -15,6 +15,8 @@ une-ou-diaporama:
 
 L'ATN est l'opérateur de formation du gouvernement québécois pour les compétences numériques. Hébergée à l’université Laval à Québec pour renforcer les liens avec la recherche et le monde académique, elle a pour mission de contribuer à la transformation numérique du gouvernement québécois en favorisant le développement des compétences numériques des agents publics.
 
+![ATN_DINUM_DGAFP.jpg](/uploads/ATN_DINUM_DGAFP.jpg)
+
 Au cours de cette mission, les représentants français ont eu l'occasion de partager leur expertise en matière de transformation numérique avec les agents publics québécois. Ils ont notamment animé deux conférences et un panel sur les sujets suivants :
 * La formation, levier des changements *(**Génaël Valet**, directeur de programme MENTOR et **Lionel Caylat**, chef de projet plateforme interministérielle [MENTOR](https://mentor.gouv.fr/login/index.php) de la DGAFP)*
 * Réussir un projet numérique *(**Philippe Vrignaud**, chef du pôle relations usagers-agents et fondateur de [Démarches-simplifiées](https://www.demarches-simplifiees.fr/))*
