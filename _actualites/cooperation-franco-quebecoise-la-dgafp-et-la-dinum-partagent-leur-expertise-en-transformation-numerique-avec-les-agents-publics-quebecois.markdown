@@ -2,6 +2,12 @@
 title: 'Coopération franco-québécoise : la DGAFP et la DINUM partagent leur expertise
   en transformation numérique avec les agents publics québécois'
 date: 2023-12-12 16:01:00 +01:00
+categories:
+- Actualité
+tags:
+- International
+- Numérique
+- Transformation publique
 chapeau-text: Dans le cadre du partenariat entre la [Direction interministérielle
   du numérique (DINUM), la Direction générale de l'administration et de la fonction
   publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP) et l'[Académie
