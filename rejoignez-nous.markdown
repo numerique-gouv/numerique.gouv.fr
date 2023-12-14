@@ -117,24 +117,7 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F - Lien externe">Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-experte-reseau---charge-ede-mission-d-accompagnement-hf-reference-2023-1217804/" title="Ingénieur/e Expert/e Réseau - Chargé/e de mission d'accompagnement H/F - Lien externe">Ingénieur/e Expert/e Réseau - Chargé/e de mission d'accompagnement H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-experte-reseau---charge-ede-mission-d-accompagnement-hf-reference-2023-1217804/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-support-de-franceconnect-hf-reference-2023-1394199/" title="Responsable du support de FranceConnect H/F - Lien externe">Responsable du support de FranceConnect H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-support-de-franceconnect-hf-reference-2023-1394199/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
+
 
 </div>
 <br>
@@ -148,7 +131,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-lutte-contre-la-fraude-du-pole-federation-d-identite-des-citoyens-hf-reference-2023-1409178/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes H/F - Lien externe">Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
