@@ -1,7 +1,6 @@
 ---
 title: 'Garagethon #BlueHats'
 date: 2023-01-09 15:59:00 +01:00
-published: false
 categories:
 - Évènement
 tags:
