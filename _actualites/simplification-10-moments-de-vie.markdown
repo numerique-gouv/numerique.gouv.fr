@@ -15,6 +15,7 @@ chapeau-text: Pour aller plus loin dans la simplification et l’amélioration d
   à mieux considérer les grands évènements de la vie.
 une-ou-diaporama:
 - image: "/uploads/photo%20page%2018%20(2).jpg"
+  alternative-textuelle: photo avec une femme qui fait des démarches sur un ordinateur
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/simplification-10-moments-de-vie/">Lire la suite du communiqué de presse</a></p></div>
