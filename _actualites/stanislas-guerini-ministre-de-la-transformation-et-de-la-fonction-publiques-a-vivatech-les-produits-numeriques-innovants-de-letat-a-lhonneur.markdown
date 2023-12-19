@@ -22,6 +22,8 @@ chapeau-text: 'A l’occasion de sa venue à VivaTech le 15 juin, Stanislas Guer
 une-ou-diaporama:
 - image: "/uploads/FysE_H5XwAEpxmj.jpg"
   legende: "© Bercy"
+  alternative-textuelle: Photo de Stanislas Guerini, ministre de la transformation
+    et de la fonction publiques, au micro.
 ---
 
 <div class="lien-important"><p><a href="https://www.transformation.gouv.fr/ministre/actualite/au-salon-vivatech-les-produits-numeriques-innovants-de-letat-lhonneur">Lire la suite de l'article</a></p></div>
