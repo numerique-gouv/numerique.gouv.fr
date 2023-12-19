@@ -56,4 +56,6 @@ For this purpose, some new examples below :
 * **The launch of [meteo.data.gouv.fr](https://meteo.data.gouv.fr/) with the support/guidance of Météo-France in beta version** making meteorological datas from Météo-France available. This platform presents climate datas and all french stations since their opening ;
 * **The upcoming publication of [ecologie.data.gouv.fr](https://ecologie.data.gouv.fr/)** which makes available environnement, biodiversity, pollution and climate change data, launched by the General Commission for Sustainable Development, the EcoLab of the Ministry of Ecological Transition and Territorial Cohesion in partnership with DINUM.
 
-“I am delighted to know that France is for the third consecutive year European champion in open data. I congratulate all the teams involved in the opening of public data. Administrations are making progress on data sharing and seeing that it’s a great lever to improve the effectiveness of their action.” - Stanislas GUERINI, French Minister of Transformation and Public Service
+> « I am delighted to know that France is for the third consecutive year European champion in open data. I congratulate all the teams involved in the opening of public data. Administrations are making progress on data sharing and seeing that it’s a great lever to improve the effectiveness of their action. » 
+<br>
+<br>**Stanislas GUERINI, French Minister of Transformation and Public Service**
