@@ -18,6 +18,8 @@ chapeau-text: Afin de simplifier et sécuriser l’accès aux démarches les plu
   sécurisée de FranceConnect venant d’atteindre un million d’usagers.
 une-ou-diaporama:
 - image: "/uploads/Diapositive1.PNG"
+  alternative-textuelle: 'FranceConnect vous accompagne toujours plus : FranceConnect
+    + la version qui vous accompagne dans vos démarches les plus sensibles. '
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/franceconnect-plus-1-million-usagers/">Lire la suite du communiqué de presse</a></p></div>
