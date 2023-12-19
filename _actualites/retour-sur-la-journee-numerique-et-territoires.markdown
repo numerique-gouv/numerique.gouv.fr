@@ -14,6 +14,7 @@ chapeau-text: Le 18 janvier dernier, la direction interministérielle du numéri
   à Paris la journée « Numérique et Territoires »
 une-ou-diaporama:
 - image: "/uploads/2023_01_18_JNT_Article.png"
+  alternative-textuelle: 'Photo des intervenants pendant l’événement '
 style: |-
   .button {
   background-color: #0d5c98;
