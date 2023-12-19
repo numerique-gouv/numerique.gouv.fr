@@ -20,6 +20,8 @@ chapeau-text: 'Pour encourager l’intraprenariat et la création de services nu
   viennent de recevoir cette certification. '
 une-ou-diaporama:
 - image: "/uploads/CP-certification.png"
+  alternative-textuelle: La DINUM devient organisme certificateur pour les intrapreneurs
+    de stratups d’État
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-dinum-devient-organisme-certificateur/">Lire le communiqué de presse</a></p></div>
