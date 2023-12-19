@@ -13,13 +13,13 @@ chapeau-text: |-
   Depuis 2015, ce classement met en lumière l’état d’avancement des pays européens en matière d’ouverture des données selon les critères suivants : politique publique, portail national, impact et qualité. La France vient d’obtenir un score global de 98,3% de maturité d’open data, et arrive en tête sur trois des quatre critères pré-cités : 600/600 sur l’impact et 640/640 sur la politique publique et 630/650 pour la qualité.
 ---
 
-Si la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, est largement mobilisée dans cette politique, ce résultat est le fruit d’un travail mené avec tous les ministères, administrations publiques et collectivités territoriales, opérateurs, associations et entreprises publiques.
+Si la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, est largement mobilisée dans cette politique, **ce résultat est le fruit d’un travail mené avec tous les ministères, administrations publiques et collectivités territoriales, opérateurs, associations et entreprises publiques.**
 
 En matière de politique, la France a mis en place dès 2013 [un plan d’action national pour l’open data](https:/https://www.gouvernement.fr/action/l-ouverture-des-donnees-publiques/) qui vise à accroître la disponibilité et la réutilisation des données publiques au service de trois objectifs :
 
-• améliorer le fonctionnement démocratique, non seulement par la transparence, mais aussi par la concertation et l’ouverture à de nouveaux points de vue ;
-• améliorer l’efficacité de l’action publique ;
-• proposer de nouvelles ressources pour l’innovation économique et sociale : les données partagées trouvent des réutilisateurs qui les intègrent dans de nouveaux services à forte valeur ajoutée économique ou sociale.
+• **améliorer le fonctionnement démocratique**, non seulement par la transparence, mais aussi par la concertation et l’ouverture à de nouveaux points de vue ;
+• **améliorer l’efficacité de l’action publique** ;
+• **proposer de nouvelles ressources pour l’innovation économique et sociale** : les données partagées trouvent des réutilisateurs qui les intègrent dans de nouveaux services à forte valeur ajoutée économique ou sociale.
 
 La DINUM ayant créé et opérant [data.gouv.fr](https://www.data.gouv.fr/fr/), le portail national des données ouvertes, l’un des plus complets et des plus utilisés en Europe, est largement mobilisée avec tous les acteurs de l’écosystème dans l’ouverture des données et continue de s’investir en ce sens pour un service public encore plus simple, plus efficace et plus souverain pour tous les Français.
 
@@ -53,7 +53,7 @@ DINUM which create and operate data.gouv.fr, the national portal of open data, o
 For this purpose, some new examples below :
 
 * **The new version of ‘’Demandes de valeurs foncières’’ published** (more than 10 millions annual visits) dedicated on publishing real-estate transactions, which allow every citizen to benefit from information price of real-estate over time ;
-* **The launch of meteo.data.gouv.fr with the support/guidance of Météo-France in beta version** making meteorological datas from Météo-France available. This platform presents climate datas and all french stations since their opening ;
-* **The upcoming publication of ecologie.data.gouv.fr** which makes available environnement, biodiversity, pollution and climate change data, launched by the General Commission for Sustainable Development, the EcoLab of the Ministry of Ecological Transition and Territorial Cohesion in partnership with DINUM.
+* **The launch of [meteo.data.gouv.fr](https://meteo.data.gouv.fr/) with the support/guidance of Météo-France in beta version** making meteorological datas from Météo-France available. This platform presents climate datas and all french stations since their opening ;
+* **The upcoming publication of [ecologie.data.gouv.fr](https://ecologie.data.gouv.fr/)** which makes available environnement, biodiversity, pollution and climate change data, launched by the General Commission for Sustainable Development, the EcoLab of the Ministry of Ecological Transition and Territorial Cohesion in partnership with DINUM.
 
 “I am delighted to know that France is for the third consecutive year European champion in open data. I congratulate all the teams involved in the opening of public data. Administrations are making progress on data sharing and seeing that it’s a great lever to improve the effectiveness of their action.” - Stanislas GUERINI, French Minister of Transformation and Public Service
