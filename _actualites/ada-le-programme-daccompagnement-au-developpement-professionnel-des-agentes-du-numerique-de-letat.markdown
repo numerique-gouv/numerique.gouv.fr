@@ -10,6 +10,8 @@ chapeau-text: Agente du numérique au sein de l’État, vous souhaitez faire av
   jusqu’au 15 juin 2023.
 une-ou-diaporama:
 - image: "/uploads/2022_05_17_1200x627_Femme-numerique_Linkedin.jpg"
+  alternative-textuelle: 'Illustration : agentes de l’État dans le numérique : bénéficiez
+    d''un coaching pour réussir votre évolution professionnelle !'
 redirection-interne: "/services/ada/"
 ---
 
