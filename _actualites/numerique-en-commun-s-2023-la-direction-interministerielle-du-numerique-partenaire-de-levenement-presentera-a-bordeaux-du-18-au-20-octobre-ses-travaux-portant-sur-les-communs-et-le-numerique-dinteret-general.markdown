@@ -19,6 +19,9 @@ chapeau-text: Pour rendre l’action publique plus proche, plus efficace, plus s
   19 et 20 octobre prochain à Bordeaux.
 une-ou-diaporama:
 - image: "/uploads/CP%20NEC%202023.png"
+  alternative-textuelle: 'Image qui présente l''événement à NEC : La DINUM en co-programmatrice
+    du rendez-vous incontournable pour construire un numérique d''intérêt général.
+    Du 19 au 20 octobre.'
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/nec-x-dinum-num-dinteret-general/">Lire le communiqué de presse</a></p></div>
