@@ -31,3 +31,9 @@ La DINUM ayant créé et opérant [data.gouv.fr](https://www.data.gouv.fr/fr/), 
 
 • La publication prochaine de [ecologie.data.gouv.fr](https://ecologie.data.gouv.fr/) qui mettra à disposition des données sur l’environnement, notamment des données sur la biodiversité, la pollution et les changements climatiques par le Commissariat général au développement durable, l’EcoLab du ministère de la Transition écologique et de la Cohésion des territoires avec la DINUM.
 
+"Je me réjouis que la France soit pour la 3ème année consécutive championne d'Europe en matière d'open data et je félicite toutes les équipes impliquées dans l’ouverture des données publiques. Les administrations avancent sur le partage de données et constatent que c'est un formidable levier pour améliorer l’efficacité de leur action." Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques
+
+> « Je me réjouis que la France soit pour la 3ème année consécutive championne d'Europe en matière d'open data et je félicite toutes les équipes impliquées dans l’ouverture des données publiques. Les administrations avancent sur le partage de données et constatent que c'est un formidable levier pour améliorer l’efficacité de leur action. » 
+<br>
+<br>**Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques**
+
