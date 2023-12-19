@@ -15,6 +15,7 @@ chapeau-text: Le 7e comité interministériel de la transformation publique s’
   Zoom sur le volet numérique du CITP.
 une-ou-diaporama:
 - image: "/uploads/7e-CITP_une.png"
+  alternative-textuelle: Photo de l'assemblée au coté d’Élisabeth Borne
 ---
 
 <h2 style="margin-top: 0px">Pour des services publics, plus proches, plus simples, plus efficaces</h2>
