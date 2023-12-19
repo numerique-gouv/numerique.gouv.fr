@@ -23,6 +23,9 @@ chapeau-text: '10 ans après la première convention signée entre le Fonds pour
   sur 4 ans (soit un budget multiplié par 10 par rapport à la précédente convention). '
 une-ou-diaporama:
 - image: "/uploads/Signature%20FIP.png"
+  alternative-textuelle: 'Photo de Jérémie Vallet, directeur adjoint à la direction
+    interministérielle du numérique et 3 personnes partenaires du projet. Ils sont
+    sur scène avec le micro à la main. '
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/une-nouvelle-convention-entre-la-dinum-et-le-fiphfp-pour-renforcer-laccessibilite-des-systemes-dinformation-et-de-communication-des-employeurs-publics-et-garantir-lacces-aux-outils-numeriques-a-tous-les-agents/">Lire le communiqué de presse</a></p></div>
