@@ -17,7 +17,8 @@ chapeau-text: L’accessibilité numérique à 100% est un des objectifs fixés 
   participation et la citoyenneté des personnes handicapées.
 une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20accessibilit%C3%A9.png"
-  alternative-textuelle: Image avec un écran qui demande si on a besoin d'aide
+  alternative-textuelle: Image avec un écran d'ordinateur qui demande si on a besoin
+    d'aide
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-a-100-percent-le-gouvernement-passe-a-la-vitesse-superieure-et-presente-une-ordonnance-visant-a-controler-laccessibilite-des-sites-des-administrations-publiques-a-compter-2024/">Lire le communiqué de presse</a></p></div>
