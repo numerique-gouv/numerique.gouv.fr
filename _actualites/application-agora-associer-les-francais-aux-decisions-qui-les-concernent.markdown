@@ -8,6 +8,8 @@ chapeau-text: Avec Agora, les Français peuvent désormais donner leur avis en q
   prises.
 une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20Agora.png"
+  alternative-textuelle: Image avec écran de téléphone où on y voit l'interface de
+    l'agora sur internet
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/application-agora-associer-les-francais-aux-decisions-qui-les-concernent/">Lire le dossier de presse</a></p></div>
