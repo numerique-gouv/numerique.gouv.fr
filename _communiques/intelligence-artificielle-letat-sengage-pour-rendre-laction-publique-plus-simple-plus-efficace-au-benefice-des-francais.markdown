@@ -10,6 +10,8 @@ tags:
 - Numérique
 - transformation numérique
 chapeau-text: |-
+  <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/intelligence-artificielle-letat-sengage-pour-rendre-laction-publique-plus-simple-plus-efficace-au-benefice-des-francais/"></a></p></div>
+
   Dans la continuité de la stratégie IA pour les services publics, Stanislas GUERINI, le ministre de la Transformation et de la Fonction publiques, et Jean-Noël BARROT, ministre délégué en charge du Numérique, étaient présents lors de la 4ème rencontre d’Alliance, l’incubateur IA animé par la direction interministérielle du numérique (DINUM).
 
   L’objectif : revenir sur les premiers résultats de l’expérimentation de l’intelligence artificielle générative au sein des services publics et faire part des prochaines avancées en matière de transformation numérique de l’État.
