@@ -57,7 +57,7 @@ DINUM which create and operate data.gouv.fr, the national portal of open data, o
 
 For this purpose, some new examples below :
 
-* **The new version of ‘’Demandes de valeurs foncières’’ published** (more than 10 millions annual visits) dedicated on publishing real-estate transactions, which allow every citizen to benefit from information price of real-estate over time ;
+* **The new version of ‘’[Demandes de valeurs foncières](https:/https://explore.data.gouv.fr/immobilier?onglet=carte&filtre=tous/)’’ published** (more than 10 millions annual visits) dedicated on publishing real-estate transactions, which allow every citizen to benefit from information price of real-estate over time ;
 * **The launch of [meteo.data.gouv.fr](https://meteo.data.gouv.fr/) with the support/guidance of Météo-France in beta version** making meteorological datas from Météo-France available. This platform presents climate datas and all french stations since their opening ;
 * **The upcoming publication of [ecologie.data.gouv.fr](https://ecologie.data.gouv.fr/)** which makes available environnement, biodiversity, pollution and climate change data, launched by the General Commission for Sustainable Development, the EcoLab of the Ministry of Ecological Transition and Territorial Cohesion in partnership with DINUM.
 
