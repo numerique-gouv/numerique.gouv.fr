@@ -17,9 +17,9 @@ Si la direction interministérielle du numérique (DINUM), intervenant sous l’
 
 En matière de politique, la France a mis en place dès 2013 [un plan d’action national pour l’open data](https:/https://www.gouvernement.fr/action/l-ouverture-des-donnees-publiques/) qui vise à accroître la disponibilité et la réutilisation des données publiques au service de trois objectifs :
 
-• **améliorer le fonctionnement démocratique**, non seulement par la transparence, mais aussi par la concertation et l’ouverture à de nouveaux points de vue ;
-• **améliorer l’efficacité de l’action publique** ;
-• **proposer de nouvelles ressources pour l’innovation économique et sociale** : les données partagées trouvent des réutilisateurs qui les intègrent dans de nouveaux services à forte valeur ajoutée économique ou sociale.
+<br>• **améliorer le fonctionnement démocratique**, non seulement par la transparence, mais aussi par la concertation et l’ouverture à de nouveaux points de vue ;
+<br>• **améliorer l’efficacité de l’action publique** ;
+<br>• **proposer de nouvelles ressources pour l’innovation économique et sociale** : les données partagées trouvent des réutilisateurs qui les intègrent dans de nouveaux services à forte valeur ajoutée économique ou sociale.
 
 La DINUM ayant créé et opérant [data.gouv.fr](https://www.data.gouv.fr/fr/), le portail national des données ouvertes, l’un des plus complets et des plus utilisés en Europe, est largement mobilisée avec tous les acteurs de l’écosystème dans l’ouverture des données et continue de s’investir en ce sens pour un service public encore plus simple, plus efficace et plus souverain pour tous les Français.
 
