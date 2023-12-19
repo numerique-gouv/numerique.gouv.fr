@@ -8,6 +8,8 @@ chapeau-text: Administration d’État ou opérateur de l’État, vous souhaite
   cadre du Fonds pour la transformation de l'action publique.
 une-ou-diaporama:
 - image: "/uploads/Guichet-ftap-numerique-ecoresponsable-RS.jpg"
+  alternative-textuelle: 'Nouveau guichet : obtenez un financement pour votre projet
+    en faveur d''un numérique écoresponsable.'
 redirection-interne: "/services/guichet-financement-ftap-numerique-ecoresponsable/"
 ---
 
