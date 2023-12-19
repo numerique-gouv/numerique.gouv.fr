@@ -14,7 +14,7 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/CP%20Open%20Data.PNG"
 files:
-- file: "/uploads/CP_DINUM_France%20championne%20open%20data.docx.pdf"
+- file: "/uploads/CP_DINUM_France_championne_open_data.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
