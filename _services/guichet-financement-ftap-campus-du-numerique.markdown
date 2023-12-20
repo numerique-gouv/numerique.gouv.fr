@@ -90,7 +90,7 @@ Les projets lauréats bénéficieront :
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-campus-du-numerique" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 
-<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="mailto:marie.charbonnel@modernisation.gouv.fr">marie.charbonnel@modernisation.gouv.fr</a>
+<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="mailto:campus.numerique@modernisation.gouv.fr">campus.numerique@modernisation.gouv.fr</a>
 
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
