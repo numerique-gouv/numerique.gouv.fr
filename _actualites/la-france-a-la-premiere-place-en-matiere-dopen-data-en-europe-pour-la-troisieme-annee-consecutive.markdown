@@ -2,6 +2,8 @@
 title: La France à la première place en matière d’open data en Europe pour la troisième
   année consécutive
 date: 2023-12-20 12:26:00 +01:00
+categories:
+- Communiqué de presse
 chapeau-text: |-
   La France conserve sa première place en matière d’open data en Europe, selon [le classement de la Commission européenne](https://data.europa.eu/en/publications/open-data-maturity/2023) publié le 14 décembre dernier.
 
