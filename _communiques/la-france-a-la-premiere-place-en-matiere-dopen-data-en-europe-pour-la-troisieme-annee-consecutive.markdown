@@ -13,6 +13,7 @@ chapeau-text: |-
   Depuis 2015, ce classement met en lumière l’état d’avancement des pays européens en matière d’ouverture des données selon les critères suivants : politique publique, portail national, impact et qualité. La France vient d’obtenir un score global de 98,3% de maturité d’open data, et arrive en tête sur trois des quatre critères pré-cités : 600/600 sur l’impact et 640/640 sur la politique publique et 630/650 pour la qualité.
 une-ou-diaporama:
 - image: "/uploads/CP%20Open%20Data.PNG"
+  alternative-textuelle: Visuel open data maturity
 files:
 - file: "/uploads/CP_DINUM_France_championne_open_data.pdf"
   nom: Télécharger le communiqué de presse
