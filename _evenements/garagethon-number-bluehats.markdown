@@ -1,6 +1,6 @@
 ---
 title: 'Garagethon #BlueHats'
-date: 2023-01-09 15:59:00 +01:00
+date: 2024-01-09 15:59:00 +01:00
 categories:
 - Évènement
 tags:
@@ -20,8 +20,8 @@ une-ou-diaporama:
     Logiciels libres et services publics
     9 et 10 janvier 2024
     77 avenue de Ségur, Lieu de la Transformation Publique
-event_start_date: 2023-01-09 00:00:00 +01:00
-event_end_date: 2023-01-10 00:00:00 +01:00
+event_start_date: 2024-01-09 00:00:00 +01:00
+event_end_date: 2024-01-10 00:00:00 +01:00
 lieu: Paris
 adresse: 77 avenue de Ségur, Lieu de la Transformation Publique
 champs_informations:
