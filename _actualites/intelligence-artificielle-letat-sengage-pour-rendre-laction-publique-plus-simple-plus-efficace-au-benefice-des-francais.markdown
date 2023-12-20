@@ -17,4 +17,4 @@ une-ou-diaporama:
     artificielle. '
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/intelligence-artificielle-letat-sengage-pour-rendre-laction-publique-plus-simple-plus-efficace-au-benefice-des-francais/">En savoir plus et participer</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/intelligence-artificielle-letat-sengage-pour-rendre-laction-publique-plus-simple-plus-efficace-au-benefice-des-francais/">Lire le communiqué de presse</a></p></div>
