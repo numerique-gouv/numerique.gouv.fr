@@ -1,6 +1,6 @@
 ---
 title: 'Garagethon #BlueHats'
-date: 2024-01-09 15:59:00 +01:00
+date: 2022-12-19 15:59:00 +01:00
 categories:
 - Évènement
 tags:
