@@ -12,6 +12,8 @@ chapeau-text: La DINUM dévoile les premiers projets lauréats de la 2e saison d
   Accélérateur d’initiatives citoyennes, sur le volet numérique.
 une-ou-diaporama:
 - image: "/uploads/800x430_Actu-laureats-AIC.png"
+  alternative-textuelle: 'Image : Accélérateur d''initiatives citoyennes, découvrez
+    les 1er communs numériques lauréats de la saison 2'
 ---
 
 Après [le lancement en avril de la 2e saison](/actualites/accelerateur-initiatives-citoyennes-lancement-2e-saison/) de l’Accélérateur d’initiatives citoyennes, la DINUM a sélectionné les premiers projets issus de la société civile qui bénéficieront d’un accompagnement par l’État, sur le volet numérique. 

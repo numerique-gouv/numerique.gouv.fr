@@ -9,6 +9,9 @@ chapeau-text: |-
   artificielle générative au sein des services publics. Le ministre a présenté sa stratégie pour anticiper et accompagner le déploiement de l’intelligence artificielle dans la fonction publique, dans la continuité de la stratégie nationale pour l’intelligence artificielle et du comité de l’intelligence artificielle générative installé par la Première ministre. Ce comité aura notamment vocation à éclairer notre politique sur l’usage de l’intelligence artificielle dans les services publics.
 une-ou-diaporama:
 - image: "/uploads/Espace%20Presse%20-%20IA.png"
+  alternative-textuelle: Photo de Stéphanie Schaer, directrice de la DINUM et Stanislas
+    Guerini, ministre de la transformation et de la fonction publiques, entrain de
+    discuter pendant l’événement.
 files:
 - file: "/uploads/CP_Stanislas_Guerini_exp%C3%A9rimente_l_IA_g%C3%A9n%C3%A9rative_dans_les_services_publics-b10f2c.pdf"
   nom: Télécharger le communiqué de presse

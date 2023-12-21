@@ -8,6 +8,8 @@ tags:
 - Accélérateur d'initiatives citoyennes
 une-ou-diaporama:
 - image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
+  alternative-textuelle: 'Image : lancement accélérateur d''initiatives citoyennes
+    Saison 2'
 ---
 
 Parce que la société civile produit aussi des biens communs d'intérêt général, l’État leur apporte son soutien.

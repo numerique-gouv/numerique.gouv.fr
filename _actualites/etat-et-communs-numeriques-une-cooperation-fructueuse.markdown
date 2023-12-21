@@ -14,6 +14,7 @@ chapeau-text: 'Vers un État partenaire des communs numériques : c’est sur ce
   d’initiatives citoyennes. Retour.'
 une-ou-diaporama:
 - image: "/uploads/evt-aic-communs-numeriques-Une.jpg"
+  alternative-textuelle: Photo des intervenants avec micro à la main
 ---
 
 Mardi 10 mai, nous réunissions une centaine de représentants de la société civile et d'agents publics pour réfléchir ensemble aux coopérations entre État et communs numériques à l’occasion d’une table ronde, avec l'IGN, le ministère de l’Éducation nationale et de la Jeunesse et la direction interministérielle de la transformation publique (DITP), en partenariat avec le Conseil national du numérique et la Société des communs.

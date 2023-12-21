@@ -8,8 +8,8 @@ tags:
 - International
 - Numérique
 - Transformation publique
-chapeau-text: Dans le cadre du partenariat entre la [Direction interministérielle
-  du numérique (DINUM), la Direction générale de l'administration et de la fonction
+chapeau-text: Dans le cadre du partenariat entre la [direction interministérielle
+  du numérique (DINUM), la direction générale de l'administration et de la fonction
   publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP) et l'[Académie
   de la transformation numérique](https://transformation-numerique.ulaval.ca/) (ATN),
   une délégation française composée de représentants des deux institutions a participé
@@ -17,6 +17,9 @@ chapeau-text: Dans le cadre du partenariat entre la [Direction interministériel
   derniers.
 une-ou-diaporama:
 - image: "/uploads/Mission%20Quebec.png"
+  alternative-textuelle: Académie de la transformation numérique avec le logo de la
+    direction générale de l’administration et de la fonction publique (DGAFP) et le
+    logo de la direction interministérielle du numérique (DINUM).
 ---
 
 L'ATN est l'opérateur de formation du gouvernement québécois pour les compétences numériques. Hébergée à l’université Laval à Québec pour renforcer les liens avec la recherche et le monde académique, elle a pour mission de contribuer à la transformation numérique du gouvernement québécois en favorisant le développement des compétences numériques des agents publics.

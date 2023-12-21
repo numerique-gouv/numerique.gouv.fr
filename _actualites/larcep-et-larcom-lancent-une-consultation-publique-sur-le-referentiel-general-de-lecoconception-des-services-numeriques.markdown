@@ -18,6 +18,8 @@ chapeau-text: La loi relative à la réduction de l’empreinte environnementale
   pour réduire l’empreinte environnementale des services numériques.
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20RGESN.png"
+  alternative-textuelle: 'Image avec texte : Référentiel général d''écoconception
+    de services numériques'
 ---
 
 <div class="lien-important"><p><a href="https://www.arcep.fr/actualites/actualites-et-communiques/detail/n/environnement-091023.html">En savoir plus sur cette actualité et lire le communiqué de presse de l’Arcep et de l’Arcom</a></p></div>

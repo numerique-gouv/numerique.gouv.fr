@@ -22,6 +22,8 @@ chapeau-text: Incubé au sein de la La Fabrique Numérique de l'Écologie, le se
   au sein de l’incubateur de services numériques beta.gouv.fr de la DINUM.
 une-ou-diaporama:
 - image: "/uploads/BetaxFCU.png"
+  alternative-textuelle: Illustration avec écran d'ordinateur qui montre différente
+    localisation en France. Logo de France Chaleur Urbaine et logo de Beta.gouv
 ---
 
 France Chaleur Urbaine permet à toute personne qui le souhaite (particulier, professionnel…) de vérifier si un réseau de chaleur* passe à proximité de son bâtiment. L’ouverture des données cartographique des réseaux de chaleur est un pas supplémentaire de franchi : il rend possible leur appropriation par l’ensemble des acteurs de la rénovation énergétique (bureaux d’études, institutionnels, ...) et va ainsi permettre de faire beaucoup plus largement connaître ce mode de chauffage encore sous-exploité. Grâce aux raccordements ainsi générés, les émissions de gaz à effet de serre produites par le chauffage des bâtiments seront réduites.

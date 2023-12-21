@@ -14,6 +14,8 @@ chapeau-text: 'Viva Technology 2023 : l’État français présent massivement a
   des professionnels du numérique.'
 une-ou-diaporama:
 - image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720-2aa283.jpg"
+  alternative-textuelle: 'Image qui présente l''événement : un pavillon numérique
+    de l’État, au stand H49 du 14 au 17 juin à Paris'
 ---
 
 <div class="lien-important"><p><a href="/agenda/pavillon-numerique-etat-viva-technology-2023/">Lire la suite</a></p></div>

@@ -11,6 +11,8 @@ chapeau-text: À l’aune de ce nouveau quinquennat, la Première ministre et le
   et plus souverain. Découvrez sa nouvelle feuille de route.
 une-ou-diaporama:
 - image: "/uploads/DINUM-feuille-route_visuel-article.png"
+  alternative-textuelle: 'Une stratégie numérique au service de l''efficacité de l''action
+    publique '
 redirection-interne: "/publications/feuille-de-route-dinum/"
 ---
 

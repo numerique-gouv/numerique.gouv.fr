@@ -16,6 +16,9 @@ chapeau-text: Dans le cadre de la semaine européenne pour l’emploi des person
   personnes handicapées.
 une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une-85fec5-690ce5.jpg"
+  alternative-textuelle: 'Illustration avec une personne qui est assise sur un ordinateur
+    géant et qui est elle même sur un ordinateur. Autour de cette personne il y a
+    des pictogrammes liés à l''accessibilité. '
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/accessibilite-numerique-le-gouvernement-enterine-lordonnance-visant-a-controler-laccessibilite-des-sites-des-administrations-publiques-a-compter-2024/">Lire le communiqué de presse</a></p></div>

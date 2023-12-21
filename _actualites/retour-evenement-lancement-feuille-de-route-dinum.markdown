@@ -17,6 +17,8 @@ chapeau-text: Suite à la publication de la stratégie numérique de l’État a
   et de préparer les prochaines étapes.
 une-ou-diaporama:
 - image: "/uploads/Dinum_201.jpg"
+  alternative-textuelle: Photo d'une personne sur son téléphone qui navigue sur le
+    site de la DINUM
 ---
 
 300 personnes étaient réunies à la Cité Internationale Universitaire de Paris le 1er juin à l’occasion de l’événement de lancement de la nouvelle feuille de route de la DINUM « Une stratégie numérique au service de l’efficacité de l’action publique ». 

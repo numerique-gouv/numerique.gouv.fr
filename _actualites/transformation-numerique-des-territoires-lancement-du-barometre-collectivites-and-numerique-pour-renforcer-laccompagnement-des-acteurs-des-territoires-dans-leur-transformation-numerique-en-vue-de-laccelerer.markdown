@@ -15,6 +15,9 @@ chapeau-text: Dans la dynamique du salon des maires et des collectivités locale
   Numériques (OPSN), annoncent le lancement du baromètre Collectivités & numérique.
 une-ou-diaporama:
 - image: "/uploads/BaroTNTDeclic.png"
+  alternative-textuelle: 'Illustration avec le logo de la mission Transformation Numérique
+    des Territoires et le logo de la fédération Déclic. Des personnes sont réunis
+    autour d''une table pour échanger. '
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/transformation-numerique-des-territoires-lancement-du-barometre-collectivites-and-numerique-pour-renforcer-laccompagnement-des-acteurs-des-territoires-dans-leur-transformation-numerique-en-vue-de-laccelerer/">Lire le communiqué de presse</a></p></div>

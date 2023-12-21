@@ -15,6 +15,11 @@ chapeau-text: |-
   L’objectif : revenir sur les premiers résultats de l’expérimentation de l’intelligence artificielle générative au sein des services publics et faire part des prochaines avancées en matière de transformation numérique de l’État.
 une-ou-diaporama:
 - image: "/uploads/CPIA-56b382.jpg"
+  alternative-textuelle: 'Photo avec Stanislas Guerini, ministre de la Transformation
+    et de la Fonction publiques et Jean-Noël Barrot, ministre délégué en charge du
+    numérique au ministères de l''économie, des finances et de la souveraineté industrielle
+    et numérique, avec les participants à cette journée autour de l''intelligence
+    artificielle. '
 files:
 - file: "/uploads/CP_IA_L_ETAT_S_ENGAGE-c116f4.pdf"
   nom: Télécharger le communiqué de presse
