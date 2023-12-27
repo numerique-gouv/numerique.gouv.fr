@@ -1,6 +1,7 @@
 ---
 title: Retour sur les 10 ans du Réseau interministériel de l’État (RIE)
 date: 2023-12-20 11:02:00 +01:00
+published: false
 categories:
 - Événement
 tags:
@@ -39,6 +40,18 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 
 **Avec les interventions de : Mathieu Feuillet** (agence nationale de la sécurité des systèmes d'information, ANSSI), **Nicolas Duffour** (ministère de l’Intérieur), **Camille Solesa** (DINUM), **Maxime Cornelissens** (DINUM), **Alexandre Oger** (DINUM), **Thomas Galliano** (DINUM), **Yann Brûlé** (DINUM), **Loïc Duflot** (direction générale des entreprises, DGE), **Hélène Brisset** (Île de France mobilités,  créatrice du Réseau interministériel de l’État), **Jacqueline Tan** (Wavestone), **Yves Verhoeven** (OSIIC), **Guy Duplaquet** (DINUM).
 
+![10ansRIE_069.jpg](/uploads/10ansRIE_069.jpg)
+`Photo de la plénière lors des 10 ans du RIE le 7 décembre 2023 à Paris.`
+ 
+4. **Clôture de l’événement par :  
+Guy Duplaquet**, responsable du département Infrastructures et systèmes opérés de la DINUM, **Stéphanie Schaer**, directrice interministérielle du numérique et **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques. Ils  sont revenus sur l’immense travail accompli par tous les acteurs engagés dans le RIE depuis 10 ans et ont mis à l’honneur l’ensemble des agents publics et partenaires en insistant sur l’importance pour l’État de compter, dans ses rangs, des spécialistes du numérique afin de réussir ses grands chantiers de transformation. 
 
+![10ansRIE_241.jpg](/uploads/10ansRIE_241.jpg)
+`Stanislas Guerini, ministre de la Transformation et de la Fonction publiques lors des 10 ans du RIE le 7 décembre 2023 à Paris.`
 
+*Apparition des noms selon l’ordre d’intervention
+
+À l’issue de la plénière, les participants ont approfondi les échanges, notamment avec la **cinquantaine d’étudiants présents issus de formations numériques dispensées dans les établissements volontaires pour permettre à leurs étudiants d’assister à cet événement : l’université Bretagne Sud et Telecom Paris**. Une exposition photos d’une dizaine de panneaux portant sur l’infrastructure numérique de l’État et les parcours de carrières interministériels était installée le 7 décembre et partira en tournée au sein des établissements volontaires dès le début de l’année 2024.
+ 
+Vous représentez un établissement de formation et vous êtes intéressé pour installer cette exposition photos au sein de vos locaux, contactez-nous : communication.dinum[@]modernisation.gouv.fr. 
 
