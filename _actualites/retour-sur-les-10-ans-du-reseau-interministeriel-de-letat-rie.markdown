@@ -14,6 +14,10 @@ chapeau-text: À l’occasion des 10 ans du Réseau interministériel de l’Ét
   présence du ministre de la Transformation et de la Fonction publiques Stanislas
   Guerini, à Paris Porte de Versailles le 7 décembre 2023 pour célébrer l’infrastructure
   numérique de l’État.
+une-ou-diaporama:
+- image: "/uploads/10ansRIE_005.jpg"
+  alternative-textuelle: Photo d'une personne tenant une tablette où est affiché le
+    titre de l'événement des 10 ans du RIE
 ---
 
 Parmi les acteurs mobilisés dans la construction de ce réseau regroupant près de 13 000 accès de collecte et 1 million d’utilisateurs internes, agents de l’État, 350 personnes étaient présentes pour **célébrer l’infrastructure numérique de l’État et la collaboration interministérielle ayant permis la création du Réseau interministériel de l’État (RIE)**. L’occasion aussi de **lever le voile sur une infrastructure stratégique au service de la souveraineté numérique de l’État.**
