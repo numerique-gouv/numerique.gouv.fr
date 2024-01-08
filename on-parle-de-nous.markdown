@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.01net.com/actualites/ingerence-souverainete-cyberattaque-a-quoi-sert-le-reseau-interministeriel-detat.html" title="Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ? - Lien externe">Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ?</a></titre>
+<date>16 décembre 2023</date>
+<media> 01 NET </media>
+
 <titre><a href="https://www.lemagit.fr/actualites/366563317/Le-Reseau-Interministeriel-de-lEtat-fete-ses-10-ans" title="Le Réseau Interministériel de l’État fête ses 10 ans - Lien externe">Le Réseau Interministériel de l’État fête ses 10 ans</a></titre>
 <date>14 décembre 2023</date>
 <media> Le Mag IT </media>
