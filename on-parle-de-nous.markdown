@@ -15,6 +15,10 @@ layout: page-annexe
 <date>21 décembre 2023</date>
 <media> Républik IT </media>
 
+<titre><a href="https://acteurspublics.fr/articles/logiciels-libres-la-dsi-de-letat-met-les-agents-publics-a-contribution?utm_campaign=2023-12-18_News_noms&utm_medium=email&utm_source=Mailjet" title="Logiciels libres : la DSI de l’État met les agents publics à contribution - Lien externe">Logiciels libres : la DSI de l’État met les agents publics à contribution</a></titre>
+<date>18 décembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://www.01net.com/actualites/ingerence-souverainete-cyberattaque-a-quoi-sert-le-reseau-interministeriel-detat.html" title="Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ? - Lien externe">Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ?</a></titre>
 <date>16 décembre 2023</date>
 <media> 01 NET </media>
