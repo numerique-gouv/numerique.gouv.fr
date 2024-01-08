@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/les-hackers-ethiques-creusent-leur-sillon-dans-les-administrations?utm_campaign=2023-12-13_News_noms&utm_medium=email&utm_source=Mailjet" title="Les «hackers éthiques» creusent leur sillon dans les administrations - Lien externe">Les «hackers éthiques» creusent leur sillon dans les administrations</a></titre>
+<date>13 décembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/albert-une-ia-generative-publique-prometteuse-pour-les-agents-des-france-services?utm_campaign=2023-12-12_News_noms&utm_medium=email&utm_source=Mailjet" title="Albert, une IA générative publique prometteuse pour les agents des France services - Lien externe">Albert, une IA générative publique prometteuse pour les agents des France services</a></titre>
 <date>12 décembre 2023</date>
 <media> Acteurs Publics </media>
