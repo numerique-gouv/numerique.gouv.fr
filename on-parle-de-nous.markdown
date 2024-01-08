@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.lemagit.fr/actualites/366563317/Le-Reseau-Interministeriel-de-lEtat-fete-ses-10-ans" title="Le Réseau Interministériel de l’État fête ses 10 ans - Lien externe">Le Réseau Interministériel de l’État fête ses 10 ans</a></titre>
+<date>14 décembre 2023</date>
+<media> Le Mag IT </media>
+
 <titre><a href="https://acteurspublics.fr/articles/les-hackers-ethiques-creusent-leur-sillon-dans-les-administrations?utm_campaign=2023-12-13_News_noms&utm_medium=email&utm_source=Mailjet" title="Les «hackers éthiques» creusent leur sillon dans les administrations - Lien externe">Les «hackers éthiques» creusent leur sillon dans les administrations</a></titre>
 <date>13 décembre 2023</date>
 <media> Acteurs Publics </media>
