@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/albert-une-ia-generative-publique-prometteuse-pour-les-agents-des-france-services?utm_campaign=2023-12-12_News_noms&utm_medium=email&utm_source=Mailjet" title="Albert, une IA générative publique prometteuse pour les agents des France services - Lien externe">Albert, une IA générative publique prometteuse pour les agents des France services</a></titre>
+<date>12 décembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/guy-duplaquet-le-reseau-interministeriel-de-letat-a-permis-de-faciliter-la-transformation-de-letat" title="Guy Duplaquet : « Le réseau interministériel de l’État a permis de faciliter la transformation de l’État » - Lien externe">Guy Duplaquet : « Le réseau interministériel de l’État a permis de faciliter la transformation de l’État »</a></titre>
 <date>8 décembre 2023</date>
 <media> Acteurs Publics </media>
