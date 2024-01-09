@@ -37,9 +37,9 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 **Clôture par Stéphanie Schaer (DINUM)**.
 
 ![10ansRIE_208.jpg](/uploads/10ansRIE_208.jpg)
-`Stéphanie Schaer, directrice interministérielle du numérique lors des 10 ans du RIE le 7 décembre 2023 à Paris.`
+*Stéphanie Schaer, directrice interministérielle du numérique lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
 
-3. « L’avenir du RIE » : à l’écoute, en pleine transformation, dans une démarche prospective, le RIE 3.0 se construit aujourd’hui  pour délivrer un service public encore plus efficace et performant. 
+# 3. « L’avenir du RIE » : à l’écoute, en pleine transformation, dans une démarche prospective, le RIE 3.0 se construit aujourd’hui  pour délivrer un service public encore plus efficace et performant. 
 
 **Avec les interventions de : Mathieu Feuillet** (agence nationale de la sécurité des systèmes d'information, ANSSI), **Nicolas Duffour** (ministère de l’Intérieur), **Camille Solesa** (DINUM), **Maxime Cornelissens** (DINUM), **Alexandre Oger** (DINUM), **Thomas Galliano** (DINUM), **Yann Brûlé** (DINUM), **Loïc Duflot** (direction générale des entreprises, DGE), **Hélène Brisset** (Île de France mobilités,  créatrice du Réseau interministériel de l’État), **Jacqueline Tan** (Wavestone), **Yves Verhoeven** (OSIIC), **Guy Duplaquet** (DINUM).
 
