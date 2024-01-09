@@ -27,7 +27,6 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 <br>
 ### 1.**« Le RIE lève le voile »** : introduction technologique permettant de revenir sur les enjeux stratégiques et techniques de sa création. 
 <br>
-<br>
 **Avec les interventions de : Guy Duplaquet** (DINUM), **Hélène Brisset**(Île de France mobilités,  créatrice du Réseau interministériel de l’État),**Louis di Benedetto** (DINUM), **Nicolas Pommarede** (DINUM), **Romain Hinfray** (DINUM).
 <br>
 <br>
@@ -35,7 +34,6 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 *De gauche à droite : Guy Duplaquet, responsable du département Infrastructures et systèmes opérés de la DINUM et Hélène Brisset, directrice du numérique chez Île de France mobilités et créatrice du Réseau interministériel de l’État lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
 
 ### 2.**« 2013-2023, 10 ans de défis »** : de la genèse à la construction de la dorsale en passant par la migration des réseaux ministériels, la plateforme d'accès à Internet (PFAI) ou encore les crises et la résilience du RIE, l’objectif est de revenir en 5 tableaux clés sur les 10 années de défis écoulées.
-<br>
 <br>
 **Avec les interventions de : Henri Serres**(conseil général de l'économie, CGE), **Laurent Gydé**(Renater), **Corinne Quod** (FranceAgriMer),**Carine Beduz**(ministère des Sociaux), **Thomas Galiano** (DINUM), **David Carriou**(ministère de l’Intérieur), **Alexandre Oger** (DINUM), **Michel Biffi** (Thalès).
 <br>
@@ -47,7 +45,6 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 *Stéphanie Schaer, directrice interministérielle du numérique lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
 
 ### **3.« L’avenir du RIE »** : à l’écoute, en pleine transformation, dans une démarche prospective, le RIE 3.0 se construit aujourd’hui  pour délivrer un service public encore plus efficace et performant. 
-<br>
 <br>
 **Avec les interventions de : Mathieu Feuillet** (agence nationale de la sécurité des systèmes d'information, ANSSI), **Nicolas Duffour** (ministère de l’Intérieur), **Camille Solesa** (DINUM), **Maxime Cornelissens** (DINUM), **Alexandre Oger** (DINUM), **Thomas Galliano** (DINUM), **Yann Brûlé** (DINUM), **Loïc Duflot** (direction générale des entreprises, DGE), **Hélène Brisset** (Île de France mobilités,  créatrice du Réseau interministériel de l’État), **Jacqueline Tan** (Wavestone), **Yves Verhoeven** (OSIIC), **Guy Duplaquet** (DINUM).
 <br>
@@ -63,9 +60,10 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 *Stanislas Guerini, ministre de la Transformation et de la Fonction publiques lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
 <br>
 <br>
-*Apparition des noms selon l’ordre d’intervention
+Apparition des noms selon l’ordre d’intervention
 <br>
 <br>
+
 À l’issue de la plénière, les participants ont approfondi les échanges, notamment avec la **cinquantaine d’étudiants présents issus de formations numériques dispensées dans les établissements volontaires pour permettre à leurs étudiants d’assister à cet événement : l’université Bretagne Sud et Telecom Paris**. Une exposition photos d’une dizaine de panneaux portant sur l’infrastructure numérique de l’État et les parcours de carrières interministériels était installée le 7 décembre et partira en tournée au sein des établissements volontaires dès le début de l’année 2024.
 <br>
 <br>
