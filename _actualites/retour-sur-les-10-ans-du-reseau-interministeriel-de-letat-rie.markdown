@@ -52,7 +52,8 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 ![10ansRIE_069.jpg](/uploads/10ansRIE_069.jpg)
 *Photo de la plénière lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
  
-### 4.**Clôture** de l’événement par :  
+### 4.**Clôture** de l’événement par : 
+<br> 
 **Guy Duplaquet**, responsable du département Infrastructures et systèmes opérés de la DINUM, **Stéphanie Schaer**, directrice interministérielle du numérique et **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques. Ils  sont revenus sur l’immense travail accompli par tous les acteurs engagés dans le RIE depuis 10 ans et ont mis à l’honneur l’ensemble des agents publics et partenaires en insistant sur l’importance pour l’État de compter, dans ses rangs, des spécialistes du numérique afin de réussir ses grands chantiers de transformation. 
 <br>
 <br>
