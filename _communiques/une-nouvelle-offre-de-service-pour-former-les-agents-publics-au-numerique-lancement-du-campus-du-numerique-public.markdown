@@ -35,7 +35,6 @@ files:
 
 **Le lancement aujourd’hui du Campus du numérique public offre à tous les agents publics, techniciens, managers, décideurs, l’opportunité de disposer des clés et d’une boîte à outils pour s’emparer de la puissance offerte par le numérique**. Qu’ils soient spécialistes ou néophytes, le numérique est une matière en mouvement aussi puissante que complexe qui nécessite un apprentissage tout au long de la vie dont le rythme est dicté par les innovations technologiques. 
 
-**Nous incitons tous les agents publics qui le souhaitent à se rendre sur [campus.numerique.gouv.fr](https://campus.numerique.gouv.fr/) et à faire appel aux équipes du Campus pour être accompagnés. » **
+**Nous incitons tous les agents publics qui le souhaitent à se rendre sur [campus.numerique.gouv.fr](https://campus.numerique.gouv.fr/) et à faire appel aux équipes du Campus pour être accompagnés. »**
 
 Stéphanie Schaer, directrice interministérielle du numérique (DINUM) et Cornelia Findeisen, cheffe du département RH de la filière numérique de l’État à la DINUM.
-Consulter la suite du dossier de presse et le télécharger (lien)
