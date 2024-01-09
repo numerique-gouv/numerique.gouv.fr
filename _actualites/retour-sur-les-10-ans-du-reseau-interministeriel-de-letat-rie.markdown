@@ -1,6 +1,6 @@
 ---
 title: Retour sur les 10 ans du Réseau interministériel de l’État (RIE)
-date: 2023-12-20 11:02:00 +01:00
+date: 2023-12-14 11:02:00 +01:00
 categories:
 - Événement
 tags:
