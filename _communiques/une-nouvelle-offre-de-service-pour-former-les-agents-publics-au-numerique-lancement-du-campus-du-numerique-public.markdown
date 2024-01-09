@@ -37,5 +37,4 @@ files:
 
 **Nous incitons tous les agents publics qui le souhaitent à se rendre sur [campus.numerique.gouv.fr](https://campus.numerique.gouv.fr/) et à faire appel aux équipes du Campus pour être accompagnés. »**
 
-<br>
 <br>**Stéphanie Schaer, directrice interministérielle du numérique (DINUM) et Cornelia Findeisen, cheffe du département RH de la filière numérique de l’État à la DINUM.**
