@@ -11,6 +11,30 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/comment-l-iag-renforce-le-service-public.html" title="Comment l’IAG renforce le service public - Lien externe">Comment l’IAG renforce le service public</a></titre>
+<date>21 décembre 2023</date>
+<media> Républik IT </media>
+
+<titre><a href="https://acteurspublics.fr/articles/logiciels-libres-la-dsi-de-letat-met-les-agents-publics-a-contribution?utm_campaign=2023-12-18_News_noms&utm_medium=email&utm_source=Mailjet" title="Logiciels libres : la DSI de l’État met les agents publics à contribution - Lien externe">Logiciels libres : la DSI de l’État met les agents publics à contribution</a></titre>
+<date>18 décembre 2023</date>
+<media> Acteurs Publics </media>
+
+<titre><a href="https://www.01net.com/actualites/ingerence-souverainete-cyberattaque-a-quoi-sert-le-reseau-interministeriel-detat.html" title="Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ? - Lien externe">Ingérence, souveraineté, cyberattaque… À quoi sert le réseau interministériel d’Etat ?</a></titre>
+<date>16 décembre 2023</date>
+<media> 01 NET </media>
+
+<titre><a href="https://www.lemagit.fr/actualites/366563317/Le-Reseau-Interministeriel-de-lEtat-fete-ses-10-ans" title="Le Réseau Interministériel de l’État fête ses 10 ans - Lien externe">Le Réseau Interministériel de l’État fête ses 10 ans</a></titre>
+<date>14 décembre 2023</date>
+<media> Le Mag IT </media>
+
+<titre><a href="https://acteurspublics.fr/articles/les-hackers-ethiques-creusent-leur-sillon-dans-les-administrations?utm_campaign=2023-12-13_News_noms&utm_medium=email&utm_source=Mailjet" title="Les «hackers éthiques» creusent leur sillon dans les administrations - Lien externe">Les «hackers éthiques» creusent leur sillon dans les administrations</a></titre>
+<date>13 décembre 2023</date>
+<media> Acteurs Publics </media>
+
+<titre><a href="https://acteurspublics.fr/articles/albert-une-ia-generative-publique-prometteuse-pour-les-agents-des-france-services?utm_campaign=2023-12-12_News_noms&utm_medium=email&utm_source=Mailjet" title="Albert, une IA générative publique prometteuse pour les agents des France services - Lien externe">Albert, une IA générative publique prometteuse pour les agents des France services</a></titre>
+<date>12 décembre 2023</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/guy-duplaquet-le-reseau-interministeriel-de-letat-a-permis-de-faciliter-la-transformation-de-letat" title="Guy Duplaquet : « Le réseau interministériel de l’État a permis de faciliter la transformation de l’État » - Lien externe">Guy Duplaquet : « Le réseau interministériel de l’État a permis de faciliter la transformation de l’État »</a></titre>
 <date>8 décembre 2023</date>
 <media> Acteurs Publics </media>
