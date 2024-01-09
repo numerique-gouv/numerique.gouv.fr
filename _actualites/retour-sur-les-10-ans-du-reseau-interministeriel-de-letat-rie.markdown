@@ -59,4 +59,4 @@ Guy Duplaquet**, responsable du département Infrastructures et systèmes opér�
 Vous représentez un établissement de formation et vous êtes intéressé pour installer cette exposition photos au sein de vos locaux, contactez-nous : communication.dinum[@]modernisation.gouv.fr. 
 
 ![10ansRIE_059.jpg](/uploads/10ansRIE_059.jpg)
-`Photo de la plénière lors des 10 ans du RIE le 7 décembre 2023 à Paris.`
+*Photo de la plénière lors des 10 ans du RIE le 7 décembre 2023 à Paris.*
