@@ -18,7 +18,7 @@ chapeau-text: "À l’occasion de la 2ème formation des directeurs d’administ
   vers les métiers de la filière numérique en tension\n<b>4) Lancer des parcours de
   professionnalisation afin de transformer la conduite de projets numériques dans
   l’État\n<b>5) Engager les décideurs publics dans la transformation numérique de
-  l’action publique à travers un plan de formation sur un an\n"
+  l’action publique à travers un plan de formation sur un an"
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20CAMPUS-ca94c2.png"
   alternative-textuelle: |-
@@ -31,7 +31,7 @@ files:
 
 ### ÉDITO
 
-« **La nécessité de disposer d’une stratégie RH puissante pour réussir nos grands enjeux de transformation numérique et garantir notre souveraineté est un constat largement partagé**, réaffirmé par les conclusions du rapport datant de janvier 2023 de l’Inspection générale des finances et du Conseil général de l’économie de l’industrie, de l’énergie et des technologies portant sur les ressources humaines de l’État dans le numérique, la circulaire de la Première ministre du 7 février 2023 visant à mettre en place un dispositif de pilotage et d’encadrement des dépenses en prestations intellectuelles informatiques de l’État, et la nouvelle stratégie numérique l’État éditée par la direction interministérielle du numérique (DINUM) en mars 2023. 
+> « **La nécessité de disposer d’une stratégie RH puissante pour réussir nos grands enjeux de transformation numérique et garantir notre souveraineté est un constat largement partagé**, réaffirmé par les conclusions du rapport datant de janvier 2023 de l’Inspection générale des finances et du Conseil général de l’économie de l’industrie, de l’énergie et des technologies portant sur les ressources humaines de l’État dans le numérique, la circulaire de la Première ministre du 7 février 2023 visant à mettre en place un dispositif de pilotage et d’encadrement des dépenses en prestations intellectuelles informatiques de l’État, et la nouvelle stratégie numérique l’État éditée par la direction interministérielle du numérique (DINUM) en mars 2023. 
 
 **Si le numérique pouvait être jadis qu’un moyen de dématérialiser, c’est désormais un levier transformateur pour concevoir et réussir l’ensemble des politiques publiques**. Pour rendre l’État plus efficace, plus simple et plus souverain, notre ambition, au sein de la DINUM et de l’État, est de **créer une culture numérique commune auprès de tous les agents et de la diffuser largement**. 
 
@@ -39,4 +39,5 @@ files:
 
 **Nous incitons tous les agents publics qui le souhaitent à se rendre sur [campus.numerique.gouv.fr](https://campus.numerique.gouv.fr/) et à faire appel aux équipes du Campus pour être accompagnés. »**
 
-**Stéphanie Schaer, directrice interministérielle du numérique (DINUM) et Cornelia Findeisen, cheffe du département RH de la filière numérique de l’État à la DINUM.**
+<br>
+<br>**Stéphanie Schaer, directrice interministérielle du numérique (DINUM) et Cornelia Findeisen, cheffe du département RH de la filière numérique de l’État à la DINUM.**
