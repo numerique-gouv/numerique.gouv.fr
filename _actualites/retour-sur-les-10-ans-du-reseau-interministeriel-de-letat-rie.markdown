@@ -32,7 +32,7 @@ Au cours de l’après-midi, 3h30 de plénière immersive réparties en 3 partie
 
 # 2. **« 2013-2023, 10 ans de défis »** : de la genèse à la construction de la dorsale en passant par la migration des réseaux ministériels, la plateforme d'accès à Internet (PFAI) ou encore les crises et la résilience du RIE, l’objectif est de revenir en 5 tableaux clés sur les 10 années de défis écoulées.
 
-**Avec les interventions de : Henri Serres **(conseil général de l'économie, CGE), **Laurent Gydé **(Renater), **Corinne Quod** (FranceAgriMer),** Carine Beduz **(ministère des Sociaux), **Thomas Galiano** (DINUM), **David Carriou **(ministère de l’Intérieur), **Alexandre Oger** (DINUM), **Michel Biffi** (Thalès).
+**Avec les interventions de : Henri Serres**(conseil général de l'économie, CGE), **Laurent Gydé**(Renater), **Corinne Quod** (FranceAgriMer),**Carine Beduz**(ministère des Sociaux), **Thomas Galiano** (DINUM), **David Carriou**(ministère de l’Intérieur), **Alexandre Oger** (DINUM), **Michel Biffi** (Thalès).
 
 **Clôture par Stéphanie Schaer (DINUM)**.
 
