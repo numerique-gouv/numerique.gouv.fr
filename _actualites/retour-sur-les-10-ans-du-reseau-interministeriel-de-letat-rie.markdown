@@ -55,7 +55,9 @@ Guy Duplaquet**, responsable du département Infrastructures et systèmes opér�
 *Apparition des noms selon l’ordre d’intervention
 
 À l’issue de la plénière, les participants ont approfondi les échanges, notamment avec la **cinquantaine d’étudiants présents issus de formations numériques dispensées dans les établissements volontaires pour permettre à leurs étudiants d’assister à cet événement : l’université Bretagne Sud et Telecom Paris**. Une exposition photos d’une dizaine de panneaux portant sur l’infrastructure numérique de l’État et les parcours de carrières interministériels était installée le 7 décembre et partira en tournée au sein des établissements volontaires dès le début de l’année 2024.
- 
+
+
+
 Vous représentez un établissement de formation et vous êtes intéressé pour installer cette exposition photos au sein de vos locaux, contactez-nous : communication.dinum[@]modernisation.gouv.fr. 
 
 ![10ansRIE_059.jpg](/uploads/10ansRIE_059.jpg)
