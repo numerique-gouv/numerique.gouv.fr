@@ -25,7 +25,8 @@ une-ou-diaporama:
     Développons ensemble les compétences de demain
     Campus du numérique public
 files:
-- nom: Télécharger le dossier de presse
+- file: "/uploads/2023_01_09_LANCEMENT_CAMPUS_NUMERIQUE_PUBLIC.pdf"
+  nom: Télécharger le dossier de presse
 ---
 
 « **La nécessité de disposer d’une stratégie RH puissante pour réussir nos grands enjeux de transformation numérique et garantir notre souveraineté est un constat largement partagé**, réaffirmé par les conclusions du rapport datant de janvier 2023 de l’Inspection générale des finances et du Conseil général de l’économie de l’industrie, de l’énergie et des technologies portant sur les ressources humaines de l’État dans le numérique[1], la circulaire de la Première ministre du 7 février 2023 visant à mettre en place un dispositif de pilotage et d’encadrement des dépenses en prestations intellectuelles informatiques de l’État[2], et la nouvelle stratégie numérique l’État[3] éditée par la direction interministérielle du numérique (DINUM) en mars 2023. 
