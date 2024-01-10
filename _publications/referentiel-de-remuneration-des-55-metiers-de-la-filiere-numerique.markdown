@@ -6,6 +6,7 @@ chapeau-text: |-
   Initié en 2019 avec la création d’un premier référentiel de rémunération, il est mis à jour par la circulaire n°6434/SG de la Première ministre du 3 janvier 2024.
 une:
   image: "/uploads/20220105_Bandeau_1635x345_Referentiel_de_remuneration_V2.png"
+layout: rgaa
 ---
 
 Pour réussir ses grands chantiers de transformation et garantir sa souveraineté numérique, l’État a besoin de disposer des meilleurs talents du numérique dans un secteur où les compétences évoluent rapidement et sont rares. 
