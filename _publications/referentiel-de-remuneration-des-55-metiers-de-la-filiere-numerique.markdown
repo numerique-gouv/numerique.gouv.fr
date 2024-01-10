@@ -18,8 +18,8 @@ Le référentiel fixe des seuils de salaires pour les 55 métiers identifiés, s
 
 Ces seuils, correspondant à des montants de salaires communément observés sur le marché de l’emploi, **ne représentent pas des salaires minimums, moyens ou maximums**. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
 
+En complément, la circulaire préconise la primo-CDIsation pour les métiers les plus en tension afin de renforcer drastiquement l’attractivité de la filière numérique de l’Etat et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, la portabilité des CDI sera donc privilégiée et facilitée pour encourager les mobilités.
+
 Ce référentiel a été élaboré conjointement par la direction interministérielle du numérique (DINUM) la direction générale de l’administration et des finances publiques (DGAFP) et la direction du budget (DB), en lien avec les acteurs RH et SI de la filière numérique.
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/note-referentiel-remuneration-filiere-numerique.pdf" class="button"><b>Télécharger la note et le référentiel</b></a></div>
-
-[Circulaire n°6434-SG du 3 janvier 2024 - référentiel numérique.pdf](/uploads/Circulaire%20n%C2%B06434-SG%20du%203%20janvier%202024%20-%20r%C3%A9f%C3%A9rentiel%20num%C3%A9rique.pdf)
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Circulaire%20n%C2%B06434-SG%20du%203%20janvier%202024%20-%20r%C3%A9f%C3%A9rentiel%20num%C3%A9rique.pdf" class="button"><b>Télécharger la note et le référentiel</b></a></div>
