@@ -3,6 +3,7 @@ title: Référentiel de rémunération des 55 métiers de la filière numérique
 date: 2024-01-10 17:02:00 +01:00
 chapeau-text: |-
   Applicable à l’ensemble des administrations d’État, ce référentiel définit des valeurs de salaires sur l’ensemble des métiers de la filière numérique, en-dessous desquelles le contrôle budgétaire est supprimé et la procédure ainsi simplifiée dans le cadre du recrutement et du renouvellement d’agents contractuels.
+
   Initié en 2019 avec la création d’un premier référentiel de rémunération, il est mis à jour par la circulaire n°6434/SG de la Première ministre du 3 janvier 2024.
 une:
   image: "/uploads/20220105_Bandeau_1635x345_Referentiel_de_remuneration_V2.png"
