@@ -7,6 +7,7 @@ categories:
 tags:
 - Numérique
 - Formation
+- Campus
 chapeau-text: 'À l’occasion de la 2ème formation des directeurs d’administrations
   centrales à la transformation numérique réunissant près de 200 personnes à l’Institut
   national du service public (INSP), la DINUM lance une nouvelle offre de service
