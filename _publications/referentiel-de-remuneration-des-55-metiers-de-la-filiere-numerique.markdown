@@ -14,9 +14,9 @@ Pour réussir ses grands chantiers de transformation et garantir sa souverainet�
 
 Dans le but de fluidifier les recrutements de ces profils et les renouvellements des contrats, en simplifiant les procédures concernées, un référentiel de rémunération a été établi au bénéfice des services de l’État.
 
-<b>Il s’applique aux agents contractuels au sein de la fonction publique d’État travaillant dans le domaine, lors de leur recrutement, comme de leur renouvellement de contrat ou tout simplement au moment d’une revalorisation pouvant intervenir à intervalles annuel, biannuel ou trisannuel.
+<b>Il s’applique aux agents contractuels au sein de la fonction publique d’État travaillant dans le domaine, lors de leur recrutement, comme de leur renouvellement de contrat ou tout simplement au moment d’une revalorisation pouvant intervenir à intervalles annuel, biannuel ou trisannuel.</b>
 
-Le référentiel fixe des seuils de salaires pour les 55 métiers identifiés, selon 4 niveaux d’expérience, en-dessous desquels le contrôle budgétaire de l’employeur n’est pas requis.</b>
+<b>Le référentiel fixe des seuils de salaires pour les 55 métiers identifiés, selon 4 niveaux d’expérience, en-dessous desquels le contrôle budgétaire de l’employeur n’est pas requis.</b>
 
 Ces seuils sont des **valeurs de référence**, correspondant à des montants de salaires communément observés sur le marché de l’emploi. Ils permettent la fixation d’un salaire avec une grande flexibilité. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
 
