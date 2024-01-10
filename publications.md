@@ -42,7 +42,7 @@ publications:
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
   - image: "/uploads/capture-panorama-nov2021-rub.png"
-- title: Référentiel de rémunération des 56 métiers de la filière numérique et des
+- title: Référentiel de rémunération des 55 métiers de la filière numérique et des
     systèmes d'information et communication
   url: publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/
   une-ou-diaporama:
