@@ -22,6 +22,8 @@ Ces seuils sont des **valeurs de référence**, correspondant à des montants de
 
 En complément, **la circulaire préconise la primo-CDIsation** pour les métiers les plus en tension afin de renforcer drastiquement l’attractivité de la filière numérique de l’Etat et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI** sera donc privilégiée et facilitée pour encourager les mobilités.
 
+Il s’agit d’un document de référence en faveur de la politique d’attractivité de la filière numérique de l’État dans un marché de l’emploi du numérique devenu hautement concurrentiel. 
+
 Ce référentiel a été élaboré conjointement par la direction interministérielle du numérique (DINUM) la direction générale de l’administration et des finances publiques (DGAFP) et la direction du budget (DB), en lien avec les acteurs RH et SI de la filière numérique.
 
 <div align="center" style="margin-bottom: 30px"><a href="/uploads/Circulaire%20n%C2%B06434-SG%20du%203%20janvier%202024%20-%20r%C3%A9f%C3%A9rentiel%20num%C3%A9rique.pdf" class="button"><b>Télécharger la note et le référentiel</b></a></div>
