@@ -31,36 +31,6 @@ layout: page-annexe
 
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-projet-interministeriel--cloud-hf-reference-2023-1284411/" title="Chef/fe de Projet Interministériel – Cloud H/F - Lien externe">Chef/fe de Projet Interministériel – Cloud H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-projet-interministeriel--cloud-hf-reference-2023-1284411/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjoint-e-au-responsable-de-la-securite-des-systemes-d-information-hf-reference-2023-1397925/" title="Adjoint/e au responsable de la sécurité des systèmes d'information H/F - Lien externe">Adjoint/e au responsable de la sécurité des systèmes d'information H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjoint-e-au-responsable-de-la-securite-des-systemes-d-information-hf-reference-2023-1397925/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Directeur/trice technique du département Appui, conseil et expertise H/F - Lien externe">Directeur/trice technique du département Appui, conseil et expertise H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Product owner Logiciels Libres H/F - Lien externe">Product owner Logiciels Libres H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-logiciels-libres-hf-reference-2023-1367481/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-<div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-codes-sources-hf-reference-2023-1365406/" title="Product owner Codes Sources H/F - Lien externe">Product owner Codes Sources H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/product-owner-codes-sources-hf-reference-2023-1365406/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1373326/" title="Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F - Lien externe">Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
