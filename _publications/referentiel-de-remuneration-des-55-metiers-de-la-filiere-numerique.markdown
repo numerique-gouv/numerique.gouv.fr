@@ -18,7 +18,7 @@ Dans le but de fluidifier les recrutements de ces profils et les renouvellements
 
 <b>Le référentiel fixe des seuils de salaires pour les 55 métiers identifiés, selon 4 niveaux d’expérience, en-dessous desquels le contrôle budgétaire de l’employeur n’est pas requis.</b>
 
-Ces seuils sont des **valeurs de référence**, correspondant à des montants de salaires communément observés sur le marché de l’emploi. Ils permettent la fixation d’un salaire avec une grande flexibilité. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
+Les fourchettes basses et hautes sont des **valeurs de référence**, correspondant à des montants de salaires communément observés sur le marché de l’emploi. Elles permettent la fixation d’un salaire avec une grande flexibilité. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
 
 En complément, **la circulaire préconise la primo-CDIsation** pour les métiers les plus en tension afin de renforcer drastiquement l’attractivité de la filière numérique de l’Etat et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI** sera donc privilégiée et facilitée pour encourager les mobilités.
 
