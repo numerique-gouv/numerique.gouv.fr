@@ -100,28 +100,10 @@ layout: page-annexe
 <h1 class="h3"><b>Produits interministériels</b></h1>
 <div class="wrapper">
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeurse-confirmee---franceconnect-hf-reference-2023-1386537/" title="Responsable de la lutte contre la fraude du pôle Fédération d'identité des citoyens H/F - Lien externe">Responsable de la lutte contre la fraude du pôle Fédération d'identité des citoyens H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-la-lutte-contre-la-fraude-du-pole-federation-d-identite-des-citoyens-hf-reference-2023-1409178/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes H/F - Lien externe">Chargé/e de déploiement au sein du pôle Réutilisation des données ouvertes H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-deploiement-au-sein-du-pole-reutilisation-des-donnees-ouvertes-hf-reference-2023-1365408/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Chargé/e de support fonctionnel Confirmé - FranceConnect H/F - Lien externe">Chargé/e de support fonctionnel Confirmé - FranceConnect H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Assistant/e de direction PMO (Project Management Officer) H/F - Lien externe">Assistant/e de direction PMO (Project Management Officer) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Chargé/e de mission FTAP et plan de relance H/F - Lien externe">Chargé/e de mission FTAP et plan de relance H/F</a></b>
@@ -130,7 +112,7 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F - Lien externe">Directeur / Directrice de Projet SI - Messagerie mail de l'Etat H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Chef/fe de pôle Fédération d'identité des citoyens H/F - Lien externe">Chef/fe de pôle Fédération d'identité des citoyens H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
