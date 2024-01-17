@@ -37,13 +37,13 @@ La DINUM comprend six départements et quatre missions :
 <li>le département « Opérateur de produits interministériels »</li> 
 <li>le département « RH de la filière numérique de l’État »</li> 
 <li>la mission « Budget et achat »</li> 
-<li>la mission « Communication »</li></ul>
+<li>la mission « Communication »</li>
 <li>la mission « Europe et international »</li>
-<li>la mission « Juridique »</li> 
+<li>la mission « Juridique »</li></ul>
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM_Aout_2023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20janvier%202024.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
