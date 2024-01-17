@@ -68,12 +68,12 @@ function myFunction(id) {
 <li><b>Direction :</b> Stéphanie Schaer. Adjoint : Jérémie Vallet.</li>
 <br><li><b>Missions transversales</b></li>
 <li><b>Mission  Budget et achats</b> Cheffe de mission : Géraldine Taurand.</li>
-<li><b>Mission Communication</b> Cheffe de mission : Floriane Beaudron.</li></ul>
+<li><b>Mission Communication</b> Cheffe de mission : Floriane Beaudron.</li>
 <li><b>Mission  Europe et international</b> Cheffe de mission : Emmanuelle Merlin.</li>
 <li><b>Mission Juridique</b> Chef de mission : Perica Sucevic.</li>
 <li><b>Cabinet</b> Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
 <li><b>Secrétariat</b> Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
-<br><li><b>Cellule Cyber</b></li>
+<br><li><b>Cellule Cyber</b></li></ul>
 <li><b>Conseillers à la sécurité numérique</b> Frédéric Culie et Guillaume Saunier.</li>
 <li><b>CSIRT Produits interministériels</b> Romain Hinfray.</li>
 <br>
