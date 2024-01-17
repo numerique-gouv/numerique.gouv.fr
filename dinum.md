@@ -88,18 +88,19 @@ function myFunction(id) {
     <li>Programme Proactivité, cheffe de pôle : Marion Loustric</li>
   </ul>
 
-<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani.</li>
+<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani. Adjoint : Arthur Hatchuel.</li>
   <ul>
-    <li>Animation beta.gouv.fr</li>
-    <li>Accélération FAST</li>
-    <li>Services incubés</li>
-    <li>Proactivité</li>
-    <li>Portefeuilles ministériels</li>
+    <li>Animation beta.gouv.fr, chef de pôle : Arthur Hatchuel</li>
+    <li>Accélération FAST, chef de pôle : Paul Burgun</li>
+    <li>Responsables de portefeuilles ministériels, cheffe de pôle : Margot Sanchez</li>
+    <li>Coachs produits, chef de pôle : Maël Inizan</li>
+    <li>Produits incubés, chef de pôle : Julien Dauphant</li>
+    <li>Accélérateur d'initiatives citoyennes, cheffe de pôle : Emma Ghariani</li>
   </ul>
 <li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment.</li>
   <ul>
-    <li>Datalab</li>
-    <li>Datanim</li>
+    <li>Datalab, chef de pôle : Ulrich Tan</li>
+    <li>Animation</li>
   </ul>
 <li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
   <ul>
