@@ -102,7 +102,7 @@ function myFunction(id) {
     <li>Datalab, chef de pôle : Ulrich Tan</li>
     <li>Animation</li>
   </ul>
-<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
+<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto.</li>
   <ul>
     <li>Hypervision, chef de pôle : Mouhamad Sidibé</li>
     <li>Production, chef de pôle : Gilles Corbi</li>
