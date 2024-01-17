@@ -112,7 +112,7 @@ function myFunction(id) {
     <li>Production, chef de pôle : Gilles Corbi</li>
     <li>Pilotage de la qualité des partenariats, chef de pôle : Louis Di Benedetto</li>
     <li>RIE/SOI, chef de pôle : Philippe Levillain</li>
-    <li>SI RIE, chef de pôle : Yann Brûlé</li>
+    <li>SI RIE, chef de pôle : Yann Brulé</li>
   </ul>
 <br>
 <li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
