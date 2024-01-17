@@ -112,20 +112,21 @@ function myFunction(id) {
   </ul>
 <li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
   <ul>
-    <li>Fédération d’identité des citoyens</li>
-    <li>Relations agents et usagers</li>
-    <li>Circulation de la donnée</li>
-    <li>Réutilisation de la donnée ouverte</li>
-    <li>Incubateur de produits interministériels</li>
+    <li>Fédération d’identité des citoyens - FranceConnect</li>
+    <li>Relations usagers et agents, chef de pôle : Philippe Vrignaud</li>
+    <li>Circulation de la donnée api.gouv.fr, chef de pôle : Vincent Mazalaigue</li>
+    <li>Ouverture des données publiques data.gouv.fr, chef de pôle :Geoffrey Aldebert</li>
+    <li>Suite numérique, chef de pôle : Samuel Paccoud</li>
+    <li>Incubateur de produits interministériels, cheffe de pôle : Anna-Livia Gomart</li>
   </ul>
 <li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : Cornelia Findeisen.</li>
   <ul>
-    <li>RH et attractivité</li>
-    <li>Fidélisation des Parcours du numérique</li>
-    <li>Campus du numérique</li>
+    <li>RH et attractivité, cheffe de pôle : Marie Christie-Ritz</li>
+    <li>Mobilité et parcours, cheffe de pôle : Stéphanie Dubois</li>
+    <li>Campus du numérique public, cheffe de pôle :Fadila Leturcq</li>
   </ul>
 </ul>
-<p style="margin-top: 10px">Organigramme daté du 1er août 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 17 janvier 2024</p>
 </div>
 </div>
 </div>
