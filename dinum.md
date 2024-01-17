@@ -87,7 +87,7 @@ function myFunction(id) {
     <li>Programme Transformation numérique des territoires, cheffe de pôle : Maria Cotora</li>
     <li>Programme Proactivité, cheffe de pôle : Marion Loustric</li>
   </ul>
-
+<br>
 <li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani. Adjoint : Arthur Hatchuel.</li>
   <ul>
     <li>Animation beta.gouv.fr, chef de pôle : Arthur Hatchuel</li>
@@ -97,11 +97,13 @@ function myFunction(id) {
     <li>Produits incubés, chef de pôle : Julien Dauphant</li>
     <li>Accélérateur d'initiatives citoyennes, cheffe de pôle : Emma Ghariani</li>
   </ul>
+<br>
 <li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment.</li>
   <ul>
     <li>Datalab, chef de pôle : Ulrich Tan</li>
     <li>Animation</li>
   </ul>
+<br>
 <li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto.</li>
   <ul>
     <li>Hypervision, chef de pôle : Mouhamad Sidibé</li>
@@ -110,6 +112,7 @@ function myFunction(id) {
     <li>RIE/SOI, chef de pôle : Philippe Levillain</li>
     <li>SI RIE, chef de pôle : Yann Brûlé</li>
   </ul>
+<br>
 <li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
   <ul>
     <li>Fédération d’identité des citoyens - FranceConnect</li>
@@ -119,6 +122,7 @@ function myFunction(id) {
     <li>Suite numérique, chef de pôle : Samuel Paccoud</li>
     <li>Incubateur de produits interministériels, cheffe de pôle : Anna-Livia Gomart</li>
   </ul>
+<br>
 <li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : Cornelia Findeisen.</li>
   <ul>
     <li>RH et attractivité, cheffe de pôle : Marie Christie-Ritz</li>
