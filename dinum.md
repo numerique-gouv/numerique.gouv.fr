@@ -36,10 +36,10 @@ La DINUM comprend six départements et quatre missions :
 <li>le département « Infrastructures et services opérés »</li> 
 <li>le département « Opérateur de produits interministériels »</li> 
 <li>le département « RH de la filière numérique de l’État »</li> 
-<li>la mission « Juridique »</li> 
-<li>la mission « Europe et international »</li> 
 <li>la mission « Budget et achat »</li> 
 <li>la mission « Communication »</li></ul>
+<li>la mission « Europe et international »</li>
+<li>la mission « Juridique »</li> 
 <br>
 <br>
 
@@ -65,12 +65,18 @@ function myFunction(id) {
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
 <ul>
-<li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
-<br><li><b>Mission Juridique</b></li>
-<li><b>Mission  Europe et international</b></li>
-<li><b>Mission  Budget et achats</b></li>
-<li><b>Cabinet</b></li>
-<li><b>Mission Communication</b></li></ul>
+<li><b>Direction :</b> Stéphanie Schaer. Adjoint : Jérémie Vallet.</li>
+<br><li><b>Missions transversales</b></li>
+<li><b>Mission  Budget et achats</b>Cheffe de mission : Géraldine Taurand.</li>
+<li><b>Mission Communication</b>Cheffe de mission : Floriane Beaudron.</li></ul>
+<li><b>Mission  Europe et international</b>Cheffe de mission : Emmanuelle Merlin.</li>
+<li><b>Mission Juridique</b>Chef de mission : Perica Sucevic.</li>
+<li><b>Cabinet</b>Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
+<li><b>Secrétariat</b>Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
+<br><li><b>Cellule Cyber</b></li>
+<li><b>Conseillers à la sécurité numérique</b>Frédéric Culie et Guillaume Saunier.</li>
+<li><b>CSIRT Produits interministériels</b>Romain Hinfray.</li>
+
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
