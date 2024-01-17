@@ -12,7 +12,7 @@ chapeau-text: 'Service de la Première ministre, placé sous l’autorité du mi
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 1er août 2023
+date_de_modification: 17 janvier 2024
 layout: dinsic
 ---
 
@@ -36,14 +36,15 @@ La DINUM comprend six départements et quatre missions :
 <li>le département « Infrastructures et services opérés »</li> 
 <li>le département « Opérateur de produits interministériels »</li> 
 <li>le département « RH de la filière numérique de l’État »</li> 
-<li>la mission « Juridique »</li> 
-<li>la mission « Europe et international »</li> 
+<br>
 <li>la mission « Budget et achat »</li> 
-<li>la mission « Communication »</li></ul>
+<li>la mission « Communication »</li>
+<li>la mission « Europe et international »</li>
+<li>la mission « Juridique »</li></ul>
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM_Aout_2023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20janvier%202024.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -65,59 +66,73 @@ function myFunction(id) {
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
 <ul>
-<li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
-<br><li><b>Mission Juridique</b></li>
-<li><b>Mission  Europe et international</b></li>
-<li><b>Mission  Budget et achats</b></li>
-<li><b>Cabinet</b></li>
-<li><b>Mission Communication</b></li></ul>
+<li><b>Direction :</b> Stéphanie Schaer. Adjoint : Jérémie Vallet.</li>
+<br><li><b>Missions transversales</b></li>
+<li><b>Mission  Budget et achats</b> Cheffe de mission : Géraldine Taurand.</li>
+<li><b>Mission Communication</b> Cheffe de mission : Floriane Beaudron.</li>
+<li><b>Mission  Europe et international</b> Cheffe de mission : Emmanuelle Merlin.</li>
+<li><b>Mission Juridique</b> Chef de mission : Perica Sucevic.</li>
+<br>
+<li><b>Cabinet</b> Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
+<li><b>Secrétariat</b> Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
+<br><li><b>Cellule Cyber</b></li></ul>
+<li><b>Conseillers à la sécurité numérique</b> Frédéric Culie et Guillaume Saunier.</li>
+<li><b>CSIRT Produits interministériels</b> Romain Hinfray.</li>
+<br>
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
-    <li>Brigade d’intervention numérique</li>
-    <li>Expertise, sécurisation et maîtrise des risques</li>
-    <li>Référentiels, capitalisation et Observatoires</li>
-    <li>Proactivité</li>
-    <li>Transformation numérique des territoires</li>
-    <li>Mission logiciels libres</li>
+    <li>Brigade d’intervention numérique, cheffe de pôle : Stéphanie Nazarian</li>
+    <li>Expertise, sécurisation et maîtrise des risques, chef de pôle : Christophe Roland</li>
+    <li>Référentiels, capitalisation et Observatoires, chef de pôle : Mohsen Souissi</li>
+    <li>Mission logiciels libres, chef de pôle : Bastien Guerry</li>
+    <li>Programme Transformation numérique des territoires, cheffe de pôle : Maria Cotora</li>
+    <li>Programme Proactivité, cheffe de pôle : Marion Loustric</li>
   </ul>
-
-<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani.</li>
+<br>
+<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani. Adjoint : Arthur Hatchuel.</li>
   <ul>
-    <li>Animation beta.gouv.fr</li>
-    <li>Accélération FAST</li>
-    <li>Services incubés</li>
-    <li>Proactivité</li>
-    <li>Portefeuilles ministériels</li>
+    <li>Animation beta.gouv.fr, chef de pôle : Arthur Hatchuel</li>
+    <li>Accélération FAST, chef de pôle : Paul Burgun</li>
+    <li>Responsables de portefeuilles ministériels, cheffe de pôle : Margot Sanchez</li>
+    <li>Coachs produits, chef de pôle : Maël Inizan</li>
+    <li>Produits incubés, chef de pôle : Julien Dauphant</li>
+    <li>Accélérateur d'initiatives citoyennes, cheffe de pôle : Emma Ghariani</li>
   </ul>
+<br>
 <li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment.</li>
   <ul>
-    <li>Datalab</li>
-    <li>Datanim</li>
+    <li>Datalab, chef de pôle : Ulrich Tan</li>
+    <li>Animation</li>
   </ul>
-<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
+<br>
+<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto.</li>
   <ul>
-    <li>Hypervision</li>
-    <li>Production</li>
-    <li>RIE/SOI</li>
-    <li>SI RIE</li>
+    <li>Hypervision, chef de pôle : Mouhamad Sidibé</li>
+    <li>Production, chef de pôle : Gilles Corbi</li>
+    <li>Pilotage de la qualité des partenariats, chef de pôle : Louis Di Benedetto</li>
+    <li>RIE/SOI, chef de pôle : Philippe Levillain</li>
+    <li>SI RIE, chef de pôle : Yann Brûlé</li>
   </ul>
+<br>
 <li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
   <ul>
-    <li>Fédération d’identité des citoyens</li>
-    <li>Relations agents et usagers</li>
-    <li>Circulation de la donnée</li>
-    <li>Réutilisation de la donnée ouverte</li>
-    <li>Incubateur de produits interministériels</li>
+    <li>Fédération d’identité des citoyens - FranceConnect</li>
+    <li>Relations usagers et agents, chef de pôle : Philippe Vrignaud</li>
+    <li>Circulation de la donnée api.gouv.fr, chef de pôle : Vincent Mazalaigue</li>
+    <li>Ouverture des données publiques data.gouv.fr, chef de pôle :Geoffrey Aldebert</li>
+    <li>Suite numérique, chef de pôle : Samuel Paccoud</li>
+    <li>Incubateur de produits interministériels, cheffe de pôle : Anna-Livia Gomart</li>
   </ul>
+<br>
 <li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : Cornelia Findeisen.</li>
   <ul>
-    <li>RH et attractivité</li>
-    <li>Fidélisation des Parcours du numérique</li>
-    <li>Campus du numérique</li>
+    <li>RH et attractivité, cheffe de pôle : Marie Christie-Ritz</li>
+    <li>Mobilité et parcours, cheffe de pôle : Stéphanie Dubois</li>
+    <li>Campus du numérique public, cheffe de pôle :Fadila Leturcq</li>
   </ul>
 </ul>
-<p style="margin-top: 10px">Organigramme daté du 1er août 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 17 janvier 2024</p>
 </div>
 </div>
 </div>
