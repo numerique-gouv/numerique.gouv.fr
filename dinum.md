@@ -80,12 +80,12 @@ function myFunction(id) {
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
-    <li>Brigade d’intervention numérique</li>
-    <li>Expertise, sécurisation et maîtrise des risques</li>
-    <li>Référentiels, capitalisation et Observatoires</li>
-    <li>Proactivité</li>
-    <li>Transformation numérique des territoires</li>
-    <li>Mission logiciels libres</li>
+    <li>Brigade d’intervention numérique, cheffe de pôle : Stéphanie Nazarian</li>
+    <li>Expertise, sécurisation et maîtrise des risques, chef de pôle : Christophe Roland</li>
+    <li>Référentiels, capitalisation et Observatoires, chef de pôle : Mohsen Souissi</li>
+    <li>Mission logiciels libres, chef de pôle : Bastien Guerry</li>
+    <li>Programme Transformation numérique des territoires, cheffe de pôle : Maria Cotora</li>
+    <li>Programme Proactivité, cheffe de pôle : Marion Loustric</li>
   </ul>
 
 <li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani.</li>
