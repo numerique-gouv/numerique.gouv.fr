@@ -44,7 +44,7 @@ La DINUM comprend six départements et quatre missions :
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20janvier%202024.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20-%20janvier%202024.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -100,7 +100,7 @@ function myFunction(id) {
     <li>Accélérateur d'initiatives citoyennes, cheffe de pôle : Emma Ghariani</li>
   </ul>
 <br>
-<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment.</li>
+<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : Ulrich Tan</li>
   <ul>
     <li>Datalab, chef de pôle : Ulrich Tan</li>
     <li>Animation</li>
