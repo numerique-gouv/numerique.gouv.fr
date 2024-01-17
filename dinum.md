@@ -104,10 +104,11 @@ function myFunction(id) {
   </ul>
 <li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
   <ul>
-    <li>Hypervision</li>
-    <li>Production</li>
-    <li>RIE/SOI</li>
-    <li>SI RIE</li>
+    <li>Hypervision, chef de pôle : Mouhamad Sidibé</li>
+    <li>Production, chef de pôle : Gilles Corbi</li>
+    <li>Pilotage de la qualité des partenariats, chef de pôle : Louis Di Benedetto</li>
+    <li>RIE/SOI, chef de pôle : Philippe Levillain</li>
+    <li>SI RIE, chef de pôle : Yann Brûlé</li>
   </ul>
 <li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
   <ul>
