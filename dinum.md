@@ -71,6 +71,7 @@ function myFunction(id) {
 <li><b>Mission Communication</b> Cheffe de mission : Floriane Beaudron.</li>
 <li><b>Mission  Europe et international</b> Cheffe de mission : Emmanuelle Merlin.</li>
 <li><b>Mission Juridique</b> Chef de mission : Perica Sucevic.</li>
+<br>
 <li><b>Cabinet</b> Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
 <li><b>Secrétariat</b> Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
 <br><li><b>Cellule Cyber</b></li></ul>
