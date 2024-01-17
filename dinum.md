@@ -67,16 +67,16 @@ function myFunction(id) {
 <ul>
 <li><b>Direction :</b> Stéphanie Schaer. Adjoint : Jérémie Vallet.</li>
 <br><li><b>Missions transversales</b></li>
-<li><b>Mission  Budget et achats</b>Cheffe de mission : Géraldine Taurand.</li>
-<li><b>Mission Communication</b>Cheffe de mission : Floriane Beaudron.</li></ul>
-<li><b>Mission  Europe et international</b>Cheffe de mission : Emmanuelle Merlin.</li>
-<li><b>Mission Juridique</b>Chef de mission : Perica Sucevic.</li>
-<li><b>Cabinet</b>Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
-<li><b>Secrétariat</b>Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
+<li><b>Mission  Budget et achats</b> Cheffe de mission : Géraldine Taurand.</li>
+<li><b>Mission Communication</b> Cheffe de mission : Floriane Beaudron.</li></ul>
+<li><b>Mission  Europe et international</b> Cheffe de mission : Emmanuelle Merlin.</li>
+<li><b>Mission Juridique</b> Chef de mission : Perica Sucevic.</li>
+<li><b>Cabinet</b> Pierre Pezziardi, conseiller. Kim Malgras, cheffe cab.</li>
+<li><b>Secrétariat</b> Marie-Aline Tarchoun et Sreykeb Pasquet.</li>
 <br><li><b>Cellule Cyber</b></li>
-<li><b>Conseillers à la sécurité numérique</b>Frédéric Culie et Guillaume Saunier.</li>
-<li><b>CSIRT Produits interministériels</b>Romain Hinfray.</li>
-
+<li><b>Conseillers à la sécurité numérique</b> Frédéric Culie et Guillaume Saunier.</li>
+<li><b>CSIRT Produits interministériels</b> Romain Hinfray.</li>
+<br>
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
