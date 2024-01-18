@@ -111,19 +111,19 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F - Lien externe">Adjoint(e) technique auprès du responsable du département ISO (CTO RIE) H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Adjoint/e technique auprès du responsable du département ISO (CTO RIE) H/F - Lien externe">Adjoint/e technique auprès du responsable du département ISO (CTO RIE) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F - Lien externe">Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F - Lien externe">Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé de mission d'accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé de mission d'accompagnement H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur/e Expert Réseau - Chargé de mission d'accompagnement H/F - Lien externe">Ingénieur/e Expert Réseau - Chargé de mission d'accompagnement H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
