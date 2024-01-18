@@ -88,18 +88,6 @@ layout: page-annexe
 <h1 class="h3"><b>Produits interministériels</b></h1>
 <div class="wrapper">
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Chargé/e de support fonctionnel Confirmé - FranceConnect H/F - Lien externe">Chargé/e de support fonctionnel Confirmé - FranceConnect H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-reference-2023-1388140/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Chargé/e de mission FTAP et plan de relance H/F - Lien externe">Chargé/e de mission FTAP et plan de relance H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-et-plan-de-relance-hf-reference-2023-1380253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-cheffe-de-pole-federation-d-identite-des-citoyens-hf-reference-2023-1434965/" title="Chef/fe de pôle Fédération d'identité des citoyens H/F - Lien externe">Chef/fe de pôle Fédération d'identité des citoyens H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -123,13 +111,6 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-projet--chargee-d-experimentation-rh-recrutement-hf-reference-2024-1443165/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-mobilite-et-parcours-reference-2023-1215497/" title="Chargé/e de mission Mobilité et parcours H/F - Lien externe">Chargé/e de mission Mobilité et parcours H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-mobilite-et-parcours-reference-2023-1215497/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-
 </div>
 <br>
 <br>
