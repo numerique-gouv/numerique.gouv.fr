@@ -55,6 +55,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Directeur/Directrice technique du département Appui, conseil et expertise H/F - Lien externe">Directeur/Directrice technique du département Appui, conseil et expertise H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-trice--technique-du-departement-appui-conseil-et-expertise-hf-reference-2023-1367468/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
