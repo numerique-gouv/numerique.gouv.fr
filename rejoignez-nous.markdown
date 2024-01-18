@@ -43,6 +43,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-directeur-de-projet-interministeriel--cloud-hf-reference-2024-1448386/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-conseil-des-grands-projets-si-etat-et-panorama-hf-reference-2023-1288461/" title="Directeur/Directrice de projet sécurisation, conseil des grands projets SI Etat et panorama H/F - Lien externe">Directeur/Directrice de projet sécurisation, conseil des grands projets SI Etat et panorama H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-conseil-des-grands-projets-si-etat-et-panorama-hf-reference-2023-1288461/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
