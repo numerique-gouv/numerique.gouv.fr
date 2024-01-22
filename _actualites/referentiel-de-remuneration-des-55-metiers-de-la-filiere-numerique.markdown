@@ -15,4 +15,4 @@ une-ou-diaporama:
 - image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/">Lire la note et le référentiel</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/">Lire la circulaire et le référentiel</a></p></div>

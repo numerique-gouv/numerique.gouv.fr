@@ -4,11 +4,11 @@ date: 2019-10-25 17:35:00 +02:00
 permalink: "/dinum/"
 position: 5
 sous-titre: Le numérique au service de l'efficacité de l'action publique
-chapeau-text: 'Service de la Première ministre, placé sous l’autorité du ministre
-  de la Transformation et de la Fonction publiques, la direction interministérielle
-  du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État
-  et de piloter sa mise en œuvre. Notre objectif : un État plus efficace, plus simple
-  et plus souverain grâce au numérique. '
+chapeau-text: 'Service du Premier ministre, placé sous l’autorité du ministre de la
+  Transformation et de la Fonction publiques, la direction interministérielle du numérique
+  (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter
+  sa mise en œuvre. Notre objectif : un État plus efficace, plus simple et plus souverain
+  grâce au numérique. '
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
