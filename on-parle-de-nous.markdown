@@ -11,7 +11,9 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-
+<titre><a href="https://www.jobsferic.fr/les-defis-de-la-dinum-pour-transformer-letat/" title="Les défis de la DINUM pour transformer l’État - Lien externe">Les défis de la DINUM pour transformer l’État</a></titre>
+<date>19 janvier 2024</date>
+<media> Jobsferic </media>
 
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-les-rouages-du-campus-du-numerique-public-passes-au-crible-92711.html" title="Les rouages du Campus du numérique public passés au crible - Lien externe">Les rouages du Campus du numérique public passés au crible</a></titre>
 <date>19 janvier 2024</date>
