@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-face-aux-difficultes-a-recruter-l-etat-cree-un-campus-du-numerique-public-92635.html" title="Face aux difficultés à recruter, l'État crée un campus du numérique public - Lien externe">Face aux difficultés à recruter, l'État crée un campus du numérique public</a></titre>
+<date>11 janvier 2024</date>
+<media> Le Monde Informatique </media>
+
 <titre><a href="https://www.lefigaro.fr/conjoncture/l-etat-revalorise-les-salaires-de-ses-contractuels-experts-du-numerique-20240111" title="L'État revalorise les salaires de ses contractuels experts du numérique - Lien externe">L'État revalorise les salaires de ses contractuels experts du numérique</a></titre>
 <date>11 janvier 2024</date>
 <media> Le Figaro </media>
