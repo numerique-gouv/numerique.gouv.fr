@@ -12,6 +12,7 @@ layout: page-annexe
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
 
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-les-rouages-du-campus-du-numerique-public-passes-au-crible-92711.html" title="Les rouages du Campus du numérique public passés au crible - Lien externe">Les rouages du Campus du numérique public passés au crible</a></titre>
 <date>19 janvier 2024</date>
 <media> Le Monde Informatique </media>
@@ -31,6 +32,10 @@ layout: page-annexe
 <titre><a href="https://www.lefigaro.fr/conjoncture/l-etat-revalorise-les-salaires-de-ses-contractuels-experts-du-numerique-20240111" title="L'État revalorise les salaires de ses contractuels experts du numérique - Lien externe">L'État revalorise les salaires de ses contractuels experts du numérique</a></titre>
 <date>11 janvier 2024</date>
 <media> Le Figaro </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/les-communs-numeriques-renforcent-les-services-publics.html" title="Les Communs Numériques renforcent les services publics - Lien externe">Les Communs Numériques renforcent les services publics</a></titre>
+<date>02 janvier 2024</date>
+<media> Républik IT </media>
 
 <titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/comment-l-iag-renforce-le-service-public.html" title="Comment l’IAG renforce le service public - Lien externe">Comment l’IAG renforce le service public</a></titre>
 <date>21 décembre 2023</date>
