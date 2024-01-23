@@ -33,6 +33,10 @@ layout: page-annexe
 <date>11 janvier 2024</date>
 <media> Le Figaro </media>
 
+<titre><a href="https://www.republik-it.fr/rh/formation/cornelia-findeisen-dinum-le-campus-du-numerique-public-associe-digital-et-presentiel.html" title="Cornelia Findeisen (DINUM) : « le Campus du Numérique Public associe digital et présentiel » - Lien externe">Cornelia Findeisen (DINUM) : « le Campus du Numérique Public associe digital et présentiel »</a></titre>
+<date>09 janvier 2024</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/les-communs-numeriques-renforcent-les-services-publics.html" title="Les Communs Numériques renforcent les services publics - Lien externe">Les Communs Numériques renforcent les services publics</a></titre>
 <date>02 janvier 2024</date>
 <media> Républik IT </media>
