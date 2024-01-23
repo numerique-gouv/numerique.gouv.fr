@@ -11,6 +11,14 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-les-rouages-du-campus-du-numerique-public-passes-au-crible-92711.html" title="Les rouages du Campus du numérique public passés au crible - Lien externe">Les rouages du Campus du numérique public passés au crible</a></titre>
+<date>19 janvier 2024</date>
+<media> Le Monde Informatique </media>
+
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-les-rouages-du-campus-du-numerique-public-passes-au-crible-92711.html" title="Les rouages du Campus du numérique public passés au crible - Lien externe">Les rouages du Campus du numérique public passés au crible</a></titre>
+<date>19 janvier 2024</date>
+<media> Le Monde Informatique </media>
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-face-aux-difficultes-a-recruter-l-etat-cree-un-campus-du-numerique-public-92635.html" title="Face aux difficultés à recruter, l'État crée un campus du numérique public - Lien externe">Face aux difficultés à recruter, l'État crée un campus du numérique public</a></titre>
 <date>11 janvier 2024</date>
 <media> Le Monde Informatique </media>
