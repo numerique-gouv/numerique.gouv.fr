@@ -16,6 +16,10 @@ layout: page-annexe
 <date>19 janvier 2024</date>
 <media> Le Monde Informatique </media>
 
+<titre><a href="https://www.republik-it.fr/rh/recrutement/le-nouveau-referentiel-de-remuneration-pour-les-agents-contractuels-du-numerique-publie.html" title="Le nouveau référentiel de rémunération pour les agents contractuels du numérique publié - Lien externe">Le nouveau référentiel de rémunération pour les agents contractuels du numérique publié</a></titre>
+<date>15 janvier 2024</date>
+<media> Républik IT</media> 
+
 <titre><a href="https://www.banquedesterritoires.fr/letat-lance-un-campus-numerique-pour-former-massivement-les-agents-publics-au-numerique" title="L'État lance un campus numérique pour former massivement les agents publics au numérique - Lien externe">L'État lance un campus numérique pour former massivement les agents publics au numérique</a></titre>
 <date>11 janvier 2024</date>
 <media> Localtis </media>
