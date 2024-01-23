@@ -11,6 +11,46 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.jobsferic.fr/les-defis-de-la-dinum-pour-transformer-letat/" title="Les défis de la DINUM pour transformer l’État - Lien externe">Les défis de la DINUM pour transformer l’État</a></titre>
+<date>19 janvier 2024</date>
+<media> Jobsferic </media>
+
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-les-rouages-du-campus-du-numerique-public-passes-au-crible-92711.html" title="Les rouages du Campus du numérique public passés au crible - Lien externe">Les rouages du Campus du numérique public passés au crible</a></titre>
+<date>19 janvier 2024</date>
+<media> Le Monde Informatique </media>
+
+<titre><a href="https://www.unadev.com/actualites/letat-relance-le-chantier-de-laccessibilite-numerique-pour-les-sites-publics/" title="L’ÉTAT RELANCE LE CHANTIER DE L’ACCESSIBILITÉ NUMÉRIQUE POUR LES SITES PUBLICS - Lien externe">L’ÉTAT RELANCE LE CHANTIER DE L’ACCESSIBILITÉ NUMÉRIQUE POUR LES SITES PUBLICS</a></titre>
+<date>17 janvier 2024</date>
+<media> UNADEV </media> 
+
+<titre><a href="https://www.republik-it.fr/rh/recrutement/le-nouveau-referentiel-de-remuneration-pour-les-agents-contractuels-du-numerique-publie.html" title="Le nouveau référentiel de rémunération pour les agents contractuels du numérique publié - Lien externe">Le nouveau référentiel de rémunération pour les agents contractuels du numérique publié</a></titre>
+<date>15 janvier 2024</date>
+<media> Républik IT </media> 
+
+<titre><a href="https://www.banquedesterritoires.fr/letat-lance-un-campus-numerique-pour-former-massivement-les-agents-publics-au-numerique" title="L'État lance un campus numérique pour former massivement les agents publics au numérique - Lien externe">L'État lance un campus numérique pour former massivement les agents publics au numérique</a></titre>
+<date>11 janvier 2024</date>
+<media> Localtis </media>
+
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-face-aux-difficultes-a-recruter-l-etat-cree-un-campus-du-numerique-public-92635.html" title="Face aux difficultés à recruter, l'État crée un campus du numérique public - Lien externe">Face aux difficultés à recruter, l'État crée un campus du numérique public</a></titre>
+<date>11 janvier 2024</date>
+<media> Le Monde Informatique </media>
+
+<titre><a href="https://www.lefigaro.fr/conjoncture/l-etat-revalorise-les-salaires-de-ses-contractuels-experts-du-numerique-20240111" title="L'État revalorise les salaires de ses contractuels experts du numérique - Lien externe">L'État revalorise les salaires de ses contractuels experts du numérique</a></titre>
+<date>11 janvier 2024</date>
+<media> Le Figaro </media>
+
+<titre><a href="https://www.republik-it.fr/rh/formation/cornelia-findeisen-dinum-le-campus-du-numerique-public-associe-digital-et-presentiel.html" title="Les directeurs d’administration centrale font leur rentrée au nouveau « Campus du numérique public » - Lien externe">Les directeurs d’administration centrale font leur rentrée au nouveau « Campus du numérique public »</a></titre>
+<date>10 janvier 2024</date>
+<media> Acteurs Publics </media>
+
+<titre><a href="https://www.republik-it.fr/rh/formation/cornelia-findeisen-dinum-le-campus-du-numerique-public-associe-digital-et-presentiel.html" title="Cornelia Findeisen (DINUM) : « le Campus du Numérique Public associe digital et présentiel » - Lien externe">Cornelia Findeisen (DINUM) : « le Campus du Numérique Public associe digital et présentiel »</a></titre>
+<date>09 janvier 2024</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/les-communs-numeriques-renforcent-les-services-publics.html" title="Les Communs Numériques renforcent les services publics - Lien externe">Les Communs Numériques renforcent les services publics</a></titre>
+<date>02 janvier 2024</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/comment-l-iag-renforce-le-service-public.html" title="Comment l’IAG renforce le service public - Lien externe">Comment l’IAG renforce le service public</a></titre>
 <date>21 décembre 2023</date>
 <media> Républik IT </media>
