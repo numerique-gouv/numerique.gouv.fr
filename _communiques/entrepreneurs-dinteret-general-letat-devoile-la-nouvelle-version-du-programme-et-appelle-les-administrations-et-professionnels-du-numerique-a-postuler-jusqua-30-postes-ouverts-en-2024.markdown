@@ -1,8 +1,12 @@
 ---
 title: 'Entrepreneurs d’intérêt général : l’État dévoile la nouvelle version du programme
   et appelle les administrations et professionnels du numérique à postuler ; jusqu’à
-  30 postes ouverts en 2024.'
+  30 postes ouverts en 2024'
 date: 2024-01-29 09:51:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Entrepreneurs d'intérêt général
 chapeau-text: Dans la continuité de la stratégie numérique de l’État publiée en mars
   2023, le programme Entrepreneur(e)s d’intérêt général (EIG) créé et opéré par la
   direction interministérielle du numérique (DINUM) se réoriente pour accélérer la
