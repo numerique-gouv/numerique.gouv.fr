@@ -10,6 +10,12 @@ chapeau-text: Dans la continuité de la stratégie numérique de l’État publi
   l’approche [beta.gouv.fr](https://beta.gouv.fr/manifeste) (pilotage par l’impact,
   transparence des résultats, ouverture des codes sources, etc.) et ainsi renforcer
   l’efficacité de l’action publique.
+une-ou-diaporama:
+- image: "/uploads/postulez%20pour%20rejoindre%20la%207e%20promotion.png"
+  alternative-textuelle: "Devenez Entrepreneurs d'intérêt général : l'Etat recrute
+    ! \nTalents du numérique, postulez pour rejoindre la 7e promotion\neig.numerique.gouv.fr"
+files:
+- nom: Télécharger le communiqué de presse
 ---
 
 À cet effet, les administrations, engagées dans une politique prioritaire du Gouvernement et ayant besoin d’une expertise numérique pour assurer sa réussite, sont invitées à faire part de leurs projets dès aujourd’hui. De même, l’État appelle les professionnels du numérique ayant eu un parcours entrepreneurial et exerçant des fonctions de directeur produit ou directeur technique souhaitant placer leurs expertises au service de l’intérêt général à candidater ; jusqu’à 30 postes ouverts en 2024.
