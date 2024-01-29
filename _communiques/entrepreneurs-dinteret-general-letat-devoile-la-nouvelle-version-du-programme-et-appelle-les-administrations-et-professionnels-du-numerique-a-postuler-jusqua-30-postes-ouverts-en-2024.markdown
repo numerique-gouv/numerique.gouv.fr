@@ -19,7 +19,8 @@ une-ou-diaporama:
   alternative-textuelle: "Devenez Entrepreneurs d'intérêt général : l'Etat recrute
     ! \nTalents du numérique, postulez pour rejoindre la 7e promotion\neig.numerique.gouv.fr"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_EIG_NOUVELLE_VERSION_AAP_AAC_30_POSTES_OUVERTS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **À cet effet, les administrations, engagées dans une politique prioritaire du Gouvernement et ayant besoin d’une expertise numérique pour assurer sa réussite, sont invitées à faire part de leurs projets dès aujourd’hui. De même, l’État appelle les professionnels du numérique ayant eu un parcours entrepreneurial et exerçant des fonctions de directeur produit ou directeur technique souhaitant placer leurs expertises au service de l’intérêt général à candidater ; jusqu’à 30 postes ouverts en 2024.**
