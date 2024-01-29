@@ -15,9 +15,11 @@ chapeau-text: Dans la continuité de la stratégie numérique de l’État publi
   transparence des résultats, ouverture des codes sources, etc.) et ainsi renforcer
   l’efficacité de l’action publique.
 une-ou-diaporama:
-- image: "/uploads/postulez%20pour%20rejoindre%20la%207e%20promotion.png"
-  alternative-textuelle: "Devenez Entrepreneurs d'intérêt général : l'Etat recrute
-    ! \nTalents du numérique, postulez pour rejoindre la 7e promotion\neig.numerique.gouv.fr"
+- image: "/uploads/7e%20promotion.png"
+  alternative-textuelle: |-
+    Entrepreneurs d’intérêt général
+    Lancement de la 7ème promotion
+    Administrations et professionnels du numérique : candidatez !
 files:
 - file: "/uploads/CP_EIG_NOUVELLE_VERSION_AAP_AAC_30_POSTES_OUVERTS.pdf"
   nom: Télécharger le communiqué de presse
