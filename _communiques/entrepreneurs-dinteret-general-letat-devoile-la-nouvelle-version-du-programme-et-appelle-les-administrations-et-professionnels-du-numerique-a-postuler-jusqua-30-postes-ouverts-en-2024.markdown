@@ -42,3 +42,9 @@ EIG est un programme de la DINUM lancé en 2016 par le président de la Républi
 <br>[En savoir plus sur EIG](https://www.eig.numerique.gouv.fr/)
 
 *Des photos et contacts pour témoignages peuvent être transmis sur demande.*
+
+**ENTREPRENEUR(E)S D’INTÉRÊT GÉNÉRAL EN BREF :**	
+* 7ème promotion en cours ;
+* 101 défis tels que comme [Signaux Faibles](https://eig.etalab.gouv.fr/defis/signaux-faibles/), [Prédisauvetage](https://eig.etalab.gouv.fr/defis/predisauvetage/), [Open Justice](https://eig.etalab.gouv.fr/defis/open-justice/) ou encore [Réfugiés.info](https://eig.etalab.gouv.fr/defis/karfur/) dont 90% perdurent ensuite dans les administrations qui les ont menés ; 
+* 80 administrations impactées, parmi elles : ministères de la Justice, de la Culture et de l’Intérieur, Haute Autorité de Santé, Museum d’Histoire naturelle, Cour des comptes, commissariat général au développement durable… ;
+* Plus de 206 recrutements effectués dont plus de 60% des EIG décident de rester dans le secteur public après leur expérience.
