@@ -39,7 +39,6 @@ En plus de la réorientation stratégique, le recrutement des EIG est simplifié
 **La sélection des projets et le recrutement des EIG seront opérés au fil de l’eau à partir d’aujourd’hui et pendant toute l’année 2024, à rythme bimestriel, jusqu’à 30 EIG pour la 7ème promotion.**
 
 EIG est un programme de la DINUM lancé en 2016 par le président de la République lors du sommet mondial du Partenariat pour un Gouvernement Ouvert.
-[En savoir plus sur EIG](https://www.eig.numerique.gouv.fr/)
+<br>[En savoir plus sur EIG](https://www.eig.numerique.gouv.fr/)
 
-Des photos et contacts pour témoignages peuvent être transmis sur demande.
-
+*Des photos et contacts pour témoignages peuvent être transmis sur demande.*
