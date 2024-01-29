@@ -22,7 +22,7 @@ files:
 - nom: Télécharger le communiqué de presse
 ---
 
-À cet effet, les administrations, engagées dans une politique prioritaire du Gouvernement et ayant besoin d’une expertise numérique pour assurer sa réussite, sont invitées à faire part de leurs projets dès aujourd’hui. De même, l’État appelle les professionnels du numérique ayant eu un parcours entrepreneurial et exerçant des fonctions de directeur produit ou directeur technique souhaitant placer leurs expertises au service de l’intérêt général à candidater ; jusqu’à 30 postes ouverts en 2024.
+**À cet effet, les administrations, engagées dans une politique prioritaire du Gouvernement et ayant besoin d’une expertise numérique pour assurer sa réussite, sont invitées à faire part de leurs projets dès aujourd’hui. De même, l’État appelle les professionnels du numérique ayant eu un parcours entrepreneurial et exerçant des fonctions de directeur produit ou directeur technique souhaitant placer leurs expertises au service de l’intérêt général à candidater ; jusqu’à 30 postes ouverts en 2024.**
 
 En s’appuyant sur l’expérience de 6 promotions, 206 recrutements d’EIG, 101 défis relevés et 80 administrations impactées, il s’agit de poursuivre l’objectif premier de ce programme : rendre la fonction publique plus entrepreneuriale, tant dans ses méthodes que sa culture de travail en facilitant l’internalisation d’expertises numériques. À compter de la 7ème promotion, le programme EIG se concentre sur des profils disposant d’une solide expérience entrepreneuriale, avec des compétences de haut niveau en pilotage de services numériques pour recruter des directeurs de produit ainsi que des directeurs technique.
 
