@@ -11,7 +11,6 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-
 <titre><a href="https://acteurspublics.fr/articles/cornelia-findeisen-un-manager-forme-au-numerique-saura-mieux-attirer-les-bons-profils" title="Cornelia Findeisen : « Un manager formé au numérique saura mieux attirer les bons profils » - Lien externe">Cornelia Findeisen : « Un manager formé au numérique saura mieux attirer les bons profils »</a></titre>
 <date>25 janvier 2024</date>
 <media> Acteurs Publics </media> 
