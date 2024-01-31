@@ -6,7 +6,7 @@ layout: page-fille
 
 ![test-invitation.jpg](/uploads/test-invitation.jpg)
 
-A -  Participez à CSP
+Participez à CSP
 
 Ci-dessous, inscrivez-vous !
 
