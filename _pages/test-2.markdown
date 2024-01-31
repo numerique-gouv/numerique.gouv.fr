@@ -1,7 +1,7 @@
 ---
 title: Test-2
 date: 2024-01-31 13:42:00 +01:00
-layout: none
+layout: index
 ---
 
 <div class="yurplan-widget-container">\
