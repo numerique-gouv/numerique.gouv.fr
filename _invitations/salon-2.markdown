@@ -1,6 +1,13 @@
 ---
 title: Salon 2
 date: 2024-01-31 14:17:00 +01:00
+Invit: "<div class=\"yurplan-widget-container\">\n    <iframe \n        src=\"https://yurplan.com/events/Test/117844/tickets/widget?widget=dGlja2V0aW5nV2lkZ2V0WXBfMTE1ODE2XzExOTc3OQ%3D%3D&from=widget_119779&wversion=1&culture=fr\"
+  \n        width=\"100%\" \n        height=\"100%\" \n        scrolling=\"auto\"
+  \n        frameborder=\"0\"\n        class=\"yurplan-widget\"\n        id=\"yurplan-widget-119779\"\n
+  \       data-id=\"119779\"\n    >\n    </iframe>\n        <a\n        href=\"https://yurplan.com/billetterie-en-ligne?utm_source=referral&utm_medium=widget&utm_campaign=lien_billetterie_widget\"\n
+  \       target=\"_blank\"\n        class=\"yurplan-widget-link-119779\"\n    >\n
+  \       Logiciel de gestion d'événements    </a>\n    </div>\n<script type=\"text/javascript\"
+  src=\"https://assets.yurplan.com/yurplan-v1/dist/widget.js\"></script>"
 layout: rgaa
 ---
 
@@ -24,3 +31,5 @@ layout: rgaa
         Logiciel de gestion d'événements    </a>\
     </div>\
 <script type="text/javascript" src="https://assets.yurplan.com/yurplan-v1/dist/widget.js"></script>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
