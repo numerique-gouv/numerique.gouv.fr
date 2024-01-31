@@ -143,6 +143,9 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459893/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+</div>
+<br>
+<br>
 
 <h1 class="h3"><b>Infrastructures / Réseaux</b></h1>
 <div class="wrapper">
