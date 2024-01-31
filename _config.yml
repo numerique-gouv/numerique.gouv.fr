@@ -25,7 +25,7 @@ collections:
     permalink: "/agenda/:title/"
   invitations:
     title: Invitations
-    output: false
+    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
