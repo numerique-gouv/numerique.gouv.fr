@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 25 janvier 2024
+date_de_modification: 31 janvier 2024
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -67,6 +67,18 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">6, Quai Saint-Vincent (Lyon) (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/urbaniste-des-systemes-d-information-hf-reference-2024-1455859/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/urbaniste-des-systemes-d-information-hf-reference-2024-1459824/" title="Urbaniste des systèmes d'information H/F - Lien externe">Urbaniste des systèmes d'information H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/urbaniste-des-systemes-d-information-hf-reference-2024-1459824/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1373326/" title="Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F - Lien externe">Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1373326/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -91,6 +103,46 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2023-1394058/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1423874/" title="Ingénieur/e data H/F - Lien externe">Ingénieur/e data H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1423874/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
+<h1 class="h3"><b>Incubateur de services numériques</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneure-d-interet-general--directeur-ou-directrice-technique-hf-reference-2024-1459856/" title="Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F
+ H/F - Lien externe">Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneure-d-interet-general--directeur-ou-directrice-technique-hf-reference-2024-1459856/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F
+ H/F - Lien externe">Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459887/" title="Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F
+ H/F - Lien externe">Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">6, Quai Saint-Vincent (Lyon)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459887/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459893/" title="Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F
+ H/F - Lien externe">Entrepreneur/e d'intérêt général – Directeur ou directrice technique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459893/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -114,6 +166,18 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-pole-rieservices-operes-d-infrastructure-au-sein-du-departement-iso-hf-reference-2024-1459835/" title="Responsable du pôle RIE/Services opérés d'infrastructure au sein du département ISO H/F - Lien externe">Responsable du pôle RIE/Services opérés d'infrastructure au sein du département ISO H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-pole-rieservices-operes-d-infrastructure-au-sein-du-departement-iso-hf-reference-2024-1459835/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Adjoint/e technique auprès du responsable du département ISO (CTO RIE) H/F - Lien externe">Adjoint/e technique auprès du responsable du département ISO (CTO RIE) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-technique-aupres-du-responsable-du-departement-iso-cto-rie-hf-reference-2023-1183523/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -156,6 +220,18 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/dev-ops-du-pole-relation-usagers-agents-hf-reference-2023-1386531/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-hf-reference-2023-1423851/" title="Chargé/e de support fonctionnel Confirmé - FranceConnect H/F - Lien externe">Chargé/e de support fonctionnel Confirmé - FranceConnect H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-support-fonctionnel-confirme---franceconnect-hf-hf-reference-2023-1423851/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-support-de-franceconnect-hf-reference-2023-1394199/" title="Responsable du support de FranceConnect H/F - Lien externe">Responsable du support de FranceConnect H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-support-de-franceconnect-hf-reference-2023-1394199/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
