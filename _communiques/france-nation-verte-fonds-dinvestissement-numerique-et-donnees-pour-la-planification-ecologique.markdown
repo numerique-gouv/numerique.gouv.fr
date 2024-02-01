@@ -9,5 +9,7 @@ categories:
 - Communiqué de presse
 tags:
 - France Nation Verte
+files:
+- nom: Télécharger le communiqué de presse
 ---
 
