@@ -1,12 +1,13 @@
 ---
-title: CSP
+title: Modele-invitation
 date: 2024-01-31 14:03:00 +01:00
+Field name: 
 layout: page-fille
 ---
 
 ![test-invitation.jpg](/uploads/test-invitation.jpg)
 
-Participez à CSP
+Participez à l'événement
 
 Ci-dessous, inscrivez-vous !
 
