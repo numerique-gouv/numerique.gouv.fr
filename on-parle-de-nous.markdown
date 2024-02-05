@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/marielle-chrisment-etalab-ouvrir-les-donnees-pour-des-cas-d-usage-a-impact-doit-etre-naturel.html" title="Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel » - Lien externe">Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel »</a></titre>
+<date>2 février 2024</date>
+<media> Républik IT </media> 
+
 <titre><a href="https://acteurspublics.fr/articles/letat-recentre-son-programme-eig-sur-les-politiques-prioritaires" title="L’État recentre son programme “EIG” sur les politiques prioritaires - Lien externe">L’État recentre son programme “EIG” sur les politiques prioritaires</a></titre>
 <date>30 janvier 2024</date>
 <media> Acteurs Publics </media> 
