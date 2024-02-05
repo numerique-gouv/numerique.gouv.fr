@@ -9,6 +9,9 @@ categories:
 - Communiqué de presse
 tags:
 - France Nation Verte
+une-ou-diaporama:
+- image: "/uploads/1-67c5a4.png"
+  alternative-textuelle: Image décorative
 files:
 - nom: Télécharger le communiqué de presse
 ---
