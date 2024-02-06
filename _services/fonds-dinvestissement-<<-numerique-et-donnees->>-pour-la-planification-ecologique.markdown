@@ -14,5 +14,6 @@ chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’É
   à la planification écologique (SGPE).
 une:
   image: "/uploads/1-276737.png"
+layout: rgaa
 ---
 
