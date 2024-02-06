@@ -5,10 +5,6 @@ une:
   image: "/uploads/Produits-et-services.jpg"
   alternative-textuelle: 
 publications:
-- title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
-  url: "/services/fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique/"
-  une-ou-diaporama:
-  - image: "/uploads/2-b51af4.png"
 - title: 'Guichet de financement : Design et accessibilité des produits et services
     numériques'
   url: "/services/guichet-financement-ftap-design-et-accessibilite/"
