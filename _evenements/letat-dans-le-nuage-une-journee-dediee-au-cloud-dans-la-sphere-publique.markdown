@@ -24,8 +24,8 @@ champs_informations:
 - intitule: Comment y aller ?
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 - intitule: Une question ?
-  contenu: Contactez-nous
-  lien: infonuage.dinum@transformation.gouv.fr
+  contenu: infonuage.dinum@transformation.gouv.fr
+  lien: 
 ---
 
 Au croisement des mondes de la tech et de l’administration, la DINUM a le plaisir de vous convier à cette rencontre autour de nombreux intervenants sur l’ensemble des sujets d’actualité du Cloud.

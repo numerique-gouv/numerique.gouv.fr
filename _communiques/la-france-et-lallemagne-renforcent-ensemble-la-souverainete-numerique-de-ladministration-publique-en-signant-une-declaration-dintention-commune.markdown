@@ -2,6 +2,11 @@
 title: La France et l’Allemagne renforcent ensemble la souveraineté numérique de l’administration
   publique en signant une déclaration d’intention commune
 date: 2024-02-06 15:47:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Souveraineté
+- Numérique
 chapeau-text: Le secrétaire d’État Markus Richter, CIO de l’État fédéral d’Allemagne,
   et Stéphanie Schaer, directrice interministérielle du numérique (DINUM), CIO France,
   ont signé hier à Berlin une déclaration d’intention commune inédite visant à renforcer
