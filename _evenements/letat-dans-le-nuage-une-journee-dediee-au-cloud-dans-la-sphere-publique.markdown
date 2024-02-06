@@ -31,9 +31,9 @@ champs_informations:
 Au croisement des mondes de la tech et de l’administration, la DINUM a le plaisir de vous convier à cette rencontre autour de nombreux intervenants sur l’ensemble des sujets d’actualité du Cloud.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Des grands témoins présenteront leurs regards sur les actualités stratégiques et réglementaires relatives au Cloud, en France et en Europe :</h3>
-<p>**Stéphanie Schaer**, directrice de la DINUM introduira cette journée en présentant les grandes orientations de la stratégie de l’État en matière de Cloud.
+<p>Stéphanie Schaer, directrice de la DINUM introduira cette journée en présentant les grandes orientations de la stratégie de l’État en matière de Cloud.
 <br>
-<br>**Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) nous présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
+<br>Christine Serrette, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) nous présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
 </p></div>
 
 ## Au programme
@@ -46,7 +46,7 @@ Au croisement des mondes de la tech et de l’administration, la DINUM a le plai
 
 L’après-midi sera organisé comme un parcours à la carte pour les participants, qui auront le choix entre thématiques plutôt managériales et des tables rondes techniques autour de retours d’expérience d’administrations sur leurs projets Cloud.
 
-Pour vous pré-inscrire : [ce lien]
-https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857) *(les inscriptions seront définitivement validées en fonction du nombre d’inscrits et de places disponibles*.
+Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
+*(les inscriptions seront définitivement validées en fonction du nombre d’inscrits et de places disponibles*.
 
 *Cet évènement est ouvert au public et à la presse.*
