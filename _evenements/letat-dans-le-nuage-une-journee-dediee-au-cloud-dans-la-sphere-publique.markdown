@@ -24,7 +24,7 @@ Des grands témoins présenteront leurs regards sur les actualités stratégique
 
 * **Stéphanie Schaer**, directrice de la DINUM introduira cette journée en présentant les **grandes orientations de la stratégie de l’État en matière de Cloud.**
 
-* **Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) nous présentera les enjeux liés à la **souveraineté numérique tels qu’ils sont perçus en Allemagne.**
+* **Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) nous présentera les enjeux liés à la **souveraineté numérique tels qu’ils sont perçus en Allemagne.** 
 
 * La stratégie d’accélération Cloud\*\* France 2030\*\*.
 
