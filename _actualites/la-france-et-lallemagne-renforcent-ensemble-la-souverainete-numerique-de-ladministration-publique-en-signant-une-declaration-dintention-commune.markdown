@@ -14,6 +14,8 @@ chapeau-text: Le secrétaire d’État Markus Richter, CIO de l’État fédéra
   numérique de l’administration publique. Cette signature est le fruit d’une longue
   série d’échanges entre la France et l’Allemagne, initiés il y a un an et soutenus
   par des réunions mutuelles des délégations allemande et française à Paris et Berlin.
+une-ou-diaporama:
+- image: "/uploads/Mod%C3%A8le%20page%20agenda%201%20(1).png"
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-france-et-lallemagne-renforcent-ensemble-la-souverainete-numerique-de-ladministration-publique-en-signant-une-declaration-dintention-commune/">Lire le communiqué de presse</a></p></div>
