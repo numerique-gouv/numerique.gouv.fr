@@ -12,5 +12,7 @@ chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’É
   « Numérique et Données » pour la planification écologique, piloté par la direction
   interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général
   à la planification écologique (SGPE).
+une:
+  image: "/uploads/1-276737.png"
 ---
 
