@@ -1,13 +1,24 @@
 ---
 title: Modele-invitation
 date: 2024-01-31 14:03:00 +01:00
-Field name: 
+chapeau-text: Participez à l'événement
+une-ou-diaporama:
+  image: "/uploads/Logo_Gouvernement-DINUM_RVB.png"
+  legende: 
+  alternative-textuelle: 
+event_start_date: 
+lieu: 
+adresse: 
+afficher_la_carte: true
+champs_informations:
+- intitule: Modalités
+  contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire avant
+    le 11/01.
+  lien: https://www.numerique.gouv.fr/
 layout: page-fille
 ---
 
 ![test-invitation.jpg](/uploads/test-invitation.jpg)
-
-Participez à l'événement
 
 Ci-dessous, inscrivez-vous !
 
