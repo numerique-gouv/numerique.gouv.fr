@@ -47,6 +47,7 @@ Au croisement des mondes de la tech et de l’administration, la DINUM a le plai
 L’après-midi sera organisé comme un parcours à la carte pour les participants, qui auront le choix entre thématiques plutôt managériales et des tables rondes techniques autour de retours d’expérience d’administrations sur leurs projets Cloud.
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
-*(les inscriptions seront définitivement validées en fonction du nombre d’inscrits et de places disponibles*.
+
+*les inscriptions seront définitivement validées en fonction du nombre d’inscrits et de places disponibles*.
 
 *Cet évènement est ouvert au public et à la presse.*
