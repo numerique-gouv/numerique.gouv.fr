@@ -9,7 +9,7 @@ tags:
 chapeau-text: "*l’État dans le nuage* lance sa seconde édition avec une journée dédiée
   au Cloud dans la sphère publique."
 une-ou-diaporama:
-- image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px(2).png"
+- image: "/uploads/Visuel%20cloud%20RS.png"
 event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
