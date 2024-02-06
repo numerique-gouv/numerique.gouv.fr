@@ -13,7 +13,7 @@ chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’É
   interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général
   à la planification écologique (SGPE).
 une:
-  image: "/uploads/Design%20sans%20titre.png"
+  image: "/uploads/Service%20FINDPE.png"
 layout: rgaa
 ---
 
