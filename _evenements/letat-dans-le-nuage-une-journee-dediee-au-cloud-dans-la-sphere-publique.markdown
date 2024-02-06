@@ -33,7 +33,7 @@ Au croisement des mondes de la tech et de l’administration, la DINUM a le plai
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Des grands témoins présenteront leurs regards sur les actualités stratégiques et réglementaires relatives au Cloud, en France et en Europe :</h3>
 <p>Stéphanie Schaer, directrice de la DINUM introduira cette journée en présentant les grandes orientations de la stratégie de l’État en matière de Cloud.
 <br>
-<br>Christine Serrette, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) nous présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
+<br>Christine Serrette, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
 </p></div>
 
 ## Au programme
