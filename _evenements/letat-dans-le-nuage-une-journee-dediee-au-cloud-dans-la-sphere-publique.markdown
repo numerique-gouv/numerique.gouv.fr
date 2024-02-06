@@ -15,7 +15,7 @@ lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
 - intitule: Modalités
-  contenu: Pour plus d’informations et s'inscrire
+  contenu: En savoir plus et s'inscrire
   lien: https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857
 - intitule: 'Date '
   contenu: Mardi 05 mars 2024

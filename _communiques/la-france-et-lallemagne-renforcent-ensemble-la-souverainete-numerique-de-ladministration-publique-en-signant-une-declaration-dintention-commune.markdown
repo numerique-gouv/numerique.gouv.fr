@@ -14,6 +14,8 @@ chapeau-text: Le secrétaire d’État Markus Richter, CIO de l’État fédéra
   numérique de l’administration publique. Cette signature est le fruit d’une longue
   série d’échanges entre la France et l’Allemagne, initiés il y a un an et soutenus
   par des réunions mutuelles des délégations allemande et française à Paris et Berlin.
+contact-presse:
+  mail: 
 files:
 - file: "/uploads/CP_FR_ET_ALL_SIGNENT_DECLARATION_INTENTION_COMMUNE_SOUVERAINETE_NUMERIQUE.pdf"
   nom: Télécharger le communiqué de presse en version française et allemande
