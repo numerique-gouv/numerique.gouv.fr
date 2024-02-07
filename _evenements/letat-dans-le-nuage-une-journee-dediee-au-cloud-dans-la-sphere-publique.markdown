@@ -1,13 +1,12 @@
 ---
 title: 'L''État dans le nuage : une journée dédiée au Cloud dans la sphère publique'
 date: 2024-02-05 09:30:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 tags:
 - Cloud
 - Echanges d'expériences
-chapeau-text: "*L’État dans le nuage* lance sa seconde édition avec une journée dédiée
+chapeau-text: "*L’État dans le nuage* lance la deuxième édition avec une journée dédiée
   au Cloud dans la sphère publique."
 une-ou-diaporama:
 - image: "/uploads/Visuel%20cloud%20RS.png"
@@ -29,26 +28,24 @@ champs_informations:
   lien: 
 ---
 
-Au croisement des mondes de la tech et de l’administration, la DINUM a le plaisir de vous convier à cette rencontre autour de nombreux intervenants sur l’ensemble des sujets d’actualité du Cloud.
-
-<div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Des grands témoins présenteront leurs regards sur les actualités stratégiques et réglementaires relatives au Cloud, en France et en Europe :</h3>
-<p>Stéphanie Schaer, directrice de la DINUM introduira cette journée en présentant les grandes orientations de la stratégie de l’État en matière de Cloud.
-<br>
-<br>Christine Serrette, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund) présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
-</p></div>
+Au croisement des mondes entre la tech et l’administration, la DINUM convie tous les acteurs de l’écosystème à cette rencontre, en présence de témoins de haut niveau, pour partager avec eux leurs analyses sur les évolutions **stratégiques et réglementaires du Cloud, en France et en Europe.**
 
 ## Au programme
 
-* La stratégie d’accélération Cloud **France 2030**
+* **Stéphanie Schaer**, directrice interministérielle du numérique, introduira cette journée en présentant les grandes orientations de la stratégie de l’État en matière de Cloud. 
 
-* **Témoignage de l'entreprise privée EDF :** la transformation Cloud au sein du monde de l’entreprise, la stratégie Cloud et l’évolution du modèle opérationnel
+* **Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund), présentera les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne.
 
-* Présentation des enjeux de la transformation cyber au sein des forces spéciales
+* Stratégie d’accélération Cloud **France 2030**
 
-L’après-midi sera organisé comme un parcours à la carte pour les participants, qui auront le choix entre thématiques plutôt managériales et des tables rondes techniques autour de retours d’expérience d’administrations sur leurs projets Cloud.
+* **Témoignage de EDF :** la transformation Cloud au sein du monde de l’entreprise, la stratégie Cloud et l’évolution du modèle opérationnel
+
+* **Présentation des enjeux de la transformation cyber au sein des forces spéciales**
+
+L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations.
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
 
-*les inscriptions seront définitivement validées en fonction du nombre d’inscrits et de places disponibles*.
+*Les inscriptions seront définitivement validées en fonction du nombre d’inscrits et des places disponibles*.
 
 *Cet évènement est ouvert au public et à la presse.*
