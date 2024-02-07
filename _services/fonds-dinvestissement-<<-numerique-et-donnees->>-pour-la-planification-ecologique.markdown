@@ -39,3 +39,20 @@ Le guichet est ouvert aux :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
+<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
+<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
+</figure><p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
+
+Consulter la feuille de route « numérique et données » pour la planification écologique : https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees
+
+En savoir plus sur France Nation Verte : https://www.gouvernement.fr/france-nation-verte
+
+Lire le communiqué de presse du lancement du fonds d’investissement « Numérique et Données » pour la planification écologique : renvoi vers le communiqué de presse
+
+du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a>,.</p>
+</div>
