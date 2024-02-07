@@ -1,6 +1,7 @@
 ---
 title: 'L''État dans le nuage : une journée dédiée au Cloud dans la sphère publique'
 date: 2024-02-05 09:30:00 +01:00
+published: false
 categories:
 - Journée d'échanges
 tags:
