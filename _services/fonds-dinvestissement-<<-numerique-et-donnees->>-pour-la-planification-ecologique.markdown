@@ -109,7 +109,14 @@ La sélection des projets lauréats mettra l’accent sur ceux ayant le potentie
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
 
+**Les candidatures seront étudiées au fil de l’eau tout au long de l’année 2024.**
+Après un processus de sélection par le comités thématiques « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
+
+Pour assurer la répartition des fonds en fonction des priorités gouvernementales, coordonner et sécuriser l’ensemble du programme, **un comité stratégique « Numérique et Données » France Nation Verte co-présidé par le SGPE et la DINUM rassemblera 3 fois par an les parties prenantes.**
+
+**Le SGPE s’assure de la pertinence de la stratégie ; la DINUM s’assure, quant à elle, du respect de la méthode « en mode produit » pour sécuriser la bonne exécution** des actions dans un contexte d’incertitude élevé.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
