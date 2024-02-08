@@ -18,3 +18,7 @@ Avec Albert, l'objectif est que les agents soient appuyés au quotidien pour se 
 
 
 Chaque année, sous le haut patronage de la présidence de l’Assemblée nationale, Acteurs publics décerne les Victoires des acteurs publics aux meilleures initiatives observées durant l’année dans les trois fonctions publiques afin d’honorer celles et ceux qui, sur le terrain, agissent en faveur d’un service public de qualité. En 2024, 4 projets ont été récompensés dans les catégories Organisation, Service, Management et Innovation dont Albert fait partie.
+
+À découvrir en vidéo : l’interview de Stéphanie Schaer par Acteurs Publics après avoir reçu le prix « innovation » pour le lancement de Albert.
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="fr" dir="ltr">🏆<a href="https://twitter.com/hashtag/VAP2024?src=hash&amp;ref_src=twsrc%5Etfw">#VAP2024</a> Découvrez la réaction de Stéphanie Schaer, directrice de la <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a>, lauréate de la Victoire de l&#39;Innovation pour son projet d&#39;IA générative &quot;Albert&quot; : <a href="https://t.co/6bjKLO2gSN">pic.twitter.com/6bjKLO2gSN</a></p>&mdash; acteurs publics (@acteurspublics) <a href="https://twitter.com/acteurspublics/status/1755300392856924670?ref_src=twsrc%5Etfw">February 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
