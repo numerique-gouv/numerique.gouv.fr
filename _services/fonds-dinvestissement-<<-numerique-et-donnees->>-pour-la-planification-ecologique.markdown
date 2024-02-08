@@ -93,6 +93,20 @@ Pour assurer **la sélection des projets lauréats, des comités d’investissem
 * **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) bénéficiant de 2 millions d’euros ;
 * **Un comité transversal** piloté par le SGPE/DINUM pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées bénéficiant de 6,5 millions d’euros.
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels indicateurs d’impact pour mon projet ?</h1>
+**Chaque équipe produit développant un service numérique doit pouvoir se rattacher à un indicateur d’impact cohérent avec les axes de la planification écologique, validés en comité stratégique**, exemples d’indicateurs potentiels :
+
+* Évolution de la consommation des espaces naturels, agricoles et forestiers
+* Nombre de logements accompagnés dans une action de rénovation énergétique
+* Nombre de collectivités territoriales qui sont passées à l’action grâce au service numérique
+
+**Pour les équipes développant un commun numérique**, leur impact sera défini par les indicateurs ci-dessous :
+
+* Nombre de réutilisations du commun numérique (effet réseau)
+* Ressources et temps économisés par les parties prenantes de l’écosystème qui utilisent le commun (effet accélération)
+
+La sélection des projets lauréats mettra l’accent sur ceux ayant le potentiel d’impact le plus significatif. Une priorité sera accordée aux initiatives capables de générer un impact concret dans un délai de 6 mois (le cas écheant sur une base expérimentale avant d’être développées de manière incrémentale en vue d’une généralisation).
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
