@@ -20,11 +20,11 @@ champs_informations:
 - intitule: 'Date '
   contenu: Mardi 05 mars 2024
 - intitule: 'Horaires '
-  contenu: 9h30 - 17h30
+  contenu: 8h30 - 17h30
 - intitule: Comment y aller
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 - intitule: Une question ?
-  contenu: infonuage.dinum@transformation.gouv.fr
+  contenu: infonuage.dinum@modernisation.gouv.fr
   lien: 
 ---
 
