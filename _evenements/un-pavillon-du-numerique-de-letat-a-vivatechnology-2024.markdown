@@ -1,7 +1,6 @@
 ---
 title: Un Pavillon du numérique de l’État à VivaTechnology 2024
 date: 2024-02-02 17:18:00 +01:00
-published: false
 categories:
 - Salon
 tags:
@@ -13,6 +12,9 @@ tags:
 chapeau-text: 'Viva Technology 2024 : l’État français présent massivement au salon
   de l’innovation technologique pour faire connaître sa stratégie numérique et recruter
   des professionnels du numérique.'
+une-ou-diaporama:
+- image: "/uploads/Viva_Technology_Logo.jpg"
+  alternative-textuelle: Viva Technology
 event_start_date: 2024-05-22 09:00:00 +02:00
 event_end_date: 2024-05-25 18:00:00 +02:00
 lieu: Paris Expo Porte de Versailles
@@ -38,7 +40,7 @@ Ne manquez pas leur stand lors de l’événement !
 ## « Pavillon du numérique de l’État »
 
 ### Qui sont présents ?
-Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères Sociaux, la direction du numérique de de l’Agriculture, les directions du numérique du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, le Service d’information du Gouvernement et la direction interministérielle de la transformation publique.
+Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères Sociaux, la direction du numérique de de l’Agriculture, les directions du numérique du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, le Service d’information du Gouvernement, la direction interministérielle de la transformation publique et la direction générale de l'administration et de la fonction publique.
 
 ### Programme :
 * Un espace de présentation des ministères par des agents publics et des représentants de Startups d'État.
