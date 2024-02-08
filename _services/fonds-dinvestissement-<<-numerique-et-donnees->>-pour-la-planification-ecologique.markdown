@@ -130,7 +130,5 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 
 Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
-<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a>
-
-du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a></p>
+<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a></p>
 </div>
