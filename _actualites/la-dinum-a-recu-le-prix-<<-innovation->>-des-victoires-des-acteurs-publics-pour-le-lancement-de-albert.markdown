@@ -3,6 +3,15 @@ title: La DINUM a reçu le prix « innovation » des Victoires des Acteurs publi
   le lancement de Albert
 date: 2024-02-08 14:11:00 +01:00
 published: false
+categories:
+- Actualités
+tags:
+- Concours
+- intelligence artificielle
+- IA
+- Albert
+- Etalab
+- Acteurs publics
 chapeau-text: 'Le 7 février 2023, la DINUM recevait le prix « innovation » lors des
   Victoires des Acteurs publics, un événement organisé par le média Acteurs Publics
   sous le haut patronage de la présidence de l’Assemblée nationale, pour le lancement
