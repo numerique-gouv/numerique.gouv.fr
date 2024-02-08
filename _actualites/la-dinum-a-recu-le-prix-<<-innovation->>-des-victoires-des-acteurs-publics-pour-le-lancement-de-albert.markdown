@@ -15,8 +15,6 @@ Avec Albert, l'objectif est que les agents soient appuyés au quotidien pour se 
 
 À découvrir en vidéo : le lancement et le déploiement de Albert par Ulrich Tan, chef du Datalab de la DINUM, Pierre-Etienne Devineau, lead data scientist à la DINUM et Diane Gelberg, coordinatrice qualité de service et animation du programme France services (ANCT). 
 
-
-
 Chaque année, sous le haut patronage de la présidence de l’Assemblée nationale, Acteurs publics décerne les Victoires des acteurs publics aux meilleures initiatives observées durant l’année dans les trois fonctions publiques afin d’honorer celles et ceux qui, sur le terrain, agissent en faveur d’un service public de qualité. En 2024, 4 projets ont été récompensés dans les catégories Organisation, Service, Management et Innovation dont Albert fait partie.
 
 À découvrir en vidéo : l’interview de Stéphanie Schaer par Acteurs Publics après avoir reçu le prix « innovation » pour le lancement de Albert.
