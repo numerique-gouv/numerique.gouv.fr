@@ -69,6 +69,30 @@ Les projets numériques candidats doivent :
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 
+Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont répartis selon deux familles : 1 critère d’impact et 6 critères de conception et de réalisation :
+
+1. Le critère **d’impact** permettant d’analyser l’ambition et l’évolution du projet
+2. Le **soutien notamment financier de la part du sponsor**,
+3. La **pertinence technique** de la solution proposée,
+4. La **réutilisation de briques et API interministérielles**,
+5. Les **délais de mise en œuvre**,
+6. Le **respect du cadre juridique**,
+7. La **solidité et la pertinence du projet en termes de gouvernance**.
+
+Pour assurer **la sélection des projets lauréats, des comités d’investissements thématiques seront créés et structurés selon les thématiques de France Nation Verte. Réunis tous les 2 mois à partir de début mars 2024**, ils seront suivis par le SGPE et la DINUM et seront structurés comme suit :
+
+* **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
+* **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
+* **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) ;
+* **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) ;
+* **Mieux produire** piloté par la direction générale des Entreprises (DGE) et le Secrétariat général à la Planification écologique (SGPE) ;
+* **Mieux se nourrir** piloté par le ministère de l’Agriculture et de la Souveraineté alimentaire (MASA) et le Commissariat général au développement durable (CGDD) ;
+
+*Les moyens initialement alloués à ces comités seront de 5 millions d’euros par comité.*
+
+* **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) bénéficiant de 2 millions d’euros ;
+* **Un comité transversal** piloté par le SGPE/DINUM pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées bénéficiant de 6,5 millions d’euros.
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
