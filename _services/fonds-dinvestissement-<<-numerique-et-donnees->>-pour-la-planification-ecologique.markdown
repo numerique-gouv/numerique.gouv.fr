@@ -21,7 +21,7 @@ Pour répondre aux objectifs de réduction des émissions de gaz à effet de ser
 
 **L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
 
-BOUTON : ATTENTE DU LIEN Déposer votre projet
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
