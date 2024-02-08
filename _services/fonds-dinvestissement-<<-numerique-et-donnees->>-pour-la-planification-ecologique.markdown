@@ -51,9 +51,13 @@ Exemples :
 <h3>Taille attendue des projets :</h3>
 <p>Bien qu’aucune limite spécifique ne soit imposée, une préférence sera accordée aux projets ayant un budget minimum de 100 000 € TTC.</p>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
-
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
+
+Les projets lauréats bénéficieront d’un **cofinancement jusqu’à 50% du coût total du projet** (coûts RH internes compris), afin d’assurer un partage de responsabilité équilibré entre le porteur et le fonds.
+
+Cependant, une dérogation peut être décidée par le comité d’investissement thématique, notamment pour les projets en phase d’amorçage et les projets transverses de nature interministérielle.
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères d’éligibilité ?</h1>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 
