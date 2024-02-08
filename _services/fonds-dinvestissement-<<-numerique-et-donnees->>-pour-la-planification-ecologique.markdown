@@ -31,8 +31,25 @@ Le guichet est ouvert aux :
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 
+Les projets numériques conçus en cohérence avec [la feuille de route « Numérique et Données »](https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees) ou avec [les objectifs de planification écologique](https://www.ecologie.gouv.fr/planification-ecologique-plan-action-accelerer-transition-ecologique) tels que définis par le SGPE :
+
+* Lutter contre les causes du changement climatique qui nous touchent déjà (hausse des températures, sécheresse, manque de ressources…),
+* Bénéficier d’un environnement vivable pour soi, ses enfants, sa famille (une meilleure qualité de l’air, des écosystèmes plus résilients, des villes moins bruyantes…),
+* Mais aussi maintenir et développer notre qualité de vie (bien-être, emploi, pouvoir d’achat, souveraineté…).
+
+Exemples :
+
+* analyser et planifier la mobilité ;
+* améliorer le parcours citoyens pour la rénovation ;
+* gérer le recul du trait de côte ;
+* prendre en compte la biodiversité dans les décisions d’urbanisme ;
+* déployer efficacement les énergies renouvelables ;
+* valoriser la qualité des sols ;
+* fiabiliser et harmoniser la mesure d’un coût environnemental ;
+* outiller les citoyens et les territoires.
+
 <h3>Taille attendue des projets :</h3>
-<p>100 000€ TTC minimum</p>
+<p>Bien qu’aucune limite spécifique ne soit imposée, une préférence sera accordée aux projets ayant un budget minimum de 100 000 € TTC.</p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 
