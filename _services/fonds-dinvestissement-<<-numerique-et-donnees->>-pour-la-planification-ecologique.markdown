@@ -130,9 +130,9 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 
 Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
-Consulter <a href="https://www.gouvernement.fr/france-nation-verte" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">En savoir plus sur France Nation Verte</a>
+<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a>
 
 Lire le communiqué de presse du lancement du fonds d’investissement « Numérique et Données » pour la planification écologique : renvoi vers le communiqué de presse
 
-du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a>,.</p>
+du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a></p>
 </div>
