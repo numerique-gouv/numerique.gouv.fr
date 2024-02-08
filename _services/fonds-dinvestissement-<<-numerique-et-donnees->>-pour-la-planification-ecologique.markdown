@@ -126,13 +126,11 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
-<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
-<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
-</figure><p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
+<p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
 
-Consulter la feuille de route « numérique et données » pour la planification écologique : https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees
+Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
-En savoir plus sur France Nation Verte : https://www.gouvernement.fr/france-nation-verte
+Consulter <a href="https://www.gouvernement.fr/france-nation-verte" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">En savoir plus sur France Nation Verte</a>
 
 Lire le communiqué de presse du lancement du fonds d’investissement « Numérique et Données » pour la planification écologique : renvoi vers le communiqué de presse
 
