@@ -65,7 +65,7 @@ Les projets numériques candidats doivent :
 3. **Respecter les standards de qualité** (accessibilité, respect de la vie privée, ouverture du code et transparence des algorithmes, bonnes pratiques de sécurité, etc.) ;
 4. Être **portés par un responsable autonome et garant des moyens qui lui ont été alloués**.
 
-<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Les candidatures retenues s’engagent à communiquer publiquement leurs résultats, à participer aux comités d’investissements et à arrêter le produit en cas d’impossibilité de prouver son impact.</h></div>
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Les candidatures retenues s’engagent à communiquer publiquement leurs résultats, à participer aux comités d’investissements et à arrêter le produit en cas d’impossibilité de prouver son impact.</h3></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 
