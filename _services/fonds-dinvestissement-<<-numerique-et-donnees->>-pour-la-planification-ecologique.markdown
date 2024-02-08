@@ -1,7 +1,6 @@
 ---
 title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
 date: 2024-02-06 14:23:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:
@@ -59,6 +58,15 @@ Cependant, une dérogation peut être décidée par le comité d’investissemen
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères d’éligibilité ?</h1>
 
+Les projets numériques candidats doivent :
+
+1. Être conçus en cohérence avec [la feuille de route « Numérique et Données »](https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees) ou avec [les objectifs de planification écologique](https://www.ecologie.gouv.fr/planification-ecologique-plan-action-accelerer-transition-ecologique) tels que définis par le SGPE ;
+2. **Suivre le « mode produit »** (mode de développement incrémental) ;
+3. **Respecter les standards de qualité** (accessibilité, respect de la vie privée, ouverture du code et transparence des algorithmes, bonnes pratiques de sécurité, etc.) ;
+4. Être **portés par un responsable autonome et garant des moyens qui lui ont été alloués**.
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Les candidatures retenues s’engagent à communiquer publiquement leurs résultats, à participer aux comités d’investissements et à arrêter le produit en cas d’impossibilité de prouver son impact.
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
@@ -68,7 +76,6 @@ Cependant, une dérogation peut être décidée par le comité d’investissemen
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
-
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
