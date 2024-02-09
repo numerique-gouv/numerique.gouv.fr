@@ -131,5 +131,5 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 
 <br>Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
-<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a></p>
+<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur la planification écologique">En savoir plus sur la planification écologique</a></p>
 </div>
