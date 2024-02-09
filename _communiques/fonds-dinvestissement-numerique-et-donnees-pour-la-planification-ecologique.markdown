@@ -4,7 +4,6 @@ title: 'France Nation Verte : un fonds d’investissement numérique et données
   de moyens numériques leur permettant d’accélérer la réussite de la transition écologique
   de la France'
 date: 2024-02-09 10:00:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
