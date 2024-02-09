@@ -15,7 +15,7 @@ chapeau-text: Devenir la première économie verte d’Europe en 2040 et accél�
   de gaz à effet de serre, d’adapter la France au changement climatique, de restaurer
   la biodiversité et de mieux gérer nos ressources essentielles.
 une-ou-diaporama:
-- image: "/uploads/Design%20sans%20titre.png"
+- image: "/uploads/1-67c5a4.png"
 ---
 
 <div class="lien-important"><p><a href="https://numerique.gouv.fr/espace-presse/fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique/">Lire le communiqué de presse</a></p></div>
