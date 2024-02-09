@@ -19,7 +19,7 @@ layout: rgaa
 
 Pour répondre aux objectifs de réduction des émissions de gaz à effet de serre, d’adaptation de la France au changement climatique, de restauration de la biodiversité et de meilleure gestion de nos ressources essentielles, [la planification écologique](https://www.gouvernement.fr/france-nation-verte) a été lancée par la Première ministre en octobre 2022 à la demande du président de la République.
 
-**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
+**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
