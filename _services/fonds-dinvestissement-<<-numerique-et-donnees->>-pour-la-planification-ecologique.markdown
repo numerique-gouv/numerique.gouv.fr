@@ -1,7 +1,6 @@
 ---
 title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
 date: 2024-02-09 10:23:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:
