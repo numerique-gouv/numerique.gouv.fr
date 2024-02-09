@@ -121,7 +121,8 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
 **Début mars se tiendra le premier forum ouvert mensuel** permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature.
-**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
+
+<br>**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
