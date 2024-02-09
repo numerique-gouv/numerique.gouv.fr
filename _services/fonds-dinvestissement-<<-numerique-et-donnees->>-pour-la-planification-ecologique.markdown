@@ -1,7 +1,6 @@
 ---
 title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
-date: 2024-02-08 14:23:00 +01:00
-published: false
+date: 2024-02-09 10:23:00 +01:00
 categories:
 - Guichet de financement
 tags:
@@ -20,14 +19,14 @@ layout: rgaa
 
 Pour répondre aux objectifs de réduction des émissions de gaz à effet de serre, d’adaptation de la France au changement climatique, de restauration de la biodiversité et de meilleure gestion de nos ressources essentielles, [la planification écologique](https://www.gouvernement.fr/france-nation-verte) a été lancée par la Première ministre en octobre 2022 à la demande du président de la République.
 
-**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
+**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer le projet - Lien externe"><b>Déposer le projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
-* **administrations centrales et déconcentrées d’État** ;
-* **opérateurs de l’État**.
+* **Administrations centrales et déconcentrées d’État** ;
+* **Opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 
@@ -49,7 +48,7 @@ Exemples :
 * outiller les citoyens et les territoires.
 
 <h3>Taille attendue des projets :</h3>
-<p>Bien qu’aucune limite spécifique ne soit imposée, **une préférence sera accordée aux projets ayant un budget minimum de 100 000 € TTC.**</p>
+<p>Bien qu’aucune limite spécifique ne soit imposée, **une préférence sera accordée aux projets ayant un budget minimum de 100 000 € TTC**.</p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
@@ -122,14 +121,15 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
 **Début mars se tiendra le premier forum ouvert mensuel** permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature.
-**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+<br>**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer le projet - Lien externe"><b>Déposer le projet</b></a></div>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
-<p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
+<p>Ce fonds s’inscrit dans le cadre des travaux de planification écologique pilotés par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
 
-Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
+<br>Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
-<a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a></p>
+<br><a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur la planification écologique">En savoir plus sur la planification écologique</a></p>
 </div>
