@@ -1,6 +1,6 @@
 ---
 title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
-date: 2024-02-08 14:23:00 +01:00
+date: 2024-02-09 10:23:00 +01:00
 published: false
 categories:
 - Guichet de financement
@@ -26,8 +26,8 @@ Pour répondre aux objectifs de réduction des émissions de gaz à effet de ser
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
-* **administrations centrales et déconcentrées d’État** ;
-* **opérateurs de l’État**.
+* **Administrations centrales et déconcentrées d’État** ;
+* **Opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 
