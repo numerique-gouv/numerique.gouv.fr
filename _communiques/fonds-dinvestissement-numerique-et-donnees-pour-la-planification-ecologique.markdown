@@ -65,7 +65,7 @@ Début mars se tiendra le premier forum ouvert mensuel permettant à tous les me
 Le lancement du fond s’inscrit dans la feuille de route “Numérique et Données pour la planification écologique” actuellement en concertation publique. Co-construite avec plus de 300 agents publics nationaux et territoriaux, cette feuille de route confirme le rôle essentiel du numérique comme levier de mise en oeuvre d’une transition écologique juste et efficace, et détaille l’ensemble des chantiers à mettre en oeuvre pour y parvenir. Au travers de cette feuille de route, il s’agit aussi de mettre en cohérence les valeurs et principes qui guident les travaux de planification écologique avec une une vision éthique et souveraine du numérique pour l’écologie.
 
 [Consulter la feuille de route « numérique et données » pour la planification écologique](https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees)
-[Participer à la concertation](https://numeriquefrancenationverte.anct.gouv.fr/)
+<br>[Participer à la concertation](https://numeriquefrancenationverte.anct.gouv.fr/)
 
 **À propos du Secrétariat général de la planification écologique (SGPE) :**
 Placé sous l’autorité du Premier ministre et dirigé par Antoine Pellion, secrétaire général à la planification écologique, le SGPE a pour mission d’assurer la cohérence et le suivi des politiques à visée écologique de la France, d’initier et de cadrer la mobilisation des ministères et parties prenantes, de coordonner toutes les négociations et enfin de mesurer la performance des actions menées.
