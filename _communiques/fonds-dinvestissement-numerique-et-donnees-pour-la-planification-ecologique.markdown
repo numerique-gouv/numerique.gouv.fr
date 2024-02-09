@@ -59,7 +59,7 @@ un comité transversal piloté par le SGPE/DINUM pour les projets communs à tou
 
 *Le détail des acronymes peut être consulté en fin de document.
 
-Début mars se tiendra le premier forum ouvert mensuel permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature. Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr) (🔴 A CONFIRMER PAR L’EQUIPE).
+Début mars se tiendra le premier forum ouvert mensuel permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature. Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)
 
 **À propos de la feuille de route Numérique et Données pour la planification écologique :**
 Le lancement du fond s’inscrit dans la feuille de route “Numérique et Données pour la planification écologique” actuellement en concertation publique. Co-construite avec plus de 300 agents publics nationaux et territoriaux, cette feuille de route confirme le rôle essentiel du numérique comme levier de mise en oeuvre d’une transition écologique juste et efficace, et détaille l’ensemble des chantiers à mettre en oeuvre pour y parvenir. Au travers de cette feuille de route, il s’agit aussi de mettre en cohérence les valeurs et principes qui guident les travaux de planification écologique avec une une vision éthique et souveraine du numérique pour l’écologie.
@@ -72,11 +72,11 @@ Placé sous l’autorité du Premier ministre et dirigé par Antoine Pellion, se
 [En savoir plus](https://www.gouvernement.fr/france-nation-verte)
 
 **À propos de la DINUM :**
-Service du Premier ministre, la direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Elle accompagne et fait réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
+Service du Premier ministre, la direction interministérielle du numérique (DINUM) intervient sous l’égide du ministère de la Transformation et de la Fonction publiques et a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Elle accompagne et fait réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
 [En savoir plus](https://www.numerique.gouv.fr/)
 
 **Liste des acronymes par ordre d’apparition :**
-* DGITM : La Direction générale des Infrastructures, des Transports et des Mobilités
+* DGITM : La direction générale des Infrastructures, des Transports et des Mobilités
 * DGEC : La direction générale de l’Énergie et du Climat
 * DGALN : La direction générale de l’Aménagement, du Logement et de la Nature
 * DGE : La direction générale des Entreprises
