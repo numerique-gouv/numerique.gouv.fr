@@ -1,19 +1,20 @@
 ---
-title: 'Planification écologique : un fonds d’investissement numérique et données
-  pour doter les administrations de moyens numériques leur permettant d’accélérer
-  la réussite de la transition écologique de la France'
-date: 2024-02-07 14:01:00 +01:00
+title: 'France Nation Verte : un fonds d’investissement numérique et données pour
+  la planification écologique de 50 millions d’euros en 2024 afin de doter les administrations
+  de moyens numériques leur permettant d’accélérer la réussite de la transition écologique
+  de la France'
+date: 2024-02-09 10:00:00 +01:00
 published: false
 categories:
 - Communiqué de presse
 tags:
 - France Nation Verte
 chapeau-text: Devenir la première économie verte d’Europe en 2040 et accélérer la
-  transition écologique, c’est l’une des promesses de la planification écologique,
-  un plan d’action initié par la Première ministre en octobre 2022 à la demande du
-  président de la République pour répondre aux objectifs de baisser suffisamment les
-  émissions de gaz à effet de serre, d’adapter la France au changement climatique,
-  de restaurer la biodiversité et de mieux gérer nos ressources essentielles.
+  transition écologique, c’est l’une des promesses de France Nation Verte, un plan
+  d’action initié par la Première ministre en octobre 2022 à la demande du président
+  de la République pour répondre aux objectifs de baisser suffisamment les émissions
+  de gaz à effet de serre, d’adapter la France au changement climatique, de restaurer
+  la biodiversité et de mieux gérer nos ressources essentielles.
 une-ou-diaporama:
 - image: "/uploads/1-67c5a4.png"
   alternative-textuelle: Image décorative
@@ -21,7 +22,7 @@ files:
 - nom: Télécharger le communiqué de presse
 ---
 
-**Afin de contribuer à cette ambition, l’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique doté de 50 millions d’euros pour l’année 2024, et co-piloté par la direction interministérielle du numérique (DINUM) et le Secrétariat général à la planification écologique (SGPE). L’enjeu : associer la puissance du numérique et les méthodes innovantes pronés par DINUM, avec la recherche de cohérence, de transversalité et d’impact environnemental qui guident les travaux du SGPE. Le fonds garantit ainsi des moyens concrets et transformants à toutes les parties prenantes de l’Etat engagées dans la transition écologique, et les invite à mieux agir ensemble au service pour l’atteinte des objectifs de planification écologique.**
+**Afin de répondre à cet objectif, l’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique doté de 50 millions d’euros pour l’année 2024, et co-piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, et le Secrétariat général à la planification écologique (SGPE). L’objectif : associer la puissance du numérique et les méthodes innovantes prônées par DINUM, avec la recherche de cohérence, de transversalité et d’impact environnemental qui guident les travaux du SGPE. Le fonds garantit ainsi des moyens concrets et transformateurs à toutes les parties prenantes de l’Etat engagées dans la transition écologique, les incitant à collaborer plus efficacement pour atteindre les objectifs de planification écologique.**
 
 La nécessité et la pertinence de s’appuyer sur la puissance du numérique et des données pour cibler les actions les plus efficaces, gérer la complexité, réduire les délais, modéliser, informer, anticiper les crises, mettre en réseau, mobiliser, analyser, décider dans le domaine de la transition écologique a déjà été prouvé en témoigne des exemples concrets : déployer les énergies renouvelables, développer le covoiturage, suivre le traitement des déchets, mieux connaître les espèces protégées, mesurer l’empreinte écologique, gérer la ressource en eau en cas de sécheresse, aider de façon ciblée les citoyens les plus précaires…
 
