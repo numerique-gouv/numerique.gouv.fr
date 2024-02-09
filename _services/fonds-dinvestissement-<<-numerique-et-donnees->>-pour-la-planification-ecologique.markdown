@@ -128,7 +128,7 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
 <p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
 
-Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
+<br>Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
 <a href="https://www.gouvernement.fr/france-nation-verte" title="En savoir plus sur France Nation Verte">En savoir plus sur France Nation Verte</a></p>
 </div>
