@@ -127,7 +127,7 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour l’investissement numérique et données pour la planification écologique </h3>
-<p>Ce guichet s’inscrit dans le cadre du plan France nation verte piloté par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
+<p>Ce fonds s’inscrit dans le cadre des travaux de planification écologique pilotés par le Secrétariat général pour la planification écologique (SGPE), organisme interministériel placé sous l’autorité du Premier ministre français.
 
 <br>Consulter <a href="https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees" title="la feuille de route « numérique et données » pour la planification écologique - Lien externe">la feuille de route « numérique et données » pour la planification écologique</a>
 
