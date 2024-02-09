@@ -18,7 +18,8 @@ une-ou-diaporama:
 - image: "/uploads/1-67c5a4.png"
   alternative-textuelle: Image décorative
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_SGPExDINUM_FRANCE_NATION_VERTE_50_MILLIONS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Afin de répondre à cet objectif, l’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique doté de 50 millions d’euros pour l’année 2024, et co-piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, et le Secrétariat général à la planification écologique (SGPE). L’objectif : associer la puissance du numérique et les méthodes innovantes prônées par DINUM, avec la recherche de cohérence, de transversalité et d’impact environnemental qui guident les travaux du SGPE. Le fonds garantit ainsi des moyens concrets et transformateurs à toutes les parties prenantes de l’Etat engagées dans la transition écologique, les incitant à collaborer plus efficacement pour atteindre les objectifs de planification écologique.**
