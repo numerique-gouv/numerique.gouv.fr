@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/1-67c5a4.png"
   alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_SGPExDINUM_FRANCE_NATION_VERTE_50_MILLIONS.pdf"
+- file: "/uploads/CP_SGPExDINUM_FRANCE_NATION_VERTE_50_MILLIONS-26a79f.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
