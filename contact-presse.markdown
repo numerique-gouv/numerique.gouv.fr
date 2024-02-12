@@ -43,7 +43,7 @@ layout: page-annexe
 <br><a href="mailto:presse.mtfp@transformation.gouv.fr">presse.mtfp@transformation.gouv.fr</a>
 <br>01 53 18 42 68/ 42 76</li>
 
-<li><b>Service presse du ministre délégué chargé de la Transition numérique et des Télécommunications, Jean-Noël Barrot :</b>
+<li><b>Service presse de la Secrétaire d'État chargée du numérique, Marina Ferrari :</b>
 <br><a href="mailto:presse@numerique.gouv.fr">presse@numerique.gouv.fr</a>
 <br>01 53 18 43 42</li></ul>
 <br>

@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/1-67c5a4.png"
   alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_SGPExDINUM_FRANCE_NATION_VERTE_50_MILLIONS.pdf"
+- file: "/uploads/CP_SGPExDINUM_FRANCE_NATION_VERTE_50_MILLIONS-26a79f.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -58,6 +58,8 @@ mieux consommer piloté par le CGDD/DGPR (ex : fiabiliser et harmoniser la mesur
 un comité transversal piloté par le SGPE/DINUM pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées (ex : outiller les citoyens et les territoires) bénéficiant de 6,5 millions d’euros.
 
 *Le détail des acronymes peut être consulté en fin de document.
+
+Consulter la page dédiée au dépôt des candidatures : https://www.numerique.gouv.fr/services/fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique/
 
 Début mars se tiendra le premier forum ouvert mensuel permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature. Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)
 
