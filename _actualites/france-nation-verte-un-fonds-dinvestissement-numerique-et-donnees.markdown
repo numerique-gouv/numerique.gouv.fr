@@ -2,7 +2,7 @@
 title: Fonds d’investissement « Numérique et Données » pour la Planification écologique
 date: 2024-02-09 11:59:00 +01:00
 categories:
-- Communiqué de presse
+- Services
 tags:
 - France Nation Verte
 chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’État ou un
