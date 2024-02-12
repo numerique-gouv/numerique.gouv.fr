@@ -59,6 +59,8 @@ un comité transversal piloté par le SGPE/DINUM pour les projets communs à tou
 
 *Le détail des acronymes peut être consulté en fin de document.
 
+Consulter la page dédiée au dépôt des candidatures : https://www.numerique.gouv.fr/services/fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique/
+
 Début mars se tiendra le premier forum ouvert mensuel permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature. Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)
 
 **À propos de la feuille de route Numérique et Données pour la planification écologique :**
