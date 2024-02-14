@@ -62,7 +62,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
 
-![Programme cloud _apres-midi-cabe13.jpg](/uploads/Programme%20cloud%20_apres-midi-cabe13.jpg)
+![Programme cloud _apres-midi-fc11d6.jpg](/uploads/Programme%20cloud%20_apres-midi-fc11d6.jpg)
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
 
