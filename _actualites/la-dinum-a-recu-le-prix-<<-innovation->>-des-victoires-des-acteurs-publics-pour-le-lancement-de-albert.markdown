@@ -1,7 +1,7 @@
 ---
 title: La DINUM a reçu le prix « innovation » des Victoires des Acteurs publics pour
   le lancement d'Albert
-date: 2024-02-08 14:11:00 +01:00
+date: 2024-02-14 02:11:00 +01:00
 categories:
 - Actualités
 tags:
