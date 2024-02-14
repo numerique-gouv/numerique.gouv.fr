@@ -16,7 +16,7 @@ chapeau-text: 'Le 7 février 2023, la DINUM recevait le prix « innovation » lo
   sous le haut patronage de la présidence de l’Assemblée nationale, pour le lancement
   d''Albert l''IAG libre et souveraine de l’État créée par et pour des agents publics. '
 une-ou-diaporama:
-- image: "/uploads/_61A8840-dc798d.jpg"
+- image: "/uploads/61A8840.jpg"
 ---
 
 Stéphanie Schaer, directrice interministérielle du numérique, était présente avec les équipes travaillant au développement d'Albert pour recevoir le prix « innovation » des Victoires des Acteurs publics. 
