@@ -32,27 +32,32 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 ## Au programme
 
-* 9h : Les grandes orientations de la stratégie de l’État en matière de Cloud 
+* 9h : **Les grandes orientations de la stratégie de l’État en matière de Cloud **
+
 ***Stéphanie Schaer**, directrice interministérielle du numérique*
 
-* 9h15 : L’actualité du Cloud dans la sphère publique
+* 9h15 : **L’actualité du Cloud dans la sphère publique**
+
 *Vincent Coudrin, directeur de projet interministériel, DINUM*
 
 * 9h30 : **Les évolutions réglementaires en lien avec le Cloud, en France et en Europe**
+
 *Emmanuelle Legrand, cheffe de projets régulation du Cloud et Économie de la Donnée, DGE*
 
-* 9h45 : Les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne
+* 9h45 : **Les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne**
+
 ***Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund)*
 
 * 10h50 : Stratégie d’accélération Cloud **France 2030**, bilan et perspectives
+
 *Adrien Laroche, directeur de projets économie de la donnée, DGE*
 
-* **Témoignage de EDF :** la transformation Cloud au sein du monde de l’entreprise, la stratégie Cloud et l’évolution du modèle opérationnel
-
 * 11h10 : **Retour d’expérience d’EDF sur sa transformation Cloud**, couvrant tous les aspects des politiques d’infrastructure aux enjeux d’acculturation
+
 *Vincent Pertuy, direction des Systèmes d’information, EDF*
 
 * **Présentation des enjeux de la transformation cyber au sein des forces spéciales**
+
 *Thomas Guillet, Coordonnateur Cyber Marine nationale*
 
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
