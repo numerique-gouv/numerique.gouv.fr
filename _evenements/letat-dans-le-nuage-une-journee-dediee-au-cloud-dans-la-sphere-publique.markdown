@@ -32,7 +32,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 ## Au programme
 
-* 9h : **Les grandes orientations de la stratégie de l’État en matière de Cloud **
+* 9h : **Les grandes orientations de la stratégie de l’État en matière de Cloud**
 
 ***Stéphanie Schaer**, directrice interministérielle du numérique*
 
