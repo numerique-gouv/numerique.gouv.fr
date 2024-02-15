@@ -2,10 +2,10 @@
 title: Numérique et intrapreneuriat, comment accélérer les politiques publiques ?
 date: 2024-02-15 14:49:00 +01:00
 categories:
-- Intrapreneur
-- Numérique
-tags:
 - Évènement
+tags:
+- Numérique
+- innovation publique
 chapeau-text: 'La direction interministérielle du numérique (DINUM), à travers son
   incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/), organise
   un événement portant sur la puissance du numérique, levier d’efficacité de l’action
