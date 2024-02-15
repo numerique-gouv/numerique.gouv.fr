@@ -7,10 +7,11 @@ categories:
 tags:
 - Évènement
 chapeau-text: 'La direction interministérielle du numérique (DINUM), à travers son
-  incubateur de services numériques beta.gouv.fr, organise un événement portant sur
-  la puissance du numérique, levier d’efficacité de l’action publique. '
+  incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/), organise
+  un événement portant sur la puissance du numérique, levier d’efficacité de l’action
+  publique. '
 une-ou-diaporama:
-- image: "/uploads/Image.jpg"
+- image: "/uploads/Image-5e78b6.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
 event_end_date: 2024-02-26 00:00:00 +01:00
@@ -28,15 +29,15 @@ champs_informations:
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 ---
 
-L’occasion notamment de dévoiler les Startups d’État lauréates du fonds d’accélération des startups d’État et de territoires (FAST), lancer l’appel à candidatures au prochain fonds et dévoiler le bilan de l’année de beta.gouv.fr. 
+L’occasion notamment de dévoiler les Startups d’État lauréates du fonds d’accélération des startups d’État et de territoires (FAST), lancer l’appel à candidatures au prochain fonds et dévoiler le bilan de l’année de [beta.gouv.fr](https://beta.gouv.fr/). 
 
-En 2024, beta.gouv.fr poursuit son objectif de simplification drastique de l’action publique et de son efficience grâce au numérique. 
+En 2024, [beta.gouv.fr](https://beta.gouv.fr/) poursuit son objectif de simplification drastique de l’action publique et de son efficience grâce au numérique. 
 
 Au programme :
 
-* **16h : Bilan de l’année 2023 de l’incubateur de services numériques beta.gouv.fr de la DINUM et présentation des Startups d’État à impact national**
+* **16h : Bilan de l’année 2023 de l’incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM et présentation des Startups d’État à impact national**
 
-*Par Ishan Bhojwani, chef du département Incubateur de services numériques beta.gouv.fr de la DINUM*
+*Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM*
 
 * **16h10 : Planifier et accélérer la transition écologique**
 Démonstrations d'intrapreneurs des services numériques du ministère de la transition écologique et de la cohésion des territoires et témoignages de la Direction Générale de l'Aménagement, du Logement et de la Nature. 
@@ -64,9 +65,9 @@ Démonstrations de services numériques par des intrapreneurs
 
 *Le nombre de places pour cet événement est limité, l'inscription est obligatoire* 
 
-Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de beta.gouv.fr, qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
+Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
-Son objectif :** accélérer le développement de services **numériques à fort impact et faciliter la vie de millions d’usagers. 
+Son objectif :**accélérer le développement de services** numériques à fort impact et faciliter la vie de millions d’usagers. 
 
 Une attention particulière est accordée aux services s’inscrivant dans les chantiers prioritaires du Gouvernement. 
 
