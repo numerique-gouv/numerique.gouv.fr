@@ -56,7 +56,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 *Vincent Pertuy, direction des Systèmes d’information, EDF*
 
-* **Présentation des enjeux de la transformation cyber au sein des forces spéciales**
+* **12h : Présentation des enjeux de la transformation cyber au sein des forces spéciales**
 
 *Chef d’État Major des Opérations spéciales et CV Thomas Guillet, coordonnateur Cyber Marine nationale*
 
