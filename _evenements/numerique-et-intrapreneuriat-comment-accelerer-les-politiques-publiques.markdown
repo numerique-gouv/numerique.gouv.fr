@@ -11,7 +11,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM), à traver
   un événement portant sur la puissance du numérique, levier d’efficacité de l’action
   publique. '
 une-ou-diaporama:
-- image: "/uploads/Image-5e78b6.jpg"
+- image: "/uploads/Image-c5d189.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
 event_end_date: 2024-02-26 00:00:00 +01:00
