@@ -1,7 +1,6 @@
 ---
 title: Numérique et intrapreneuriat, comment accélérer les politiques publiques ?
 date: 2024-02-15 14:49:00 +01:00
-published: false
 categories:
 - Intrapreneur
 - Numérique
@@ -18,12 +17,15 @@ event_end_date: 2024-02-26 00:00:00 +01:00
 lieu: Direction interministérielle du numérique - Auditorium Ségur
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
-- intitule: 
-  contenu: 
-- intitule: 
-  contenu: 
-- intitule: 
-  contenu: 
+- intitule: Modalités
+  contenu: S'inscrire
+  lien: https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737?aff=oddtdtcreator
+- intitule: Date
+  contenu: 26/02/2024
+- intitule: Horaires
+  contenu: 15h - 18h30
+- intitule: Comment y aller ?
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 ---
 
 L’occasion notamment de dévoiler les Startups d’État lauréates du fonds d’accélération des startups d’État et de territoires (FAST), lancer l’appel à candidatures au prochain fonds et dévoiler le bilan de l’année de beta.gouv.fr. 
