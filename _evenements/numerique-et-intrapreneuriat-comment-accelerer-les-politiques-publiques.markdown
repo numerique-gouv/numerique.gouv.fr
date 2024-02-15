@@ -66,7 +66,7 @@ Démonstrations de services numériques par des intrapreneurs
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de beta.gouv.fr, qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
-Son objectif : accélérer le développement de services numériques à fort impact et faciliter la vie de millions d’usagers. 
+Son objectif :** accélérer le développement de services **numériques à fort impact et faciliter la vie de millions d’usagers. 
 
 Une attention particulière est accordée aux services s’inscrivant dans les chantiers prioritaires du Gouvernement. 
 
