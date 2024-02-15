@@ -28,7 +28,7 @@ champs_informations:
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 ---
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737?aff=oddtdtcreator" class="button" title="S'inscrire - Lien externe"><b>Déposer votre projet</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737?aff=oddtdtcreator" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 
 L’occasion notamment de dévoiler les Startups d’État lauréates du fonds d’accélération des startups d’État et de territoires (FAST), lancer l’appel à candidatures au prochain fonds et dévoiler le bilan de l’année de [beta.gouv.fr](https://beta.gouv.fr/). 
 
