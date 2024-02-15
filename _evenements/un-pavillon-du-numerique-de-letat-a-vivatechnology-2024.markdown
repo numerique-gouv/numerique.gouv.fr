@@ -32,7 +32,7 @@ champs_informations:
   lien: https://vivatechnology.com/
 ---
 
-Pour la deuxième fois, les directions du numérique de l’État seront présentes à Viva Technology afin de présenter aux professionnels du numérique et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
+Pour la deuxième fois, les directions du numérique de l’État seront présentes à Viva Technology afin de présenter, aux professionnels du numérique et au grand public, leurs services et projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
 Ne manquez pas leur stand lors de l’événement !
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Prochainement, venez consulter notre espace en ligne sur le site de VivaTech - Lien externe"><b>Prochainement, venez consulter notre espace en ligne sur le site de VivaTech</b></a></div>
