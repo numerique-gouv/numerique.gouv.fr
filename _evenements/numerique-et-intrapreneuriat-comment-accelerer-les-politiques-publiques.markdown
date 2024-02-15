@@ -15,7 +15,7 @@ une-ou-diaporama:
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
 event_end_date: 2024-02-26 00:00:00 +01:00
-lieu: Direction interministérielle du numérique - Auditorium Ségur
+lieu: "Direction interministérielle du numérique \nAuditorium Ségur"
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
 - intitule: Modalités
@@ -40,6 +40,7 @@ Au programme :
 *Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM*
 
 * **16h10 : Planifier et accélérer la transition écologique**
+
 Démonstrations d'intrapreneurs des services numériques du ministère de la transition écologique et de la cohésion des territoires et témoignages de la Direction Générale de l'Aménagement, du Logement et de la Nature. 
 
 * **16h35 : L’intrapreneuriat : un levier pour innover au sein des grandes organisations ?**
@@ -47,10 +48,10 @@ Démonstrations d'intrapreneurs des services numériques du ministère de la tra
 *Témoignage d'Annabelle Bignon, co-fondatrice de la startup Maria Schools*
 
 * **16h50 : Justice, intégration et engagement**
+
 Démonstrations de services numériques par les intrapreneurs
 
-* **17h : Certification d’intrapreneurs de Startups d’État
-** 
+* **17h : Certification d’intrapreneurs de Startups d’État** 
 
 * **17h10 : Emploi, progrès et services publics**
 Démonstrations de services numériques par des intrapreneurs 
@@ -67,7 +68,7 @@ Démonstrations de services numériques par des intrapreneurs
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
-Son objectif :**accélérer le développement de services** numériques à fort impact et faciliter la vie de millions d’usagers. 
+Son objectif : **accélérer le développement de services** numériques à fort impact et faciliter la vie de millions d’usagers. 
 
 Une attention particulière est accordée aux services s’inscrivant dans les chantiers prioritaires du Gouvernement. 
 
