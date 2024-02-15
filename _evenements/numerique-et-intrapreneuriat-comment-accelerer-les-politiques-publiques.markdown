@@ -14,7 +14,6 @@ une-ou-diaporama:
 - image: "/uploads/Image-c5d189.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
-event_end_date: 2024-02-26 00:00:00 +01:00
 lieu: "Direction interministérielle du numérique \nAuditorium Ségur"
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
