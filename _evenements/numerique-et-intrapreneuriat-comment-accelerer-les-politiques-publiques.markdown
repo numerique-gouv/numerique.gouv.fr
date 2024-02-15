@@ -23,7 +23,7 @@ champs_informations:
 - intitule: Date
   contenu: 26/02/2024
 - intitule: Horaires
-  contenu: 15h - 18h30
+  contenu: 15h - 19h
 - intitule: Comment y aller ?
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 ---
