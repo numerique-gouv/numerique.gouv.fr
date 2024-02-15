@@ -58,11 +58,11 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 * **Présentation des enjeux de la transformation cyber au sein des forces spéciales**
 
-*Thomas Guillet, Coordonnateur Cyber Marine nationale*
+*Chef d’État Major des Opérations spéciales et CV Thomas Guillet, coordonnateur Cyber Marine nationale*
 
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
 
-![Programme cloud _apres-midi-fc11d6.jpg](/uploads/Programme%20cloud%20_apres-midi-fc11d6.jpg)
+![Programme après-midi.png](/uploads/Programme%20apr%C3%A8s-midi.png)
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
 
