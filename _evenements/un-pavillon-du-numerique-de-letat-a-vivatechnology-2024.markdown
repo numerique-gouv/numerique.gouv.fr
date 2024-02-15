@@ -10,8 +10,8 @@ tags:
 - Startups d'Etat
 - Évènement
 chapeau-text: 'Viva Technology 2024 : l’État français présent massivement au salon
-  de l’innovation technologique pour faire connaître sa stratégie numérique et recruter
-  des professionnels du numérique.'
+  de l’innovation technologique pour faire connaître sa stratégie numérique, recruter
+  des professionnels du numérique et faire connaitre l’offre d’accompagnement de l’État. '
 une-ou-diaporama:
 - image: "/uploads/Viva_Technology_Logo.jpg"
   alternative-textuelle: Viva Technology
@@ -40,7 +40,7 @@ Ne manquez pas leur stand lors de l’événement !
 ## « Pavillon du numérique de l’État »
 
 ### Qui sont présents ?
-Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères Sociaux, la direction du numérique de de l’Agriculture, les directions du numérique du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, le Service d’information du Gouvernement, la direction interministérielle de la transformation publique et la direction générale de l'administration et de la fonction publique.
+Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères Sociaux, la direction du numérique de de l’Agriculture, les directions du numérique du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, le Service d’information du Gouvernement, la direction interministérielle de la transformation publique, la direction générale de l'administration et de la fonction publique et la direction du numérique pour le numérique des Ministères de l’Éducation nationale et de la Jeunesse, de l’Enseignement Supérieur et de la Recherche et du Sport et des Jeux Olympiques et Paralympiques.
 
 ### Programme :
 * Un espace de présentation des ministères par des agents publics et des représentants de Startups d'État.
