@@ -46,7 +46,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 * 9h45 : **Les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne**
 
-***Christine Serrette**, directrice technique adjointe de l'administration fédérale en Allemagne (ITZBund)*
+***Christine Serrette**, directrice technique adjointe du Centre fédéral de technologie de l'information en Allemagne (ITZBund)*
 
 * 10h50 : Stratégie d’accélération Cloud **France 2030**, bilan et perspectives
 
