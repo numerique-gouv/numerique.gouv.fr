@@ -149,10 +149,10 @@ layout: page-annexe
 <h1 class="h3"><b>RH de la filière numérique de l'État</b></h1>
 <div class="wrapper">
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-de-proximite-des-ressources-humaines-et-logistique-hf-reference-2023-1367600/" title="Gestionnaire de proximité des ressources humaines et logistique H/F - Lien externe">Gestionnaire de proximité des ressources humaines et logistique H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-mobilite-et-parcours-reference-2023-1215497/" title="Chargé/e de mission Mobilité et parcours H/F - Lien externe">Chargé/e de mission Mobilité et parcours H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-de-proximite-des-ressources-humaines-et-logistique-hf-reference-2023-1367600/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-mobilite-et-parcours-reference-2023-1215497/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
