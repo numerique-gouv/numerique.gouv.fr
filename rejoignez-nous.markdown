@@ -67,6 +67,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469437/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Entrepreneur / Entrepreneure d'intérêt général – Directeur / Directrice de produit H/F - Lien externe">Entrepreneur / Entrepreneure d'intérêt général – Directeur / Directrice de produit H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
