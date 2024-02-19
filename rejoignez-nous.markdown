@@ -55,6 +55,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1373326/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469435/" title="Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F - Lien externe">Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469435/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
