@@ -92,7 +92,7 @@ function myFunction(id) {
 <br>
 <li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani. Adjoint : Arthur Hatchuel.</li>
   <ul>
-    <li>Animation beta.gouv.fr, chef de pôle : Arthur Hatchuel</li>
+    <li>Animation beta.gouv.fr, chef de pôle : Benjamin Doberset</li>
     <li>Accélération FAST, chef de pôle : Paul Burgun</li>
     <li>Responsables de portefeuilles ministériels, cheffe de pôle : Margot Sanchez</li>
     <li>Coachs produits, chef de pôle : Maël Inizan</li>
