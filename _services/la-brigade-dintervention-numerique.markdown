@@ -15,9 +15,9 @@ La mission de la Brigade est d’accompagner les ministères et les opérateurs 
 ### L’offre de la Brigade d’Intervention numérique
 
 Trois types de dispositifs existent, qui peuvent être combinés :
-💰 Le cofinancement des projets via des guichets
-🏅 L’accompagnement par des experts sur une mission dédiée
-🎓 La formation/sensibilisation des équipes
+<br>💰 Le cofinancement des projets via des guichets
+<br>🏅 L’accompagnement par des experts sur une mission dédiée
+<br>🎓 La formation/sensibilisation des équipes
 
 ### 1. 💰 Le cofinancement des projets via des guichets
 
