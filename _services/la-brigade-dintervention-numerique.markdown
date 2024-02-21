@@ -78,10 +78,10 @@ La Brigade d’Intervention numérique organise des formations/sensibilisations 
 Sensibilisation à l’éco-conception - 1/2 journée ou 1 journée
 
 **Cloud**
-[Terraform](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
+* [Terraform](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
 
-[Kubernetes](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
+* [Kubernetes](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
 
 **Produit**
-Sensibilisation au passage en mode produit 
-*en cours d’élaboration*	
+<br>Sensibilisation au passage en mode produit 
+<br>*en cours d’élaboration*	
