@@ -38,7 +38,8 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 ![CaptureDesign.jpeg](/uploads/CaptureDesign.jpeg)
 
 ***Accessibilité numérique***
-[CaptureAN.PNG](/uploads/CaptureAN.PNG)
+
+
 
 ***Numérique éco-responsable***
 [CaptureNER.PNG](/uploads/CaptureNER.PNG)
