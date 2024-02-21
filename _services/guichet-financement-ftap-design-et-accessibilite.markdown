@@ -36,23 +36,23 @@ Le guichet est ouvert aux :
 <p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
 
 <p>Les projets proposés doivent viser directement l’amélioration de l'expérience utilisateur, et/ou de l’accessibilité aux personnes en situation de handicap, de :</p>
-<ul><li>démarches administratives et services en ligne proposés aux usagers référencés dans l’Observatoire ;</li>
+<ul><li>démarches administratives et services en ligne proposés aux usagers ;
+</li>
 <li>grandes applications interministérielles internes destinées aux agents ;</li>
 <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
 <h3>Exemples d’objectifs et leviers attendus :</h3>
 <ul>
 <li>accélération de la numérisation ;</li>
-<li>amélioration de la satisfaction des usagers  ;</li>
-<li>suppression d'une démarche à travers son automatisation ;</li>
+<li>amélioration de la satisfaction des usagers ;</li>
 <li>simplification du langage ; </li>
 <li>mise en conformité au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li>
 <li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
 <li>intégration d'APIs de l'État et/ou FranceConnect.</li>
 </ul>
-<p>Le guichet pourra en complément financer le commando UX de la DINUM. </p>      
+<p>Les formations à l’accessibilité ne sont pas éligibles dans les financements</p>      
 <h3>Taille attendue des projets :</h3>
-<p>Entre 50 000 € et 100 000€ TTC</p>
+<p>Entre 50 000 € et 500 000€ TTC</p>
 
 <h3>Les projets privilégiés</h3>
 <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
