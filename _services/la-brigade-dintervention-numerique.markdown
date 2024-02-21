@@ -56,7 +56,27 @@ La Brigade d’Intervention numérique organise des formations/sensibilisations 
 
 **Design/Recherche utilisateur**
 
-[Cadrer la recherche utilisateurs](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-cadrer-recherche-utilisateur/) - 1 journée
+* [Cadrer la recherche utilisateurs](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-cadrer-recherche-utilisateur/) - 1 journée
 
-[Test usagers dans la pratique](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/) - 1 journée
+* [Test usagers dans la pratique](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/) - 1 journée
 
+**Accessibilité**
+* [Créer un pdf accessible](https://design.numerique.gouv.fr/formations/accessibilite/atelier-pdf-accessible/) - 1 journée
+
+* [Accessibilité dans la pratique](https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-pratique/) - 1 journée
+
+* [Vérifier l’accessibilité](https://design.numerique.gouv.fr/formations/accessibilite/atelier-coder-accessible/) - 1 journée
+
+* [Design & accessibilité](https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/) - 1 journée
+
+**Numérique éco-responsable**
+Sensibilisation à l’éco-conception - 1/2 journée ou 1 journée
+
+**Cloud**
+[Terraform](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
+
+[Kubernetes](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
+
+**Produit**
+Sensibilisation au passage en mode produit 
+*en cours d’élaboration*	
