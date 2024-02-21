@@ -1,6 +1,7 @@
 ---
 title: Conseil et accompagnement au cadrage et pilotage de projets numériques
 date: 2019-12-19 12:12:00 +01:00
+published: false
 tags:
 - offre de services
 - accompagnement
