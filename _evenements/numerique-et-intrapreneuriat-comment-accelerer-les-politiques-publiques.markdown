@@ -42,7 +42,7 @@ Au programme :
 
 * **16h10 : Démonstrations des lauréats du FAST**
 
-* *Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
+ * * Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
 
 *3 démonstrations de services numériques par des intrapreneurs*
 
