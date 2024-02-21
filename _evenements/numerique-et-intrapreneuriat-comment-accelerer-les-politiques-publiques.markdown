@@ -14,14 +14,14 @@ une-ou-diaporama:
 - image: "/uploads/Image-c5d189.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
-lieu: "Direction interministérielle du numérique \nAuditorium Ségur"
+lieu: "Direction interministérielle du numérique \n\nAuditorium Ségur"
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
 - intitule: Modalités
   contenu: S'inscrire
   lien: https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737?aff=oddtdtcreator
 - intitule: Date
-  contenu: 26/02/2024
+  contenu: 26 février 2024
 - intitule: Horaires
   contenu: 15h - 18h
 - intitule: Comment y aller ?
