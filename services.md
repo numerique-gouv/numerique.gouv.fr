@@ -13,7 +13,7 @@ publications:
     numériques'
   url: "/services/guichet-financement-ftap-design-et-accessibilite/"
   une-ou-diaporama:
-  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-02.png"
+  - image: "/uploads/Nos%20Services%20-%20Guichet%20Design.png"
 - title: 'Guichet de financement : Adoption du Cloud de confiance'
   url: "/services/guichet-financement-ftap-adoption-du-cloud-computing/ "
   une-ou-diaporama:
