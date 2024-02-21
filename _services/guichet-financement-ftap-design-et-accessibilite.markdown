@@ -70,19 +70,4 @@ Les projets lauréats bénéficieront d’un cofinancement **jusqu’à 100% du 
 
 En complément de ce financement, la DINUM pourra, si cela lui semble pertinent, fournir un accompagnement humain additionnel.
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-<p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
-<ol><li><strong>Importance de la démarche pour les citoyens, entreprises et agents</strong> (volumétrie d’usage, etc.) ;</li>
-<li><strong>Existence de marges d’améliorations</strong> (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
-<li><strong>Gouvernance et organisation de l’équipe</strong> (modalités de priorisation des travaux, façon dont les experts UX / recherche utilisateur / accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
-<li><strong>Économies budgétaires attendues</strong> (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
-<li><strong>Mise en place de recherche usager régulière</strong> (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
-<li><strong>Agilité de la démarche, premiers objectifs visés dans des délais courts</strong> (< 6 mois). </li></ol>
-
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
-
-<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
-<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
-<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
-</figure><p>Ce guichet s'inscrit dans le cadre du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a>, piloté par la direction interministérielle de la transformation publique (DITP), avec la DINUM, sous l'égide du ministère de la Transformation et de la Fonction publiques.</p><p style="margin-bottom: 0.5em">Le FTAP investit de manière inédite pour soutenir les projets innovants des administrations de l’État. Depuis 2017, 120 projets d’intérêt général ont été financés au service de la transformation publique et des politiques prioritaires du Gouvernement. L’objectif : améliorer le service aux usagers, l’environnement de travail des agents et l’efficacité de l’action publique.</p>
-</div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/10214da4-defd-43b5-8589-2bd05471ef82" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
