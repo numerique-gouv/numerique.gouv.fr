@@ -34,9 +34,9 @@ Guichet Design Accessibilité : https://www.numerique.gouv.fr/services/guichet-f
 Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, sur différentes expertises.
 
 ***Design/Recherche utilisateur***
-[CaptureD.PNG](/uploads/CaptureD.PNG)
 
 ![CaptureD.jpeg](/uploads/CaptureD.jpeg)
+[CaptureDesign.JPG](/uploads/CaptureDesign.JPG)
 
 ***Accessibilité numérique***
 [CaptureAN.PNG](/uploads/CaptureAN.PNG)
