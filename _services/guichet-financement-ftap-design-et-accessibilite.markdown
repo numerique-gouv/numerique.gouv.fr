@@ -17,7 +17,7 @@ chapeau-text: Vous êtes une administration d’État ou un opérateur de l’É
   (CNH) et du Fonds pour l’insertion des personnes handicapées dans la Fonction Publique
   (FIPHFP).
 une:
-  image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-01.png"
+  image: "/uploads/Design%20sans%20titre%20(1).png"
 layout: rgaa
 ---
 
