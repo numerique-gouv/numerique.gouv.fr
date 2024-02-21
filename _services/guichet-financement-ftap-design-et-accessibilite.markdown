@@ -10,11 +10,12 @@ tags:
 - FTAP
 - Design
 - Accessibilité numérique
-chapeau-text: Vous êtes une administration d’État ou un opérateur de l'État ? Obtenez
+chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour améliorer l’expérience utilisateur et l’accessibilité aux
   personnes handicapées d’un de vos services ou produits numériques, grâce à ce guichet
-  piloté par la DINUM dans le cadre du [Fonds pour la transformation de l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
-  "Fonds pour la transformation de l'action publique - Lien externe").
+  piloté par la DINUM dans le cadre des fonds de la Conférence nationale du handicap
+  (CNH) et du Fonds pour l’insertion des personnes handicapées dans la Fonction Publique
+  (FIPHFP).
 une:
   image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-01.png"
 layout: rgaa
@@ -24,7 +25,7 @@ La qualité de la relation entre les citoyens et l’administration passe par un
 
 Le présent guichet thématique est dédié à l’amélioration du design, de l’expérience utilisateur des services publics numériques, et de la mise à niveau de leur accessibilité aux personnes en situation de handicap.
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/10214da4-defd-43b5-8589-2bd05471ef82" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
