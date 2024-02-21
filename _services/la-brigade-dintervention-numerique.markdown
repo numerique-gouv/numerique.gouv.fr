@@ -31,7 +31,7 @@ Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez 
 
 * [Guichet FTAP Numérique éco-responsable](https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/)
 
-* [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-ftap-design-et-accessibilite/)
+* [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/)
 
 ### 2. 🏅 L’accompagnement par des experts
 Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, sur différentes expertises.
