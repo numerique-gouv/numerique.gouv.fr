@@ -58,7 +58,7 @@ Au programme :
 
 * **17h05 : Certification d’intrapreneurs de Startups d’État** 
 
-* **17h20 : L’intrapreneuriat : un levier pour innover au sein des grandes organisations**
+* **17h20 : L’intrapreneuriat, un levier pour innover au sein des grandes organisations**
 
 *Témoignage d’Annabelle Bignon, co-fondatrice de la startup Maria Schools*
 
@@ -66,6 +66,7 @@ Au programme :
 
 *Par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)*
 
+___
 Le nombre de places pour cet événement est limité, l'inscription est obligatoire. 
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
