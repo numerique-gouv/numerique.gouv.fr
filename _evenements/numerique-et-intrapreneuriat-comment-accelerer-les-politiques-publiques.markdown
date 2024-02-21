@@ -42,7 +42,7 @@ Au programme :
 
 * **16h10 : Démonstrations des lauréats du FAST**
 
-Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
+* *Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
 
 *3 démonstrations de services numériques par des intrapreneurs*
 
@@ -54,7 +54,7 @@ Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma C
 
 *3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
 
-* **16h35 : Table ronde avec Philippe Mazenc Directeur générale de l'aménagement, du logement et de la nature et Samuel Goldszmidt responsable d’incubateur (DGALN)**
+* **16h35 : Table ronde** avec Philippe Mazenc Directeur générale de l'aménagement, du logement et de la nature et Samuel Goldszmidt responsable d’incubateur (DGALN)
 
 * **17h05 : Certification d’intrapreneurs de Startups d’État** 
 
