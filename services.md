@@ -40,7 +40,7 @@ publications:
   une-ou-diaporama:
   - image: "/uploads/2022_05_13_Femme-numerique_740x500.jpg"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
-  url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
+  url: "/services/la-brigade-dintervention-numerique/"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
 - title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
