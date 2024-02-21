@@ -29,8 +29,8 @@ Le présent guichet thématique est dédié à l’amélioration du design, de l
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
-* administrations d’État ;
-* opérateurs de l’État.
+* **administrations d’État** ;
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
