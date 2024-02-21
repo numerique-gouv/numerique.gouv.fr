@@ -13,7 +13,7 @@ publications:
     numériques'
   url: "/services/guichet-financement-ftap-design-et-accessibilite/"
   une-ou-diaporama:
-  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-02.png"
+  - image: "/uploads/Nos%20Services%20-%20Guichet%20Design.png"
 - title: 'Guichet de financement : Adoption du Cloud de confiance'
   url: "/services/guichet-financement-ftap-adoption-du-cloud-computing/ "
   une-ou-diaporama:
@@ -39,8 +39,8 @@ publications:
   url: "/services/ada/"
   une-ou-diaporama:
   - image: "/uploads/2022_05_13_Femme-numerique_740x500.jpg"
-- title: Conseil et accompagnement au cadrage et pilotage de projets numériques
-  url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
+- title: La Brigade d’Intervention Numérique
+  url: "/services/la-brigade-dintervention-numerique/"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
 - title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation

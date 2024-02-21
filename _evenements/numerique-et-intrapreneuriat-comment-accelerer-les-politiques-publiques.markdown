@@ -14,16 +14,16 @@ une-ou-diaporama:
 - image: "/uploads/Image-c5d189.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-02-26 00:00:00 +01:00
-lieu: "Direction interministérielle du numérique \nAuditorium Ségur"
+lieu: "Direction interministérielle du numérique \n\nAuditorium Ségur"
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
 - intitule: Modalités
   contenu: S'inscrire
   lien: https://www.eventbrite.com/e/billets-numerique-et-intrapreneuriat-comment-accelerer-les-politiques-publiques-799463796737?aff=oddtdtcreator
 - intitule: Date
-  contenu: 26/02/2024
+  contenu: 26 février 2024
 - intitule: Horaires
-  contenu: 15h - 19h
+  contenu: 15h - 18h
 - intitule: Comment y aller ?
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 ---
@@ -38,34 +38,36 @@ Au programme :
 
 * **16h : Bilan de l’année 2023 de l’incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM et présentation des Startups d’État à impact national**
 
-*Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM*
+*Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) (DINUM)*
 
-* **16h10 : Planifier et accélérer la transition écologique**
+* **16h10 : Démonstrations des lauréats du FAST**
 
-Démonstrations d'intrapreneurs des services numériques du ministère de la transition écologique et de la cohésion des territoires et témoignages de la Direction Générale de l'Aménagement, du Logement et de la Nature. 
+•Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
 
-* **16h35 : L’intrapreneuriat : un levier pour innover au sein des grandes organisations ?**
+*3 démonstrations de services numériques par des intrapreneurs*
 
-*Témoignage d'Annabelle Bignon, co-fondatrice de la startup Maria Schools*
+•Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
 
-* **16h50 : Justice, intégration et engagement**
+*4 démonstrations de services numériques par des intrapreneurs*
 
-Démonstrations de services numériques par les intrapreneurs
+•Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
 
-* **17h : Certification d’intrapreneurs de Startups d’État** 
+*3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
 
-* **17h10 : Emploi, progrès et services publics**
-Démonstrations de services numériques par des intrapreneurs 
+* **16h35 : Table ronde** avec Philippe Mazenc Directeur générale de l'aménagement, du logement et de la nature et Samuel Goldszmidt responsable d’incubateur (DGALN)
 
-* **17h25 : Annonce des lauréats du FAST 14**
+* **17h05 : Certification d’intrapreneurs de Startups d’État** 
 
-* **17h30 : Conclusion et présentation de l’offre de la DINUM, notamment le programme Entrepreneurs d’intérêt général**
+* **17h20 : L’intrapreneuriat, un levier pour innover au sein des grandes organisations**
+
+*Témoignage d’Annabelle Bignon, co-fondatrice de la startup Maria Schools*
+
+* **17h45 : Conclusion et présentation de l’offre de la DINUM, notamment le programme Entrepreneurs d’intérêt général et annonce des lauréats du FAST 14**
 
 *Par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)*
 
-* **17h40 : Échanges avec le réseau des incubateurs** 
-
-*Le nombre de places pour cet événement est limité, l'inscription est obligatoire* 
+___
+Le nombre de places pour cet événement est limité, l'inscription est obligatoire. 
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
