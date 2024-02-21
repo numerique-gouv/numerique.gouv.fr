@@ -11,7 +11,7 @@ publications:
   - image: "/uploads/2-b51af4.png"
 - title: 'Guichet de financement : Design et accessibilité des produits et services
     numériques'
-  url: "/services/guichet-financement-ftap-design-et-accessibilite/"
+  url: "/services/guichet-financement-design-et-accessibilite/"
   une-ou-diaporama:
   - image: "/uploads/Nos%20Services%20-%20Guichet%20Design.png"
 - title: 'Guichet de financement : Adoption du Cloud de confiance'
