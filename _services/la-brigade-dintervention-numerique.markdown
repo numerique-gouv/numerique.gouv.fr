@@ -7,6 +7,7 @@ chapeau-text: 'La Brigade d’Intervention Numérique de la DINUM regroupe des e
   de différents domaines du numérique : recherche utilisateurs, design, accessibilité
   numérique, numérique éco-responsable, cloud, conseil en transformation numérique,
   mentorat de directeur de projet.'
+layout: rgaa
 ---
 
 La mission de la Brigade est d’accompagner les ministères et les opérateurs afin que leurs produits numériques soient conçus/développés/opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
