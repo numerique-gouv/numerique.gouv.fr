@@ -42,15 +42,15 @@ Au programme :
 
 * **16h10 : Démonstrations des lauréats du FAST**
 
- * * Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
+•Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
 
 *3 démonstrations de services numériques par des intrapreneurs*
 
-Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
+•Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
 
 *4 démonstrations de services numériques par des intrapreneurs*
 
-Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
+•Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
 
 *3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
 
