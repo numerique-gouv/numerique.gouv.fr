@@ -74,7 +74,7 @@ La Brigade d’Intervention numérique organise des formations/sensibilisations 
 * [Design & accessibilité](https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/) - 1 journée
 
 **Numérique éco-responsable**
-Sensibilisation à l’éco-conception - 1/2 journée ou 1 journée
+* [Sensibilisation à l’éco-conception](https://design.numerique.gouv.fr/formations/ecoconception/) - 1/2 journée ou 1 journée
 
 **Cloud**
 * [Terraform](mailto:infonuage.dinum@modernisation.gouv.fr) - 1 à 2 journées
