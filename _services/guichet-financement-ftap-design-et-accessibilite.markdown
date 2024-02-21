@@ -13,9 +13,9 @@ tags:
 chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour améliorer l’expérience utilisateur et l’accessibilité aux
   personnes handicapées d’un de vos services ou produits numériques, grâce à ce guichet
-  piloté par la DINUM dans le cadre des fonds de la Conférence nationale du handicap
-  (CNH) et du Fonds pour l’insertion des personnes handicapées dans la Fonction Publique
-  (FIPHFP).
+  piloté par la DINUM dans le cadre des fonds de la **Conférence nationale du handicap**
+  (CNH) et du **Fonds pour l’insertion des personnes handicapées dans la Fonction
+  Publique** (FIPHFP).
 une:
   image: "/uploads/Design%20sans%20titre%20(1).png"
 layout: rgaa
@@ -29,8 +29,8 @@ Le présent guichet thématique est dédié à l’amélioration du design, de l
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
-* **administrations d’État** ;
-* **opérateurs de l’État**.
+* administrations d’État ;
+* opérateurs de l’État.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
