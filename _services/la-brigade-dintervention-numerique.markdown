@@ -48,4 +48,14 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 [CaptureCTN-6f3133.PNG](/uploads/CaptureCTN-6f3133.PNG)
 
 ***Mentorat de directeur/directrice de projet***
+[CaptureMDP.PNG](/uploads/CaptureMDP.PNG)
+
+### 3. 🎓 La formation/sensibilisation des équipes
+La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
+
+**Design/Recherche utilisateur**
+
+[Cadrer la recherche utilisateurs](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-cadrer-recherche-utilisateur/) - 1 journée
+
+[Test usagers dans la pratique](https://design.numerique.gouv.fr/formations/recherche-utilisateur/atelier-test-usager/) - 1 journée
 
