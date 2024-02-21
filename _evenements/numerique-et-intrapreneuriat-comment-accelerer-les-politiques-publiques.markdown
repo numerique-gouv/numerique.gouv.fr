@@ -42,14 +42,15 @@ Au programme :
 
 * **16h10 : Démonstrations des lauréats du FAST**
 
-* * Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
+Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
 
 *3 démonstrations de services numériques par des intrapreneurs*
 
-* * Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
+Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
+
 *4 démonstrations de services numériques par des intrapreneurs*
 
-* * Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
+Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
 
 *3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
 
@@ -65,9 +66,7 @@ Au programme :
 
 *Par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)*
 
-* **17h55 : Échanges avec le réseau des incubateurs** 
-
-*Le nombre de places pour cet événement est limité, l'inscription est obligatoire* 
+Le nombre de places pour cet événement est limité, l'inscription est obligatoire. 
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
