@@ -23,12 +23,11 @@ Trois types de dispositifs existent, qui peuvent être combinés :
 
 Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez un cofinancement pour vos projets numériques.
 
-[Guichet FTAP Cloud](https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/)
+* [Guichet FTAP Cloud](https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/)
 
-[Guichet FTAP Numérique éco-responsable](https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/)
+* [Guichet FTAP Numérique éco-responsable](https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/)
 
-Guichet Design Accessibilité : https://www.numerique.gouv.fr/services/guichet-financement-ftap-design-et-accessibilite/
-⚠ Remplacer le lien vers celui du nouveau guichet.
+* [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-ftap-design-et-accessibilite/)
 
 ### 2. 🏅 L’accompagnement par des experts
 Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, sur différentes expertises.
