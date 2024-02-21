@@ -38,20 +38,23 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 ![CaptureDesign.jpeg](/uploads/CaptureDesign.jpeg)
 
 ***Accessibilité numérique***
-
-
+![CaptureAccessibiliteNum.jpeg](/uploads/CaptureAccessibiliteNum.jpeg)
 
 ***Numérique éco-responsable***
-[CaptureNER.PNG](/uploads/CaptureNER.PNG)
+
+![CaptureNumEco.jpeg](/uploads/CaptureNumEco.jpeg)
 
 ***Cloud***
-[CaptureCTN.PNG](/uploads/CaptureCTN.PNG)
+
+![CaptureCloud.jpeg](/uploads/CaptureCloud.jpeg)
 
 ***Conseil en transformation numérique***
-[CaptureCTN-6f3133.PNG](/uploads/CaptureCTN-6f3133.PNG)
+
+![CaptureConseilTransfoNum.jpeg](/uploads/CaptureConseilTransfoNum.jpeg)
 
 ***Mentorat de directeur/directrice de projet***
-[CaptureMDP.PNG](/uploads/CaptureMDP.PNG)
+
+![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
 ### 3. 🎓 La formation/sensibilisation des équipes
 La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
