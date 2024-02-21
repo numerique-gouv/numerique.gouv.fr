@@ -66,9 +66,7 @@ L'ensemble des projets doivent générer des économies budgétaires et montrer 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
-Les projets lauréats bénéficieront d’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, 50% restant à la charge de l’administration porteuse du projet.
-
-Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.
+Les projets lauréats bénéficieront d’un cofinancement **jusqu’à 100% du coût de mise en accessibilité ou d’amélioration de l’expérience utilisateur**.
 
 En complément de ce financement, la DINUM pourra, si cela lui semble pertinent, fournir un accompagnement humain additionnel.
 
@@ -82,7 +80,6 @@ En complément de ce financement, la DINUM pourra, si cela lui semble pertinent,
 <li><strong>Agilité de la démarche, premiers objectifs visés dans des délais courts</strong> (< 6 mois). </li></ol>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
-
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
