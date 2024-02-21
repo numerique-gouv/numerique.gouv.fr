@@ -7,6 +7,10 @@ chapeau-text: 'La Brigade d’Intervention Numérique de la DINUM regroupe des e
   de différents domaines du numérique : recherche utilisateurs, design, accessibilité
   numérique, numérique éco-responsable, cloud, conseil en transformation numérique,
   mentorat de directeur de projet.'
+une:
+  image: "/uploads/offre-PI2_transpa-une.png"
+une-ou-diaporama:
+  image: "/uploads/offre-PI2_transpa-une.png"
 layout: rgaa
 ---
 
