@@ -35,7 +35,6 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 
 ***Design/Recherche utilisateur***
 
-![CaptureD.jpeg](/uploads/CaptureD.jpeg)
 ![CaptureDesign.jpeg](/uploads/CaptureDesign.jpeg)
 
 ***Accessibilité numérique***
