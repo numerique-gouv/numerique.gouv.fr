@@ -1,7 +1,6 @@
 ---
 title: La DINUM au salon national de l'emploi Choisir le service public
 date: 2024-02-22 11:45:00 +01:00
-published: false
 categories:
 - Salon de l'emploi
 tags:
