@@ -81,7 +81,7 @@ Chaque année, l'État recrute des professionnels du numérique aux compétences
 
 [Consulter les offres de la DINUM](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668//)
 
-[Consulter toutes les offres d'emploi dans le numérique au sein de l'État](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)</p>
+[Consulter toutes les offres d'emploi dans le numérique au sein de l'État](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)</p></div>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 
