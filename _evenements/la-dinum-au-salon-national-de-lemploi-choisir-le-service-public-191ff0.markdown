@@ -1,0 +1,67 @@
+---
+title: La DINUM au salon national de l'emploi Choisir le service public
+date: 2024-02-22 11:45:00 +01:00
+published: false
+categories:
+- Salon de l'emploi
+tags:
+- agents publics
+- Numérique
+- Environnement de travail numérique de l'agent
+chapeau-text: Pour la 2ème année, la direction interministérielle du numérique (DINUM)
+  sera présente au [salon national *Choisir le service public*](https:/www.salon-choisirleservicepublic.fr//),
+  le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première
+  fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique
+  de l'État.
+---
+
+Les objectifs : attirer des professionnels du numérique au sein de la fonction publique afin de réussir les grands enjeux de transformation et faire se rencontrer agents publics et professionnels de la tech. 
+
+## Plus de 4000 postes à pourvoir au sein de l'État 
+
+Au sein d'un stand unique dédié au numérique de l'État, seront présents, aux côtés de la direction interministérielle du numérique :
+ 
+* la direction du numérique du ministère de la Transition Écologique et de la Cohésion des Territoires
+
+* la direction de la transformation numérique du ministère de l’Interieur
+
+* la direction du numérique du ministère de l’Éducation nationale et de la Jeunesse
+
+* la direction du numérique du ministère de l’Europe et des Affaires étrangères
+
+* les employeurs du numérique du ministère des Armées
+
+## Au programme : 
+
+* Temps d’échanges avec les recruteurs, les agents publics du numérique et les candidats
+
+* Informations sur les modes de recrutements : l'apprentissage, les contrats en CDD ou en CDI ainsi que les concours et les dispositifs pour s’y préparer, 
+
+* Conseils personnalisés,
+
+* Pitch thématiques portant sur l’attractivité des métiers tech dans la fonction publique
+
+* Des jobs-dating 
+
+#### Nouveauté : jobs-dating pour accélérer les recrutements au sein de l'État
+
+En partenariat avec France Travail, des jobs-dating sont proposés au sein d'un espace dédié.
+
+**Inscription en ligne et rencontre sur place :**
+
+> Consultez les offres disponibles sur le site d'inscription du salon
+> Postulez aux postes qui vous intéressent
+> Planifiez un rendez-vous avec les recruteurs pour le 12 mars
+> Rencontrez les recruteurs en personne sur le salon, pour établir un premier contact
+
+Ne manquez pas cette occasion unique de décrocher un emploi dans le numérique de l'État !
+
+<div class="encadre noir" style="margin-bottom:40px">
+<br>
+<p><b>Rejoignez-nous</b>
+<br>
+<li>**Chaque année, l'État recrute des professionnels du numérique aux compétences et aux parcours variés (jeunes diplômés, salariés issus du secteur privé, agents publics ou personne en recherche d’emploi) à Paris et en région.**
+
+[Consulter les offres de la DINUM](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668//)
+
+[Consulter toutes les offres d'emploi dans le numérique au sein de l'État](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)</li>
