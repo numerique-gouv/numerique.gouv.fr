@@ -52,9 +52,9 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 *Adrien Laroche, directeur de projets économie de la donnée, DGE*
 
-* 11h10 : **Retour d’expérience d’EDF sur sa transformation Cloud**, couvrant tous les aspects des politiques d’infrastructure aux enjeux d’acculturation
+* 11h10 : **La stratégie Cloud d’EDF, des enjeux liés à la souveraineté des données aux transformations induites dans l’Entreprise**
 
-*Vincent Pertuy, direction des Systèmes d’information, EDF*
+*Vincent Pertuy, pilote de la stratégie Cloud d’EDF à la Direction des Systèmes d’information, EDF*
 
 * **12h : Présentation des enjeux de la transformation cyber au sein des forces spéciales**
 
