@@ -9,7 +9,7 @@ tags:
 - Environnement de travail numérique de l'agent
 chapeau-text: |-
   <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
-  Pour la 2ème année, la direction interministérielle du numérique (DINUM) sera présente au [salon national ](https:/www.salon-choisirleservicepublic.fr//)*[Choisir le service public](https:/www.salon-choisirleservicepublic.fr//)*, le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique de l'État.
+  Pour la 2ème année, la direction interministérielle du numérique (DINUM) sera présente au salon national *[Choisir le service public](https:/www.salon-choisirleservicepublic.fr//)*, le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique de l'État.
 une-ou-diaporama:
 - image: "/uploads/salon-csp-24-internet-16-9.png"
   alternative-textuelle: Image décorative
@@ -77,11 +77,10 @@ Ne manquez pas cette occasion unique de décrocher un emploi dans le numérique 
 
 <div class="encadre noir" style="margin-bottom:40px"><br><p><b>Rejoignez-nous</b>**<br>
 
-<div class="encadre noir" style="margin-bottom:40px">
-<br>
-<p>**Rejoignez-nous**
 Chaque année, l'État recrute des professionnels du numérique aux compétences et aux parcours variés (jeunes diplômés, salariés issus du secteur privé, agents publics ou personne en recherche d’emploi) à Paris et en région.**
+
 [Consulter les offres de la DINUM](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668//)
+
 [Consulter toutes les offres d'emploi dans le numérique au sein de l'État](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)</p>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
