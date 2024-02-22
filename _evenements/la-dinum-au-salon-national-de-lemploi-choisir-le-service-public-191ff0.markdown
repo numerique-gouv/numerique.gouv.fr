@@ -11,6 +11,25 @@ tags:
 chapeau-text: |-
   <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form"class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
   Pour la 2ème année, la direction interministérielle du numérique (DINUM) sera présente au [salon national *Choisir le service public*](https:/www.salon-choisirleservicepublic.fr//), le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique de l'État.
+une-ou-diaporama:
+- image: "/uploads/salon-csp-24-internet-16-9.png"
+  alternative-textuelle: Image décorative
+event_start_date: 2024-03-12 00:00:00 +01:00
+lieu: Cité internationale universitaire
+adresse: 17 boulevard Jourdan 75014 PARIS
+champs_informations:
+- intitule: Modalités
+  contenu: Inscription gratuite et obligatoire
+  lien: https://www.salon-choisirleservicepublic.fr/fr/registration-form
+- intitule: Date
+  contenu: 12 mars 2024
+- intitule: Horaires
+  contenu: '9h30 - 18h30 '
+- intitule: Comment y aller ?
+  contenu: 'Tram T3a : Cité Universitaire / Bus ligne 21 : Cité Universitaire / RER
+    B : Gentilly ou Cité Universitaire'
+- intitule: Plus d'informations
+  contenu: salon.emploi@fonction-publique.gouv.fr
 ---
 
 Les objectifs : attirer des professionnels du numérique au sein de la fonction publique afin de réussir les grands enjeux de transformation et faire se rencontrer agents publics et professionnels de la tech. 
