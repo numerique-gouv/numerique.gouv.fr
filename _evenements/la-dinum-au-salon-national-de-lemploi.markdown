@@ -89,7 +89,7 @@ Chaque année, l'État recrute des professionnels du numérique aux compétences
 
 * Dans le but de fluidifier les recrutements, **un référentiel de rémunération a été publié le 3 janvier 2024** par la circulaire n°6434/SG de la Première ministre. Il fixe des seuils de salaires pour les 55 métiers du numérique identifiés, selon 4 niveaux d’expérience.
 
-* Dans cette même dynamique, **la circulaire préconise la primo-CDIsation pour les métiers les plus en tension** afin de renforcer drastiquement l’attractivité de la filière numérique de l’Etat et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI sera donc privilégiée et facilitée pour encourager les mobilités.**
+* Dans cette même dynamique, **la circulaire préconise la primo-CDIsation pour les métiers les plus en tension** afin de renforcer drastiquement l’attractivité de la filière numérique de l’État et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI sera donc privilégiée et facilitée pour encourager les mobilités.**
 
 [Consulter le référentiel et la circulaire](https://www.numerique.gouv.fr/publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/)
 
