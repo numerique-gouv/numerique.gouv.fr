@@ -8,11 +8,9 @@ tags:
 - agents publics
 - Numérique
 - Environnement de travail numérique de l'agent
-chapeau-text: Pour la 2ème année, la direction interministérielle du numérique (DINUM)
-  sera présente au [salon national *Choisir le service public*](https:/www.salon-choisirleservicepublic.fr//),
-  le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première
-  fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique
-  de l'État.
+chapeau-text: |-
+  <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form"class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+  Pour la 2ème année, la direction interministérielle du numérique (DINUM) sera présente au [salon national *Choisir le service public*](https:/www.salon-choisirleservicepublic.fr//), le 12 mars 2024, à la Cité internationale universitaire de Paris et pour la première fois avec 5 partenaires ministériels au sein d'un stand unique portant sur le numérique de l'État.
 ---
 
 Les objectifs : attirer des professionnels du numérique au sein de la fonction publique afin de réussir les grands enjeux de transformation et faire se rencontrer agents publics et professionnels de la tech. 
@@ -65,3 +63,17 @@ Ne manquez pas cette occasion unique de décrocher un emploi dans le numérique 
 [Consulter les offres de la DINUM](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/organisme/10668//)
 
 [Consulter toutes les offres d'emploi dans le numérique au sein de l'État](http://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)</li>
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form"class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+
+## Rémunération, primo-CDIsation, portabilité des CDI : des avancées majeures pour attirer des professionnels du numérique et accélérer les recrutements au sein de l'État : 
+
+* Dans le but de fluidifier les recrutements, **un référentiel de rémunération a été publié le 3 janvier 2024** par la circulaire n°6434/SG de la Première ministre. Il fixe des seuils de salaires pour les 55 métiers du numérique identifiés, selon 4 niveaux d’expérience. 
+
+* Dans cette même dynamique, **la circulaire préconise la primo-CDIsation pour les métiers les plus en tension** afin de renforcer drastiquement l’attractivité de la filière numérique de l’Etat et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI sera donc privilégiée et facilitée pour encourager les mobilités.**
+
+[Consulter le référentiel et la circulaire](https://www.numerique.gouv.fr/publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/)
+
+*Le stand interministériel dédié au numérique de l'État est piloté par la direction interministérielle du numérique (DINUM) pour le compte de l'interministériel. Cette action s'inscrit dans le cadre de la priorité de la stratégie numérique de de l'État : "renforcer significativement les compétences numériques au sein de l’État".*
+
+[En savoir plus sur la stratégie numérique de l'État et la DINUM](https://www.numerique.gouv.fr/dinum/)
