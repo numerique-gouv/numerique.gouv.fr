@@ -21,7 +21,7 @@ Trois types de dispositifs existent, qui peuvent être combinés :
 <br>L’accompagnement par des experts sur une mission dédiée
 <br>La formation/sensibilisation des équipes
 
-### 1. Le cofinancement des projets via des guichets
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">1. Le cofinancement des projets via des guichets</h1>
 
 Vous êtes une administration d’État ou un opérateur de l’État ? La DINUM pilote plusieurs guichets pour vous accompagner dans le financement de vos projets numériques.
 
@@ -33,7 +33,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 * [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/)
 
-### 2. L’accompagnement par des experts
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">2. L’accompagnement par des experts</h1>
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
@@ -60,7 +60,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 ![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
-### 3. La formation/sensibilisation des équipes
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes</h1>
 
 La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
