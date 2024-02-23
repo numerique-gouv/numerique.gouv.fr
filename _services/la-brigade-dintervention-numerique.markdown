@@ -143,6 +143,10 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
   </tbody>
 </table>
 
+<a href="https://ecoresponsable.numerique.gouv.fr/" title="En savoir plus sur l'accessibilité - Lien externe">En savoir plus sur le numérique éco-responsable</a>
+
+<div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
+
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
