@@ -17,9 +17,9 @@ layout: rgaa
 La Brigade d’Intervention Numérique de la DINUM accompagne les ministères et les opérateurs afin que leurs produits numériques soient conçus, développés et opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
 
 Trois types de dispositifs existent, qui peuvent être combinés :
-<ul><br>Le cofinancement des projets via des guichets
-<ul><br>L’accompagnement par des experts sur une mission dédiée
-<ul><br>La formation/sensibilisation des équipes
+<ul><br>Le cofinancement des projets via des guichets</ul>
+<ul><br>L’accompagnement par des experts sur une mission dédiée</ul>
+<ul><br>La formation/sensibilisation des équipes</ul>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">1. Le cofinancement des projets via des guichets</h1>
 
