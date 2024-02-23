@@ -45,9 +45,5 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 <div class="encadre noir" style="margin-bottom:40px"><h4>
-Par où commencer &nbsp;?</h4> <ul> <li><strong>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu
+Par où commencer &nbsp;?</h4> <ul> <li><strong>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu</li> </ul></div>
 
-redirect=https%3A%2F%2Fosmose.numerique.gouv.fr%2Fjcms%2Fp_3503877%2Ffr%2Fl-adoption-du-cloud" title="ce lien">ce lien</a> puis en cliquant sur le bouton « Je m’inscris ».</li> <li><strong>Vous ne disposez pas de compte Osmose&nbsp;?</strong> Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr">infonuage.dinum@modernisation.gouv.fr</a> pour demander la création de votre compte.</li> </ul></div>
-
-Par où commencer :
-Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu
