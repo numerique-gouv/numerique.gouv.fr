@@ -73,7 +73,7 @@ Design/Recherche utilisateur
 
 <a href="https://design.numerique.gouv.fr/design-numerique/" title="En savoir plus sur le design - Lien externe">En savoir plus sur le design</a>
 
-<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a></div>
 
 <br>Accessibilité numérique
 <br>
