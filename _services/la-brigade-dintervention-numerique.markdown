@@ -19,11 +19,11 @@ La mission de la Brigade est d’accompagner les ministères et les opérateurs 
 ### L’offre de la Brigade d’Intervention numérique
 
 Trois types de dispositifs existent, qui peuvent être combinés :
-<br>💰 Le cofinancement des projets via des guichets
-<br>🏅 L’accompagnement par des experts sur une mission dédiée
-<br>🎓 La formation/sensibilisation des équipes
+<br>Le cofinancement des projets via des guichets
+<br>L’accompagnement par des experts sur une mission dédiée
+<br>La formation/sensibilisation des équipes
 
-### 1. 💰 Le cofinancement des projets via des guichets
+### 1. Le cofinancement des projets via des guichets
 
 Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez un cofinancement pour vos projets numériques.
 
@@ -33,7 +33,7 @@ Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez 
 
 * [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/)
 
-### 2. 🏅 L’accompagnement par des experts
+### 2. L’accompagnement par des experts
 Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, sur différentes expertises.
 
 ***Design/Recherche utilisateur***
@@ -59,7 +59,7 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 
 ![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
-### 3. 🎓 La formation/sensibilisation des équipes
+### 3. La formation/sensibilisation des équipes
 La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
 **Design/Recherche utilisateur**
