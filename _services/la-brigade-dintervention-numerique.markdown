@@ -31,7 +31,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 <div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/" class="button">Guichet FTAP Numérique éco-responsable</a>
 
-<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/" class="button">Guichet Design Accessibilité</a></div>
+<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/" class="button">Guichet Design Accessibilité</a></div align="center">
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">2. L’accompagnement par des experts</h1>
 
@@ -73,7 +73,7 @@ Design/Recherche utilisateur
 
 <a href="https://design.numerique.gouv.fr/design-numerique/" title="En savoir plus sur le design - Lien externe">En savoir plus sur le design</a>
 
-<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a></center>
+<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <br>Accessibilité numérique
 <br>
@@ -219,7 +219,7 @@ Design/Recherche utilisateur
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes</h1>
 
 <br>La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
-
+<br>
 <br>
 <table>
   <tbody>
