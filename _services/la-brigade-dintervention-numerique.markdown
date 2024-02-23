@@ -38,7 +38,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><i>Design/Recherche utilisateur
-
+<br>
 <table>
   <tbody>
     <thead>
@@ -85,7 +85,7 @@ BOUTON CONTACT
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet
 
-<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes</h1>
 
 <br>La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
