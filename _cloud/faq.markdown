@@ -103,7 +103,7 @@ Oui. Dans le cadre du **Fonds pour la transformation de l’action publique** (F
 Pour ce dispositif, les demandes d’information sont à adresser à [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)
 
 
-#### Existe-t-il des dispositifs d’accompagnement technique ?
+**Existe-t-il des dispositifs d’accompagnement technique ?**
 
 Oui. La DINUM peut également proposer pour certains projets un **accompagnement technique**, avec l’intervention d’une "brigade d'intervention numérique" (BIN) experte des sujets Cloud.
 
@@ -114,3 +114,9 @@ La DINUM anime également une **communauté OSMOSE « L’adoption du Cloud »**
 
 Il existe également une **formation à la doctrine Cloud** de l'Etat, disponible sur la plateforme Mentor au lien suivant : [https://mentor.gouv.fr/course/view.php?id=1238&section=1](https://mentor.gouv.fr/login/index.php).
 
+
+**Existe-t-il des dispositifs d’accompagnement technique ?**
+
+Oui. La DINUM peut également proposer pour certains projets un **accompagnement technique**, avec l’intervention d’une "brigade d'intervention numérique" (BIN) experte des sujets Cloud.
+
+Pour ce dispositif, les demandes d’information sont à adresser à [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)
