@@ -45,7 +45,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
     <tr>
       <th>Mission</th>
       <th>Durée</th>
-      <th>Durée</th>
+      <th>Livrable</th>
     </tr>
     </thead>
     <tr>
@@ -76,6 +76,39 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique
+<br>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Livrable</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Conseil en Design/Recherche utilisateur</th>
+      <td>2-3 jours + suivi ponctuel</td>
+      <td>Stratégie de design à mettre en œuvre</td>
+    </tr>
+    <tr>
+      <th>Exploration d’un besoin</th>
+      <td>15 jours sur une période d’1 mois</td>
+      <td>Rapport d’analyse où figurent les attente et besoins des usagers</td>
+    </tr>
+    <tr>
+      <th>Evaluation d’un service existant</th>
+      <td>5 à 10 jours</td>
+      <td>Audit de design comprenant éventuellement le compte-rendu des tests utilisateurs</td>
+    </tr>
+    <tr>
+      <th>Conception d’un service</th>
+      <td>1 à 6 mois</td>
+      <td>Maquette ou prototype</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Numérique éco-responsable
 
