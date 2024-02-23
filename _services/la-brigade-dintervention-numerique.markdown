@@ -175,7 +175,45 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
 
+<br>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Livrable</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Conseil en transformation numérique</th>
+      <td>3 à 6 mois</td>
+      <td>Rapport d’analyse avec recommandations</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet
+
+<br>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Livrable</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Mentorat de directeur/directrice de grand programme</th>
+      <td>6 mois + suivi</td>
+      <td>Amélioration de l’indicateur d’impact qui aura été défini en début d’intervention</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes</h1>
 
