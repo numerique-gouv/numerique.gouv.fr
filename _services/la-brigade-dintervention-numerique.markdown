@@ -67,6 +67,8 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>Journée 1 de coaching collectif à Paris - « Mieux se connaître pour un leadership puissant »</td>
     </tr>
 
+[En savoir plus sur le design](https://design.numerique.gouv.fr/design-numerique/)
+BOUTON CONTACT
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique
 
