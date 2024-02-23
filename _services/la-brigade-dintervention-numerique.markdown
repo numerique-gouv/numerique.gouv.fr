@@ -211,7 +211,6 @@ Mentorat de directeur/directrice de projet
       <td>6 mois + suivi</td>
       <td>Amélioration de l’indicateur d’impact qui aura été défini en début d’intervention</td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
@@ -252,7 +251,6 @@ Mentorat de directeur/directrice de projet
       <td>1 journée</td>
       <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
