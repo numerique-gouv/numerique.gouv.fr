@@ -16,7 +16,8 @@ La DINUM anime une communauté d’échanges autour des sujets Cloud, tant sur l
 
 La [communauté « Adoption du Cloud »](https://osmose.numerique.gouv.fr/jcms/p_3503877/fr/l-adoption-du-cloud "communauté « Adoption du Cloud » - Lien externe") se rassemble régulièrement autour de webinaires, événements, et communique en continu sur la [plateforme Osmose](/outils-agents/osmose/) spécialisée dans l’animation de communautés. 
 
-<div class="encadre noir" style="margin-bottom:40px"><h4>Comment rejoindre la communauté&nbsp;?</h4> <ul> <li><strong>Vous disposez déjà d’un compte sur la plateforme Osmose&nbsp;?</strong> Connectez-vous, en suivant <a href="https://osmose.numerique.gouv.fr/plugins/DINUMThemePlugin/jsp/front/privateLoginOsmose.jsp?</ul></li></div>
+<div class="encadre noir" style="margin-bottom:40px"><h4>Comment rejoindre la communauté&nbsp;?</h4> <ul> <li><strong>Vous disposez déjà d’un compte sur la plateforme Osmose&nbsp;?</strong> Connectez-vous, en suivant <a href="https://osmose.numerique.gouv.fr/plugins/DINUMThemePlugin/jsp/front/privateLoginOsmose.jsp?" title="ce lien">ce lien</a> puis en cliquant sur le bouton « Je m’inscris ».
+<li><strong>Vous ne disposez pas de compte Osmose ?</strong> Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr"/infonuage.dinum@modernisation.gouv.fr</a> pour demander la création de votre compte.</li></ul></div>
 
 #### Une communauté orientée sur plusieurs axes :
 * Répondre à vos interrogations sur la stratégie nationale pour le Cloud, les offres et accompagnement disponibles
