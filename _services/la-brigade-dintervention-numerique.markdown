@@ -37,7 +37,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
-***Design/Recherche utilisateur***
+<b><i>Design/Recherche utilisateur<b><i>
 <br>
 <table>
   <tbody>
@@ -75,8 +75,8 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-***Accessibilité numérique**
-*<br>
+<b><i>Accessibilité numérique<b><i>
+<br>
 <table>
   <tbody>
     <thead>
@@ -108,7 +108,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-***Numérique éco-responsable***
+<b><i>Numérique éco-responsable<b><i>
 <br>
 <table>
   <tbody>
@@ -146,7 +146,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-***Cloud***
+<b><i>Cloud<b><i>
 <br>
 <table>
   <tbody>
@@ -175,7 +175,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-***Conseil en transformation numérique***
+<b><i>Conseil en transformation numérique<b><i>
 <br>
 <table>
   <tbody>
@@ -197,7 +197,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
 
-***Mentorat de directeur/directrice de projet***
+<b><i>Mentorat de directeur/directrice de projet<b><i>
 <br>
 <table>
   <tbody>
@@ -238,7 +238,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <th>Design/Recherche utilisateur</th>
       <td>Cadrer la recherche utilisateurs</td>
       <td>1 journée</td>
-      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a>[Contact]</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
     </tr>
     </thead>
     <tr>
