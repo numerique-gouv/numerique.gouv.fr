@@ -14,7 +14,7 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
-La mission de la Brigade est d’accompagner les ministères et les opérateurs afin que leurs produits numériques soient conçus/développés/opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
+La Brigade d’Intervention Numérique de la DINUM accompagne les ministères et les opérateurs afin que leurs produits numériques soient conçus, développés et opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
 
 ### L’offre de la Brigade d’Intervention numérique
 
