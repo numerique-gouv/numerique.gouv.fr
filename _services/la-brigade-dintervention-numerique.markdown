@@ -74,7 +74,6 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 <a href="https://design.numerique.gouv.fr/design-numerique/" title="En savoir plus sur le design - Lien externe">En savoir plus sur le design</a>
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a><div align="/center">
-
 <br>Accessibilité numérique
 <br>
 <table>
