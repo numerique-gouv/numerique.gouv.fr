@@ -37,7 +37,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><i>Design/Recherche utilisateur
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><i>Design/Recherche utilisateur</h1>
 <br>
 <table>
   <tbody>
