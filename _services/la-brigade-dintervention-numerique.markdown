@@ -128,14 +128,14 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>Rapport d’audit et publication déclaration d’éco-conception du service</td>
     </tr>
     <tr>
-      <th>Evaluation d’un service existant</th>
-      <td>5 à 10 jours</td>
-      <td>Audit de design comprenant éventuellement le compte-rendu des tests utilisateurs</td>
+      <th>Analyse de la déclaration d’éco-conception</th>
+      <td>1h</td>
+      <td>Publication de la déclaration d’écoconception</td>
     </tr>
     <tr>
-      <th>Conception d’un service</th>
-      <td>1 à 6 mois</td>
-      <td>Maquette ou prototype</td>
+      <th>Accompagnement à la construction de la feuille de route</th>
+      <td>< 1 semaine</td>
+      <td>Feuille de route revue</td>
     </tr>
   </tbody>
 </table>
