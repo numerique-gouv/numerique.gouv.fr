@@ -84,4 +84,4 @@ La doctrine prévoit dans sa règle [R3] que chaque administration mette en plac
 
 L'adoption du cloud computing est associée à un effort important de transformation, et il importe plus d'avoir un plan global (intégrant les volets humains, infrastructures, économiques...) que d'appliquer la doctrine projet par projet. Les raisons qui vous conduisent à penser qu'il est légitime de déroger à la doctrine cloud de l'Etat peuvent vous donner des pistes sur la nature des freins subsistant dans votre organisation.
 
-Si vous pensez que le cloud n'est pas pour votre projet, [contactez-nous](mailto:infonuage.dinum@modernisation.gouv.fr) et parlons-en ! 
+Si vous pensez que le cloud n'est pas pour votre projet, [contactez-nous ](mailto:infonuage.dinum@modernisation.gouv.fr) et parlons-en ! 
