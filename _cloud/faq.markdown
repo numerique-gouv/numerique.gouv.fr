@@ -120,3 +120,12 @@ Il existe également une **formation à la doctrine Cloud** de l'Etat, disponibl
 Oui. La DINUM peut également proposer pour certains projets un **accompagnement technique**, avec l’intervention d’une "brigade d'intervention numérique" (BIN) experte des sujets Cloud.
 
 Pour ce dispositif, les demandes d’information sont à adresser à [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)
+
+
+La DINUM anime également une **communauté OSMOSE « L’adoption du Cloud »**, à destination des agents de la sphère publique, visant à favoriser l’adoption du cloud dans l’administration, via notamment le partage d’actualités, d’expertises et en répondant à vos questions : vous pouvez demander à la rejoindre par mail ou directement depuis la plateforme OSMOSE.
+
+Il existe également une **formation à la doctrine Cloud** de l'Etat, disponible sur la plateforme Mentor au lien suivant : [https://mentor.gouv.fr/course/view.php?id=1238&section=1](https://mentor.gouv.fr/course/view.php?id=1238&section=1).
+
+
+#### Il vous reste des questions ?
+Vous pouvez les adresser à la **DINUM** par mail à l’adresse suivante : infonuage.dinum@modernisation.gouv.fr.
