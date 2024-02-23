@@ -60,12 +60,14 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>Rapport d’analyse où figurent les attente et besoins des usagers</td>
     </tr>
     <tr>
-      <th>Septembre 2023</th>
-      <td>Une séance de coaching individuel en visio à planifier selon votre agenda</td>
+      <th>Evaluation d’un service existant</th>
+      <td>5 à 10 jours</td>
+      <td>Audit de design comprenant éventuellement le compte-rendu des tests utilisateurs</td>
     </tr>
     <tr>
-      <th>2 octobre 2023</th>
-      <td>Journée 1 de coaching collectif à Paris - « Mieux se connaître pour un leadership puissant »</td>
+      <th>Conception d’un service</th>
+      <td>1 à 6 mois</td>
+      <td>Maquette ou prototype</td>
     </tr>
     </tr>
   </tbody>
