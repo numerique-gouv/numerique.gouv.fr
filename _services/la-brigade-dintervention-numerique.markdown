@@ -56,7 +56,7 @@ Design/Recherche utilisateur
     <tr>
       <th>Exploration d’un besoin</th>
       <td>15 jours sur une période d’1 mois</td>
-      <td>Rapport d’analyse où figurent les attente et besoins des usagers</td>
+      <td>Rapport d’analyse où figurent les attentes et besoins des usagers</td>
     </tr>
     <tr>
       <th>Evaluation d’un service existant</th>
