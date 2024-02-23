@@ -37,7 +37,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
-<b><i>Design/Recherche utilisateur<b><i>
+Design/Recherche utilisateur
 <br>
 <table>
   <tbody>
@@ -108,7 +108,7 @@ Accessibilité numérique
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-<b><i>Numérique éco-responsable<b><i>
+Numérique éco-responsable
 <br>
 <table>
   <tbody>
@@ -146,7 +146,7 @@ Accessibilité numérique
 
 <div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<b><i>Cloud<b><i>
+Cloud
 <br>
 <table>
   <tbody>
@@ -175,7 +175,7 @@ Accessibilité numérique
 
 <div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<b><i>Conseil en transformation numérique<b><i>
+Conseil en transformation numérique
 <br>
 <table>
   <tbody>
@@ -197,7 +197,7 @@ Accessibilité numérique
 
 <div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<b><i>Mentorat de directeur/directrice de projet<b><i>
+Mentorat de directeur/directrice de projet
 <br>
 <table>
   <tbody>
