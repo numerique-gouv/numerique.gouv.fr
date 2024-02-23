@@ -45,7 +45,7 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 <div class="encadre noir" style="margin-bottom:40px"><h4>
-Par où commencer &nbsp;?</h4> <ul> <li><strong>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page 5 étapes pour bien commencer avec la doctrine Cloud : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu"title="5 étapes pour bien commencer avec la doctrine Cloud"></a></li> </ul></div>
+Par où commencer &nbsp;?</h4>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page 5 étapes pour bien commencer avec la doctrine Cloud : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu" title="5 étapes pour bien commencer avec la doctrine Cloud">5 étapes pour bien commencer avec la doctrine Cloud</a></div>
 
 ### Données particulièrement sensibles
 
@@ -85,3 +85,32 @@ La doctrine prévoit dans sa règle [R3] que chaque administration mette en plac
 L'adoption du cloud computing est associée à un effort important de transformation, et il importe plus d'avoir un plan global (intégrant les volets humains, infrastructures, économiques...) que d'appliquer la doctrine projet par projet. Les raisons qui vous conduisent à penser qu'il est légitime de déroger à la doctrine cloud de l'Etat peuvent vous donner des pistes sur la nature des freins subsistant dans votre organisation.
 
 Si vous pensez que le cloud n'est pas pour votre projet, [contactez-nous ](mailto:infonuage.dinum@modernisation.gouv.fr) et parlons-en ! 
+
+### Dérogations
+
+**Dans quels cas est-il possible de déroger à la règle [R9] intégrant le caractère sensible des données dans les choix d’hébergement ?**
+
+Si les données sont sensibles au sens de la règle [R9], il n'est pas approprié de chercher à déroger à la règle en utilisant un autre hébergement que les solutions "Cloud de confiance" décrites dans la doctrine.
+ 
+Si vous pensez avoir des motifs légitimes pour le faire, il conviendra **d'apporter la preuve que les garanties apportées par le SecNumCloud sont réunies**, notamment sur les volets cybersécurité et isolation juridique. Cela étant fait, la dérogation ne pourra être accordée que sous la responsabilité du ministre dont relève le projet, et après **validation du Premier ministre**.
+
+### Accompagnement
+
+**Existe-t-il des dispositifs d’accompagnement financier, pour les projets mettant en œuvre la doctrine « Cloud au centre » de l’État ?**
+
+Oui. Dans le cadre du **Fonds pour la transformation de l’action publique** (FTAP), la DINUM pilote le **guichet de financement « Adoption du Cloud de confiance »**, qui cofinance les projets de migration vers le Cloud de confiance ou d’extension des offres de Cloud interne interministériel des administrations de l’Etat et des opérateurs de l’Etat. 
+
+Pour ce dispositif, les demandes d’information sont à adresser à [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)
+
+
+#### Existe-t-il des dispositifs d’accompagnement technique ?
+
+Oui. La DINUM peut également proposer pour certains projets un **accompagnement technique**, avec l’intervention d’une "brigade d'intervention numérique" (BIN) experte des sujets Cloud.
+
+Pour ce dispositif, les demandes d’information sont à adresser à infonuage.dinum@modernisation.gouv.fr
+
+
+La DINUM anime également une **communauté OSMOSE « L’adoption du Cloud »**, à destination des agents de la sphère publique, visant à favoriser l’adoption du cloud dans l’administration, via notamment le partage d’actualités, d’expertises et en répondant à vos questions : vous pouvez demander à la rejoindre par mail ou directement depuis la plateforme OSMOSE.
+
+Il existe également une **formation à la doctrine Cloud** de l'Etat, disponible sur la plateforme Mentor au lien suivant : https://mentor.gouv.fr/course/view.php?id=1238&section=1.
+
