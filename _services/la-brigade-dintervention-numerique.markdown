@@ -31,7 +31,7 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 <div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/" class="button">Guichet FTAP Numérique éco-responsable</a>
 
-<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/" class="button">Guichet Design Accessibilité</a>
+<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/" class="button">Guichet Design Accessibilité</a></div>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">2. L’accompagnement par des experts</h1>
 
