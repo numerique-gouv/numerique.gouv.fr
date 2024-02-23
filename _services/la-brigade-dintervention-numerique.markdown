@@ -27,11 +27,11 @@ Vous êtes une administration d’État ou un opérateur de l’État ? La DINUM
 
 Vous pouvez candidater à plusieurs guichets pour un même projet, selon les objectifs recherchés :
 
-* [Guichet FTAP Cloud](https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/)
+<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/" class="button">Guichet FTAP Cloud</a>
 
-* [Guichet FTAP Numérique éco-responsable](https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/)
+<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/" class="button">Guichet FTAP Numérique éco-responsable</a>
 
-* [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/)
+<div align="center"><p><a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/" class="button">Guichet Design Accessibilité</a>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">2. L’accompagnement par des experts</h1>
 
