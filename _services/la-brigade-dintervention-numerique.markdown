@@ -75,8 +75,8 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique
-<br>
+***Accessibilité numérique**
+*<br>
 <table>
   <tbody>
     <thead>
@@ -108,8 +108,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Numérique éco-responsable
-
+***Numérique éco-responsable***
 <br>
 <table>
   <tbody>
@@ -147,8 +146,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud
-
+***Cloud***
 <br>
 <table>
   <tbody>
@@ -177,8 +175,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
-
+***Conseil en transformation numérique***
 <br>
 <table>
   <tbody>
@@ -200,8 +197,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet
-
+***Mentorat de directeur/directrice de projet***
 <br>
 <table>
   <tbody>
@@ -242,7 +238,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <th>Design/Recherche utilisateur</th>
       <td>Cadrer la recherche utilisateurs</td>
       <td>1 journée</td>
-      <td>[Contact](https://design.numerique.gouv.fr/formations/)</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a>[Contact]</td>
     </tr>
     </thead>
     <tr>
