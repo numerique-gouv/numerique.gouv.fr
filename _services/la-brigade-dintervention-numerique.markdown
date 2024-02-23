@@ -37,26 +37,26 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
-***Design/Recherche utilisateur***
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Design/Recherche utilisateur</b></i></h1>
 
 ![CaptureDesign.jpeg](/uploads/CaptureDesign.jpeg)
 
-***Accessibilité numérique***
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique</b></i></h1>
+
 ![CaptureAccessibiliteNum.jpeg](/uploads/CaptureAccessibiliteNum.jpeg)
 
-***Numérique éco-responsable***
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Numérique éco-responsable</b></i></h1>
 
 ![CaptureNumEco.jpeg](/uploads/CaptureNumEco.jpeg)
 
-***Cloud***
-
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud</b></i></h1>
 ![CaptureCloud.jpeg](/uploads/CaptureCloud.jpeg)
 
-***Conseil en transformation numérique***
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique</b></i></h1>
 
 ![CaptureConseilTransfoNum.jpeg](/uploads/CaptureConseilTransfoNum.jpeg)
 
-***Mentorat de directeur/directrice de projet***
+<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet</b></i></h1>
 
 ![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
