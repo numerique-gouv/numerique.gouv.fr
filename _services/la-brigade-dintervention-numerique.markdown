@@ -66,6 +66,9 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <th>2 octobre 2023</th>
       <td>Journée 1 de coaching collectif à Paris - « Mieux se connaître pour un leadership puissant »</td>
     </tr>
+    </tr>
+  </tbody>
+</table>
 
 [En savoir plus sur le design](https://design.numerique.gouv.fr/design-numerique/)
 BOUTON CONTACT
