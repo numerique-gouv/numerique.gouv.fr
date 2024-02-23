@@ -72,26 +72,17 @@ BOUTON CONTACT
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique
 
-![CaptureAccessibiliteNum.jpeg](/uploads/CaptureAccessibiliteNum.jpeg)
-
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Numérique éco-responsable
 
-![CaptureNumEco.jpeg](/uploads/CaptureNumEco.jpeg)
-
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud
-![CaptureCloud.jpeg](/uploads/CaptureCloud.jpeg)
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
 
-![CaptureConseilTransfoNum.jpeg](/uploads/CaptureConseilTransfoNum.jpeg)
-
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet
-
-![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes
 
-La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
+<br>La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Nous contacter</h3><p>Pour toute demande d’information, n’hésitez pas à <a href="mailto:stephanie.nazarian@modernisation.gouv.fr" title="Nous contacter - Lien externe">nous contacter</a>.</p>
 </div>
