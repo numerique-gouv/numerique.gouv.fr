@@ -39,6 +39,35 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Design/Recherche utilisateur
 
+<h1 class="h2">Calendrier et programme</h1>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Durée</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Conseil en Design/Recherche utilisateur</th>
+      <td>2-3 jours + suivi ponctuel</td>
+      <td>Stratégie de design à mettre en œuvre</td>
+    </tr>
+    <tr>
+      <th>8 septembre 2023</th>
+      <td>Webinaire de lancement </td>
+    </tr>
+    <tr>
+      <th>Septembre 2023</th>
+      <td>Une séance de coaching individuel en visio à planifier selon votre agenda</td>
+    </tr>
+    <tr>
+      <th>2 octobre 2023</th>
+      <td>Journée 1 de coaching collectif à Paris - « Mieux se connaître pour un leadership puissant »</td>
+    </tr>
+
+
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Accessibilité numérique
 
 ![CaptureAccessibiliteNum.jpeg](/uploads/CaptureAccessibiliteNum.jpeg)
