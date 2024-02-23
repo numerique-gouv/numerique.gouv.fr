@@ -62,5 +62,5 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
-<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Nous contacter</h3><p>Pour toute demande d’information, n’hésitez pas à<a href="mailto:stephanie.nazarian@modernisation.gouv.fr" title="Nous contacter - Lien externe">nous contacter</a>.</p>
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Nous contacter</h3><p>Pour toute demande d’information, n’hésitez pas à <a href="mailto:stephanie.nazarian@modernisation.gouv.fr" title="Nous contacter - Lien externe">nous contacter</a>.</p>
 </div>
