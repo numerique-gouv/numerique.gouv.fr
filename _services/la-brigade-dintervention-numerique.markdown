@@ -55,8 +55,9 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>Stratégie de design à mettre en œuvre</td>
     </tr>
     <tr>
-      <th>8 septembre 2023</th>
-      <td>Webinaire de lancement </td>
+      <th>Exploration d’un besoin</th>
+      <td>15 jours sur une période d’1 mois</td>
+      <td>Rapport d’analyse où figurent les attente et besoins des usagers</td>
     </tr>
     <tr>
       <th>Septembre 2023</th>
