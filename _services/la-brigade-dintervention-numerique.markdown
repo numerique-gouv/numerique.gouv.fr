@@ -87,24 +87,19 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
     </tr>
     </thead>
     <tr>
-      <th>Conseil en Design/Recherche utilisateur</th>
-      <td>2-3 jours + suivi ponctuel</td>
-      <td>Stratégie de design à mettre en œuvre</td>
+      <th>Aide au développement accessible</th>
+      <td>Variable (période de 3 mois maximum)</td>
+      <td>Recommandations d’évolution du code</td>
     </tr>
     <tr>
-      <th>Exploration d’un besoin</th>
-      <td>15 jours sur une période d’1 mois</td>
-      <td>Rapport d’analyse où figurent les attente et besoins des usagers</td>
+      <th>Audit d’accessibilité (rapide ou complet)</th>
+      <td>1 à 5 jours</td>
+      <td>Rapport d’audit</td>
     </tr>
     <tr>
-      <th>Evaluation d’un service existant</th>
-      <td>5 à 10 jours</td>
-      <td>Audit de design comprenant éventuellement le compte-rendu des tests utilisateurs</td>
-    </tr>
-    <tr>
-      <th>Conception d’un service</th>
-      <td>1 à 6 mois</td>
-      <td>Maquette ou prototype</td>
+      <th>Test utilisateurs handicapés</th>
+      <td>1 à 5 jours</td>
+      <td>Rapport de tests</td>
     </tr>
   </tbody>
 </table>
