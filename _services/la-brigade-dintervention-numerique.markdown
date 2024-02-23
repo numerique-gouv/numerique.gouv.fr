@@ -68,7 +68,6 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>1 à 6 mois</td>
       <td>Maquette ou prototype</td>
     </tr>
-    </tr>
   </tbody>
 </table>
 
