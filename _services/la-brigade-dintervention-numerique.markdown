@@ -247,6 +247,13 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>1 journée</td>
       <td><a href="https://design.numerique.gouv.fr/formations/https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
     </tr>
+    </thead>
+    <tr>
+      <th>Accessibilité</th>
+      <td>Créer un pdf accessible</td>
+      <td>1 journée</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+    </tr>
     <tr>
   </tbody>
 </table>
