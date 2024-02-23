@@ -47,3 +47,41 @@ un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’acc
 <div class="encadre noir" style="margin-bottom:40px"><h4>
 Par où commencer &nbsp;?</h4> <ul> <li><strong>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu</li> </ul></div>
 
+### Données particulièrement sensibles
+
+**Quels sont les critères discriminants qui définissent les données d’une sensibilité particulière ?**
+
+Deux conditions doivent être réunies pour que les données soient qualifiées comme particulièrement sensibles au sens de la doctrine :
+
+* d’une part, elles doivent être sensibles soit par nature (parce qu’identifiées comme un secret légal) soit du fait de leur emploi (parce qu’impliquées dans une mission essentielle de l’Etat) ;
+* d’autre part, leur violation aurait pour conséquence une atteinte à l’ordre public, la sécurité publique, la santé, la vie des personnes ou la propriété intellectuelle.
+
+**Notes importantes :**
+
+* le fait pour une donnée d’entrer dans la catégorie des données personnelles sensibles au sens des articles 9 et 10 du RGPD (Règlement Général sur la Protection des Données) ne suffit pas pour exiger un hébergement SecNumCloud : le second critère doit être également rempli ;
+* c’est aussi vrai pour des données de santé qui relèvent du HDS ;
+* ces obligations issues d’autres régimes particuliers (RGPD, HDS,…) s’appliquent donc en tout état de cause ;
+* pour déterminer la conséquence de la violation des données il convient d’utiliser les méthodologies déjà employées lors des analyses des risques, et notamment sous l’angle DICT (Disponibilité, Intégrité, Confidentialité, Traçabilité).
+
+**Qui est responsable de l’évaluation de la sensibilité particulière des données dans un cas précis ?**
+
+L’entité porteuse du projet concerné est en charge de cette analyse.
+
+### Contrôle
+
+
+**Qui contrôle l'application de la doctrine Cloud ? Et comment ?**
+
+La doctrine prévoit dans sa règle [R3] que chaque administration mette en place les processus d'incitation et de contrôle de la politique d'adoption du cloud prescrite par la circulaire. Le coût complet du projet détermine la procédure de contrôle, prévue par les règles [R7] et [R8] :
+
+
+
+| Coût du projet | Procédure de contrôle |
+| -------- | -------- |
+| En dessous de 1 million d'euros     | L'autorité en charge du projet est aussi en charge du contrôle.    |
+| Entre 1 et 9 millions d'euros| L’entité porteuse du projet doit produire une étude comparative sur les aspects économiques, juridiques, métiers et de sécurité entre les scénarios. Le contrôle est réalisé par les ministères qui en informent la DINUM. |
+| Au-delà de 9 millions d'euros| Le contrôle est intégré à la procédure de contrôle de conception des grands projets informatiques de l'État issue de l'article 3 du décret n°2019-1088 du 25 octobre 2019.| 
+
+L'adoption du cloud computing est associée à un effort important de transformation, et il importe plus d'avoir un plan global (intégrant les volets humains, infrastructures, économiques...) que d'appliquer la doctrine projet par projet. Les raisons qui vous conduisent à penser qu'il est légitime de déroger à la doctrine cloud de l'Etat peuvent vous donner des pistes sur la nature des freins subsistant dans votre organisation.
+
+Si vous pensez que le cloud n'est pas pour votre projet, [contactez-nous](mailto:infonuage.dinum@modernisation.gouv.fr) et parlons-en ! 
