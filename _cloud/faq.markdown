@@ -45,7 +45,7 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 <div class="encadre noir" style="margin-bottom:40px"><h4>
-Par où commencer &nbsp;?</h4>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page 5 étapes pour bien commencer avec la doctrine Cloud : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu" title="5 étapes pour bien commencer avec la doctrine Cloud">5 étapes pour bien commencer avec la doctrine Cloud</a><p></div>
+Par où commencer &nbsp;?</h4>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page 5 étapes pour bien commencer avec la doctrine Cloud : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu" title="5 étapes pour bien commencer avec la doctrine Cloud">5 étapes pour bien commencer avec la doctrine Cloud</a></p></div>
 
 ### Données particulièrement sensibles
 
