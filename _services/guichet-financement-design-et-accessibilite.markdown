@@ -10,6 +10,7 @@ tags:
 - FTAP
 - Design
 - Accessibilité numérique
+date_de_modification: 21 février 2024
 chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour améliorer l’expérience utilisateur et l’accessibilité aux
   personnes handicapées d’un de vos services ou produits numériques, grâce à ce guichet
@@ -25,7 +26,7 @@ La qualité de la relation entre les citoyens et l’administration passe par un
 
 Le présent guichet thématique est dédié à l’amélioration du design, de l’expérience utilisateur des services publics numériques, et de la mise à niveau de leur accessibilité aux personnes en situation de handicap.
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/10214da4-defd-43b5-8589-2bd05471ef82" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite-des-produits-et-se" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
@@ -70,4 +71,4 @@ Les projets lauréats bénéficieront d’un cofinancement **jusqu’à 100% du 
 
 En complément de ce financement, la DINUM pourra, si cela lui semble pertinent, fournir un accompagnement humain additionnel.
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/10214da4-defd-43b5-8589-2bd05471ef82" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite-des-produits-et-se" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
