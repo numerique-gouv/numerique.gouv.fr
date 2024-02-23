@@ -107,6 +107,39 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Numérique éco-responsable
 
+<br>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Livrable</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Conseil en numérique éco-responsable</th>
+      <td>2h</td>
+      <td>Recommandations</td>
+    </tr>
+    <tr>
+      <th>Audit Flash</th>
+      <td>2 jours</td>
+      <td>Rapport d’audit et publication déclaration d’éco-conception du service</td>
+    </tr>
+    <tr>
+      <th>Evaluation d’un service existant</th>
+      <td>5 à 10 jours</td>
+      <td>Audit de design comprenant éventuellement le compte-rendu des tests utilisateurs</td>
+    </tr>
+    <tr>
+      <th>Conception d’un service</th>
+      <td>1 à 6 mois</td>
+      <td>Maquette ou prototype</td>
+    </tr>
+  </tbody>
+</table>
+
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
