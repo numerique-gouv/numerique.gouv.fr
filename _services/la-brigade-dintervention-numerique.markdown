@@ -106,7 +106,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://design.numerique.gouv.fr/accessibilite-numerique/" title="En savoir plus sur l'accessibilité - Lien externe">En savoir plus sur l'accessibilité</a>
 
-<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <br>Numérique éco-responsable
 <br>
@@ -144,7 +144,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://ecoresponsable.numerique.gouv.fr/" title="En savoir plus sur l'accessibilité - Lien externe">En savoir plus sur le numérique éco-responsable</a>
 
-<div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <br>Cloud
 <br>
@@ -172,7 +172,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://www.numerique.gouv.fr/services/cloud/" title="En savoir plus sur le Cloud pour l'administration - Lien externe">En savoir plus sur le Cloud pour l'administration</a>
 
-<div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <br>Conseil en transformation numérique
 <br>
@@ -193,7 +193,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
   </tbody>
 </table>
 
-<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <br>Mentorat de directeur/directrice de projet
 <br>
@@ -214,7 +214,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
   </tbody>
 </table>
 
-<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a><div align="/center">
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">3. La formation/sensibilisation des équipes</h1>
 
