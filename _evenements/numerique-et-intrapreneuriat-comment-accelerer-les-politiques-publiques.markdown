@@ -36,6 +36,8 @@ En 2024, [beta.gouv.fr](https://beta.gouv.fr/) poursuit son objectif de simplifi
 
 ### Au programme :
 
+* 15h : accueil café autour des stands des incubateurs du réseau beta.gouv.fr
+
 * **16h : Bilan de l’année 2023 de l’incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM et présentation des Startups d’État à impact national**
 
 *Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) (DINUM)*
