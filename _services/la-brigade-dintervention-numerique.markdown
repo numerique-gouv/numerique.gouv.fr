@@ -149,6 +149,30 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Cloud
 
+<br>
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Mission</th>
+      <th>Durée</th>
+      <th>Livrable</th>
+    </tr>
+    </thead>
+    <tr>
+      <th>Appui à la définition de la stratégie</th>
+      <td><30 jours sur une période de 2 mois</td>
+      <td>Trajectoire Cloud</td>
+    </tr>
+    <tr>
+      <th>Appui opérationnel</th>
+      <td>30 jours sur une période de 1 à 3 mois</td>
+      <td>Mise en œuvre opérationnelle (cloudification)</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Conseil en transformation numérique
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><b><i>Mentorat de directeur/directrice de projet
