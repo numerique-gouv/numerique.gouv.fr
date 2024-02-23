@@ -39,7 +39,6 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;"><i>Design/Recherche utilisateur
 
-<h1 class="h2">Calendrier et programme</h1>
 <table>
   <tbody>
     <thead>
