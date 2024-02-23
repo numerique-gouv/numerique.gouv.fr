@@ -167,7 +167,6 @@ Cloud
       <td>30 jours sur une période de 1 à 3 mois</td>
       <td>Mise en œuvre opérationnelle (cloudification)</td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
@@ -191,7 +190,6 @@ Conseil en transformation numérique
       <td>3 à 6 mois</td>
       <td>Rapport d’analyse avec recommandations</td>
     </tr>
-    <tr>
   </tbody>
 </table>
 
