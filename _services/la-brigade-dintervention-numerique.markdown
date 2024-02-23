@@ -16,8 +16,6 @@ layout: rgaa
 
 La Brigade d’Intervention Numérique de la DINUM accompagne les ministères et les opérateurs afin que leurs produits numériques soient conçus, développés et opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
 
-### L’offre de la Brigade d’Intervention numérique
-
 Trois types de dispositifs existent, qui peuvent être combinés :
 <br>Le cofinancement des projets via des guichets
 <br>L’accompagnement par des experts sur une mission dédiée
@@ -25,7 +23,9 @@ Trois types de dispositifs existent, qui peuvent être combinés :
 
 ### 1. Le cofinancement des projets via des guichets
 
-Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez un cofinancement pour vos projets numériques.
+Vous êtes une administration d’État ou un opérateur de l’État ? La DINUM pilote plusieurs guichets pour vous accompagner dans le financement de vos projets numériques.
+
+Vous pouvez candidater à plusieurs guichets pour un même projet, selon les objectifs recherchés :
 
 * [Guichet FTAP Cloud](https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/)
 
