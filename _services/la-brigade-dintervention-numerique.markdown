@@ -75,7 +75,7 @@ Design/Recherche utilisateur
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-Accessibilité numérique
+<br>Accessibilité numérique
 <br>
 <table>
   <tbody>
@@ -108,7 +108,7 @@ Accessibilité numérique
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-Numérique éco-responsable
+<br>Numérique éco-responsable
 <br>
 <table>
   <tbody>
@@ -146,7 +146,7 @@ Numérique éco-responsable
 
 <div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-Cloud
+<br>Cloud
 <br>
 <table>
   <tbody>
@@ -174,7 +174,7 @@ Cloud
 
 <div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
 
-Conseil en transformation numérique
+<br>Conseil en transformation numérique
 <br>
 <table>
   <tbody>
@@ -195,7 +195,7 @@ Conseil en transformation numérique
 
 <div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
 
-Mentorat de directeur/directrice de projet
+<br>Mentorat de directeur/directrice de projet
 <br>
 <table>
   <tbody>
