@@ -27,3 +27,27 @@ A titre d’exemple, le recours à un hébergement SecNumCloud pour la gestion d
 **Je travaille dans une entité soumise à la doctrine, est-ce que mon projet est concerné ?**
 
 Oui, s’il s’agit d’un nouveau projet ou si le périmètre du projet engagé concerne une refonte de plus de 50 % de l’existant.
+
+### Premiers pas
+
+**La doctrine d’utilisation de l’informatique en nuage par l’État (« Cloud au centre») impose de chercher une “solution cloud”, mais que désigne ce terme de “solution cloud” ? Et qu’est-il attendu de l’administration ?**
+
+C’est la première règle de la doctrine “Cloud au Centre” [R1] : “Pour tout nouveau projet numérique, quelle que soit sa taille, une solution cloud doit être recherchée.” Une solution cloud peut-être soit :
+
+* une solution SaaS ;
+* une solution déployée en cloud computing (cloud commercial ou cloud interne à l’administration).
+
+Quel que soit le format de solution cloud choisi, le mode produit doit être privilégié. Il inclut :
+
+* l’autonomie des équipes
+* la prise en charge continue des opérations
+* la confrontation rapide avec les utilisateurs du produit
+un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
+
+<div class="encadre noir" style="margin-bottom:40px"><h4>
+Par où commencer &nbsp;?</h4> <ul> <li><strong>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu
+
+redirect=https%3A%2F%2Fosmose.numerique.gouv.fr%2Fjcms%2Fp_3503877%2Ffr%2Fl-adoption-du-cloud" title="ce lien">ce lien</a> puis en cliquant sur le bouton « Je m’inscris ».</li> <li><strong>Vous ne disposez pas de compte Osmose&nbsp;?</strong> Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr">infonuage.dinum@modernisation.gouv.fr</a> pour demander la création de votre compte.</li> </ul></div>
+
+Par où commencer :
+Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page “5 étapes pour bien commencer avec la doctrine Cloud” : https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu
