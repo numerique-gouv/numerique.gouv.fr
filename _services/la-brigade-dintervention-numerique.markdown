@@ -34,7 +34,8 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 * [Guichet Design Accessibilité](https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/)
 
 ### 2. L’accompagnement par des experts
-Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, sur différentes expertises.
+
+La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
 ***Design/Recherche utilisateur***
 
@@ -60,6 +61,7 @@ Les experts de la Brigade peuvents vous accompagner pour une mission dédiée, s
 ![CaptureMentorat.jpeg](/uploads/CaptureMentorat.jpeg)
 
 ### 3. La formation/sensibilisation des équipes
+
 La Brigade d’Intervention numérique organise des formations/sensibilisations des équipes numériques (dans les locaux de Ségur ou dans les ministères).
 
 **Design/Recherche utilisateur**
