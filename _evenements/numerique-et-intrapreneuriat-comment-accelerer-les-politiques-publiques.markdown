@@ -34,27 +34,21 @@ L’occasion notamment de dévoiler les Startups d’État lauréates du fonds d
 
 En 2024, [beta.gouv.fr](https://beta.gouv.fr/) poursuit son objectif de simplification drastique de l’action publique et de son efficience grâce au numérique. 
 
-Au programme :
+### Au programme :
 
 * **16h : Bilan de l’année 2023 de l’incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) de la DINUM et présentation des Startups d’État à impact national**
 
 *Par Ishan Bhojwani, chef du département Incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/) (DINUM)*
 
-* **16h10 : Démonstrations des lauréats du FAST**
+* **16h10 : Démonstrations des lauréats du FAST 13**
 
-•Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just
+  * Ordre républicain et engagement avec Data Subvention, réfugiés.info et A-just : *3 démonstrations de services numériques par des intrapreneurs*
 
-*3 démonstrations de services numériques par des intrapreneurs*
+  * Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile : *4 démonstrations de services numériques par des intrapreneurs*
 
-•Emploi, progrès et services publics avec Mobilic, l’Annuaire des collectivités, Mano et Dossier facile
+  * Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine : *3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
 
-*4 démonstrations de services numériques par des intrapreneurs*
-
-•Planifier et accélérer la transition écologique avec Docurba, Envergo et Ma Cantine
-
-*3 démonstrations de services numériques du ministère de la transition écologique et de la cohésion des territoires, par des intrapreneurs*
-
-* **16h35 : Table ronde** avec Philippe Mazenc Directeur générale de l'aménagement, du logement et de la nature et Samuel Goldszmidt responsable d’incubateur (DGALN)
+* **16h35 : Table ronde** avec Philippe Mazenc, directeur général de l'aménagement, du logement et de la nature et Samuel Goldszmidt, responsable d’incubateur (DGALN)
 
 * **17h05 : Certification d’intrapreneurs de Startups d’État** 
 
@@ -66,8 +60,9 @@ Au programme :
 
 *Par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)*
 
+* 17h55 : Échanges avec le réseau des incubateurs
 ___
-Le nombre de places pour cet événement est limité, l'inscription est obligatoire. 
+**Le nombre de places pour cet événement est limité, l'inscription est obligatoire.** 
 
 Le FAST est un programme d’accélération proposé aux services numériques, répondant aux standards de qualité de [beta.gouv.fr](https://beta.gouv.fr/), qui souhaitent bénéficier du soutien de la DINUM pour augmenter leur impact et passer à l’échelle.
 
