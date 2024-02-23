@@ -247,6 +247,48 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <td>1 journée</td>
       <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
     </tr>
+    <tr>
+      <th>Accessibilité</th>
+      <td>Accessibilité dans la pratique</td>
+      <td>1 journée</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Accessibilité</th>
+      <td>Vérifier l’accessibilité</td>
+      <td>1 journée</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Accessibilité</th>
+      <td>Accessibilité & Design</td>
+      <td>1 journée</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Numérique éco-responsable</th>
+      <td>Sensibilisation à l’éco-conception</td>
+      <td>1/2 journée ou 1 journée</td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Cloud</th>
+      <td>Terraform</td>
+      <td>1 à 2 journées</td>
+      <td><a href="mailto:infonuage.dinum@modernisation.gouv.fr" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Cloud</th>
+      <td>Kubernetes</td>
+      <td>1 à 2 journées</td>
+      <td><a href="mailto:infonuage.dinum@modernisation.gouv.fr" title="Contact - Lien externe">Contact</a></td>
+    </tr>
+    <tr>
+      <th>Produit</th>
+      <td>Passage en mode produit agile à impact</td>
+      <td>A la demande</td>
+      <td><a href="mailto:olivier.soumoy@modernisation.gouv.fr" title="Contact - Lien externe">Contact</a></td>
+    </tr>
   </tbody>
 </table>
 
