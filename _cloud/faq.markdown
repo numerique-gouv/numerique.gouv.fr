@@ -128,4 +128,4 @@ Il existe également une **formation à la doctrine Cloud** de l'Etat, disponibl
 
 
 #### Il vous reste des questions ?
-Vous pouvez les adresser à la **DINUM** par mail à l’adresse suivante : infonuage.dinum@modernisation.gouv.fr.
+Vous pouvez les adresser à la **DINUM** par mail à l’adresse suivante : [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr).
