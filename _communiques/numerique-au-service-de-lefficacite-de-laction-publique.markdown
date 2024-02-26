@@ -23,6 +23,7 @@ files:
 
 **En 2023, 6 nouvelles Startups d’État rejoignent les 18 services à impact national déployés sur tout le territoire : [JeVeuxAider](https://beta.gouv.fr/startups/jeveuxaider.html), [Registre de preuve de covoiturage](https://covoiturage.beta.gouv.fr/), [Tchap](https://beta.gouv.fr/startups/tchap.html), [Immersion Facilitée](https://immersion-facile.beta.gouv.fr/), [DomiFa](https://beta.gouv.fr/startups/domifa.html), [eva](https://eva.beta.gouv.fr/).
 Aussi, 4 incubateurs sont en création** au sein du ministère de l’Agriculture et de la Souveraineté alimentaire, au ministère de l'Éducation nationale, de la Jeunesse et des Sports, à la Cour des comptes, et au sein de Cerema - ils rallieront les 17 incubateurs existants -, **154 agents publics devenus intrapreneurs** rejoignant les 400 agents déjà investis au sein de la communauté des 1 200 membres dans toute la France et **213 Startups d’État sont en activité (\+40).**
+Lire le bilan complet : [ici](https://beta.gouv.fr/content/docs/betagouv_presentation.pdf)
 
 Pour intégrer le cercle sélectif des Startups d’État à impact national ayant démontré des résultats probants d’efficacité, beta.gouv.fr a lancé en 2019 un fonds d’accélération des Startups d’État et de territoires. L’objectif : soutenir financièrement (jusqu’à 50% du budget du projet sur l’année, n’excédant pas 300 000€) et par un accompagnement opérationnel et stratégique de 6 mois, les Startups d’État les plus prometteuses, candidates à ce fonds, et s’inscrivant dans les politiques prioritaires du Gouvernement.
 
