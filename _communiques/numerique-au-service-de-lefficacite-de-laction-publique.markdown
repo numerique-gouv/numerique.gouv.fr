@@ -1,6 +1,12 @@
 ---
 title: Numérique au service de l’efficacité de l’action publique
 date: 2024-02-26 16:25:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Numérique
+- entrepreneur.e d’intérêt général
+- startup d'État
 chapeau-text: L’État dévoile le bilan de beta.gouv.fr avec 6 nouvelles startups d’état
   à impact national ; 8 lauréates du fonds d’accélération des startups d’état et de
   territoires ; 9 agents publics diplômés en 2023.
