@@ -13,7 +13,7 @@ chapeau-text: L’État dévoile le bilan de [beta.gouv.fr](https://beta.gouv.fr
 une-ou-diaporama:
 - image: "/uploads/Image1.jpg"
 files:
-- file: "/uploads/CP_NUMERIQUE_AU_SERVICE_DE_L_EFFICACITE_DE_L_ACTION_PUBLIQUE_BILAN_BETA.GOUV.FR.pdf"
+- file: "/uploads/CP_NUMERIQUE_AU_SERVICE_DE_L_EFFICACITE_DE_L_ACTION_PUBLIQUE_BILAN_BETA.GOUV.FR-fb911b.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
