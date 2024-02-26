@@ -5,6 +5,7 @@ categories:
 - Communiqué de presse
 tags:
 - Numérique
+- Startups d'Etat et de Territoire
 chapeau-text: L’État dévoile le bilan de [beta.gouv.fr](https://beta.gouv.fr/) avec
   6 nouvelles startups d’état à impact national ; 8 lauréates du fonds d’accélération
   des startups d’état et de territoires ; 9 agents publics diplômés en 2023.
