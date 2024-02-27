@@ -1,5 +1,6 @@
 ---
-title: Numérique au service de l’efficacité de l’action publique
+title: 'Numérique au service de l’efficacité de l’action publique : l’État dévoile
+  le bilan de beta.gouv.fr'
 date: 2024-02-26 16:25:00 +01:00
 categories:
 - Communiqué de presse
@@ -7,17 +8,16 @@ tags:
 - Numérique
 - entrepreneur.e d’intérêt général
 - startup d'État
-chapeau-text: L’État dévoile le bilan de [beta.gouv.fr](https://beta.gouv.fr/) avec
-  6 nouvelles startups d’état à impact national ; 8 lauréates du fonds d’accélération
-  des startups d’état et de territoires ; 9 agents publics diplômés en 2023.
+chapeau-text: |-
+  Numérique au service de l’efficacité de l’action publique : l’État dévoile le bilan de [beta.gouv.fr](https://beta.gouv.fr/) avec 6 nouvelles startups d’état à impact national ; 8 lauréates du fonds d’accélération des startups d’état et de territoires ; 9 agents publics diplômés en 2023.
+
+  Simplifier le quotidien de tous les Français en s’appuyant sur la puissance du numérique, c’est la promesse de la stratégie numérique de l’État pilotée par la direction interministérielle du numérique (DINUM) intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques. Pour y parvenir, l’incubateur de services numériques de la direction, [beta.gouv.fr](https://beta.gouv.fr/), conçoit, avec les ministères, des services numériques, basés sur les besoins des usagers et répondant aux politiques prioritaires du Gouvernement, en s’appuyant sur des méthodes innovantes guidées par l’impact.
 une-ou-diaporama:
 - image: "/uploads/Image1.jpg"
 files:
 - file: "/uploads/CP_NUMERIQUE_AU_SERVICE_DE_L_EFFICACITE_DE_L_ACTION_PUBLIQUE_BILAN_BETA.GOUV.FR-fb911b.pdf"
   nom: Télécharger le communiqué de presse
 ---
-
-**Simplifier le quotidien de tous les Français en s’appuyant sur la puissance du numérique, c’est la promesse de la stratégie numérique de l’État pilotée par la direction interministérielle du numérique (DINUM) intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques. Pour y parvenir, l’incubateur de services numériques de la direction, [beta.gouv.fr](https://beta.gouv.fr/), conçoit, avec les ministères, des services numériques, basés sur les besoins des usagers et répondant aux politiques prioritaires du Gouvernement, en s’appuyant sur des méthodes innovantes guidées par l’impact.**
 
 **À l’occasion d’un événement dédié au numérique et à l’intrapreneuriat qui se tient aujourd’hui à Paris, le bilan annuel de beta.gouv.fr est dévoilé. Depuis la publication de la nouvelle stratégie numérique de l’État publiée il y a un an, l’incubateur concentre son action sur les politiques prioritaires du Gouvernement.**
 
