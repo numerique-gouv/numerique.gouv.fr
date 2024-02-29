@@ -9,7 +9,7 @@ tags:
 chapeau-text: "*L’État dans le nuage* lance la deuxième édition avec une journée dédiée
   au Cloud dans la sphère publique."
 une-ou-diaporama:
-- image: "/uploads/Visuel%20cloud%20RS-17d17e.png"
+- image: "/uploads/Visuel%20cloud%20RS(1).png"
   alternative-textuelle: Image décorative
 ---
 
