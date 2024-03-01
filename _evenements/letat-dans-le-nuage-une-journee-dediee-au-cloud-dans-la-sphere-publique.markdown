@@ -9,7 +9,8 @@ tags:
 chapeau-text: "*L’État dans le nuage* lance la deuxième édition avec une journée dédiée
   au Cloud dans la sphère publique."
 une-ou-diaporama:
-- image: "/uploads/Visuel%20cloud%20RS(1)-fe2588.png"
+- image: "/uploads/Visuel%20cloud%20RS(1)-ab9d66.png"
+  alternative-textuelle: image décorative
 event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
@@ -32,37 +33,33 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 ## Au programme
 
-* 9h : **Les grandes orientations de la stratégie de l’État en matière de Cloud**
+* 9h-9h15  : **Présentation des grands enjeux liés à l’adoption du cloud par l’État**
 
-***Stéphanie Schaer**, directrice interministérielle du numérique*
+***Jérémie Vallet**, directeur adjoint, DINUM*
 
-* 9h15 : **L’actualité du Cloud dans la sphère publique**
+* 9h15-10h : **les enjeux et opportunités liés à la souveraineté et à la transformation numérique pour l’administration du gouvernement fédéral allemand.**
 
-*Vincent Coudrin, directeur de projet interministériel, DINUM*
+***Christine Serrette**, directrice technique adjointe du Centre fédéral de technologie de l’information en Allemagne (ITZBund)*
 
-* 9h30 : **Les évolutions réglementaires en lien avec le Cloud, en France et en Europe**
+* 10h-10h35 : **Actualités de la stratégie nationale pour le cloud**
 
-*Emmanuelle Legrand, cheffe de projets régulation du Cloud et Économie de la Donnée, DGE*
+*Adrien Laroche, coordinateur de la stratégie cloud France 2030, Direction générale des entreprises*
 
-* 9h45 : **Les enjeux liés à la souveraineté numérique tels qu’ils sont perçus en Allemagne**
+* 10h55-11h10 : **L’actualité du Cloud dans la sphère publique**
 
-***Christine Serrette**, directrice technique adjointe du Centre fédéral de technologie de l'information en Allemagne (ITZBund)*
+*Vincent Coudrin, directeur de projet interministériel et Nina Landes, chef de projet interministériel, DINUM*
 
-* 10h50 : Stratégie d’accélération Cloud **France 2030**, bilan et perspectives
+* 11h10-12h : **la stratégie cloud d’EDF, des enjeux liés à la souveraineté des données aux transformations induites dans l’Entreprise**
 
-*Adrien Laroche, directeur de projets économie de la donnée, DGE*
+*Vincent Pertuy, pilote de la stratégie Cloud d’EDF à la Direction des Systèmes d’information*
 
-* 11h10 : **La stratégie Cloud d’EDF, des enjeux liés à la souveraineté des données aux transformations induites dans l’Entreprise**
+* 12h-12h30 : **Témoignage - Les enjeux de la transformation cyber au bénéfice des opérations spéciales. Comment les capacités et les modes d’action cyber sont désormais partie prenante des opérations spéciales ?**
 
-*Vincent Pertuy, pilote de la stratégie Cloud d’EDF à la Direction des Systèmes d’information, EDF*
-
-* **12h : Présentation des enjeux de la transformation cyber au sein des forces spéciales**
-
-*Deux intervenants : le chef d’État Major des Opérations spéciales et CV Thomas Guillet, coordonnateur Cyber Marine nationale*
+*Deux intervenants : Chef d’État-Major du Commandement des Opérations Spéciales (COS) ; CV Thomas Guillet, coordonnateur Cyber Marine nationale*
 
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
 
-![Programme de l'après-midi.png](/uploads/Programme%20de%20l'apr%C3%A8s-midi.png)
+![Journée Cloud 5 mars_détail après midi.png](/uploads/Journ%C3%A9e%20Cloud%205%20mars_d%C3%A9tail%20apr%C3%A8s%20midi.png)
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
 
