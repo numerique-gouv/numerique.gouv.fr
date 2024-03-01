@@ -9,7 +9,7 @@ tags:
 chapeau-text: "*L’État dans le nuage* lance la deuxième édition avec une journée dédiée
   au Cloud dans la sphère publique."
 une-ou-diaporama:
-- image: "/uploads/Visuel%20cloud%20RS(1)-024f6e.png"
+- image: "/uploads/Visuel%20cloud%20RS(1)-ab9d66.png"
   alternative-textuelle: image décorative
 event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
@@ -45,7 +45,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 *Adrien Laroche, coordinateur de la stratégie cloud France 2030, Direction générale des entreprises*
 
-* 10h55-11h10 : L’actualité du Cloud dans la sphère publique 
+* 10h55-11h10 : **L’actualité du Cloud dans la sphère publique**
 
 *Vincent Coudrin, directeur de projet interministériel et Nina Landes, chef de projet interministériel, DINUM*
 
@@ -53,7 +53,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 *Vincent Pertuy, pilote de la stratégie Cloud d’EDF à la Direction des Systèmes d’information*
 
-* **12h-12h30 : Témoignage - Les enjeux de la transformation cyber au bénéfice des opérations spéciales. Comment les capacités et les modes d’action cyber sont désormais partie prenante des opérations spéciales ?**
+* 12h-12h30 : **Témoignage - Les enjeux de la transformation cyber au bénéfice des opérations spéciales. Comment les capacités et les modes d’action cyber sont désormais partie prenante des opérations spéciales ?**
 
 *Deux intervenants : Chef d’État-Major du Commandement des Opérations Spéciales (COS) ; CV Thomas Guillet, coordonnateur Cyber Marine nationale*
 
