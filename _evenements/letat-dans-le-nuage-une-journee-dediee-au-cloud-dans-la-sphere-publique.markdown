@@ -10,6 +10,7 @@ chapeau-text: "*L’État dans le nuage* lance la deuxième édition avec une jo
   au Cloud dans la sphère publique."
 une-ou-diaporama:
 - image: "/uploads/Visuel%20cloud%20RS(1)-024f6e.png"
+  alternative-textuelle: image décorative
 event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
@@ -62,7 +63,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
 
-![Programme de l'après-midi.png](/uploads/Programme%20de%20l'apr%C3%A8s-midi.png)
+![Journée Cloud 5 mars_détail après midi.png](/uploads/Journ%C3%A9e%20Cloud%205%20mars_d%C3%A9tail%20apr%C3%A8s%20midi.png)
 
 Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
 
