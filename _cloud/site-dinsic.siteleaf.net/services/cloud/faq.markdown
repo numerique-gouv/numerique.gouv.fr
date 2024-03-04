@@ -1,7 +1,7 @@
 ---
 title: FAQ
 date: 2024-02-23 16:55:00 +01:00
-permalink: "/services/cloud/"
+permalink: "/services/cloud/faq/"
 menu:
   title: FAQ
   weight: 100
@@ -10,7 +10,7 @@ une:
 layout: cloud
 ---
 
-<h3 style="margin-top:-20px">FAQ - Doctrine cloud de l’Etat</h3>
+<h3 style="margin-top:-20px">Doctrine cloud de l’Etat</h3>
 
 ### Périmètre
 
