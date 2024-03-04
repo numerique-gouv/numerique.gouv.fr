@@ -11,6 +11,38 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.itforbusiness.fr/letat-se-dote-dun-campus-pour-former-ses-agents-au-numerique-74014" title="L’État se dote d’un campus pour former ses agents au numérique - Lien externe">L’État se dote d’un campus pour former ses agents au numérique</a></titre>
+<date>29 février 2024</date>
+<media> IT for Business </media> 
+
+<titre><a href="https://www.usine-digitale.fr/editorial/l-administration-devoile-le-nom-des-start-up-d-etat-qu-elle-va-accompagner-pendant-six-mois.N2209073" title="L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois - Lien externe">L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois</a></titre>
+<date>28 février 2024</date>
+<media> L'Usine Digitale </media> 
+
+<titre><a href="https://www.bsmart.fr/video/23437-smart-tech-27-fevrier-2024" title="Grande interview : Stéphanie Schaer, directrice interministérielle du numérique - Lien externe">Grande interview : Stéphanie Schaer, directrice interministérielle du numérique</a></titre>
+<date>27 février 2024</date>
+<media> B SMART </media> 
+
+<titre><a href="https://acteurspublics.fr/articles/213-start-up-detat-en-activite" title="213 start-up d’État en activité - Lien externe">213 start-up d’État en activité</a></titre>
+<date>27 février 2024</date>
+<media> Acteurs Publics </media> 
+
+<titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-cree-une-cellule-cyber-pour-renforcer-la-securite-de-ses-services?utm_campaign=2024-02-16_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services - Lien externe">La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services</a></titre>
+<date>16 février 2024</date>
+<media> Acteurs Publics </media> 
+
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-planification-ecologique-l-etat-lance-un-fonds-de-50-meteuro-pour-des-projets-it-92934.html" title="Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT - Lien externe">Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT</a></titre>
+<date>12 février 2024</date>
+<media> Le Monde Informatique </media> 
+
+<titre><a href="https://acteurspublics.fr/articles/france-et-allemagne-main-dans-la-main-pour-developper-une-suite-numerique-europeenne?utm_campaign=2024-02-09_News_noms&utm_medium=email&utm_source=Mailjet" title="France et Allemagne main dans la main pour développer une suite numérique européenne - Lien externe">France et Allemagne main dans la main pour développer une suite numérique européenne</a></titre>
+<date>9 février 2024</date>
+<media> Acteurs publics </media> 
+
+<titre><a href="https://www.bfmtv.com/tech/intelligence-artificielle/paris-et-berlin-s-engagent-a-developper-ensemble-une-ia-pour-leurs-fonctionnaires_AD-202402060850.html" title="Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires - Lien externe">Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires</a></titre>
+<date>6 février 2024</date>
+<media> BFM TV </media> 
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/marielle-chrisment-etalab-ouvrir-les-donnees-pour-des-cas-d-usage-a-impact-doit-etre-naturel.html" title="Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel » - Lien externe">Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel »</a></titre>
 <date>2 février 2024</date>
 <media> Républik IT </media> 
