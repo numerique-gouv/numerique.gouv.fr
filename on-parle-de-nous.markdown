@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.lemondeinformatique.fr/actualites/lire-planification-ecologique-l-etat-lance-un-fonds-de-50-meteuro-pour-des-projets-it-92934.html" title="Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT - Lien externe">Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT</a></titre>
+<date>12 février 2024</date>
+<media> Le Monde Informatique </media> 
+
 <titre><a href="https://acteurspublics.fr/articles/france-et-allemagne-main-dans-la-main-pour-developper-une-suite-numerique-europeenne?utm_campaign=2024-02-09_News_noms&utm_medium=email&utm_source=Mailjet" title="France et Allemagne main dans la main pour développer une suite numérique européenne - Lien externe">France et Allemagne main dans la main pour développer une suite numérique européenne</a></titre>
 <date>9 février 2024</date>
 <media> Acteurs publics </media> 
