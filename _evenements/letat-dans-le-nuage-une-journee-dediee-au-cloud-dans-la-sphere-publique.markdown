@@ -15,9 +15,9 @@ event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
-- intitule: Modalités
-  contenu: En savoir plus et s'inscrire
-  lien: https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857
+- intitule: 
+  contenu: 
+  lien: 
 - intitule: 'Date '
   contenu: Mardi 05 mars 2024
 - intitule: 'Horaires '
@@ -61,8 +61,6 @@ L’après-midi sera organisé libre et ouverte : les participants auront le cho
 
 ![Journée Cloud 5 mars_détail après midi.png](/uploads/Journ%C3%A9e%20Cloud%205%20mars_d%C3%A9tail%20apr%C3%A8s%20midi.png)
 
-Pour vous pré-inscrire : [[ce lien](https://www.eventbrite.fr/e/billets-letat-dans-le-nuage-780019678857)]
-
-*Les inscriptions seront définitivement validées en fonction du nombre d’inscrits et des places disponibles*.
+Les inscriptions à cet événement sont clôturées. 
 
 *Cet évènement est ouvert au public et à la presse.*
