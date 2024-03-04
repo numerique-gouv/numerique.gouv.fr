@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-cree-une-cellule-cyber-pour-renforcer-la-securite-de-ses-services?utm_campaign=2024-02-16_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services - Lien externe">La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services</a></titre>
+<date>16 février 2024</date>
+<media> Acteurs Publics </media> 
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-planification-ecologique-l-etat-lance-un-fonds-de-50-meteuro-pour-des-projets-it-92934.html" title="Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT - Lien externe">Planification écologique : L'Etat lance un fonds de 50 M€ pour des projets IT</a></titre>
 <date>12 février 2024</date>
 <media> Le Monde Informatique </media> 
