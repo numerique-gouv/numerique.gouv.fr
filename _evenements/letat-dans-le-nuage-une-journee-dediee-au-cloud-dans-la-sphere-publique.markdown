@@ -18,7 +18,7 @@ champs_informations:
 - intitule: 'Date '
   contenu: Mardi 05 mars 2024
 - intitule: 'Horaires '
-  contenu: 8h30 - 17h30
+  contenu: 8h30 - 17h45
 - intitule: Comment y aller
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 - intitule: Une question ?
@@ -30,33 +30,37 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 ## Au programme
 
-* 9h-9h15  : **Présentation des grands enjeux liés à l’adoption du cloud par l’État**
+* 9h-9h10  : **Présentation des grands enjeux liés à l’adoption du Cloud par l’État**
 
 ***Jérémie Vallet**, directeur adjoint, DINUM*
 
-* 9h15-10h : **les enjeux et opportunités liés à la souveraineté et à la transformation numérique pour l’administration du gouvernement fédéral allemand.**
+* 9h10-9h55 : **Les enjeux et opportunités liés à la souveraineté et à la transformation numérique pour l’administration du gouvernement fédéral allemand.**
 
 ***Christine Serrette**, directrice technique adjointe du Centre fédéral de technologie de l’information en Allemagne (ITZBund)*
 
-* 10h-10h35 : **Actualités de la stratégie nationale pour le cloud**
+* 9h55-10h30 : **Actualités de la stratégie nationale pour le cloud**
 
-*Adrien Laroche, coordinateur de la stratégie cloud France 2030, Direction générale des entreprises*
+*Adrien Laroche, coordinateur de la stratégie Cloud France 2030, Direction générale des entreprises*
 
-* 10h55-11h10 : **L’actualité du Cloud dans la sphère publique**
+* 10h50-11h05 : **L’actualité du Cloud dans la sphère publique**
 
-*Vincent Coudrin, directeur de projet interministériel et Nina Landes, chef de projet interministériel, DINUM*
+*Vincent Coudrin, directeur de projet interministériel et Nina Landes, cheffe de projet interministériel, DINUM*
 
-* 11h10-12h : **la stratégie cloud d’EDF, des enjeux liés à la souveraineté des données aux transformations induites dans l’Entreprise**
+* 11h05-11h55 : **La stratégie cloud d’EDF, des enjeux liés à la souveraineté des données aux transformations induites dans l’Entreprise**
 
 *Vincent Pertuy, pilote de la stratégie Cloud d’EDF à la Direction des Systèmes d’information*
 
-* 12h-12h30 : **Témoignage - Les enjeux de la transformation cyber au bénéfice des opérations spéciales. Comment les capacités et les modes d’action cyber sont désormais partie prenante des opérations spéciales ?**
+* 11h55-12h25 : **Témoignage - Les enjeux de la transformation cyber au bénéfice des opérations spéciales. Comment les capacités et les modes d’action cyber sont désormais partie prenante des opérations spéciales ?**
 
 *Deux intervenants : Chef d’État-Major du Commandement des Opérations Spéciales (COS) ; CV Thomas Guillet, coordonnateur Cyber Marine nationale*
 
+* 12h25-12h30 : Clôture de la matinée
+
+***Stéphanie Schaer, directrice interministérielle du numérique, DINUM***
+
 L’après-midi sera organisé libre et ouverte : les participants auront le choix entre thématiques managériales et des tables rondes techniques comprenant des retours d’expériences d’administrations. 
 
-![Journée Cloud 5 mars_détail après midi.png](/uploads/Journ%C3%A9e%20Cloud%205%20mars_d%C3%A9tail%20apr%C3%A8s%20midi.png)
+![Journée Cloud 5 mars_détail après midi-fcbee3.png](/uploads/Journ%C3%A9e%20Cloud%205%20mars_d%C3%A9tail%20apr%C3%A8s%20midi-fcbee3.png)
 
 Les inscriptions à cet événement sont clôturées. 
 
