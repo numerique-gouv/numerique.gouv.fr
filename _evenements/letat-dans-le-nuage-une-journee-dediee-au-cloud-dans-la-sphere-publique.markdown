@@ -38,7 +38,7 @@ Au croisement des mondes entre la tech et l’administration, la DINUM convie to
 
 ***Christine Serrette**, directrice technique adjointe du Centre fédéral de technologie de l’information en Allemagne (ITZBund)*
 
-* 9h55-10h30 : **Actualités de la stratégie nationale pour le cloud**
+* 9h55-10h30 : **Actualités de la stratégie nationale pour le Cloud**
 
 *Adrien Laroche, coordinateur de la stratégie Cloud France 2030, Direction générale des entreprises*
 
