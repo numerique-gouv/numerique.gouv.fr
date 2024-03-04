@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.bfmtv.com/tech/intelligence-artificielle/paris-et-berlin-s-engagent-a-developper-ensemble-une-ia-pour-leurs-fonctionnaires_AD-202402060850.html" title="Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires - Lien externe">Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires</a></titre>
+<date>6 février 2024</date>
+<media> BFM TV </media> 
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/marielle-chrisment-etalab-ouvrir-les-donnees-pour-des-cas-d-usage-a-impact-doit-etre-naturel.html" title="Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel » - Lien externe">Marielle Chrisment (Etalab) : « ouvrir les données pour des cas d’usage à impact doit être naturel »</a></titre>
 <date>2 février 2024</date>
 <media> Républik IT </media> 
