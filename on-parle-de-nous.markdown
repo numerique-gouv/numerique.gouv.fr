@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/france-et-allemagne-main-dans-la-main-pour-developper-une-suite-numerique-europeenne?utm_campaign=2024-02-09_News_noms&utm_medium=email&utm_source=Mailjet" title="France et Allemagne main dans la main pour développer une suite numérique européenne - Lien externe">France et Allemagne main dans la main pour développer une suite numérique européenne</a></titre>
+<date>9 février 2024</date>
+<media> Acteurs publics </media> 
+
 <titre><a href="https://www.bfmtv.com/tech/intelligence-artificielle/paris-et-berlin-s-engagent-a-developper-ensemble-une-ia-pour-leurs-fonctionnaires_AD-202402060850.html" title="Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires - Lien externe">Paris et Berlin s'engagent à développer ensemble une IA pour leurs fonctionnaires</a></titre>
 <date>6 février 2024</date>
 <media> BFM TV </media> 
