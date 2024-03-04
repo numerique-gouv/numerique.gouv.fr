@@ -10,7 +10,7 @@ une:
 layout: cloud
 ---
 
-<h3 style="margin-top:-20px">FAQ - Doctrine cloud de l’Etat</h3>
+<h3 style="margin-top:-20px">Doctrine cloud de l’Etat</h3>
 
 ### Périmètre
 
