@@ -11,6 +11,9 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.itforbusiness.fr/letat-se-dote-dun-campus-pour-former-ses-agents-au-numerique-74014" title="L’État se dote d’un campus pour former ses agents au numérique - Lien externe">L’État se dote d’un campus pour former ses agents au numérique</a></titre>
+<date>29 février 2024</date>
+<media> IT for Business </media> 
 
 <titre><a href="https://www.usine-digitale.fr/editorial/l-administration-devoile-le-nom-des-start-up-d-etat-qu-elle-va-accompagner-pendant-six-mois.N2209073" title="L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois - Lien externe">L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois</a></titre>
 <date>28 février 2024</date>
