@@ -11,9 +11,14 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+
 <titre><a href="https://www.usine-digitale.fr/editorial/l-administration-devoile-le-nom-des-start-up-d-etat-qu-elle-va-accompagner-pendant-six-mois.N2209073" title="L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois - Lien externe">L’administration dévoile le nom des “start-up d’État” qu’elle va accompagner pendant six mois</a></titre>
 <date>28 février 2024</date>
 <media> L'Usine Digitale </media> 
+
+<titre><a href="https://www.bsmart.fr/video/23437-smart-tech-27-fevrier-2024" title="Grande interview : Stéphanie Schaer, directrice interministérielle du numérique - Lien externe">Grande interview : Stéphanie Schaer, directrice interministérielle du numérique</a></titre>
+<date>27 février 2024</date>
+<media> B SMART </media> 
 
 <titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-cree-une-cellule-cyber-pour-renforcer-la-securite-de-ses-services?utm_campaign=2024-02-16_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services - Lien externe">La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services</a></titre>
 <date>16 février 2024</date>
