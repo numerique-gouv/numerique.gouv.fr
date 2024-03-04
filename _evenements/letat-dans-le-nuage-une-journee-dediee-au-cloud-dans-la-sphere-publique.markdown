@@ -15,9 +15,6 @@ event_start_date: 2024-03-05 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
-- intitule: 
-  contenu: 
-  lien: 
 - intitule: 'Date '
   contenu: Mardi 05 mars 2024
 - intitule: 'Horaires '

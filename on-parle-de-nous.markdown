@@ -20,6 +20,10 @@ layout: page-annexe
 <date>27 février 2024</date>
 <media> B SMART </media> 
 
+<titre><a href="https://acteurspublics.fr/articles/213-start-up-detat-en-activite" title="213 start-up d’État en activité - Lien externe">213 start-up d’État en activité</a></titre>
+<date>27 février 2024</date>
+<media> Acteurs Publics </media> 
+
 <titre><a href="https://acteurspublics.fr/articles/la-dsi-de-letat-cree-une-cellule-cyber-pour-renforcer-la-securite-de-ses-services?utm_campaign=2024-02-16_News_noms&utm_medium=email&utm_source=Mailjet" title="La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services - Lien externe">La DSI de l’État crée une “cellule cyber” pour renforcer la sécurité de ses services</a></titre>
 <date>16 février 2024</date>
 <media> Acteurs Publics </media> 
