@@ -2,6 +2,7 @@
 title: 'Hackathon Données Ouvertes Météo-France : Venez valoriser les données publiques
   météorologiques !'
 date: 2024-03-05 16:21:00 +01:00
+published: false
 categories:
 - Hackathon
 tags:
@@ -63,5 +64,3 @@ Les inscriptions sont ouvertes du 6 mars au 18 mars, 12h00, dans la limite des p
 
 
 Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
-
-2. Post LinkedIn
