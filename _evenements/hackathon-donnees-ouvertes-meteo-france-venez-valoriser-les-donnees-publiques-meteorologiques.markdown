@@ -10,6 +10,8 @@ tags:
 - données ouvertes
 - météo
 - hackathon
+event_start_date: 2024-04-08 00:00:00 +02:00
+event_end_date: 2024-04-09 00:00:00 +02:00
 ---
 
 Collectées grâce à des stations au sol, des radars, des satellites, etc. ou produites à partir des observations ainsi réalisées, les données météorologiques sont foisonnantes.
@@ -34,9 +36,9 @@ Pour vos projets, vous serez invités à exploiter la richesse des données mise
 * Les données climatologiques de référence pour le changement climatique : intégralité des séries de données observées homogénéisées, mensuelles et quotidiennes, données spécialement conçues pour l’analyse du changement climatique ;
 * Les données des modèles de prévision numérique du temps : accès en temps réel aux résultats des dernières prévisions des modèles de prévision numérique jusqu’à 4 jours d’échéance.
 
-Vous pouvez d’ores et déjà consulter les données disponibles pour le hackathon sur meteo.data.gouv.fr.
+Vous pouvez d’ores et déjà consulter les données disponibles pour le hackathon sur [meteo.data.gouv.fr](https://meteo.data.gouv.fr/).
 
-Vous pourrez bien sûr exploiter d’autres données en open data disponibles sur data.gouv.fr.
+Vous pourrez bien sûr exploiter d’autres données en open data disponibles sur [data.gouv.fr](https://www.data.gouv.fr/fr/).
 
 ### Pour qui ?
 Spécialistes de la donnée, développeuses et développeurs, géomaticiennes et géomaticiens, designers, chercheurs, étudiantes et étudiants, datajournalistes, agents publics, citoyennes et citoyens curieux, etc. vous avez toutes et tous votre place au hackathon !
