@@ -2,7 +2,6 @@
 title: 'Hackathon Données Ouvertes Météo-France : Venez valoriser les données publiques
   météorologiques !'
 date: 2024-03-05 16:21:00 +01:00
-published: false
 categories:
 - Hackathon
 tags:
@@ -54,12 +53,14 @@ Pendant deux jours complets, du lundi 8 avril 2024 au mardi 9 avril 2024.
 
 L’événement sera hybride avec :
 
-des places disponibles pour une participation physique, au Lieu de la Transformation publique (77 Avenue de Ségur 75015 Paris) ;
-des places ouvertes en ligne.
-Comment s’inscrire ?
+* des places disponibles pour une participation physique, au Lieu de la Transformation publique (77 Avenue de Ségur 75015 Paris) ;
+* des places ouvertes en ligne.
+
+**Comment s’inscrire ?**
 Les inscriptions sont ouvertes du 6 mars au 18 mars, 12h00, dans la limite des places disponibles. Une liste d’attente pourra être ouverte.
 
-Inscrivez-vous !
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.eventbrite.fr/e/billets-hackathon-donnees-ouvertes-meteo-france-836005554117" class="button" title="Inscrivez-vous ! - Lien externe"><b>Inscrivez-vous !</b></a></div>
+
 
 Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
 
