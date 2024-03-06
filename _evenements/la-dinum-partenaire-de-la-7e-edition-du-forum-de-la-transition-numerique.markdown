@@ -12,7 +12,6 @@ chapeau-text: La Gazette des communes organise, pour la 7ème édition, le forum
   conciliation entre notamment la réduction de l’empreinte environnementale du numérique
   et l’accès à l’utilisation des nouvelles technologies.
 event_start_date: 2024-05-16 00:00:00 +02:00
-event_end_date: 2024-05-16 00:00:00 +02:00
 ---
 
 Avec divers acteurs engagés sur la transition numérique dans le domaine public, le forum de la transition numérique a pour objectif de faire se rencontrer l’ensemble de ces acteurs et les faire débattre autour de grandes thématiques, ayant pour point commun : le numérique raisonnable, inclusion numérique, IA, cybersécurité, sobriété, Smart City…
