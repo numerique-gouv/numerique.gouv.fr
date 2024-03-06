@@ -12,7 +12,7 @@ chapeau-text: La Gazette des communes organise, pour la 7ème édition, le forum
   conciliation entre notamment la réduction de l’empreinte environnementale du numérique
   et l’accès à l’utilisation des nouvelles technologies.
 une-ou-diaporama:
-- image: "/uploads/Visuel%20Forum%20transition.png"
+- image: "/uploads/Visuel%20Forum%20transition(2).png"
   alternative-textuelle: Image décorative
 event_start_date: 2024-05-16 00:00:00 +02:00
 ---
