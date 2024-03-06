@@ -12,8 +12,10 @@ chapeau-text: Au sein d’un stand unique, le numérique de l’Etat présent au
   recruter des professionnels de la tech. Rdv au stand n°51 (RDC).
 une-ou-diaporama:
 - image: "/uploads/salon-csp-24-internet-16-9-38a9b7.png"
+  alternative-textuelle: Image décorative
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_CHOISIRLESERVICEPUBLIC2024-f9c469.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Anticiper et mieux cibler les interventions de l’État auprès des entreprises en difficulté financière ([Signaux Faibles](https://www.entreprises.gouv.fr/fr/industrie/politique-industrielle/signaux-faibles)), faciliter les relations entre propriétaires et locataires ([Dossier Facile](https://www.dossierfacile.logement.gouv.fr/)), encourager l'engagement bénévole partout en France ([JeVeuxAider](https://www.jeveuxaider.gouv.fr/)), dématérialiser n’importe quelle démarche administrative en quelques minutes ([Démarches Simplifiées](https://www.demarches-simplifiees.fr/)), évaluer et certifier les compétences numériques ([PIX](https://pix.fr/))… etc. pour rendre l’action publique plus simple et plus efficace dans son action, l’État s’appuie sur la puissance du numérique.**
