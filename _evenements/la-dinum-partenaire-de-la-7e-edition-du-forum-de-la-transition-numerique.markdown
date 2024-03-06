@@ -11,6 +11,8 @@ chapeau-text: La Gazette des communes organise, pour la 7ème édition, le forum
   la transition numérique afin d’échanger avec divers acteurs sur la question de la
   conciliation entre notamment la réduction de l’empreinte environnementale du numérique
   et l’accès à l’utilisation des nouvelles technologies.
+une-ou-diaporama:
+- image: "/uploads/Visuel%20Forum%20transition.png"
 event_start_date: 2024-05-16 00:00:00 +02:00
 ---
 
