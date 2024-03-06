@@ -10,6 +10,8 @@ tags:
 chapeau-text: Au sein d’un stand unique, le numérique de l’Etat présent au salon national
   de l’emploi public pour faire connaître sa stratégie et ses grands chantiers et
   recruter des professionnels de la tech. Rdv au stand n°51 (RDC).
+une-ou-diaporama:
+- image: "/uploads/salon-csp-24-internet-16-9-38a9b7.png"
 files:
 - nom: Télécharger le communiqué de presse
 ---
