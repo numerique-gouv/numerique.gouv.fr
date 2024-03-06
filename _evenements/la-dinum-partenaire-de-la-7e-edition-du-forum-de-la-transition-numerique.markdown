@@ -15,6 +15,11 @@ une-ou-diaporama:
 - image: "/uploads/Visuel%20Forum%20transition(2).png"
   alternative-textuelle: Image décorative
 event_start_date: 2024-05-16 00:00:00 +02:00
+afficher_la_carte: false
+champs_informations:
+- intitule: Modalités
+  contenu: inscription obligatoire
+  lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-7e-forum-de-la-transition-numerique-2024-p-17096
 ---
 
 Avec divers acteurs engagés sur la transition numérique dans le domaine public, le forum de la transition numérique a pour objectif de faire se rencontrer l’ensemble de ces acteurs et les faire débattre autour de grandes thématiques, ayant pour point commun : le numérique raisonnable, inclusion numérique, IA, cybersécurité, sobriété, Smart City…
