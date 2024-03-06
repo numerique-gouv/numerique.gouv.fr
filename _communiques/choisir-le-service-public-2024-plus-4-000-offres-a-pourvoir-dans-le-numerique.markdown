@@ -7,9 +7,9 @@ tags:
 - Attractivité
 - RH
 - Numérique
-chapeau-text: Au sein d’un stand unique, le numérique de l’Etat présent au salon national
-  de l’emploi public pour faire connaître sa stratégie et ses grands chantiers et
-  recruter des professionnels de la tech. Rdv au stand n°51 (RDC).
+chapeau-text: "Au sein d’un stand unique, le numérique de l’Etat présent au salon
+  national de l’emploi public pour faire connaître sa stratégie et ses grands chantiers
+  et recruter des professionnels de la tech. \n\nRdv au stand n°51 (RDC)."
 une-ou-diaporama:
 - image: "/uploads/salon-csp-24-internet-16-9-38a9b7.png"
   alternative-textuelle: Image décorative
@@ -29,6 +29,7 @@ Facteur essentiel de la réussite de ces grands chantiers au service de tous les
 RDV au stand N°51 (RDC) avec au programme : des échanges avec des agents publics du numérique et des recruteurs pour renseigner les candidats sur la diversité des parcours dans l’administration et des voies de recrutement au sein de l’État ainsi que des pitchs et un job-dating.
 
 *« Je me suis rendu à la première édition du salon « Choisir le service public » le 4 mai 2023 car j’avais identifié quelques offres d’emploi à la DINUM et je souhaitais rencontrer les équipes. Le salon a été une opportunité pour échanger librement avec recruteurs et les agents. Un mois plus tard, j'intégrais la DINUM en tant que chef du Datalab. Avec mes équipes, nous avons créé Albert, une intelligence artificielle générative spécialisée pour répondre aux besoins des agents publics. La capacité d'innovation, la réactivité et l'engagement des agents sont remarquables. Nos missions sont passionnantes et se doublent d'une authentique fierté de servir l'intérêt général. »*
+
 **Ulrich Tan, chef du Datalab du département Etalab de la DINUM**
 
 Pour attirer des professionnels de la tech, l’État a publié en janvier 2024 **un référentiel de rémunération des 55 métiers de la filière numérique**. Applicable à l’ensemble des administrations d’État, il définit des valeurs de salaires sur l’ensemble des métiers de la filière numérique, avec des fourchettes basses et hautes, en fonction du métier et de l’expérience de chaque candidat ou agent contractuel déjà en place. En complément, la circulaire associée à ce référentiel **préconise la primo-CDIsation pour les métiers les plus en tension** afin de renforcer drastiquement l’attractivité de la filière numérique de l’État et répondre à l’enjeu de fidélisation des agents et de souveraineté numérique. Dans la même optique, **la portabilité des CDI** sera donc privilégiée et facilitée pour encourager les mobilités. 
