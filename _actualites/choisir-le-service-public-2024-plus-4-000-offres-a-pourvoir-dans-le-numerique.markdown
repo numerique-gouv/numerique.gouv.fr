@@ -15,4 +15,4 @@ une-ou-diaporama:
   alternative-textuelle: Image décorative
 ---
 
-<div class="lien-important"><p><a href="LIEN">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/choisir-le-service-public-2024-plus-4-000-offres-a-pourvoir-dans-le-numerique/">Lire le communiqué de presse</a></p></div>
