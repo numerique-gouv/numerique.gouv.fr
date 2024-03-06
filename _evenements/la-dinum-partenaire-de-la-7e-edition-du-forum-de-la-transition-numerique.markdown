@@ -21,9 +21,10 @@ Avec divers acteurs engagés sur la transition numérique dans le domaine public
 
 La direction interministérielle du numérique, pleinement engagée sur la question du numérique écoresponsable, interviendra avec Mélanie Raphaël, experte au numérique écoresponsable à la DINUM.
 
-De 14h à 14h45
+<div class="encadre noir" style="margin-bottom:40px"><br><p><b>De 14h à 14h45</b><br>
 
 Elle partagera **les avancées dans le secteur public et un état des lieux des feuilles de route interministérielles et des feuilles de route des opérateurs et collectivités prévues pour 2025 incitant les administrations à s’engager concrètement et reviendra sur la stratégie pour une transition numérique réussie** en évoquant notamment la réduction de la pression à l’obsolescence, la conception des services numériques plus accessibles et plus performants, les recommandations en termes de Data Center, le réemploi dans le secteur public et mesure des impacts.
+</p></div>
 
 ### Un événement dédié aux décideurs pour les accompagner dans leur transition numérique :
 
@@ -33,6 +34,6 @@ Elle partagera **les avancées dans le secteur public et un état des lieux des 
 
 Revenir sur les enjeux relatifs à la transition numérique des collectivités (souveraineté et gouvernance, gestion et exploitation de la data, etc.) et débattre autour des dernières stratégies et innovations en matière de sobriété numérique, c’est la promesse de cet événement organisé par la Gazette des communes.
 
-[Consulter le programme complet](https://evenements.infopro-digital.com/gazette-des-communes/evenement-7e-forum-de-la-transition-numerique-2024-p-17096)
+<div class="lien-important"><p><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-7e-forum-de-la-transition-numerique-2024-p-17096">Consulter le programme complet</a></p></div>
 
 La Gazette des communes offre 20% de remise sur le tarif général HT de la conférence grâce au code promo **DINUM20**.
