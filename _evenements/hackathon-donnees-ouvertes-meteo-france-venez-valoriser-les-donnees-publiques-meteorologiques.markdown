@@ -9,9 +9,9 @@ tags:
 - données ouvertes
 - météo
 - hackathon
-chapeau-text: La Direction interministérielle du numérique et Météo-France vous invitent
-  à participer à un hackathon consacré à la valorisation des données publiques météorologiques
-  les 8 et 9 avril 2024.
+chapeau-text: La direction interministérielle du numérique et Météo-France organisent
+  un hackathon consacré à la valorisation des données publiques météorologiques les
+  8 et 9 avril 2024.
 event_start_date: 2024-04-08 00:00:00 +02:00
 event_end_date: 2024-04-09 00:00:00 +02:00
 lieu: Lieu de la Transformation publique
@@ -22,13 +22,17 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-hackathon-donnees-ouvertes-meteo-france-836005554117
 ---
 
-L’objectif : résoudre des problématiques et donner corps rapidement à de nouveaux usages, de nouvelles idées et de nouvelles solutions à partir des données publiques de Météo-France.
+L’objectif : résoudre des problématiques et faire émerger de nouveaux usages, de nouvelles idées et de nouvelles solutions à partir des données publiques de Météo-France.
 
-### Au programme : 
-* Création, développement et présentation d’un projet en réponse à des défis liés à la thématique météorologique.
-* Développement de nouveaux services, utilisation de l’intelligence artificielle, création des outils de visualisation avancés, etc. à partir des données météorologiques.
+### Au programme de ce hackathon consacré à la valorisation des données publiques météorologiques :
+
+* La création, le développement et la présentation d’un projet en réponse à des défis liés à la thématique météorologique.
+* Le développement de nouveaux services, l’utilisation de l’intelligence artificielle, la création des outils de visualisation avancés, etc. à partir des données météorologiques.
+
+**Professionnels du numérique, développeurs, datascientist, prenez part à cet événement !**
 
 ### À partir de quelles données ?
+En tant que participant, vous serez invités à exploiter la richesse des données mises à disposition en open data par Météo-France, notamment :
 * Les données climatologiques de base : données climatologiques pour toutes les stations françaises depuis leur ouverture, pour tous les paramètres disponibles ;
 * Les données climatologiques de référence pour le changement climatique : intégralité des séries de données observées homogénéisées, mensuelles et quotidiennes, données spécialement conçues pour l’analyse du changement climatique ;
 * Les données des modèles de prévision numérique du temps : accès en temps réel aux résultats des dernières prévisions des modèles de prévision numérique jusqu’à 4 jours d’échéance.
