@@ -42,13 +42,10 @@ Pour attirer des professionnels de la tech, l’État a publié en janvier 2024 
 
 [Consulter toutes les offres dans le numérique au sein de l’État](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/ )
 
-<div class="encadre noir" style="margin-bottom:40px"><br><p><b>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service du Premier ministre, la DINUM intervient sous l’égide du ministre de la Transformation et de la Fonction publiques. En tant que cheffe de file du numérique de l’État, elle a pour objectif de rendre l’État plus efficace, plus simple et plus souverain et collabore à cet effet avec l’ensemble des directions numériques des ministères et ses partenaires</b><br>
+La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service du Premier ministre, la DINUM intervient sous l’égide du ministre de la Transformation et de la Fonction publiques. En tant que cheffe de file du numérique de l’État, elle a pour objectif de rendre l’État plus efficace, plus simple et plus souverain et collabore à cet effet avec l’ensemble des directions numériques des ministères et ses partenaires :
 
-* La direction de la transformation du numérique du ministère de l’Intérieur et des Outre-mer : https://www.interieur.gouv.fr/
-* La direction générale du numérique du ministère des Armées : https://www.defense.gouv.fr/ 
-* La direction numérique du ministère de la Transition écologique et de la Cohésion des territoires : https://www.ecologie.gouv.fr/secretariat-general 
-* La direction du numérique pour l’éducation du ministère de l’Éducation nationale et de la Jeunesse : https://www.education.gouv.fr/ 
-* La direction numérique du ministère de l'Europe et des Affaires étrangères : https://www.diplomatie.gouv.fr/
-</p></div>
-
-
+* [La direction de la transformation du numérique du ministère de l’Intérieur et des Outre-mer](https://www.interieur.gouv.fr/)
+* [La direction générale du numérique du ministère des Armées](https://www.defense.gouv.fr/)
+* [La direction numérique du ministère de la Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general)
+* [La direction du numérique pour l’éducation du ministère de l’Éducation nationale et de la Jeunesse](https://www.education.gouv.fr/)
+* [La direction numérique du ministère de l'Europe et des Affaires étrangères](https://www.diplomatie.gouv.fr/)
