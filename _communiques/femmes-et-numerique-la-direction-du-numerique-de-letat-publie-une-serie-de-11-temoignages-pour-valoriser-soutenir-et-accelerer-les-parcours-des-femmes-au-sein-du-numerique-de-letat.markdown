@@ -31,7 +31,7 @@ Si les initiatives se déploient au sein de l’État, les chiffres restent enco
 
 Aux côtés de la DINUM, les entités publiques sont engagées pour plus d’égalité professionnelle et soutenir les carrières des femmes dans le numérique à travers diverses initiatives telles que Combattantes@Numerique ; Talentueuses ; le réseau des femmes de Bercy. La DINUM, à travers son département DRH du numérique de l’État, a notamment mis en place le programme ADA d’accompagnement au développement professionnel des agentes du numérique de l’État ayant coaché plus de 110 femmes à ce jour dont 80% ont identifié un changement positif dans leur vie professionnelle et anime une communauté en ligne d’entraide regroupant plusieurs centaines d’agentes.
 
-Consulter la série en ligne :
+Consulter la série en ligne : https://numerique.gouv.fr/actualites/femmes-et-numerique-11-temoignages-pour-valoriser-soutenir-et-accelerer-les-parcours-des-femmes-au-sein-du-numerique-de-letat/
 
 Parmi les chantiers qui seront engagés par la DINUM en 2024 pour féminiser la filière numérique de l’État : le lancement d’un baromètre sur la situation des femmes dans les filières numériques de l’État, le lancement d’une expérimentation pour des stages de 3ème en REP+ permettant de développer et pérenniser l’accueil de collégiennes dans les directions numériques de l’État et le lancement d’une expérimentation d’un programme d’ambassadorat et mentorat s’appuyant sur les alumni du programme ADA.
 
