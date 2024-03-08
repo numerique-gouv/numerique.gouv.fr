@@ -27,6 +27,10 @@ une-ou-diaporama:
 
 Avec cette série, l’objectif est ainsi de valoriser et soutenir celles en poste et faire connaître les opportunités de carrière au sein de l’État afin d’inciter celles qui le souhaitent à choisir le service public voire à créer des vocations dès le plus jeune âge.
 
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/femmes-et-numerique-la-direction-du-numerique-de-letat-publie-une-serie-de-11-temoignages-pour-valoriser-soutenir-et-accelerer-les-parcours-des-femmes-au-sein-du-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
+
+### Découvrir les 11 témoignages : 
+
 ![3-fb77c4.png](/uploads/3-fb77c4.png)
 
 ![4-cf37e7.png](/uploads/4-cf37e7.png)
@@ -49,4 +53,4 @@ Avec cette série, l’objectif est ainsi de valoriser et soutenir celles en pos
 
 ![13-14e9b5.png](/uploads/13-14e9b5.png)
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/femmes-et-numerique-la-direction-du-numerique-de-letat-publie-une-serie-de-11-temoignages-pour-valoriser-soutenir-et-accelerer-les-parcours-des-femmes-au-sein-du-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
+
