@@ -23,6 +23,9 @@ chapeau-text: À l’occasion de la journée internationale des droits des femme
 une-ou-diaporama:
 - image: "/uploads/La%20place%20des%20femmes%20dans%20le%20num%C3%A9rique%20public.png"
   alternative-textuelle: Image décorative
+files:
+- file: "/uploads/CP_FEMMES_ET_NUMERIQUE_LA_DINUM_PUBLIE_UNE_SERIE_DE_11_TEMOIGNAGES.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Avec cette série, l’objectif, partagé par Stanislas Guerini, est ainsi de valoriser et soutenir celles en poste et faire connaître les opportunités de carrière au sein de l’État afin d’inciter celles qui le souhaitent à choisir le service public voire à créer des vocations dès le plus jeune âge.**
