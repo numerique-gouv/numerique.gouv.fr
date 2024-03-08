@@ -21,7 +21,8 @@ chapeau-text: À l’occasion de la journée internationale des droits des femme
   l’INSEE, 11 témoignages d’agents publics du numérique investis dans l’égalité professionnelle
   et le soutien aux femmes de la tech publique.
 une-ou-diaporama:
-- alternative-textuelle: Image décorative
+- image: "/uploads/La%20place%20des%20femmes%20dans%20le%20num%C3%A9rique%20public.png"
+  alternative-textuelle: Image décorative
 ---
 
 **Avec cette série, l’objectif, partagé par Stanislas Guerini, est ainsi de valoriser et soutenir celles en poste et faire connaître les opportunités de carrière au sein de l’État afin d’inciter celles qui le souhaitent à choisir le service public voire à créer des vocations dès le plus jeune âge.**
