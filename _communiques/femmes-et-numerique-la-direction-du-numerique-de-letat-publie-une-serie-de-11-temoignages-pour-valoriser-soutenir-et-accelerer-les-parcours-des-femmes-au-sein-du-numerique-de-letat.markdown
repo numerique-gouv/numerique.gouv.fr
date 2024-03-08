@@ -1,7 +1,6 @@
 ---
 title: 'Femmes et numérique : la direction du numérique de l’État publie une série
-  de 11 témoignages pour valoriser, soutenir et accélérer les parcours des femmes
-  au sein du numérique de l’État'
+  de 11 témoignages'
 date: 2024-03-08 15:16:00 +01:00
 categories:
 - Communiqué de presse
