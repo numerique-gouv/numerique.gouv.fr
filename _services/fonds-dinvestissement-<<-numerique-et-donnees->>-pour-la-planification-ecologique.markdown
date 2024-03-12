@@ -98,7 +98,7 @@ La liste des huit thématiques principales, ainsi que les direction éventuellem
 * **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) - (ex : gérer le recul du trait de côte) ;
 * **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) - (ex : prendre en compte la biodiversité dans les décisions d’urbanisme) ;
 * **Mieux produire** piloté par la direction générale des Entreprises (DGE) - (ex : déployer efficacement les énergies renouvelables) ;
-* **Mieux se nourrir** piloté par la Direction Générale de l’Alimenation (DGAL) - (ex : valoriser la qualité des sols) ;
+* **Mieux se nourrir** piloté par la direction générale de l’alimenation (DGAL) - (ex : valoriser la qualité des sols) ;
 * **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) - (ex : fiabiliser et harmoniser la mesure d’un coût environnemental) ;
 
 * **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) - (ex : outiller les citoyens et les territoires).
