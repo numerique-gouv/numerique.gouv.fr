@@ -20,7 +20,7 @@ layout: rgaa
 
 Pour répondre aux objectifs de réduction des émissions de gaz à effet de serre, d’adaptation de la France au changement climatique, de restauration de la biodiversité et de meilleure gestion de nos ressources essentielles, [la planification écologique](https://www.gouvernement.fr/france-nation-verte) a été lancée par la Première ministre en octobre 2022 à la demande du président de la République.
 
-**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
+**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 20 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
@@ -123,8 +123,7 @@ La sélection des projets lauréats mettra l’accent sur ceux ayant le potentie
 
 Les candidatures doivent être déposés avant le **30 mars 2024**.
 
-**Les candidatures seront étudiées au fil de l’eau tout au long de l’année 2024.**
-Après un processus de sélection par le comités thématiques « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
+Après un processus de sélection par le comité d’investissement « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
 
@@ -134,7 +133,7 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
-**Début mars se tiendra le premier forum ouvert mensuel** permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature.
+Pour en savoir plus, [consulter la documentation du fonds](https://documentation.beta.numerique.gouv.fr/s/findpe/doc/le-fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique-4LvlJTM6Vb).
 
 <br>**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
 
