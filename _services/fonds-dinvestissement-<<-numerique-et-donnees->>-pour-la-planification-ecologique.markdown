@@ -6,6 +6,7 @@ categories:
 tags:
 - Numérique écoresponsable
 - France Nation Verte
+date_de_modification: 12 mars 2024
 chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’État ou un
   opérateur de l’État ? Obtenez un financement pour développer des projets numériques
   qui répondent aux défis de la transition écologique, grâce au fonds d’investissement
@@ -81,7 +82,15 @@ Les critères qui permettront de sélectionner les projets et de définir le mon
 6. Le **respect du cadre juridique**,
 7. La **solidité et la pertinence du projet en termes de gouvernance**.
 
-Pour assurer **la sélection des projets lauréats, des comités d’investissements thématiques seront créés et structurés selon les thématiques de France Nation Verte. Réunis tous les 2 mois à partir de début mars 2024**, ils seront suivis par le SGPE et la DINUM et seront structurés comme suit :
+Pour assurer la **sélection des projets lauréats**, un comité d’investissement unique est mis en place, présidé par le SGPE et la DINUM, composé :
+
+* **De membres permanents :** SGPE, DINUM, Commissariat général au développement durable (CGDD), Direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, Service du numérique du ministère de l’Agriculture et de la Souveraineté alimentaire, Haut fonctionnaire au numérique agricole. Les membres permanents sont invités à tous les comités d’investissement et participent à l’instruction des dossiers.
+* **De membres invités** à l’initiative du SGPE ou de la DINUM selon la thématique des dossiers.
+
+Mieux se déplacer piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
+De membres invités à l’initiative du SGPE ou de la DINUM selon la thématique des dossiers.
+Mieux se loger piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
+La liste des huit thématiques principales, ainsi que les direction éventuellement invitées, sont les suivantes :
 
 * **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
 * **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
@@ -93,7 +102,8 @@ Pour assurer **la sélection des projets lauréats, des comités d’investissem
 *Les moyens initialement alloués à ces comités seront de 5 millions d’euros par comité.*
 
 * **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) bénéficiant de 2 millions d’euros ;
-* **Un comité transversal** piloté par le SGPE/DINUM pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées bénéficiant de 6,5 millions d’euros.
+
+* **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) (ex : outiller les citoyens et les territoires).
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels indicateurs d’impact pour mon projet ?</h1>
 **Chaque équipe produit développant un service numérique doit pouvoir se rattacher à un indicateur d’impact cohérent avec les axes de la planification écologique, validés en comité stratégique**, exemples d’indicateurs potentiels :
