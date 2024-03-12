@@ -28,6 +28,8 @@ Le guichet est ouvert aux :
 * **Administrations centrales et déconcentrées d’État** ;
 * **Opérateurs de l’État**.
 
+Les dossiers doivent être déposés avant le **30 mars 2024**.
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 
 Les projets numériques conçus en cohérence avec [la feuille de route « Numérique et Données »](https://www.gouvernement.fr/france-nation-verte/a-proposfeuille-de-route-numerique-donnees) ou avec [les objectifs de planification écologique](https://www.ecologie.gouv.fr/planification-ecologique-plan-action-accelerer-transition-ecologique) tels que définis par le SGPE :
@@ -108,6 +110,8 @@ Pour assurer **la sélection des projets lauréats, des comités d’investissem
 La sélection des projets lauréats mettra l’accent sur ceux ayant le potentiel d’impact le plus significatif. Une priorité sera accordée aux initiatives capables de générer un impact concret dans un délai de 6 mois (le cas écheant sur une base expérimentale avant d’être développées de manière incrémentale en vue d’une généralisation).
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
+
+Les candidatures doivent être déposés avant le **30 mars 2024**.
 
 **Les candidatures seront étudiées au fil de l’eau tout au long de l’année 2024.**
 Après un processus de sélection par le comités thématiques « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
