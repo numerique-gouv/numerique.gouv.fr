@@ -101,7 +101,7 @@ La liste des huit thématiques principales, ainsi que les direction éventuellem
 * **Mieux se nourrir** piloté par la Direction Générale de l’Alimenation (DGAL) - (ex : valoriser la qualité des sols) ;
 * **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) - (ex : fiabiliser et harmoniser la mesure d’un coût environnemental) ;
 
-* **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) (ex : outiller les citoyens et les territoires).
+* **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) - (ex : outiller les citoyens et les territoires).
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels indicateurs d’impact pour mon projet ?</h1>
 **Chaque équipe produit développant un service numérique doit pouvoir se rattacher à un indicateur d’impact cohérent avec les axes de la planification écologique, validés en comité stratégique**, exemples d’indicateurs potentiels :
