@@ -90,18 +90,16 @@ Pour assurer la **sélection des projets lauréats**, un comité d’investissem
 Mieux se déplacer piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
 De membres invités à l’initiative du SGPE ou de la DINUM selon la thématique des dossiers.
 Mieux se loger piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
+
 La liste des huit thématiques principales, ainsi que les direction éventuellement invitées, sont les suivantes :
 
-* **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
-* **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
-* **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) ;
-* **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) ;
-* **Mieux produire** piloté par la direction générale des Entreprises (DGE) et le Secrétariat général à la Planification écologique (SGPE) ;
-* **Mieux se nourrir** piloté par le ministère de l’Agriculture et de la Souveraineté alimentaire (MASA) et le Commissariat général au développement durable (CGDD) ;
-
-*Les moyens initialement alloués à ces comités seront de 5 millions d’euros par comité.*
-
-* **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) bénéficiant de 2 millions d’euros ;
+* **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) - (ex : analyser et planifier la mobilité) ;
+* **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) - (ex : améliorer le parcours citoyen pour la rénovation) ;
+* **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) - (ex : gérer le recul du trait de côte) ;
+* **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) - (ex : prendre en compte la biodiversité dans les décisions d’urbanisme) ;
+* **Mieux produire** piloté par la direction générale des Entreprises (DGE) - (ex : déployer efficacement les énergies renouvelables) ;
+* **Mieux se nourrir** piloté par la Direction Générale de l’Alimenation (DGAL) - (ex : valoriser la qualité des sols) ;
+* **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) - (ex : fiabiliser et harmoniser la mesure d’un coût environnemental) ;
 
 * **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) (ex : outiller les citoyens et les territoires).
 
