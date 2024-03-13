@@ -34,8 +34,6 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
-#### Design/Recherche utilisateur
-
 <h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Design/Recherche utilisateur</h1>
 
 <table>
@@ -105,10 +103,10 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://design.numerique.gouv.fr/accessibilite-numerique/" title="En savoir plus sur l'accessibilité - Lien externe">En savoir plus sur l'accessibilité</a>
 
-<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a></p></div>
 
-<br>Numérique éco-responsable
-<br>
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Numérique éco-responsable</h1>
+
 <table>
   <tbody>
     <thead>
@@ -143,10 +141,10 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://ecoresponsable.numerique.gouv.fr/" title="En savoir plus sur l'accessibilité - Lien externe">En savoir plus sur le numérique éco-responsable</a>
 
-<div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:numerique-responsable.dinum@modernisation.gouv.fr" class="button">CONTACT</a></p></div>
 
-<br>Cloud
-<br>
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Cloud</h1>
+
 <table>
   <tbody>
     <thead>
@@ -171,10 +169,10 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <a href="https://www.numerique.gouv.fr/services/cloud/" title="En savoir plus sur le Cloud pour l'administration - Lien externe">En savoir plus sur le Cloud pour l'administration</a>
 
-<div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button">CONTACT</a></p></div>
 
-<br>Conseil en transformation numérique
-<br>
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Conseil en transformation numérique</h1>
+
 <table>
   <tbody>
     <thead>
@@ -192,10 +190,10 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
   </tbody>
 </table>
 
-<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a></p></div>
 
-<br>Mentorat de directeur/directrice de projet
-<br>
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Mentorat de directeur/directrice de projet</h1>
+
 <table>
   <tbody>
     <thead>
@@ -213,7 +211,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
   </tbody>
 </table>
 
-<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a>
+<div align="center"><p><a href="mailto:stephanie.nazarian@modernisation.gouv.fr" class="button">CONTACT</a></p></div>
 
 <h2 id="formation">3. La formation/sensibilisation des équipes</h2>
 
