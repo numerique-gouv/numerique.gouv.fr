@@ -13,7 +13,7 @@ chapeau-text: 'Viva Technology 2024 : l’État français présent massivement a
   de l’innovation technologique pour faire connaître sa stratégie numérique, recruter
   des professionnels du numérique et faire connaitre l’offre d’accompagnement de l’État. '
 une-ou-diaporama:
-- image: "/uploads/Viva_Technology_Logo.jpg"
+- image: "/uploads/Post%20RS%20VVT%202024.png"
   alternative-textuelle: Viva Technology
 event_start_date: 2024-05-22 09:00:00 +02:00
 event_end_date: 2024-05-25 18:00:00 +02:00

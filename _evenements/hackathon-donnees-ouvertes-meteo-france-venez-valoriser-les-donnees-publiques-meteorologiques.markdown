@@ -2,7 +2,6 @@
 title: 'Hackathon Données Ouvertes Météo-France : Venez valoriser les données publiques
   météorologiques !'
 date: 2024-03-05 16:21:00 +01:00
-published: false
 categories:
 - Hackathon
 tags:
@@ -13,6 +12,8 @@ tags:
 chapeau-text: La direction interministérielle du numérique et Météo-France organisent
   un hackathon consacré à la valorisation des données publiques météorologiques les
   8 et 9 avril 2024.
+une-ou-diaporama:
+- image: "/uploads/b4f494d54c46e4af98f14712c8f703.png"
 event_start_date: 2024-04-08 00:00:00 +02:00
 event_end_date: 2024-04-09 00:00:00 +02:00
 lieu: Lieu de la Transformation publique
