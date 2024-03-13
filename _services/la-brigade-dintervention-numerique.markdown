@@ -39,7 +39,6 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;">Design/Recherche utilisateur</h1>
 
-<center><p>Design/Recherche utilisateur</p></center>
 <table>
   <tbody>
     <thead>
