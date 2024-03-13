@@ -17,10 +17,13 @@ La Brigade d’Intervention Numérique de la DINUM regroupe des experts de diff�
 
 **Trois types de dispositifs existent, qui peuvent être combinés :**
 <ul><br>Le cofinancement des projets via des guichets</ul>
+<a href="#cofinancement">Le cofinancement des projets via des guichets</a>
 <ul><br>L’accompagnement par des experts sur une mission dédiée</ul>
 <ul><br>La formation/sensibilisation des équipes</ul>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">1. Le cofinancement des projets via des guichets</h1>
+
+<h2 id="cofinancement">1. Le cofinancement des projets via des guichets</h2>
 
 Vous êtes une administration d’État ou un opérateur de l’État ? La DINUM pilote plusieurs guichets pour vous accompagner dans le financement de vos projets numériques.
 
