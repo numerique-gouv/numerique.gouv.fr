@@ -16,12 +16,9 @@ layout: rgaa
 La Brigade d’Intervention Numérique de la DINUM regroupe des experts de différents domaines du numérique : recherche utilisateurs, design, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur de projet.
 
 **Trois types de dispositifs existent, qui peuvent être combinés :**
-<ul><br>Le cofinancement des projets via des guichets</ul>
 <ul><br><a href="#cofinancement">Le cofinancement des projets via des guichets</a></ul>
-<ul><br>L’accompagnement par des experts sur une mission dédiée</ul>
-<ul><br>La formation/sensibilisation des équipes</ul>
-
-<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">1. Le cofinancement des projets via des guichets</h1>
+<ul><br><a href="#accompagnement">L’accompagnement par des experts sur une mission dédiée</a></ul>
+<ul><br><a href="#formation">La formation/sensibilisation des équipes</a></ul>
 
 <h2 id="cofinancement">1. Le cofinancement des projets via des guichets</h2>
 
@@ -33,14 +30,13 @@ Vous pouvez candidater à plusieurs guichets pour un même projet, selon les obj
 * <a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-numerique-ecoresponsable/">Guichet FTAP Numérique éco-responsable</a>
 * <a href="https://www.numerique.gouv.fr/services/guichet-financement-design-et-accessibilite/">Guichet Design Accessibilité</a>
 
-
-<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">2. L’accompagnement par des experts</h1>
+<h2 id="accompagnement">2. L’accompagnement par des experts</h2>
 
 La Brigade propose la mise à disposition d’experts pluridisciplinaires pour vous accompagner sur une mission dédiée : design, recherche utilisateurs, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur/directrice de grand programme.
 
 #### Design/Recherche utilisateur
 
-<h1 class="h3" style="margin-top: 1em; margin-bottom: 0.5em;">Design/Recherche utilisateur</h1>
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Design/Recherche utilisateur</h1>
 
 <table>
   <tbody>
@@ -78,10 +74,8 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
 
 <div align="center"><p><a href="mailto:experts@design.numerique.gouv.fr" class="button">CONTACT</a>
 
-#### Accessibilité numérique
+<h1 class="h4" style="margin-top: 1em; margin-bottom: 0.5em;">Accessibilité numérique</h1>
 
-<br>Accessibilité numérique
-<br>
 <table>
   <tbody>
     <thead>
