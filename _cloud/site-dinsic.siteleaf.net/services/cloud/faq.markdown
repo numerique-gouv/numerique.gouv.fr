@@ -35,7 +35,7 @@ Oui, s’il s’agit d’un nouveau projet ou si le périmètre du projet engag�
 C’est la première règle de la doctrine “Cloud au Centre” [R1] : “Pour tout nouveau projet numérique, quelle que soit sa taille, une solution cloud doit être recherchée.” Une solution cloud peut-être soit :
 
 * une solution SaaS ;
-* une solution déployée en cloud computing (cloud commercial ou cloud interne à l’administration).
+* une solution déployée en cloud computing (l’un des deux clouds interministériels internes de l’État ou les offres de cloud commercial proposées par les industriels).
 
 Quel que soit le format de solution cloud choisi, le mode produit doit être privilégié. Il inclut :
 
