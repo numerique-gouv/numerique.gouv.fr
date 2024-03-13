@@ -3,10 +3,9 @@ title: La Brigade d’Intervention Numérique
 date: 2024-02-21 12:43:00 +01:00
 categories:
 - Service
-chapeau-text: 'La Brigade d’Intervention Numérique de la DINUM regroupe des experts
-  de différents domaines du numérique : recherche utilisateurs, design, accessibilité
-  numérique, numérique éco-responsable, cloud, conseil en transformation numérique,
-  mentorat de directeur de projet.'
+chapeau-text: La Brigade d’Intervention Numérique de la DINUM accompagne les ministères
+  et les opérateurs afin que leurs produits numériques soient conçus, développés et
+  opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
 une:
   image: "/uploads/offre-PI2_transpa-une.png"
 une-ou-diaporama:
@@ -14,7 +13,7 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
-La Brigade d’Intervention Numérique de la DINUM accompagne les ministères et les opérateurs afin que leurs produits numériques soient conçus, développés et opérés selon les meilleures pratiques et rendent le maximum de service aux usagers.
+La Brigade d’Intervention Numérique de la DINUM regroupe des experts de différents domaines du numérique : recherche utilisateurs, design, accessibilité numérique, numérique éco-responsable, cloud, conseil en transformation numérique, mentorat de directeur de projet.
 
 **Trois types de dispositifs existent, qui peuvent être combinés :**
 <ul><br>Le cofinancement des projets via des guichets</ul>
