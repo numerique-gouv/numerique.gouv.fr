@@ -6,6 +6,7 @@ categories:
 tags:
 - Numérique écoresponsable
 - France Nation Verte
+date_de_modification: 12 mars 2024
 chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’État ou un
   opérateur de l’État ? Obtenez un financement pour développer des projets numériques
   qui répondent aux défis de la transition écologique, grâce au fonds d’investissement
@@ -19,7 +20,7 @@ layout: rgaa
 
 Pour répondre aux objectifs de réduction des émissions de gaz à effet de serre, d’adaptation de la France au changement climatique, de restauration de la biodiversité et de meilleure gestion de nos ressources essentielles, [la planification écologique](https://www.gouvernement.fr/france-nation-verte) a été lancée par la Première ministre en octobre 2022 à la demande du président de la République.
 
-**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 50 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
+**L’État lance un fonds d’investissement « Numérique et Données » pour la planification écologique de 20 millions d’euros en 2024 piloté par la direction interministérielle du numérique (DINUM), intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques, en partenariat avec le Secrétariat général à la planification écologique (SGPE) destinés à soutenir des projets innovants qui mobilisent le numérique pour accélérer la transition écologique.**
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/findpe" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
@@ -27,6 +28,8 @@ Pour répondre aux objectifs de réduction des émissions de gaz à effet de ser
 Le guichet est ouvert aux :
 * **Administrations centrales et déconcentrées d’État** ;
 * **Opérateurs de l’État**.
+
+Les dossiers doivent être déposés avant le **30 mars 2024**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 
@@ -79,19 +82,26 @@ Les critères qui permettront de sélectionner les projets et de définir le mon
 6. Le **respect du cadre juridique**,
 7. La **solidité et la pertinence du projet en termes de gouvernance**.
 
-Pour assurer **la sélection des projets lauréats, des comités d’investissements thématiques seront créés et structurés selon les thématiques de France Nation Verte. Réunis tous les 2 mois à partir de début mars 2024**, ils seront suivis par le SGPE et la DINUM et seront structurés comme suit :
+Pour assurer la **sélection des projets lauréats**, un comité d’investissement unique est mis en place, présidé par le SGPE et la DINUM, composé :
 
-* **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
-* **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
-* **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) ;
-* **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) ;
-* **Mieux produire** piloté par la direction générale des Entreprises (DGE) et le Secrétariat général à la Planification écologique (SGPE) ;
-* **Mieux se nourrir** piloté par le ministère de l’Agriculture et de la Souveraineté alimentaire (MASA) et le Commissariat général au développement durable (CGDD) ;
+* **De membres permanents :** SGPE, DINUM, Commissariat général au développement durable (CGDD), Direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, Service du numérique du ministère de l’Agriculture et de la Souveraineté alimentaire, Haut fonctionnaire au numérique agricole. Les membres permanents sont invités à tous les comités d’investissement et participent à l’instruction des dossiers.
+* **De membres invités** à l’initiative du SGPE ou de la DINUM selon la thématique des dossiers.
 
-*Les moyens initialement alloués à ces comités seront de 5 millions d’euros par comité.*
+Mieux se déplacer piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) ;
+De membres invités à l’initiative du SGPE ou de la DINUM selon la thématique des dossiers.
+Mieux se loger piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) ;
 
-* **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) bénéficiant de 2 millions d’euros ;
-* **Un comité transversal** piloté par le SGPE/DINUM pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées bénéficiant de 6,5 millions d’euros.
+La liste des huit thématiques principales, ainsi que les direction éventuellement invitées, sont les suivantes :
+
+* **Mieux se déplacer** piloté par la direction générale des Infrastructures, des Transports et des Mobilités (DGITM) et la direction générale de l’Énergie et du Climat (DGEC) - (ex : analyser et planifier la mobilité) ;
+* **Mieux se loger** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) la direction générale de l’Énergie et du Climat (DGEC) - (ex : améliorer le parcours citoyen pour la rénovation) ;
+* **Préserver les ressources** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) et le Secrétariat général à la Planification écologique (SGPE) - (ex : gérer le recul du trait de côte) ;
+* **Préserver la biodiversité** piloté par la direction générale de l’Aménagement, du Logement et de la Nature (DGALN) - (ex : prendre en compte la biodiversité dans les décisions d’urbanisme) ;
+* **Mieux produire** piloté par la direction générale des Entreprises (DGE) - (ex : déployer efficacement les énergies renouvelables) ;
+* **Mieux se nourrir** piloté par la direction générale de l’alimenation (DGAL) - (ex : valoriser la qualité des sols) ;
+* **Mieux consommer** piloté par le Commissariat général au développement durable (CGDD) et la direction générale de la Prévention des risques (DGPR) - (ex : fiabiliser et harmoniser la mesure d’un coût environnemental) ;
+
+* **Un comité transversal** pour les projets communs à toutes les thématiques ou hors champs des thématiques pré-citées – Agence nationale pour la cohésion des territoires (ANCT) - (ex : outiller les citoyens et les territoires).
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels indicateurs d’impact pour mon projet ?</h1>
 **Chaque équipe produit développant un service numérique doit pouvoir se rattacher à un indicateur d’impact cohérent avec les axes de la planification écologique, validés en comité stratégique**, exemples d’indicateurs potentiels :
@@ -109,8 +119,9 @@ La sélection des projets lauréats mettra l’accent sur ceux ayant le potentie
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles prochaines étapes ?</h1>
 
-**Les candidatures seront étudiées au fil de l’eau tout au long de l’année 2024.**
-Après un processus de sélection par le comités thématiques « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
+Les candidatures doivent être déposés avant le **30 mars 2024**.
+
+Après un processus de sélection par le comité d’investissement « Numérique et Données » France Nation Verte, **une convention de financement entre la DINUM et l’administration lauréate sera signée.**
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelle gouvernance de ce fonds ?</h1>
 
@@ -120,7 +131,7 @@ Pour assurer la répartition des fonds en fonction des priorités gouvernemental
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment être accompagné pour constituer son dossier de candidature ?</h1>
 
-**Début mars se tiendra le premier forum ouvert mensuel** permettant à tous les membres de la communauté France Nation Verte de se retrouver, d’échanger et de bénéficier d’un accompagnement dans la préparation de leurs dossiers de candidature.
+Pour en savoir plus, [consulter la documentation du fonds](https://documentation.beta.numerique.gouv.fr/s/findpe/doc/le-fonds-dinvestissement-numerique-et-donnees-pour-la-planification-ecologique-4LvlJTM6Vb).
 
 <br>**Les agents publics intéressés sont invités à se faire connaître via : [contact@beta.gouv.fr](contact@beta.gouv.fr)**
 
