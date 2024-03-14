@@ -32,15 +32,15 @@ champs_informations:
 ---
 
 ### Au programme
-[9h30] Accueil café
-[10h] Mot d’accueil par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)
-[10h15 - 12h] Plénière : outiller les politiques publiques avec les communs numériques : leviers et retours d’action
-* Retex AIC - 45m
-* Keynote ou Table Ronde sur l'Open Future - *en cours de construction*
-* Projection d'un mini-documentaire (30m) et retour en images sur 24 mois de travail avec des communs numériques
-[12h - 13h] Pause déjeuner
-[13h - 17h] Forum ouvert avec 3 ateliers de 2h
-* **IA for good : retours sur des cas de mobilisation de l’IA par les communs numériques.** Cet atelier explorera des cas concrets où l’intelligence artificielle a été mobilisée à travers les communs numériques, permettant ainsi de tirer des enseignements pour l’avenir. *Atelier proposé par le Datalab du département Etalab de la DINUM, [Data for Good](https://dataforgood.fr/) et Commoners.*
-* **Transformer une démarche autour d’un produit open source en commun numérique : c’est possible ?** Si vous avez développé un produit en open source et que vous cherchez à mieux vous connecter à d’autres mainteneurs, réutilisateurs ou contributeurs pour gagner en impact et en résilience ? Cet atelier offre une opportunité d’échanger sur ces problématiques et de trouver des solutions ensemble. *Atelier proposé par la communauté beta et des administrations sensibilisées au sujet.*
-* **Pour lutter contre les pollutions en tous genres, quelles contributions numériques citoyennes ?** Ce sera l’occasion de participer à un atelier collaboratif où nous réfléchirons aux moyens de faire levier de la multitude pour produire des données utiles aux politiques publiques, en prenant comment point d’entrée les initiatives levées par des citoyens pour lutter contre divers types de pollution (sonore, lumineuse, salubrité, qualité de l’eau et de l’air, etc). Faire intervenir des acteurs locaux. Les communs comme outil pour articuler des démarches locales et globales. *Atelier proposé par le [CNNum](https://cnnumerique.fr/).*
-[17h] Cocktail de fin
+* [9h30] Accueil café
+* [10h] Mot d’accueil par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)
+* [10h15 - 12h] Plénière : outiller les politiques publiques avec les communs numériques : leviers et retours d’action
+1. Retex AIC - 45m
+2. Keynote ou Table Ronde sur l'Open Future - *en cours de construction*
+3. Projection d'un mini-documentaire (30m) et retour en images sur 24 mois de travail avec des communs numériques
+* [12h - 13h] Pause déjeuner
+* [13h - 17h] Forum ouvert avec 3 ateliers de 2h
+1. **IA for good : retours sur des cas de mobilisation de l’IA par les communs numériques.** Cet atelier explorera des cas concrets où l’intelligence artificielle a été mobilisée à travers les communs numériques, permettant ainsi de tirer des enseignements pour l’avenir. *Atelier proposé par le Datalab du département Etalab de la DINUM, [Data for Good](https://dataforgood.fr/) et Commoners.*
+2. **Transformer une démarche autour d’un produit open source en commun numérique : c’est possible ?** Si vous avez développé un produit en open source et que vous cherchez à mieux vous connecter à d’autres mainteneurs, réutilisateurs ou contributeurs pour gagner en impact et en résilience ? Cet atelier offre une opportunité d’échanger sur ces problématiques et de trouver des solutions ensemble. *Atelier proposé par la communauté beta et des administrations sensibilisées au sujet.*
+3. **Pour lutter contre les pollutions en tous genres, quelles contributions numériques citoyennes ?** Ce sera l’occasion de participer à un atelier collaboratif où nous réfléchirons aux moyens de faire levier de la multitude pour produire des données utiles aux politiques publiques, en prenant comment point d’entrée les initiatives levées par des citoyens pour lutter contre divers types de pollution (sonore, lumineuse, salubrité, qualité de l’eau et de l’air, etc). Faire intervenir des acteurs locaux. Les communs comme outil pour articuler des démarches locales et globales. *Atelier proposé par le [CNNum](https://cnnumerique.fr/).*
+* [17h] Cocktail de fin
