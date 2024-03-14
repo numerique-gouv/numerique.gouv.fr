@@ -1,6 +1,6 @@
 ---
 title: Stanislas GUERINI se rend auprès des agents publics mobilisés par les attaques
-  informatiques ayant touché les services de l’Etat
+  informatiques ayant touché les services de l’État
 date: 2024-03-14 18:24:00 +01:00
 categories:
 - Note aux rédactions
@@ -8,7 +8,7 @@ tags:
 - cybersécurité
 chapeau-text: Le ministre de la Transformation et de la Fonction publiques Stanislas
   GUERINI, se rendra, ce vendredi 15 mars, auprès des agents publics mobilisés par
-  les attaques informatiques ayant touché les services de l’Etat.
+  les attaques informatiques ayant touché les services de l’État.
 une-ou-diaporama:
 - image: "/uploads/08b567f5f6a402263aebc495f9aaa90115ce1056.jpeg"
 contact-presse:
