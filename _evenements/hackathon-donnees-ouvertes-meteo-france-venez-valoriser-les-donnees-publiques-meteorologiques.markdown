@@ -12,7 +12,8 @@ chapeau-text: La direction interministérielle du numérique et Météo-France o
   un hackathon consacré à la valorisation des données publiques météorologiques les
   8 et 9 avril 2024.
 une-ou-diaporama:
-- image: "/uploads/b4f494d54c46e4af98f14712c8f703.png"
+- image: "/uploads/Post%20RS%20Hackathon.png"
+  alternative-textuelle: Image décorative
 event_start_date: 2024-04-08 00:00:00 +02:00
 event_end_date: 2024-04-09 00:00:00 +02:00
 lieu: Lieu de la Transformation publique
