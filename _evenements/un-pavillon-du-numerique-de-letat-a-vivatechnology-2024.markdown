@@ -32,29 +32,38 @@ champs_informations:
   lien: https://vivatechnology.com/
 ---
 
-Pour la deuxième fois, les directions du numérique de l’État seront présentes à Viva Technology afin de présenter, aux professionnels du numérique et au grand public, leurs services et projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
+Pour la deuxième année consécutive, 14 entités engagées dans la transformation numérique de l’État seront présentes au salon VivaTechnology afin de présenter, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
-Ne manquez pas leur stand lors de l’événement !
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Prochainement, venez consulter notre espace en ligne sur le site de VivaTech - Lien externe"><b>Prochainement, venez consulter notre espace en ligne sur le site de VivaTech</b></a></div>
 
 ## « Pavillon du numérique de l’État »
 
-### Qui sont présents ?
-Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères Sociaux, la direction du numérique de de l’Agriculture, les directions du numérique du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, le Service d’information du Gouvernement, la direction interministérielle de la transformation publique, la direction générale de l'administration et de la fonction publique, la direction du numérique pour le numérique des Ministères de l’Éducation nationale et de la Jeunesse, de l’Enseignement Supérieur et de la Recherche et du Sport et des Jeux Olympiques et Paralympiques et la direction du numérique du ministère de l’Europe et des Affaires étrangères.
+### Quelles entités étatiques présentes ?
+Seront présents, aux côtés de la direction interministérielle du numérique : 
+* La direction de la transformation numérique du ministère de l’Intérieur et des Outre-mer, 
+* La direction du numérique du ministère de la Justice, 
+* La direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, 
+* La direction du numérique des ministères Sociaux, 
+* La direction du numérique du ministère du ministère de l’Agriculture et de la Souveraineté alimentaire, 
+* La direction du numérique du ministère du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique,
+* Le service d’information du Gouvernement, 
+* La direction interministérielle de la transformation publique, 
+* La direction générale de l’administration de la fonction publique à travers sa marque « Choisir le service public » 
+* En partenariat avec les directions numériques de l’Éducation nationale et de la Jeunesse, de l'Europe et des Affaires étrangères, l’institut national géographique et l’autorité de régulation des communications électroniques, des postes et de la distribution de la presse. 
 
 ### Programme :
 * Un espace de présentation des ministères par des agents publics et des représentants de Startups d'État.
 
-* Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.
+* Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique : plus de 4 000 offres sont à pourvoir dans le numérique de l’État ! 
 
-* Un espace de pitchs et de conférences  animé pendant 4 jours, de 9h30 à 17h30 par une centaine d’agents publics de la tech et représentants de Startups d’État. 
+* Un espace de pitchs et de conférences  animées pendant 4 jours, de 9h30 à 17h30 par plus de 100 agents publics de la tech et représentants de Startups d’État. 
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Programme disponible prochainement - Lien externe"><b>Programme disponible prochainement</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Le programme de conférence sera publié prochainement - Lien externe"><b>Le programme de conférence sera publié prochainement</b></a></div>
 
-## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" title="Consulter les offres d’emploi dans le numérique de l’État - Lien externe"><b>Consulter les offres d’emploi dans le numérique de l’État </b></a></div>
+
+## Le rendez-vous européen dédié à l’innovation technologique et aux start-ups
 
 Le salon a lieu du 22 au 25 mai 2024 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
-
-Alors n’hésitez pas à vous inscrire !
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://vivatechnology.com/get-your-pass" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
