@@ -238,7 +238,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
       <th>Design/Recherche utilisateur</th>
       <td>Test usagers dans la pratique</td>
       <td>1 journée</td>
-      <td><a href="https://design.numerique.gouv.fr/formations/https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
+      <td><a href="https://design.numerique.gouv.fr/formations/" title="Contact - Lien externe">Contact</a></td>
     </tr>
     <tr>
       <th>Accessibilité</th>
