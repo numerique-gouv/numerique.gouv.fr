@@ -18,7 +18,6 @@ une-ou-diaporama:
     Lieu de la Transformation publique
     77 Avenue de Ségur, 75015 Paris
 event_start_date: 2024-04-10 09:00:00 +02:00
-event_end_date: 2024-04-10 17:00:00 +02:00
 lieu: Lieu de la Transformation publique
 adresse: 77 Avenue de Ségur, 75015 Paris
 champs_informations:
