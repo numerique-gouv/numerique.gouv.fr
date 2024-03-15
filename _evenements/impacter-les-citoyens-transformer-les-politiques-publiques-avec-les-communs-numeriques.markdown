@@ -29,7 +29,7 @@ champs_informations:
   contenu: " entrée gratuite (dans la limite des places disponibles)"
 ---
 
-La Direction interministérielle du numérique (DINUM) a le plaisir de vous inviter à son événement annuel “Impactez citoyens ! Transformer les politiques publiques avec les communs numériques” le 10 avril, en partenariat avec le [Conseil national du numérique](https://cnnumerique.fr/), [Data For Good](https://dataforgood.fr/) et la [Société des communs](https://societedescommuns.com/).
+La direction interministérielle du numérique (DINUM) a le plaisir de vous inviter à son événement annuel “Impactez citoyens ! Transformer les politiques publiques avec les communs numériques” le 10 avril, en partenariat avec le [Conseil national du numérique](https://cnnumerique.fr/), [Data For Good](https://dataforgood.fr/) et la [Société des communs](https://societedescommuns.com/).
 
 Cet événement s’inscrit également dans la lignée de l’événement Numérique en Commun(s), dont est partenaire la DINUM. Il a une ambition : renforcer les coopérations entre les administrations et les initiatives citoyennes porteuses de communs numériques, pour créer des services numériques d’intérêt général résilients.
 
