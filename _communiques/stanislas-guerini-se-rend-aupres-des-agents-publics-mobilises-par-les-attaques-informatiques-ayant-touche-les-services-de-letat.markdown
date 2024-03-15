@@ -28,7 +28,7 @@ Dans le contexte de l'attaque informatique ayant touché les réseaux informatiq
 Le ministre échangera sur place avec les agents publics, qui assurent la permanence au quotidien et en particulier ces 6 derniers jours, pour faire un point de situation et saluer leur mobilisation. Il rappellera également l’importance du rôle du RIE dans la transformation numérique de l'Etat, axe essentiel de sa feuille de route.
 
 ### PROGRAMME PREVISIONNEL
-* 14h45 : Arrivée de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques. Echanges avec les agents publics du RIE.*Hors presse*
+* 14h45 : Arrivée de Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques. Echanges avec les agents publics du RIE. ***Hors presse***
 * 17h00 : Point presse
 
 Pour effectuer une demande d'accréditation, merci de bien vouloir adresser un mail à l’adresse suivante : [presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
