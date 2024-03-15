@@ -2,6 +2,7 @@
 title: 'Impacter les citoyens : transformer les politiques publiques avec les communs
   numériques'
 date: 2024-03-14 19:02:00 +01:00
+published: false
 categories:
 - Événement
 tags:
