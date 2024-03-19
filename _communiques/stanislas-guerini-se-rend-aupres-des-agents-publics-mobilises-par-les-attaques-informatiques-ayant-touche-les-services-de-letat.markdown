@@ -10,7 +10,8 @@ chapeau-text: Le ministre de la Transformation et de la Fonction publiques Stani
   GUERINI, se rendra, ce vendredi 15 mars, auprès des agents publics mobilisés par
   les attaques informatiques ayant touché les services de l’État.
 une-ou-diaporama:
-- image: "/uploads/08b567f5f6a402263aebc495f9aaa90115ce1056.jpeg"
+- image: "/uploads/Guerini%20au%20RIE%20-%20Rennes.png"
+  alternative-textuelle: Image décorative
 contact-presse:
   name: Service presse de Stanislas GUERINI, ministre de la Transformation et de la
     Fonction publiques
