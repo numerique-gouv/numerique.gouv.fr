@@ -49,7 +49,6 @@ Ouvert au grand public sur [inscription](https://www.eventbrite.fr/e/billets-hac
 * En ligne.
 
 ### Comment s’inscrire ?
-Les inscriptions sont ouvertes du 6 mars au 18 mars, 12h00, dans la limite des places disponibles. Une liste d’attente pourra être ouverte.
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/e/billets-hackathon-donnees-ouvertes-meteo-france-836005554117" class="button" title="S’inscrire  - Lien externe"><b>S’inscrire </b></a></div>
 
