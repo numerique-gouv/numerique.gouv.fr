@@ -25,7 +25,7 @@ files:
   nom: Télécharger le communiqué
 ---
 
-L’essor du cloud est le fondement de notre économie numérique et le développement d’une offre française et européenne revêt un double enjeu de souveraineté numérique et de compétitivité économique.
+**L’essor du cloud est le fondement de notre économie numérique et le développement d’une offre française et européenne revêt un double enjeu de souveraineté numérique et de compétitivité économique.**
 
 La stratégie nationale pour le cloud s’articule depuis 2021 autour de trois piliers : 
 * la mise en place du visa de sécurité SecNumCloud opéré par l’ Agence nationale de la sécurité des systèmes d’information (ANSSI) qui vise à identifier et donner davantage de visibilité aux offres dites « cloud de confiance » ; 
