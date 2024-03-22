@@ -19,6 +19,7 @@ chapeau-text: 'Marina Ferrari, Secrétaire d’Etat chargée du Numérique aupr�
   l’offre de services cloud ».'
 une-ou-diaporama:
 - image: "/uploads/GJR657vW0AANstD-cdc048.jfif"
+  alternative-textuelle: image décorative
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/france-2030-la-strategie-nationale-cloud-senrichit-dun-nouvel-appel-a-projets/">Lire le communiqué de presse</a></p></div>
