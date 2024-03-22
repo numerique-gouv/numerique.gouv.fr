@@ -17,6 +17,8 @@ chapeau-text: 'Marina Ferrari, Secrétaire d’Etat chargée du Numérique aupr�
   des éditeurs cloud à la sécurisation et à la qualification SecNumCloud, le coup
   d’envoi du PIIEC Cloud et la publication de l’appel à projets « Renforcement de
   l’offre de services cloud ».'
+une-ou-diaporama:
+- image: "/uploads/GJR657vW0AANstD.jfif"
 files:
 - file: "/uploads/1669_-_CP_-_France_2030_-_la_strategie_nationale_cloud.pdf"
   nom: Télécharger le communiqué
