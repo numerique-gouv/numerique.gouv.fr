@@ -8,6 +8,9 @@ tags:
 - API France
 chapeau-text: La DINUM sera présente au salon France API mardi 11 Juin 2024 à l’Espace
   Charenton, Paris.
+une-ou-diaporama:
+- image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(3).png"
+  alternative-textuelle: 'image décorative '
 event_start_date: 2024-06-11 00:00:00 +02:00
 event_end_date: 2024-06-11 00:00:00 +02:00
 lieu: " 75012, Paris"
