@@ -2,6 +2,8 @@
 title: La DINUM partenaire de l’événement France API
 date: 2024-03-26 15:42:00 +01:00
 published: false
+categories:
+- Evénement
 tags:
 - API
 - api.gouv.fr
