@@ -8,6 +8,10 @@ tags:
 - API France
 chapeau-text: La DINUM sera présente au salon France API mardi 11 Juin 2024 à l’Espace
   Charenton, Paris.
+champs_informations:
+- intitule: Modalités
+  contenu: Inscription gratuite et obligatoire
+  lien: https://franceapi.fr/index.php/inscriptions/
 ---
 
 Pour l’édition 2024, la direction interministérielle du numérique (DINUM) sera partenaire de l’événement France API et viendra à cet effet présenter les différentes APIs développées par la DINUM contribuant à rendre l’Etat plus simple et plus simple dans son action.
@@ -30,7 +34,6 @@ France API est le premier événement français qui réunit les des entreprises,
 
 Cet événement est une journée d’échanges qui permet à ses visiteurs de retrouver les acteurs majeurs des APIs, de découvrir les exposants, d’assister à différentes conférences ainsi qu’à des ateliers démo, de partager des REXs, de capitaliser et de réseauter au sein de l’écosystème des APIs !
 
-Pour en savoir plus sur cet événement et s’inscrire : [https://franceapi.fr/](https://franceapi.fr/)
+Pour en savoir plus sur cet événement et s’inscrire :
 
-L’inscription est gratuite et obligatoire
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://franceapi.fr/" class="button" title="S’inscrire  - Lien externe"><b>S’inscrire </b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://franceapi.fr/index.php/inscriptions/" class="button" title="S’inscrire  - Lien externe"><b>S’inscrire </b></a></div>
