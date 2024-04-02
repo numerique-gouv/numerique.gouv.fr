@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 19 février 2024
+date_de_modification: 2 avril 2024
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -44,28 +44,10 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1373326/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469435/" title="Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F - Lien externe">Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469435/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469437/" title="Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F - Lien externe">Directeur/Directrice de projet panorama interministériel des projets numériques de l'Etat et sécurisation H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-panorama-interministeriel-des-projets-numeriques-de-l-etat-et-securis-hf-reference-2024-1469437/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Entrepreneur / Entrepreneure d'intérêt général – Directeur / Directrice de produit H/F - Lien externe">Entrepreneur / Entrepreneure d'intérêt général – Directeur / Directrice de produit H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/entrepreneur--entrepreneure-d-interet-general--directeur--directrice-de-produit-hf-reference-2024-1459863/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Adjoint/e au Directeur(trice) de programme – Administration proactive H/F">Adjoint/e au Directeur(trice) de programme – Administration proactive H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-directeurtrice-de-programme--administration-proactive-hf-reference-2023-1352214/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
