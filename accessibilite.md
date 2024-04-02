@@ -2,7 +2,7 @@
 title: Accessibilité
 permalink: "/accessibilite/"
 position: 8
-date_de_modification: 31 mars 2021
+date_de_modification: 31 mars 2024
 layout: page-annexe
 ---
 
