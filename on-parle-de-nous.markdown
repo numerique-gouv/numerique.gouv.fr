@@ -20,7 +20,7 @@ layout: page-annexe
 <date>10 mars 2024</date>
 <media> 01 NET </media>
 
-<titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services "beta.gouv.fr"  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services "beta.gouv.fr"</a></titre>
+<titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services «beta.gouv.fr»  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services «beta.gouv.fr»</a></titre>
 <date>04 mars 2024</date>
 <media> Banques des territoires </media>
 
