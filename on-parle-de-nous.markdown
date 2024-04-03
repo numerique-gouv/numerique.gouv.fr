@@ -24,6 +24,11 @@ layout: page-annexe
 <date>04 mars 2024</date>
 <media> Banques des territoires </media>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/christine-serrette-itz-bund-et-maintenant-tout-le-monde-dans-le-cloud.html" title="Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! » - Lien externe">Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! »</a></titre>
+<date>08 mars 2024</date>
+<media> Républik IT </media>
+
+
 <titre><a href="https://acteurspublics.fr/webtv/emissions/salon-de-lagriculture-2024/debat-ia-data-et-numerique-au-service-de-la-transformation-du-rural" title="Débat : « IA, data et numérique au service de la transformation du rural » - Lien externe">Débat : « IA, data et numérique au service de la transformation du rural »</a></titre>
 <date>01 mars 2024</date>
 <media> Acteurs publics </media>
