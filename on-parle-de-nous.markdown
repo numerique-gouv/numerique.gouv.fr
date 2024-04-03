@@ -16,17 +16,21 @@ layout: page-annexe
 <date>15 mars 2024</date>
 <media> IT For Business </media>
 
+<titre><a href="https://www.republik-it.fr/rh/recrutement/la-filiere-numerique-en-valeur-au-salon-de-l-emploi-public.html" title="La filière numérique en valeur au Salon de l’Emploi Public - Lien externe">La filière numérique en valeur au Salon de l’Emploi Public</a></titre>
+<date>12 mars 2024</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.01net.com/actualites/la-souverainete-numerique-au-coeur-des-debats-lors-de-la-grand-messe-du-cloud-de-letat.html" title="La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat - Lien externe">La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat</a></titre>
 <date>10 mars 2024</date>
 <media> 01 NET </media>
 
-<titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services «beta.gouv.fr»  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services « beta.gouv.fr »</a></titre>
-<date>04 mars 2024</date>
-<media> Banques des territoires </media>
-
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/christine-serrette-itz-bund-et-maintenant-tout-le-monde-dans-le-cloud.html" title="Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! » - Lien externe">Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! »</a></titre>
 <date>08 mars 2024</date>
 <media> Républik IT </media>
+
+<titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services «beta.gouv.fr»  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services « beta.gouv.fr »</a></titre>
+<date>04 mars 2024</date>
+<media> Banques des territoires </media>
 
 
 <titre><a href="https://acteurspublics.fr/webtv/emissions/salon-de-lagriculture-2024/debat-ia-data-et-numerique-au-service-de-la-transformation-du-rural" title="Débat : « IA, data et numérique au service de la transformation du rural » - Lien externe">Débat : « IA, data et numérique au service de la transformation du rural »</a></titre>
