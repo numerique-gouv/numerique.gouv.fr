@@ -11,6 +11,42 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/vincent-coudrin-dinum-le-cloud-rend-soutenable-la-transformation-numerique.html" title="Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique » - Lien externe">Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique »</a></titre>
+<date>03 avril 2024</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-cloud-et-ia-sont-deux-virages-a-prendre-mais-avec-un-accompagnement.html" title="Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement » - Lien externe">Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement »</a></titre>
+<date>29 mars 2024</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.lanouvellerepublique.fr/deux-sevres/coup-de-pouce-pour-l-emploi-l-ia-generative-nouvel-outil-des-agents-du-service-public" title="Coup de pouce pour l’emploi. L’IA générative, nouvel outil des agents du service public - Lien externe">Coup de pouce pour l’emploi. L’IA générative, nouvel outil des agents du service public</a></titre>
+<date>20 mars 2024</date>
+<media> La Nouvelle République </media>
+
+<titre><a href="https://www.itforbusiness.fr/ovhcloud-le-cloud-ne-doit-pas-devenir-une-prison-74608" title="OVHcloud : « Le cloud ne doit pas devenir une prison » - Lien externe">OVHcloud : « Le cloud ne doit pas devenir une prison »</a></titre>
+<date>15 mars 2024</date>
+<media> IT For Business </media>
+
+<titre><a href="https://www.republik-it.fr/rh/recrutement/la-filiere-numerique-en-valeur-au-salon-de-l-emploi-public.html" title="La filière numérique en valeur au Salon de l’Emploi Public - Lien externe">La filière numérique en valeur au Salon de l’Emploi Public</a></titre>
+<date>12 mars 2024</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.01net.com/actualites/la-souverainete-numerique-au-coeur-des-debats-lors-de-la-grand-messe-du-cloud-de-letat.html" title="La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat - Lien externe">La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat</a></titre>
+<date>10 mars 2024</date>
+<media> 01 NET </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/christine-serrette-itz-bund-et-maintenant-tout-le-monde-dans-le-cloud.html" title="Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! » - Lien externe">Christine Serrette (ITZ Bund) : « et maintenant, tout le monde dans le Cloud ! »</a></titre>
+<date>08 mars 2024</date>
+<media> Républik IT </media>
+
+<titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services «beta.gouv.fr»  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services « beta.gouv.fr »</a></titre>
+<date>04 mars 2024</date>
+<media> Banques des territoires </media>
+
+<titre><a href="https://acteurspublics.fr/webtv/emissions/salon-de-lagriculture-2024/debat-ia-data-et-numerique-au-service-de-la-transformation-du-rural" title="Débat : « IA, data et numérique au service de la transformation du rural » - Lien externe">Débat : « IA, data et numérique au service de la transformation du rural »</a></titre>
+<date>01 mars 2024</date>
+<media> Acteurs publics </media>
+
 <titre><a href="https://www.itforbusiness.fr/letat-se-dote-dun-campus-pour-former-ses-agents-au-numerique-74014" title="L’État se dote d’un campus pour former ses agents au numérique - Lien externe">L’État se dote d’un campus pour former ses agents au numérique</a></titre>
 <date>29 février 2024</date>
 <media> IT for Business </media> 
