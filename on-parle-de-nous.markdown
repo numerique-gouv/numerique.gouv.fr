@@ -11,7 +11,7 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-cloud-et-ia-sont-deux-virages-a-prendre-mais-avec-un-accompagnement.html" title="Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement » - Lien externe">Coup de pouce pour l’emploi. L’IA générative, nouvel outil des agents du service public</a></titre>
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-cloud-et-ia-sont-deux-virages-a-prendre-mais-avec-un-accompagnement.html" title="Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement » - Lien externe">Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement »</a></titre>
 <date>29 mars 2024</date>
 <media> Republik IT </media>
 
