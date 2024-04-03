@@ -11,6 +11,7 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+
 <titre><a href="https://www.itforbusiness.fr/ovhcloud-le-cloud-ne-doit-pas-devenir-une-prison-74608" title="OVHcloud : « Le cloud ne doit pas devenir une prison » - Lien externe">OVHcloud : « Le cloud ne doit pas devenir une prison »</a></titre>
 <date>15 mars 2024</date>
 <media> IT For Business </media>
@@ -22,6 +23,10 @@ layout: page-annexe
 <titre><a href="https://www.banquedesterritoires.fr/la-dinum-fait-le-bilan-de-son-programme-dincubation-de-services-betagouvfr" title="La Dinum fait le bilan de son programme d'incubation de services "beta.gouv.fr"  - Lien externe">La Dinum fait le bilan de son programme d'incubation de services "beta.gouv.fr"</a></titre>
 <date>04 mars 2024</date>
 <media> Banques des territoires </media>
+
+<titre><a href="https://acteurspublics.fr/webtv/emissions/salon-de-lagriculture-2024/debat-ia-data-et-numerique-au-service-de-la-transformation-du-rural" title="Débat : “IA, data et numérique au service de la transformation du rural” - Lien externe">Débat : “IA, data et numérique au service de la transformation du rural”</a></titre>
+<date>01 mars 2024</date>
+<media> Acteurs publics </media>
 
 <titre><a href="https://www.itforbusiness.fr/letat-se-dote-dun-campus-pour-former-ses-agents-au-numerique-74014" title="L’État se dote d’un campus pour former ses agents au numérique - Lien externe">L’État se dote d’un campus pour former ses agents au numérique</a></titre>
 <date>29 février 2024</date>
