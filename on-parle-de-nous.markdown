@@ -11,10 +11,13 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/vincent-coudrin-dinum-le-cloud-rend-soutenable-la-transformation-numerique.html" title="Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique » - Lien externe">Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique »</a></titre>
+<date>03 avril 2024</date>
+<media> Républik IT </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-cloud-et-ia-sont-deux-virages-a-prendre-mais-avec-un-accompagnement.html" title="Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement » - Lien externe">Stéphanie Schaer (DINUM) : « cloud et IA sont deux virages à prendre mais avec un accompagnement »</a></titre>
 <date>29 mars 2024</date>
-<media> Republik IT </media>
-
+<media> Républik IT </media>
 
 <titre><a href="https://www.lanouvellerepublique.fr/deux-sevres/coup-de-pouce-pour-l-emploi-l-ia-generative-nouvel-outil-des-agents-du-service-public" title="Coup de pouce pour l’emploi. L’IA générative, nouvel outil des agents du service public - Lien externe">Coup de pouce pour l’emploi. L’IA générative, nouvel outil des agents du service public</a></titre>
 <date>20 mars 2024</date>
