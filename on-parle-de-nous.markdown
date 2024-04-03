@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.itforbusiness.fr/ovhcloud-le-cloud-ne-doit-pas-devenir-une-prison-74608" title="OVHcloud : « Le cloud ne doit pas devenir une prison » - Lien externe">OVHcloud : « Le cloud ne doit pas devenir une prison »</a></titre>
+<date>15 mars 2024</date>
+<media> IT For Business </media>
+
 <titre><a href="https://www.01net.com/actualites/la-souverainete-numerique-au-coeur-des-debats-lors-de-la-grand-messe-du-cloud-de-letat.html" title="La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat - Lien externe">La souveraineté numérique au cœur des débats lors de la grand-messe du cloud de l’Etat</a></titre>
 <date>10 mars 2024</date>
 <media> 01 NET </media>
