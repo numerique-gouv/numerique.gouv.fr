@@ -18,4 +18,4 @@ une-ou-diaporama:
   alternative-textuelle: Image décorative
 ---
 
-<div class="lien-important"><p><a href="Lien">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://numerique.gouv.fr/espace-presse/vivatechnology-2024-letat-francais-present-massivement-en-2024/">Lire le communiqué de presse</a></p></div>
