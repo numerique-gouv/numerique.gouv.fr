@@ -1,7 +1,17 @@
 ---
 title: 'VIVATECHNOLOGY 2024 : L’ÉTAT FRANÇAIS PRÉSENT MASSIVEMENT EN 2024'
 date: 2024-04-04 16:31:00 +02:00
-published: false
+categories:
+- Communiqué de presse
+tags:
+- Vivatech
+- innovation
+- Numérique
+- Technologie
+- Evénement
+- Salon
+- Ministre
+- Administration publique
 chapeau-text: 14 DIRECTIONS ENGAGÉES DANS LA TRANSFORMATION NUMÉRIQUE DE L’ÉTAT SUR
   UN STAND UNIQUE POUR FAIRE CONNAÎTRE LEURS GRANDS CHANTIERS, PRÉSENTER LEURS OFFRES
   ET RECRUTER DES PROFESSIONNELS DE LA TECH. PLUS DE 4 000 OFFRES À POURVOIR.
