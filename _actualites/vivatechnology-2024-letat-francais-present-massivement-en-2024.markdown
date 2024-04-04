@@ -1,5 +1,5 @@
 ---
-title: 'VIVATECHNOLOGY 2024 : L’ÉTAT FRANÇAIS PRÉSENT MASSIVEMENT EN 2024'
+title: 'Vivatechnology 2024 : l’État français présent massivement en 2024'
 date: 2024-04-04 16:50:00 +02:00
 published: false
 categories:

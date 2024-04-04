@@ -11,8 +11,6 @@ tags:
 - Technologie
 - Evénement
 - Salon
-- Ministre
-- Administration publique
 chapeau-text: 14 directions engagées dans la transformation numérique de l’État sur
   un stand unique pour faire connaître leurs grands chantiers, présenter leurs offres
   et recruter des professionnels de la tech. Plus de 4 000 offres à pourvoir.
