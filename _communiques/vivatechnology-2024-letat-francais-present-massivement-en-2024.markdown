@@ -1,6 +1,7 @@
 ---
 title: 'VIVATECHNOLOGY 2024 : L’ÉTAT FRANÇAIS PRÉSENT MASSIVEMENT EN 2024'
 date: 2024-04-04 16:31:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 tags:
