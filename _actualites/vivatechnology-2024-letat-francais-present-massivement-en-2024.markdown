@@ -1,7 +1,6 @@
 ---
 title: 'Vivatechnology 2024 : l’État français présent massivement en 2024'
 date: 2024-04-04 16:50:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
