@@ -1,5 +1,5 @@
 ---
-title: 'VIVATECHNOLOGY 2024 : L’ÉTAT FRANÇAIS PRÉSENT MASSIVEMENT EN 2024'
+title: 'Vivatechnology 2024 : l’État français présent massivement en 2024'
 date: 2024-04-04 16:31:00 +02:00
 published: false
 categories:
@@ -13,9 +13,9 @@ tags:
 - Salon
 - Ministre
 - Administration publique
-chapeau-text: 14 DIRECTIONS ENGAGÉES DANS LA TRANSFORMATION NUMÉRIQUE DE L’ÉTAT SUR
-  UN STAND UNIQUE POUR FAIRE CONNAÎTRE LEURS GRANDS CHANTIERS, PRÉSENTER LEURS OFFRES
-  ET RECRUTER DES PROFESSIONNELS DE LA TECH. PLUS DE 4 000 OFFRES À POURVOIR.
+chapeau-text: 14 directions engagées dans la transformation numérique de l’État sur
+  un stand unique pour faire connaître leurs grands chantiers, présenter leurs offres
+  et recruter des professionnels de la tech. Plus de 4 000 offres à pourvoir.
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20VVT%202024.png"
   alternative-textuelle: Image décorative
