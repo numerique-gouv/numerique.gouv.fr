@@ -1,7 +1,6 @@
 ---
 title: 'Vivatechnology 2024 : l’État français présent massivement en 2024'
 date: 2024-04-04 16:31:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -18,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20VVT%202024.png"
   alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_VIVATECHNOLOGY2024.pdf"
+- file: "/uploads/CP_VIVATECHNOLOGY2024-553762.pdf"
   nom: Télécharger le communiqué
 ---
 
@@ -41,7 +40,7 @@ Salon professionnel dédié à l’innovation technologique et aux start-ups, Vi
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="vivatechnology.com" class="button" title="Pour en savoir plus sur VivaTechnology  - Lien externe"><b>Pour en savoir plus sur VivaTechnology</b></a></div>
 
 **Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques :**
-> « Pour réussir nos grandes politiques publiques et disposer d’un État plus simple et plus efficace pour tous les Français, nous avons besoin de la puissance du numérique. A VivaTech, l’écosystème du numérique français et international sera réuni et je me réjouis du pavillon numérique de l’État qui regroupera cette année 14 administrations. L’occasion d’y rencontrer les agents publics de la tech engagés pour simplifier l’administration au service de tous et en savoir plus sur nos grandes priorités : IA, cloud, cybersécurité dans le contexte des JO, attractivité et place des femmes dans la tech… »
+> « Le numérique est l’un des plus puissants leviers d'efficacité pour nos services publics : nous devons plus nous en saisir. À VivaTech, tout l'écosystème du numérique français et international sera réuni et l’État sera présent en force avec son pavillon numérique, qui regroupera cette année 14 administrations. L'occasion de mettre en lumière les agents publics de la tech engagés pour rendre l'administration plus efficace et de mettre en avant nos grandes priorités : l’intelligence artificielle et l’innovation, la cybersécurité ou encore l’attractivité des métiers du numérique, en particulier pour les femmes. »
 <br>
 
 La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service du Premier ministre, la DINUM intervient sous l’égide du ministre de la Transformation et de la Fonction publiques. En tant que cheffe de file du numérique de l’État, **elle a pour objectif de rendre l’État plus efficace, plus simple et plus souverain **et collabore à cet effet avec l’ensemble des directions numériques des ministères et ses partenaires :
