@@ -37,7 +37,7 @@ Du 22 au 25 mai 2024, seront présents, aux côtés de la direction interminist�
 
 Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 22 au 25 mai 2024 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. 
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="vivatechnology.com" class="button" title="Pour en savoir plus sur VivaTechnology  - Lien externe"><b>Pour en savoir plus sur VivaTechnology</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://vivatechnology.com/" class="button" title="Pour en savoir plus sur VivaTechnology  - Lien externe"><b>Pour en savoir plus sur VivaTechnology</b></a></div>
 
 **Stanislas GUERINI, ministre de la Transformation et de la Fonction publiques :**
 > « Le numérique est l’un des plus puissants leviers d'efficacité pour nos services publics : nous devons plus nous en saisir. À VivaTech, tout l'écosystème du numérique français et international sera réuni et l’État sera présent en force avec son pavillon numérique, qui regroupera cette année 14 administrations. L'occasion de mettre en lumière les agents publics de la tech engagés pour rendre l'administration plus efficace et de mettre en avant nos grandes priorités : l’intelligence artificielle et l’innovation, la cybersécurité ou encore l’attractivité des métiers du numérique, en particulier pour les femmes. »
