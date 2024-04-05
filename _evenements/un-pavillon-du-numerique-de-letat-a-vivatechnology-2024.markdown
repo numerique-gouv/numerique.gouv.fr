@@ -34,6 +34,8 @@ champs_informations:
 
 Pour la deuxième année consécutive, 14 entités engagées dans la transformation numérique de l’État seront présentes au salon VivaTechnology afin de présenter, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
+<div class="lien-important"><p><a href="https://numerique.gouv.fr/espace-presse/vivatechnology-2024-letat-francais-present-massivement-en-2024/">Lire le communiqué de presse</a></p></div>
+
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Prochainement, venez consulter notre espace en ligne sur le site de VivaTech - Lien externe"><b>Prochainement, venez consulter notre espace en ligne sur le site de VivaTech</b></a></div>
 
 ## « Pavillon du numérique de l’État »
