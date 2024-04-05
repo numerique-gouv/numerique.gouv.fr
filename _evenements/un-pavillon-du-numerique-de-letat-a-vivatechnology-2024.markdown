@@ -42,16 +42,16 @@ Pour la deuxième année consécutive, 14 entités engagées dans la transformat
 
 ### Quelles entités étatiques présentes ?
 Seront présents, aux côtés de la direction interministérielle du numérique : 
-* La direction de la transformation numérique du ministère de l’Intérieur et des Outre-mer, 
-* La direction du numérique du ministère de la Justice, 
-* La direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, 
-* La direction du numérique des ministères Sociaux, 
-* La direction du numérique du ministère du ministère de l’Agriculture et de la Souveraineté alimentaire, 
-* La direction du numérique du ministère du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique,
-* Le service d’information du Gouvernement, 
-* La direction interministérielle de la transformation publique, 
-* La direction générale de l’administration de la fonction publique à travers sa marque « Choisir le service public » 
-* En partenariat avec les directions numériques de l’Éducation nationale et de la Jeunesse, de l'Europe et des Affaires étrangères, l’institut national géographique et l’autorité de régulation des communications électroniques, des postes et de la distribution de la presse. 
+* La direction de la Transformation Numérique du ministère de [l’Intérieur et des Outre-mer](https://www.interieur.gouv.fr/ministere/secretariat-general/direction-de-la-transformation-numerique)
+* La direction numérique du ministère de la [Justice](https://www.justice.gouv.fr/) 
+* La direction numérique du ministère de la [Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general) 
+* La direction numérique des ministères [Sociaux](https://solidarites.gouv.fr/) 
+* La direction numérique du ministère du ministère de l’[Agriculture et de la Souveraineté alimentaire](https://agriculture.gouv.fr/) 
+* La direction numérique du ministère de l’[Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/) 
+* Le [service d’information du Gouvernement](https://www.gouvernement.fr/organisation/service-d-information-du-gouvernement-sig) 
+* La [direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr/) 
+* La [direction générale de l’administration et de la fonction publique à travers sa marque employeur « Choisir le service public »](https://www.fonction-publique.gouv.fr/la-dgafp) 
+* En partenariat avec la direction numérique du ministère de l’[Éducation nationale et de la Jeunesse](https://www.education.gouv.fr/), la direction du numérique du ministère de l’[Europe et des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/), l’[institut national de l’information géographique et forestière](https://www.ign.fr/), l'[autorité de régulation des communications électroniques, des postes et de la distribution de la presse](https://www.arcep.fr/) 
 
 ### Programme :
 * Un espace de présentation des ministères par des agents publics et des représentants de Startups d'État.
