@@ -72,3 +72,6 @@ Les projets lauréats bénéficieront d’un cofinancement **jusqu’à 100% du 
 En complément de ce financement, la DINUM pourra, si cela lui semble pertinent, fournir un accompagnement humain additionnel.
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite-des-produits-et-se" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Nous contacter</h3><p>Pour toute demande d’information, n’hésitez pas à <a href="mailto:guichet.accessibilite@modernisation.gouv.fr" title="Nous contacter - Lien externe">nous contacter</a>.</p>
+</div>
