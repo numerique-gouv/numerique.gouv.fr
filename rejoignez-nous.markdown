@@ -118,6 +118,13 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-adjoint-au-chef-de-pole-relation-usagers-et-agents-hf-reference-2024-1523400/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-pour-la-suite-numerique-bizdev-hf-reference-2024-1527867/" title="Responsable des partenariats pour la Suite Numérique (bizdev) H/F - Lien externe">Responsable des partenariats pour la Suite Numérique (bizdev) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-directeur-technique-suite-numerique-hf-reference-2024-1523395/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
 </div>
 <br>
 <br>
@@ -147,6 +154,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2024-1454680/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge--chargee-de-mission-parcours-et-mobilite-de-la-filiere-numerique-hf-reference-2024-1527879/" title="Chargé/e de Mission parcours et mobilité de la filière numérique H/F - Lien externe">Chargé/e de Mission parcours et mobilité de la filière numérique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge--chargee-de-mission-parcours-et-mobilite-de-la-filiere-numerique-hf-reference-2024-1527879/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
