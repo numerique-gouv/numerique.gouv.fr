@@ -2,6 +2,7 @@
 title: Expression de besoin des projets informatiques publics en matière de Cloud
   de confiance
 date: 2024-04-15 13:18:00 +02:00
+permalink: "/services/cloud/"
 position: 5
 menu:
   title: Expression de besoin des projets informatiques publics en matière de Cloud
@@ -9,6 +10,7 @@ menu:
   weight: 70
 une:
   image: "/uploads/cloud_page_fille-9b1488.png"
+layout: cloud
 ---
 
 La DINUM, avec l’appui de l’Agence nationale de la sécurité des systèmes d’information (ANSSI), a collecté et priorisé les besoins des administrations en matière de services de Cloud de confiance, en se basant sur des cas concrets de projets informatiques de l’État.
