@@ -2,6 +2,7 @@
 title: Le Cloud pour les administrations
 date: 2021-07-20 19:16:00 +02:00
 permalink: "/services/cloud/"
+position: 0
 menu:
   title: Introduction
   weight: 10

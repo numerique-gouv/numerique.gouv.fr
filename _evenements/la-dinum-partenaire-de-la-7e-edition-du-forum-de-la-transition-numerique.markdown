@@ -43,4 +43,4 @@ Revenir sur les enjeux relatifs à la transition numérique des collectivités (
 
 <div class="lien-important"><p><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-7e-forum-de-la-transition-numerique-2024-p-17096">Consulter le programme complet</a></p></div>
 
-La Gazette des communes offre 20% de remise sur le tarif général HT de la conférence grâce au code promo **DINUM20**.
+La Gazette des communes offre 20% de remise sur le tarif général HT de la conférence grâce au code promo **NUM24DN**.

@@ -2,6 +2,7 @@
 title: 'Cloud au centre : la doctrine de l''État'
 date: 2021-07-08 16:42:00 +02:00
 permalink: "/services/cloud/doctrine/"
+position: 3
 menu:
   title: La doctrine de l'État
   weight: 20
