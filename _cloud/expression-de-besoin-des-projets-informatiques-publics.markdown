@@ -6,7 +6,7 @@ position: 5
 menu:
   title: Expression de besoin des projets informatiques publics en matière de Cloud
     de confiance
-  weight: 80
+  weight: 70
 une:
   image: "/uploads/cloud_page_fille-9b1488.png"
 ---
