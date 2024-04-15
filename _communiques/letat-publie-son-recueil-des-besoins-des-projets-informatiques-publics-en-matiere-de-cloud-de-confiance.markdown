@@ -48,8 +48,23 @@ La DINUM encourage les fournisseurs à candidater à l’AAP dès la première r
 
 **Stéphanie Schaer, directrice interministérielle du numérique.**
 
+[**Consulter l’expression de besoins priorisés**](https://www.numerique.gouv.fr/services/cloud/#contenu)
+
 [En savoir plus sur les enjeux de la stratégie Cloud du Gouvernement](https://www.economie.gouv.fr/securite-performance-souverainete-strategie-cloud#)
 
 [En savoir plus sur la doctrine Cloud au centre et le Cloud de confiance](https://www.numerique.gouv.fr/services/cloud/)
 
 [Participer à l’appel à projets « Renforcement de l’offre de services Cloud »](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-renforcement-de-loffre-de-services-cloud)
+
+Contact presse du secrétariat d’État chargé du Numérique : 
+Mél : presse.senum@numerique.gouv.fr | Tél : 01 53 18 43 70
+
+Contact presse de la direction interministérielle du numérique (DINUM) : 
+Mél : floriane.beaudron@modernisation.gouv.fr | Tél : 06 10 60 41 19
+
+Contact presse de l’Agence nationale de la sécurité des systèmes d’information (ANSSI) :  
+Mél : presse@ssi.gouv.fr | Tél : 06 49 21 63 80
+
+Contact presse de de la direction générale des entreprises (DGE) :  
+Mél : presse.dge@finances.gouv.fr | Tél : 01 44 97 04 49
+
