@@ -57,14 +57,14 @@ La DINUM encourage les fournisseurs à candidater à l’AAP dès la première r
 [Participer à l’appel à projets « Renforcement de l’offre de services Cloud »](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-renforcement-de-loffre-de-services-cloud)
 
 Contact presse du secrétariat d’État chargé du Numérique : 
-Mél : presse.senum@numerique.gouv.fr | Tél : 01 53 18 43 70
+[presse.senum@numerique.gouv.fr](presse.senum@numerique.gouv.fr) | 01 53 18 43 70
 
 Contact presse de la direction interministérielle du numérique (DINUM) : 
-Mél : floriane.beaudron@modernisation.gouv.fr | Tél : 06 10 60 41 19
+[floriane.beaudron@modernisation.gouv.fr](floriane.beaudron@modernisation.gouv.fr) | 06 10 60 41 19
 
 Contact presse de l’Agence nationale de la sécurité des systèmes d’information (ANSSI) :  
-Mél : presse@ssi.gouv.fr | Tél : 06 49 21 63 80
+[presse@ssi.gouv.fr](presse@ssi.gouv.fr) | 06 49 21 63 80
 
 Contact presse de de la direction générale des entreprises (DGE) :  
-Mél : presse.dge@finances.gouv.fr | Tél : 01 44 97 04 49
+[presse.dge@finances.gouv.fr](presse.dge@finances.gouv.fr) | 01 44 97 04 49
 
