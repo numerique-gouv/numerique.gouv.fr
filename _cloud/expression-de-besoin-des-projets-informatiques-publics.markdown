@@ -23,4 +23,4 @@ Cette liste de besoins fonctionnels priorisés à développer par les fournisseu
 
 Date de mise à disposition : 10/04/2023
 
-Cette expression de besoin a été publiée en lien avec l’appel à projets Renforcement de l’offre de services Cloud : retrouvez les informations relatives en suivant
+Cette expression de besoin a été publiée en lien avec l’appel à projets Renforcement de l’offre de services Cloud : [retrouvez les informations relatives à cette page](https://www.numerique.gouv.fr/espace-presse/letat-publie-son-recueil-des-besoins-des-projets-informatiques-publics-en-matiere-de-cloud-de-confiance/)
