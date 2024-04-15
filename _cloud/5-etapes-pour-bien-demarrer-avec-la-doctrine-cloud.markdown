@@ -2,6 +2,7 @@
 title: 5 étapes pour bien démarrer avec la doctrine Cloud
 date: 2021-07-21 18:06:00 +02:00
 permalink: "/services/cloud/demarrer/"
+position: 8
 menu:
   title: Par où commencer ?
   weight: 40

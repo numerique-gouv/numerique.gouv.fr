@@ -2,6 +2,7 @@
 title: Rejoignez notre communauté « Adoption du Cloud » !
 date: 2021-10-20 16:03:00 +02:00
 permalink: "/services/cloud/communautes/"
+position: 2
 menu:
   title: Communauté
   weight: 90

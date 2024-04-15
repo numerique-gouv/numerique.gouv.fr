@@ -2,6 +2,7 @@
 title: Le Cloud commercial
 date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/cloud-commercial/"
+position: 4
 menu:
   title: Le Cloud commercial
   weight: 70
