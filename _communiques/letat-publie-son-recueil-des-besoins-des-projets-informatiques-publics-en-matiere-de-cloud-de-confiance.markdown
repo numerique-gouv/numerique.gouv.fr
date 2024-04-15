@@ -48,6 +48,8 @@ La DINUM encourage les fournisseurs à candidater à l’AAP dès la première r
 
 **Stéphanie Schaer, directrice interministérielle du numérique.**
 
+[**Consulter l’expression de besoins priorisés**](https://www.numerique.gouv.fr/services/cloud/#contenu)
+
 [En savoir plus sur les enjeux de la stratégie Cloud du Gouvernement](https://www.economie.gouv.fr/securite-performance-souverainete-strategie-cloud#)
 
 [En savoir plus sur la doctrine Cloud au centre et le Cloud de confiance](https://www.numerique.gouv.fr/services/cloud/)
