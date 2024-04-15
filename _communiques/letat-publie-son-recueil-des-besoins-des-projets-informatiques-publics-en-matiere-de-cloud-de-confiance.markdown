@@ -48,11 +48,8 @@ La DINUM encourage les fournisseurs à candidater à l’AAP dès la première r
 
 **Stéphanie Schaer, directrice interministérielle du numérique.**
 
-En savoir plus sur les enjeux de la stratégie Cloud du Gouvernement : 
-https://www.economie.gouv.fr/securite-performance-souverainete-strategie-cloud#
+[En savoir plus sur les enjeux de la stratégie Cloud du Gouvernement](https://www.economie.gouv.fr/securite-performance-souverainete-strategie-cloud#)
 
-En savoir plus sur la doctrine Cloud au centre et le Cloud de confiance : 
-https://www.numerique.gouv.fr/services/cloud/
+[En savoir plus sur la doctrine Cloud au centre et le Cloud de confiance](https://www.numerique.gouv.fr/services/cloud/)
 
-Participer à l’appel à projets « Renforcement de l’offre de services cloud » : 
-https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-renforcement-de-loffre-de-services-cloud
+[Participer à l’appel à projets « Renforcement de l’offre de services cloud »](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-renforcement-de-loffre-de-services-cloud)
