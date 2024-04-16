@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20VVT%202024.png"
   alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_VIVATECHNOLOGY2024-553762.pdf"
+- file: "/uploads/CP_VIVATECHNOLOGY2024-1247a9-362cd9.pdf"
   nom: Télécharger le communiqué
 ---
 
@@ -50,7 +50,7 @@ La direction interministérielle du numérique (DINUM) a pour mission d’élabo
 * La direction numérique du ministère de la [Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general) 
 * La direction numérique des ministères [Sociaux](https://solidarites.gouv.fr/) 
 * La direction numérique du ministère du ministère de l’[Agriculture et de la Souveraineté alimentaire](https://agriculture.gouv.fr/) 
-* La direction numérique du ministère de l’[Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/) 
+* Les directions numérique du ministère de l’[Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/) 
 * Le [service d’information du Gouvernement](https://www.gouvernement.fr/organisation/service-d-information-du-gouvernement-sig) 
 * La [direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr/) 
 * La [direction générale de l’administration et de la fonction publique à travers sa marque employeur « Choisir le service public »](https://www.fonction-publique.gouv.fr/la-dgafp) 
