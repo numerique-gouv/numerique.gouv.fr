@@ -51,8 +51,4 @@ Le passage au Cloud est également une occasion de **renforcer la résilience de
 
 <div align="center" style="margin-top: 30px"><a href="https://www.legifrance.gouv.fr/circulaire/id/45446?init=true&page=1&query=doctrine+d%E2%80%99utilisation+de+l%E2%80%99informatique+en+nuage+par+l%E2%80%99%C3%89tat&searchField=ALL&tab_selection=all" class="button" title="Lire la doctrine Cloud au centre et la circulaire du Premier ministre - Lien externe"><b>Lire la doctrine Cloud au centre et la circulaire</b></a></div>
 
-<div class="pdf"><p><a href="file:///C:/Users/anazaret-adc/Documents/1_SUJETS/Cloud/Nouvelle%20demande%201/Circulaire%20en%20anglais%20VF.pdf">Télécharger la version en anglais</a></p></div>
 
-<div class="pdf">
-    <p><a href="file:///C:/Users/anazaret-adc/Documents/1_SUJETS/Cloud/Nouvelle%20demande%201/Circulaire%20en%20anglais%20VF.pdf" target="_blank">Télécharger la version en anglais</a></p>
-</div>
