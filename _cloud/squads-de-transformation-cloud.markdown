@@ -7,7 +7,7 @@ categories:
 - article
 tags:
 - cloud
-position: 9
+position: 8
 menu:
   title: Accompagnement
   weight: 80

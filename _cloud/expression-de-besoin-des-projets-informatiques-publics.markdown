@@ -3,7 +3,7 @@ title: Expression de besoin des projets informatiques publics en matière de Clo
   de confiance
 date: 2024-04-15 13:18:00 +02:00
 permalink: "/services/cloud/"
-position: 5
+position: 11
 menu:
   title: Expression de besoin des projets informatiques publics en matière de Cloud
     de confiance
