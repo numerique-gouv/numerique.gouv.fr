@@ -30,7 +30,7 @@ La direction interministérielle du numérique, pleinement engagée sur la quest
 
 <div class="encadre noir" style="margin-bottom:40px"><br><p><b>De 14h à 14h45</b><br>
 
-Mélanie Raphaël partagera les avancées dans le secteur public et un état des lieux des feuilles de route interministérielles et des feuilles de route des opérateurs et collectivités prévues pour 2025 incitant les administrations à s’engager concrètement et reviendra sur la stratégie pour une transition numérique réussie en évoquant notamment la réduction de la pression à l’obsolescence, la conception des services numériques plus accessibles et plus performants, les recommandations en termes de Data Center, le réemploi dans le secteur public et mesure des impacts.
+Mélanie Raphaël partagera les avancées dans le secteur public ainsi qu'un état des lieux des feuilles de route interministérielles et des feuilles de route des opérateurs et collectivités prévues pour 2025 incitant les administrations à s’engager concrètement. Elle reviendra également sur la stratégie pour une transition numérique réussie en évoquant notamment la réduction de la pression à l’obsolescence, la conception des services numériques plus accessibles et plus performants, les recommandations en termes de Data Center, le réemploi dans le secteur public et mesure des impacts.
 </p></div>
 
 ### Un événement dédié aux décideurs pour les accompagner dans leur transition numérique :
