@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Post%20RS%20VVT%202024.png"
   alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_VIVATECHNOLOGY2024-553762.pdf"
+- file: "/uploads/CP_VIVATECHNOLOGY2024-1247a9-362cd9.pdf"
   nom: Télécharger le communiqué
 ---
 
