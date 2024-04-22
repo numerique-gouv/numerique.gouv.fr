@@ -27,8 +27,6 @@ L’évènement s’est joué à guichet fermé dans les locaux des services du 
 
 Ces moments ont privilégié les rencontres, prises de contact et l’engagement de discussions au sein de l’écosystème.
 
-![DSC01727.JPG](/uploads/DSC01727.JPG)
-
 ![DSC01738.JPG](/uploads/DSC01738.JPG)
 
 La DINUM retiendra également l’importance de mettre en avant et **partager les projets et succès de l’État** dans le domaine du Cloud, afin de démultiplier les bonnes pratiques, d’attirer et valoriser les compétences mais également de **mutualiser les approches**.
