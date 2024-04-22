@@ -59,16 +59,16 @@ L'accélération de la transformation numérique portée par le Cloud est néces
 
 A la suite de l’évènement, plus de 30 nouveaux membres ont rejoint la communauté OSMOSE d’Adoption du Cloud, qui réunit désormais plus de 450 membres, tous agents publics. Cet espace permet de prolonger les échanges initiés lors de la journée Cloud, de partager les supports projetés pendant l’évènement et plus largement des actualités et informations sur le Cloud dans la sphère publique.
 
-Rejoindre la communauté : LIEN 
+[Rejoindre la communauté](https://www.numerique.gouv.fr/services/cloud/)
 
-*« Je voudrais surtout remercier la DINUM pour cette journée riche en informations et tellement bien organisée ! »
+*« Je voudrais surtout remercier la DINUM pour cette journée riche en informations et tellement bien organisée ! »*
 
-« L’endroit était juste parfait […] »
+*« L’endroit était juste parfait […] »*
 
-« Bravo pour cette journée » 
+*« Bravo pour cette journée »* 
 
-« Félicitation à Vincent Coudrin et Nina Landes pour cette organisation et la qualité des interviews et intervenants »
+*« Félicitation à Vincent Coudrin et Nina Landes pour cette organisation et la qualité des interviews et intervenants »*
 
-« Très satisfaite de la qualité des présentations !! […] Merci pour tout et bravo. C’était une super journée »*
+*« Très satisfaite de la qualité des présentations !! […] Merci pour tout et bravo. C’était une super journée »*
 
 *Verbatims issus du questionnaire de satisfaction*
