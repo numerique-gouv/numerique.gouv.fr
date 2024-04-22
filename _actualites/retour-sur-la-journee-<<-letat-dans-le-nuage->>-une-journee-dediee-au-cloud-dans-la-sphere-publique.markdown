@@ -2,7 +2,6 @@
 title: 'Retour sur la journée « l’État dans le nuage » : une journée dédiée au Cloud
   dans la sphère publique'
 date: 2024-04-19 12:41:00 +02:00
-published: false
 categories:
 - Journée d'échanges
 tags:
