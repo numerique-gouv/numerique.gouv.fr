@@ -1,6 +1,6 @@
 ---
-title: 'La simplification et la débureaucratisation de l''État : retour sur le CITP
-  du 23 avril 2024'
+title: 'La simplification et la débureaucratisation de l''État : retour sur les annonces
+  du Premier ministre'
 date: 2024-04-23 16:12:00 +02:00
 categories:
 - Actualités
