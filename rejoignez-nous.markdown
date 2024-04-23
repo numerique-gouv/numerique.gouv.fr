@@ -124,6 +124,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-architecte-technique-mobile---tchap---suite-numerique-hf-reference-2024-1544383/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1544512/" title="Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F - Lien externe">Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1544512/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
