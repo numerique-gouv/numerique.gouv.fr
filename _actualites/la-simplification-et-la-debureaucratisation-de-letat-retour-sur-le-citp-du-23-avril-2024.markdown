@@ -2,8 +2,14 @@
 title: 'La simplification et la débureaucratisation de l''État : retour sur le CITP
   du 23 avril 2024'
 date: 2024-04-23 16:12:00 +02:00
+categories:
+- Actualités
 tags:
 - gouvernement
+- CITP
+- ia
+- Albert
+- Etalab
 chapeau-text: Aujourd'hui, Gabriel Attal s'est exprimé sur la simplification et la
   débureaucratisation de l'État avec Stanislas Guerini et Marina Ferrari
 une-ou-diaporama:
