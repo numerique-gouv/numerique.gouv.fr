@@ -166,6 +166,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge--chargee-de-mission-parcours-et-mobilite-de-la-filiere-numerique-hf-reference-2024-1527879/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-responsable-de-projet-logistique-et-cadre-de-vie-hf-reference-2024-1544448/" title="Responsable de Projet logistique et cadre de vie H/F - Lien externe">Responsable de Projet logistique et cadre de vie H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-responsable-de-projet-logistique-et-cadre-de-vie-hf-reference-2024-1544448/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
