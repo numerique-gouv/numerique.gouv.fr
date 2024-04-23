@@ -11,6 +11,7 @@ tags:
 - Albert
 - Etalab
 - Simplification
+- intelligence artificielle
 chapeau-text: Aujourd'hui, Gabriel Attal s'est exprimé sur la simplification et la
   débureaucratisation de l'État avec Stanislas Guerini et Marina Ferrari
 une-ou-diaporama:
