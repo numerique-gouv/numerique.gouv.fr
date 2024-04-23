@@ -39,6 +39,10 @@ Pour la deuxième année consécutive, 14 entités engagées dans la transformat
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://vivatechnology.com/partners/french-states-digital-space" class="button" title="Venez consulter notre espace en ligne sur le site de VivaTech - Lien externe"><b>Venez consulter notre espace en ligne sur le site de VivaTech</b></a></div>
 
+Retrouvez l'interview de Stéphanie Schaer, directrice interministérielle du numérique, qui est revenue sur l'opportunité de présenter les grands champs d'action pour le numérique de l'État lors du salon VivaTechnology 2023.
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x8x97tm?autoplay=1" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="autoplay"> </iframe> </div>
+
 ## « Pavillon du numérique de l’État »
 
 ### Quelles entités étatiques présentes ?
