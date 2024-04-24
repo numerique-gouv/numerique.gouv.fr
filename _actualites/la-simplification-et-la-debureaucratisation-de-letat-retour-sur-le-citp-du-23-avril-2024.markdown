@@ -1,6 +1,6 @@
 ---
-title: 'La simplification et la débureaucratisation de l''État : retour sur les annonces
-  du Premier ministre'
+title: 'La simplification et la débureaucratisation de l''État : retour sur le 8e
+  Comité Interministériel de la Transformation Publique et le focus sur l’IA'
 date: 2024-04-23 16:12:00 +02:00
 categories:
 - Actualités
