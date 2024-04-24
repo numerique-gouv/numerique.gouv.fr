@@ -26,6 +26,7 @@ Il a présidé le 8ème Comité Interministériel de la Transformation Publique 
 
 <div class="lien-important"><p><a href="https://www.youtube.com/watch?v=tyHC88mGxUw">Consulter le discours vidéo du Premier ministre</a></p></div>
 
+[DIscours_CITP.pdf](/uploads/DIscours_CITP.pdf)
 
 ### 8e CITP : pour des services publics plus proches, plus simples, plus humains
 
