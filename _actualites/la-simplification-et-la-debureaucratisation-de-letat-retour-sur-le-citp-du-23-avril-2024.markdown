@@ -19,7 +19,7 @@ une-ou-diaporama:
   alternative-textuelle: Image décorative
 files:
 - file: "/uploads/DIscours_CITP.pdf"
-  name: Consulter le discours écrit du Premier ministre
+  nom: Consulter le discours écrit du Premier ministre
 ---
 
 Il a présidé le 8ème Comité Interministériel de la Transformation Publique (CITP) au cours duquel le Gouvernement a réaffirmé sa volonté de débureaucratiser l'action publique pour des services publics plus proches, plus simples et plus humains.
@@ -27,6 +27,7 @@ Il a présidé le 8ème Comité Interministériel de la Transformation Publique 
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.youtube.com/watch?v=tyHC88mGxUw" class="button" title="Consulter le discours vidéo du Premier ministre - Lien externe"><b>Consulter le discours vidéo du Premier ministre</b></a></div>
 
+[DIscours_CITP.pdf](/uploads/DIscours_CITP.pdf)
 
 ### 8e CITP : pour des services publics plus proches, plus simples, plus humains
 
