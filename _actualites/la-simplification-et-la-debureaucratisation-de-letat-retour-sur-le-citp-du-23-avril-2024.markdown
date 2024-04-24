@@ -17,6 +17,7 @@ chapeau-text: 'Aujourd’hui, Gabriel Attal s’est exprimé sur la simplificati
 une-ou-diaporama:
 - image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(1)%20(1).png"
   alternative-textuelle: Image décorative
+files: "/uploads/DIscours_CITP.pdf"
 ---
 
 Il a présidé le 8ème Comité Interministériel de la Transformation Publique (CITP) au cours duquel le Gouvernement a réaffirmé sa volonté de débureaucratiser l'action publique pour des services publics plus proches, plus simples et plus humains.
