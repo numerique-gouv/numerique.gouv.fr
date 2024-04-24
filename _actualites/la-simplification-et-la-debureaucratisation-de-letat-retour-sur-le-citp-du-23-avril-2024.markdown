@@ -14,12 +14,12 @@ tags:
 - intelligence artificielle
 chapeau-text: 'Aujourd’hui, Gabriel Attal s’est exprimé sur la simplification et la
   débureaucratisation de l’État avec Stanislas Guerini et Marina Ferrari. '
-files:
-- file: "/uploads/DIscours_CITP.pdf"
-  name: Consulter le discours écrit du Premier ministre
 une-ou-diaporama:
 - image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(1)%20(1).png"
   alternative-textuelle: Image décorative
+files:
+- file: "/uploads/DIscours_CITP.pdf"
+  name: Consulter le discours écrit du Premier ministre
 ---
 
 Il a présidé le 8ème Comité Interministériel de la Transformation Publique (CITP) au cours duquel le Gouvernement a réaffirmé sa volonté de débureaucratiser l'action publique pour des services publics plus proches, plus simples et plus humains.
