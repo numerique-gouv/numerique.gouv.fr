@@ -12,8 +12,8 @@ tags:
 - Etalab
 - Simplification
 - intelligence artificielle
-chapeau-text: Aujourd'hui, Gabriel Attal s'est exprimé sur la simplification et la
-  débureaucratisation de l'État avec Stanislas Guerini et Marina Ferrari
+chapeau-text: 'Aujourd’hui, Gabriel Attal s’est exprimé sur la simplification et la
+  débureaucratisation de l’État avec Stanislas Guerini et Marina Ferrari. '
 une-ou-diaporama:
 - image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(1)%20(1).png"
   alternative-textuelle: Image décorative
