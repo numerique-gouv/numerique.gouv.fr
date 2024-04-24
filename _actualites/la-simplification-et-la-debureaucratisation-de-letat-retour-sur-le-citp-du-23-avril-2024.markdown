@@ -45,4 +45,5 @@ Le Premier ministre a convoqué presque un an après le dernier comité intermin
 * Garantir la qualité et un accès facile au service public, partout et pour tous
 * Réarmer les territoires pour construire des solutions adaptées aux enjeux de terrain
 
-<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/presse/8e-comite-interministeriel-de-la-transformation-publique">Consulter le dossier de presse</a></p></div>
+
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.modernisation.gouv.fr/presse/8e-comite-interministeriel-de-la-transformation-publique" class="button" title="Consulter le dossier de presse - Lien externe"><b>Consulter le dossier de presse</b></a></div>
