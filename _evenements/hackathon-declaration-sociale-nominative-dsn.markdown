@@ -42,7 +42,7 @@ L’objectif de cet hackathon : améliorer les politiques publiques en matière 
 
 ### Pour qui ?
 
-Inscription obligatoire avant le 7 mai [inscription](https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn )
+[Inscription](https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn) obligatoire avant le 7 mai 
 
 ### Modalités de participation :
 
