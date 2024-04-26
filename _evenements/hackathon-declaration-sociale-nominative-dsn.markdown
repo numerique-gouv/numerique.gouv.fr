@@ -31,7 +31,7 @@ champs_informations:
 
 Créée en 2012, son objectif est de simplifier la communication par les employeurs des informations nécessaires à la gestion de la protection sociale de leurs salariés. 
 
-Généralisée depuis 2017, elle remplace 45 formalités déclaratives en une déclaration unique et numérique pour l’ensemble des organismes sociaux. Elle utilise pour ce faire les données salariales à l’occasion de la paie.
+Généralisée depuis 2017, elle remplace 75 formalités déclaratives en une déclaration unique et numérique pour l’ensemble des organismes sociaux. Elle utilise pour ce faire les données salariales à l’occasion de la paie.
 
 L’objectif de cet hackathon : améliorer les politiques publiques en matière de travail et d’emploi en explorant les potentialités d’exploitation et de valorisation des données de la DSN (données qui seront pseudonymisées après traitement de minimisation).
 
