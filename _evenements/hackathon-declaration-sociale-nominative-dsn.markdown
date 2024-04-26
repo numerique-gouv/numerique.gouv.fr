@@ -41,9 +41,9 @@ L’objectif de cet hackathon : améliorer les politiques publiques en matière 
 * Le pilotage de politiques publiques.
 * Le développement de nouveaux services publics numériques.
 
-**Professionnels du numérique, data scientist, développeurs, designers, étudiants, chercheurs, citoyens… prenez part à cet événement !**
-
 ### Pour qui ?
+
+**Professionnels du numérique, data scientist, développeurs, designers, étudiants, chercheurs, citoyens… prenez part à cet événement !**
 
 [Inscription](https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn) obligatoire avant le 7 mai 
 
