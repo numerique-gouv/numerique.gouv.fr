@@ -23,7 +23,7 @@ afficher_la_carte: true
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
-  Key: 'https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn '
+  lien: 'https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn '
 ---
 
 **La DSN, qu’est-ce que c’est ?**
