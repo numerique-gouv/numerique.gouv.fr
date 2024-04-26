@@ -27,7 +27,7 @@ champs_informations:
   lien: 'https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn '
 ---
 
-**La DSN, qu’est-ce que c’est ?**
+### La DSN, qu’est-ce que c’est ?
 
 Créée en 2012, son objectif est de simplifier la communication par les employeurs des informations nécessaires à la gestion de la protection sociale de leurs salariés. 
 
