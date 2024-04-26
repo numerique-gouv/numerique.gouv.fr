@@ -14,7 +14,8 @@ chapeau-text: Le département Etalab de la direction interministérielle du num�
   sociales (MIDS), un hackathon consacré à la valorisation des données de la Déclaration
   Sociale Nominative (DSN) du 14 au 15 mai 2024.
 une-ou-diaporama:
-- alternative-textuelle: Image décorative
+- image: "/uploads/Hackathon%20DSN.png"
+  alternative-textuelle: Image décorative
 event_start_date: 2024-05-14 00:00:00 +02:00
 event_end_date: 2024-05-15 00:00:00 +02:00
 lieu: Espace Saint Martin
