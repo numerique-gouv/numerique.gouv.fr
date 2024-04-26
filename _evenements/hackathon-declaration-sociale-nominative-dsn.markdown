@@ -14,7 +14,8 @@ chapeau-text: Le département Etalab de la direction interministérielle du num�
   sociales (MIDS), un hackathon consacré à la valorisation des données de la Déclaration
   Sociale Nominative (DSN) du 14 au 15 mai 2024.
 une-ou-diaporama:
-- alternative-textuelle: Image décorative
+- image: "/uploads/Hackathon%20DSN.png"
+  alternative-textuelle: Image décorative
 event_start_date: 2024-05-14 00:00:00 +02:00
 event_end_date: 2024-05-15 00:00:00 +02:00
 lieu: Espace Saint Martin
@@ -28,7 +29,9 @@ champs_informations:
 
 **La DSN, qu’est-ce que c’est ?**
 
-Créée en 2012, son objectif est de simplifier la communication par les employeurs des informations nécessaires à la gestion de la protection sociale de leurs salariés. Généralisée depuis 2017, elle remplace 45 formalités déclaratives en une déclaration unique et numérique pour l’ensemble des organismes sociaux. Elle utilise pour ce faire les données salariales à l’occasion de la paie.
+Créée en 2012, son objectif est de simplifier la communication par les employeurs des informations nécessaires à la gestion de la protection sociale de leurs salariés. 
+
+Généralisée depuis 2017, elle remplace 45 formalités déclaratives en une déclaration unique et numérique pour l’ensemble des organismes sociaux. Elle utilise pour ce faire les données salariales à l’occasion de la paie.
 
 L’objectif de cet hackathon : améliorer les politiques publiques en matière de travail et d’emploi en explorant les potentialités d’exploitation et de valorisation des données de la DSN (données qui seront pseudonymisées après traitement de minimisation).
 
