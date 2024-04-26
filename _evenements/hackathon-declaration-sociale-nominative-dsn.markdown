@@ -8,9 +8,9 @@ tags:
 - Données publiques
 - hackathon
 chapeau-text: Le département Etalab de la direction interministérielle du numérique
-  Etalab co-organise avec la Direction du numérique du ministère du Travail, de la
-  Santé et des Solidarités, le GIP Modernisation des déclarations sociales ainsi que
-  la Mission interministérielle de pilotage de la collecte et de l’usage des données
+  co-organise avec la Direction du numérique du ministère du Travail, de la Santé
+  et des Solidarités, le GIP Modernisation des déclarations sociales ainsi que la
+  Mission interministérielle de pilotage de la collecte et de l’usage des données
   sociales (MIDS), un hackathon consacré à la valorisation des données de la Déclaration
   Sociale Nominative (DSN) du 14 au 15 mai 2024.
 une-ou-diaporama:
