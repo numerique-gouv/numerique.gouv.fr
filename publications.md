@@ -41,7 +41,7 @@ publications:
 - title: Panorama des grands projets numériques de l'État
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/capture-panorama-nov2021-rub.png"
+  - image: "/uploads/PANORAMA-13e-edition.png"
 - title: Référentiel de rémunération des 55 métiers de la filière numérique et des
     systèmes d'information et communication
   url: "/publications/referentiel-de-remuneration-des-55-metiers-de-la-filiere-numerique/"
