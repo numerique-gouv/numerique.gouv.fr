@@ -4,7 +4,6 @@ date: 2024-04-26 13:33:00 +02:00
 categories:
 - Hackathon
 tags:
-- données ouvertes
 - Données publiques
 - hackathon
 chapeau-text: Le département Etalab de la direction interministérielle du numérique
