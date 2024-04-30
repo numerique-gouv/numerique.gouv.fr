@@ -4,7 +4,6 @@ date: 2024-04-26 13:33:00 +02:00
 categories:
 - Hackathon
 tags:
-- données ouvertes
 - Données publiques
 - hackathon
 chapeau-text: Le département Etalab de la direction interministérielle du numérique
@@ -57,3 +56,4 @@ En présentiel (places limitées) à l’Espace Saint Martin (199bis rue Saint-M
 
 Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
 
+[Nous contacter](https://grist.incubateur.net/o/docs/forms/2XpogivbmwTNw6uh4iDJUh/32)
