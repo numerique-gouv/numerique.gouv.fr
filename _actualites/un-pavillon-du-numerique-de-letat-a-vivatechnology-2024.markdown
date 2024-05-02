@@ -18,4 +18,4 @@ une-ou-diaporama:
     de l’État, au stand J59 du 22au 25 mai à Paris'
 ---
 
-<div class="lien-important"><p><a href="/https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="/agenda/pavillon-numerique-etat-viva-technology-2024/">Lire la suite</a></p></div>
