@@ -18,4 +18,4 @@ une-ou-diaporama:
     de l’État, au stand H49 du 14 au 17 juin à Paris'
 ---
 
-<div class="lien-important"><p><a href="/agenda/pavillon-numerique-etat-viva-technology-2023/">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="/https://www.numerique.gouv.fr/agenda/pavillon-numerique-etat-viva-technology-2023/">Lire la suite</a></p></div>

@@ -17,4 +17,4 @@ une-ou-diaporama:
   alternative-textuelle: Image décorative
 ---
 
-<div class="lien-important"><p><a href="https://numerique.gouv.fr/espace-presse/vivatechnology-2024-letat-francais-present-massivement-en-2024/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Consulter la page agenda</a></p></div>
