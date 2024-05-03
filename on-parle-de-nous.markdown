@@ -15,6 +15,12 @@ layout: page-annexe
 <date>25 avril 2024</date>
 <media> Acteurs Publics </media>
 
+
+
+<titre><a href="https://acteurspublics.fr/articles/letat-clarifie-ses-besoins-en-matiere-de-cloud-de-confiance" title="L’État clarifie ses besoins en matière de “cloud de confiance” - Lien externe">L’État clarifie ses besoins en matière de “cloud de confiance”</a></titre>
+<date>16 avril 2024</date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/la-suite-collaborative-numerique-de-letat-dans-les-starting-blocks" title="La suite collaborative numérique de l’État dans les starting-blocks - Lien externe">La suite collaborative numérique de l’État dans les starting-blocks</a></titre>
 <date>12 avril 2024</date>
 <media> Acteurs Publics </media>
