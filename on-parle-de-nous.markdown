@@ -13,6 +13,11 @@ layout: page-annexe
 
 <titre><a href="https://acteurspublics.fr/articles/donnees-sociales-titre-de-transport-unique-stanislas-guerini" title="Données sociales – Titre de transport unique – Stanislas Guerini - Lien externe">Données sociales – Titre de transport unique – Stanislas Guerini</a></titre>
 <date>25 avril 2024</date>
+<media> Acteurs Publics </media>
+
+<titre><a href="https://acteurspublics.fr/articles/la-suite-collaborative-numerique-de-letat-dans-les-starting-blocks" title="La suite collaborative numérique de l’État dans les starting-blocks - Lien externe">La suite collaborative numérique de l’État dans les starting-blocks</a></titre>
+<date>12 avril 2024</date>
+<media> Acteurs Publics </media>
 
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/vincent-coudrin-dinum-le-cloud-rend-soutenable-la-transformation-numerique.html" title="Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique » - Lien externe">Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique »</a></titre>
 <date>03 avril 2024</date>
