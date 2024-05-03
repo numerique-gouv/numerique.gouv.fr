@@ -15,7 +15,13 @@ layout: page-annexe
 <date>25 avril 2024</date>
 <media> Acteurs Publics </media>
 
+<titre><a href="https://www.solutions-numeriques.com/albert-une-ia-generative-de-genie-pour-les-use-cases-de-ladministration-francaise/" title="Albert, une IA générative de génie pour les « use cases » de l’administration française - Lien externe">Albert, une IA générative de génie pour les « use cases » de l’administration française</a></titre>
+<date>22 avril 2024</date>
+<media> Solutions Numériques </media>
 
+<titre><a href="https://acteurspublics.fr/articles/34-5-millions-deuros-depenses-dans-le-cloud-commercial-pour-le-secteur-public" title="34,5 millions d’euros dépensés dans le “cloud commercial” pour le secteur public - Lien externe">34,5 millions d’euros dépensés dans le “cloud commercial” pour le secteur public</a></titre>
+<date>17 avril 2024</date>
+<media> Acteurs Publics </media>
 
 <titre><a href="https://acteurspublics.fr/articles/letat-clarifie-ses-besoins-en-matiere-de-cloud-de-confiance" title="L’État clarifie ses besoins en matière de “cloud de confiance” - Lien externe">L’État clarifie ses besoins en matière de “cloud de confiance”</a></titre>
 <date>16 avril 2024</date>
