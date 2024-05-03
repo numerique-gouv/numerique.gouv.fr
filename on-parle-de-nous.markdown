@@ -11,6 +11,9 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/donnees-sociales-titre-de-transport-unique-stanislas-guerini" title="Données sociales – Titre de transport unique – Stanislas Guerini - Lien externe">Données sociales – Titre de transport unique – Stanislas Guerini</a></titre>
+<date>25 avril 2024</date>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/vincent-coudrin-dinum-le-cloud-rend-soutenable-la-transformation-numerique.html" title="Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique » - Lien externe">Vincent Coudrin (DINUM) : « le cloud rend soutenable la transformation numérique »</a></titre>
 <date>03 avril 2024</date>
 <media> Républik IT </media>
