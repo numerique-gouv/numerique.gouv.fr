@@ -12,4 +12,4 @@ une-ou-diaporama:
   alternative-textuelle: image décorative
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/hackathon-declaration-sociale-nominative-dsn/">Lire la suite</a></p></div>
