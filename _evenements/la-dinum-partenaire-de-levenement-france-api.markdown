@@ -31,11 +31,11 @@ Ils co-animeront en partenariat avec France Travail, le ministère de l'Éducati
 
 Parmi les offres particulièrement présentées :
 
-* L‘API FranceConnect qui permet à des administrations, des collectivités ou des entreprises d’ajouter le bouton FranceConnect assurant un moyen de connexion facilité et sécurisé aux usagers. Pour consulter la fiche de cette API : https://api.gouv.fr/les-api/franceconnect
+* L‘API FranceConnect qui permet à des administrations, des collectivités ou des entreprises d’ajouter le bouton FranceConnect assurant un moyen de connexion facilité et sécurisé aux usagers. Pour consulter la fiche de cette API : [https://api.gouv.fr/les-api/franceconnect](https://api.gouv.fr/les-api/franceconnect)
 
-* L’API Particulier qui offre la possibilité aux entités administratives de simplifier les démarches des particuliers en récupérant pour eux leurs informations administratives (quotient familial CAF, composition familiale, statut demandeur d’emploi, étudiant et étudiant boursier) déjà détenues par l’administration appliquant ainsi le principe « Dites-le-nous une fois ». Pour consulter la fiche de cette API : https://api.gouv.fr/les-api/api-particulier
+* L’API Particulier qui offre la possibilité aux entités administratives de simplifier les démarches des particuliers en récupérant pour eux leurs informations administratives (quotient familial CAF, composition familiale, statut demandeur d’emploi, étudiant et étudiant boursier) déjà détenues par l’administration appliquant ainsi le principe « Dites-le-nous une fois ». Pour consulter la fiche de cette API : [https://api.gouv.fr/les-api/api-particulier](https://api.gouv.fr/les-api/api-particulier)
 
-* MonComptePro qui permet à des administrations, des collectivités, des entreprises ou des organisations d’ajouter le bouton MonComptePro pour authentifier les professionnels de manière fiable et sécurisée leur permettant d’accéder ensuite à leurs services en ligne. Pour consulter la fiche de cette API : https://api.gouv.fr/les-api/moncomptepro
+* MonComptePro qui permet à des administrations, des collectivités, des entreprises ou des organisations d’ajouter le bouton MonComptePro pour authentifier les professionnels de manière fiable et sécurisée leur permettant d’accéder ensuite à leurs services en ligne. Pour consulter la fiche de cette API : [https://api.gouv.fr/les-api/moncomptepro](https://api.gouv.fr/les-api/moncomptepro)
 
 * Et bien plus encore…
 
