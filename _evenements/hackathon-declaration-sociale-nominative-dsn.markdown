@@ -60,4 +60,4 @@ Inscriptions closes
 
 [Nous contacter](https://grist.incubateur.net/o/docs/forms/2XpogivbmwTNw6uh4iDJUh/32)
 
-[2024_Hackathon-DSN_Mentions-informations.pdf](/uploads/2024_Hackathon-DSN_Mentions-informations.pdf)
+[Mentions d’informations concernant les données personnelles](/uploads/2024_Hackathon-DSN_Mentions-informations.pdf)
