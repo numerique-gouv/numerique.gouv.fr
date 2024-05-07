@@ -52,11 +52,10 @@ En présentiel (places limitées) à l’Espace Saint Martin (199bis rue Saint-M
 
 ### Comment s’inscrire ?
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn" class="button" title="S’inscrire  - Lien externe"><b>S’inscrire </b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/inscription-hackathon-dsn" class="button" title="Inscriptions closes  - Lien externe"><b>Inscriptions closes </b></a></div>
 
 Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
 
-Inscriptions closes
 
 [Nous contacter](https://grist.incubateur.net/o/docs/forms/2XpogivbmwTNw6uh4iDJUh/32)
 
