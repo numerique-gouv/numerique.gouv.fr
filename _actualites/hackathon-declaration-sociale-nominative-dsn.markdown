@@ -1,6 +1,11 @@
 ---
 title: Hackathon Déclaration Sociale Nominative (DSN)
-date: 2024-05-07 15:37:00 +02:00
+date: 2024-05-01 15:37:00 +02:00
+categories:
+- Événement
+tags:
+- Données publiques
+- hackathon
 chapeau-text: Le département Etalab de la direction interministérielle du numérique
   co-organise avec la Direction du numérique du ministère du Travail, de la Santé
   et des Solidarités, le GIP Modernisation des déclarations sociales ainsi que la
