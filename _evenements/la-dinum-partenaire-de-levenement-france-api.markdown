@@ -1,6 +1,6 @@
 ---
 title: La DINUM partenaire de l’événement France API
-date: 2024-06-11 15:42:00 +02:00
+date: 2024-03-26 15:42:00 +01:00
 categories:
 - Evénement
 tags:
@@ -27,6 +27,8 @@ Pour l’édition 2024, la direction interministérielle du numérique (DINUM) s
 L’équipe [api.gouv.fr](https://api.gouv.fr/) avec Vincent Mazalaigue, chef de pôle circulation de la données du département Opérateur de produits interministériels de la DINUM et Magali Bouvat, chargée des relations des partenaires [api.gouv.fr](https://api.gouv.fr/) du département Opérateur de produits interministériels de la DINUM seront présents lors de cet événement à travers le stand bronze, situé salle Ariane.
 
 Ils co-animeront en partenariat avec France Travail, le ministère de l'Éducation Nationale et de la Jeunesse et le GIP inclusion une table-ronde portant sur les différents travaux effectués, un état des lieux des différentes plateformes et le témoignage des agents investis dans le développement des APIs pour faciliter l'action publique.
+
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://franceapi.fr/index.php/agenda-2024/" class="button" title="Programme à venir  - Lien externe"><b>Programme à venir </b></a></div>
 
 Parmi les offres particulièrement présentées :
 
