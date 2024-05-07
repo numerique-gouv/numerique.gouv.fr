@@ -19,8 +19,8 @@ Ce travail a abouti à une **liste de services indispensables** au bon fonctionn
 
 Cette liste de besoins fonctionnels priorisés à développer par les fournisseurs de Cloud sera régulièrement mise à jour en fonction de l’évolution des besoins des projets informatiques des administrations et des retours d’expérience concrets des développeurs dans la manipulation des services et fonctionnalités disponibles.
 
-[Télécharger le document](/uploads/De%CC%81monstrateur_Besoins_Publication_20240410_ODS.ods)
+[Télécharger le document](/uploads/De%CC%81monstrateur_Besoins_Publication_20240410_ODS-698a38.ods)
 
-Date de mise à disposition : 10/04/2023
+Date de mise à disposition : 07/05/2024
 
 Cette expression de besoin a été publiée en lien avec l’appel à projets Renforcement de l’offre de services Cloud : [Consultez les informations relatives à cette page](https://www.numerique.gouv.fr/espace-presse/letat-publie-son-recueil-des-besoins-des-projets-informatiques-publics-en-matiere-de-cloud-de-confiance/)
