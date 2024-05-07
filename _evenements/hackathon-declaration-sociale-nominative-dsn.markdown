@@ -56,4 +56,8 @@ En présentiel (places limitées) à l’Espace Saint Martin (199bis rue Saint-M
 
 Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
 
+Inscriptions closes
+
 [Nous contacter](https://grist.incubateur.net/o/docs/forms/2XpogivbmwTNw6uh4iDJUh/32)
+
+[2024_Hackathon-DSN_Mentions-informations.pdf](/uploads/2024_Hackathon-DSN_Mentions-informations.pdf)
