@@ -27,4 +27,4 @@ Avec ses forts besoins en recrutement, qui ne vont cesser de croître, l’État
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" title="Consulter les offres d'emploi - Lien externe"><b>Consulter les offres d'emploi</b></a></div>
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-lÉtat-a-vivatechnology-2024/" class="button" title="Consulter le programme complet - Lien externe"><b>Consulter le programme complet</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/" class="button" title="Consulter le programme complet - Lien externe"><b>Consulter le programme complet</b></a></div>
