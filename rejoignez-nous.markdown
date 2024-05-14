@@ -128,18 +128,6 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>RH de la filière numérique de l'État</b></h1>
-<div class="wrapper">
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-a-la-cheffe-du-departement-rh-de-la-filiere-numerique-de-l-etat-hf-reference-2024-1525071/" title="Adjoint/e à la Cheffe du département RH de la Filière numérique de l'Etat H/F - Lien externe">Adjoint/e à la Cheffe du département RH de la Filière numérique de l'Etat H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-a-la-cheffe-du-departement-rh-de-la-filiere-numerique-de-l-etat-hf-reference-2024-1525071/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
    <div class="panel">
