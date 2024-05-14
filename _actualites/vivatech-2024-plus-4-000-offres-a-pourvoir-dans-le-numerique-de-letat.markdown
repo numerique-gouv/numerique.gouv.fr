@@ -2,7 +2,6 @@
 title: 'VivaTech 2024 : + 4 000 offres à pourvoir dans le numérique de l’État'
 date: 2024-05-14 12:08:00 +02:00
 categories:
-- Événement
 - Salon
 tags:
 - VivaTech
@@ -26,6 +25,6 @@ Avec ses forts besoins en recrutement, qui ne vont cesser de croître, l’État
 
 **Une zone de speed jobbing, sans RDV de 9h30 à 17h30**, dédiée au recrutement est prévue facilitant les entretiens entre professionnels de la tech porteur de projets - recruteur et candidat. 
 
-BOUTON Consulter les offres d’emploi sur https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" title="Consulter les offres d'emploi - Lien externe"><b>Consulter les offres d'emploi</b></a></div>
 
-BOUTON Consulter le programme complet : https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-lÉtat-a-vivatechnology-2024/
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-lÉtat-a-vivatechnology-2024/" class="button" title="Consulter le programme complet - Lien externe"><b>Consulter le programme complet</b></a></div>
