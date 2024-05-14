@@ -195,6 +195,9 @@ layout: page-annexe
 Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul notre site de Paris est accessible aux personnes à mobilité réduite. 
 </p></div><br>
 
+<div class="noir encadre"><h4>Plus de 4 000 offres à pourvoir dans le numérique public de l’État</h4> <p>Rendez-vous sur le site dédié <a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/"> choisirleservicepublic.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! 
+<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" alt="Accéder à choisirleservicepublic.gouv.fr - Lien externe"><b>Accéder à choisirleservicepublic.gouv.fr</b></a> </div></div>
+
 <!-- <h2 id="et-aussi-dans-dautres-administrations" style="margin-bottom: 0px">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h2>
 <p class="margin-bottom-1">Zoom sur quelques offres d'emploi clés dans le numérique public&nbsp;:</p> 
 <p><strong> Présidence de la République</strong></p>
