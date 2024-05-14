@@ -14,11 +14,11 @@ chapeau-text: Pour faire connaître ses grands chantiers et innovations numériq
   à Paris. Le rendez-vous est fixé au stand n°J59 pendant les 4 jours.
 ---
 
-Afin de réussir ses grands chantiers de transformation et garantir sa souveraineté, l’État recrute plus de 4 000 professionnels du numérique aux compétences et aux parcours variés (jeunes diplômés, salariés issus du secteur privé ou encore agents publics) à Paris et en région. 
+Afin de réussir ses grands chantiers de transformation et garantir sa souveraineté, **l’État recrute plus de 4 000 professionnels du numérique aux compétences et aux parcours variés (jeunes diplômés, salariés issus du secteur privé ou encore agents publics) à Paris et en région**. 
 
-Avec ses forts besoins en recrutement, qui ne vont cesser de croître, l’État doit être identifié comme un des employeurs phares du numérique et dédie, sur le stand, un espace dédié au recrutement, estampillé « #Choisirleservicepublic », pour qu’agents, notamment de la direction générale de l’administration de la fonction publique, et porteurs de projets puissent échanger avec les visiteurs au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. 
+Avec ses forts besoins en recrutement, qui ne vont cesser de croître, l’État doit être identifié comme un des employeurs phares du numérique et dédie, sur le stand, **un espace dédié au recrutement, estampillé « #Choisirleservicepublic »**, pour qu’agents, notamment de la direction générale de l’administration de la fonction publique, et porteurs de projets puissent échanger avec les visiteurs au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. 
 
-Une zone de speed jobbing, sans RDV de 9h30 à 17h30, dédiée au recrutement est prévue facilitant les entretiens entre professionnels de la tech porteur de projets - recruteur et candidat. 
+**Une zone de speed jobbing, sans RDV de 9h30 à 17h30**, dédiée au recrutement est prévue facilitant les entretiens entre professionnels de la tech porteur de projets - recruteur et candidat. 
 
 BOUTON Consulter les offres d’emploi sur https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/
 
