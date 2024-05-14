@@ -1,7 +1,6 @@
 ---
 title: 'VivaTech 2024 : + 4 000 offres à pourvoir dans le numérique de l’État'
 date: 2024-05-14 12:08:00 +02:00
-published: false
 categories:
 - Événement
 - Salon
@@ -12,6 +11,13 @@ chapeau-text: Pour faire connaître ses grands chantiers et innovations numériq
   Français sera massivement présent à VivaTech au travers un stand unique animé par
   14 administrations engagées dans sa transformation numérique, du 22 au 25 mai 2024
   à Paris. Le rendez-vous est fixé au stand n°J59 pendant les 4 jours.
+une-ou-diaporama:
+- image: "/uploads/ActuOffres.png"
+  alternative-textuelle: |-
+    VivaTechnology
+    22-25 Mai
+    Stand n°J59
+    Paris Expo Porte de Versailles
 ---
 
 Afin de réussir ses grands chantiers de transformation et garantir sa souveraineté, **l’État recrute plus de 4 000 professionnels du numérique aux compétences et aux parcours variés (jeunes diplômés, salariés issus du secteur privé ou encore agents publics) à Paris et en région**. 
