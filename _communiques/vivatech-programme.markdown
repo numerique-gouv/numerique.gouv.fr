@@ -60,9 +60,9 @@ La direction interministérielle du numérique (DINUM) a pour mission d’élabo
 * [La direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) à travers sa marque employeur « Choisir le service public »
 
 *En partenariat avec :*
-* [La direction numérique du ministère de l’Éducation nationale et de la Jeunesse](https://www.education.gouv.fr/) : https://www.education.gouv.fr/
-* [La direction du numérique du ministère de l’Europe et des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/) : https://www.diplomatie.gouv.fr/fr/
-* [L’institut national de l’information géographique et forestière](https://www.ign.fr/) (IGN) : https://www.ign.fr/
-* [L’autorité de régulation des communications électroniques, des postes et de la distribution de la presse](https://www.arcep.fr/) (ARCEP) : https://www.arcep.fr/
+* [La direction numérique du ministère de l’Éducation nationale et de la Jeunesse](https://www.education.gouv.fr/)
+* [La direction du numérique du ministère de l’Europe et des Affaires étrangères](https://www.diplomatie.gouv.fr/fr/) 
+* [L’institut national de l’information géographique et forestière](https://www.ign.fr/) (IGN)
+* [L’autorité de régulation des communications électroniques, des postes et de la distribution de la presse](https://www.arcep.fr/) (ARCEP)
 
 Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 22 au 25 mai 2024 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 800 exposants, 11 400 startups, plus de 174 pays et 150 000 visiteurs attendus. [En savoir plus sur VivaTechnology](https://vivatechnology.com/)
