@@ -3,6 +3,13 @@ title: 'Données sociales : l’État dévoile les résultats du hackathon des d
   la déclaration sociale nominative'
 date: 2024-05-16 11:09:00 +02:00
 published: false
+categories:
+- Communiqué de presse
+tags:
+- hackathon
+- Etalab
+- Startups d'Etat
+- Numérique
 chapeau-text: 'Données sociales : l’État dévoile les résultats du hackathon des données
   de la déclaration sociale nominative avec 16 cas d''usages à impact présentés dont
   3 lauréats visant la simplification et l''efficacité de l''action de l’État grâce
