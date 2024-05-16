@@ -6,6 +6,11 @@ date: 2024-05-16 17:36:00 +02:00
 categories:
 - Communiqué de presse
 tags:
+- Vivatech
+- Innovation
+- Numérique
+- Technologie
+- Evénement
 - Salon
 chapeau-text: Pour faire connaître ses grands chantiers et innovations numériques,
   présenter ses offres, et attirer et recruter des professionnels de la tech, l’État
