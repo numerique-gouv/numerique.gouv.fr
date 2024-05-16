@@ -49,15 +49,15 @@ Afin de réussir ses grands chantiers de transformation et garantir sa souverain
 
 La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service du Premier ministre, la DINUM intervient sous l’égide du ministre de la Transformation et de la Fonction publiques. En tant que cheffe de file du numérique de l’État, **elle a pour objectif de rendre l’État plus efficace, plus simple et plus souverain** et collabore à cet effet avec l’ensemble des directions numériques des ministères et ses partenaires, lors de VivaTechnology 2024, elle sera présente avec :
 
-* [La direction de la Transformation numérique du ministère de l’Intérieur et des Outre-mer](https://www.interieur.gouv.fr/ministere/secretariat-general/direction-de-la-transformation-numerique) : https://www.interieur.gouv.fr/ministere/secretariat-general/direction-de-la-transformation-numerique
-* [La direction numérique du ministère de la Justice](https://www.justice.gouv.fr/) : https://www.justice.gouv.fr/
-* [La direction numérique du ministère de la Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general) https://www.ecologie.gouv.fr/secretariat-general
-* La direction numérique des ministères du [Travail](https://travail.gouv.fr), de la [Santé](https://sante.gouv.fr)et des [Solidarités](https://solidarites.gouv.fr/) : https://travail.gouv.fr ; https://sante.gouv.fr ; https://solidarites.gouv.fr/
-* [La direction numérique du ministère du ministère de l’Agriculture et de la Souveraineté alimentaire](https://agriculture.gouv.fr/) : https://agriculture.gouv.fr/
-* [Les directions numériques du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/) : https://www.economie.gouv.fr/
-* [Le service d’information du Gouvernement](https://www.gouvernement.fr/organisation/service-d-information-du-gouvernement-sig) : https://www.gouvernement.fr/organisation/service-d-information-du-gouvernement-sig
-* [La direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr/) : https://www.modernisation.gouv.fr/
-* [La direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) à travers sa marque employeur « Choisir le service public » : https://www.fonction-publique.gouv.fr/la-dgafp
+* [La direction de la Transformation numérique du ministère de l’Intérieur et des Outre-mer](https://www.interieur.gouv.fr/ministere/secretariat-general/direction-de-la-transformation-numerique)
+* [La direction numérique du ministère de la Justice](https://www.justice.gouv.fr/)
+* [La direction numérique du ministère de la Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general) 
+* La direction numérique des ministères du [Travail](https://travail.gouv.fr), de la [Santé](https://sante.gouv.fr)et des [Solidarités](https://solidarites.gouv.fr/)
+* [La direction numérique du ministère du ministère de l’Agriculture et de la Souveraineté alimentaire](https://agriculture.gouv.fr/)
+* [Les directions numériques du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/)
+* [Le service d’information du Gouvernement](https://www.gouvernement.fr/organisation/service-d-information-du-gouvernement-sig)
+* [La direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr/)
+* [La direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) à travers sa marque employeur « Choisir le service public »
 
 *En partenariat avec :*
 * [La direction numérique du ministère de l’Éducation nationale et de la Jeunesse](https://www.education.gouv.fr/) : https://www.education.gouv.fr/
