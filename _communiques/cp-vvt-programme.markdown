@@ -17,6 +17,9 @@ chapeau-text: Pour faire connaître ses grands chantiers et innovations numériq
   de l’intérêt général. Le rendez-vous est fixé au stand n°J59 pendant les 4 jours.
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20VVT%202024%20-%20French.png"
+files:
+- file: "/uploads/CP_VIVATECHNOLOGY2024_PROGRAMME_PAVILLON_NUMERIQUE_ETAT_FRANCAIS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 ### L’État français massivement présent
