@@ -1,7 +1,7 @@
 ---
 title: 'Données sociales : l’État dévoile les résultats du hackathon des données de
   la déclaration sociale nominative'
-date: 2024-05-16 11:09:00 +02:00
+date: 2024-05-02 11:09:00 +02:00
 categories:
 - Communiqué de presse
 tags:
