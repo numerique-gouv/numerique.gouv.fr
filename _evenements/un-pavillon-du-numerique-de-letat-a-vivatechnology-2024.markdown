@@ -65,7 +65,24 @@ Seront présents, aux côtés de la direction interministérielle du numérique 
 
 * Un espace de pitchs et de conférences  animées pendant 4 jours, de 9h30 à 17h30 par plus de 100 agents publics de la tech et représentants de Startups d’État. 
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="lien à ajouter" class="button" title="Le programme de conférence sera publié prochainement - Lien externe"><b>Le programme de conférence sera publié prochainement</b></a></div>
+Découvrez notre programme ci-dessous : 
+
+### Mercredi 22 mai 2024
+
+* [**10h30**] AI - Stratégie IA de l'État et initiatives produits IA de l'État - Direction interministérielle de la transformation publique/ direction interministérielle du numérique / Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique / Ministère de l'Intérieur et des Outre-mer  
+* [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** **- Concevoir des services numériques agiles et à impact** - Ministère de la Justice / Ministère du Travail, de la Santé et des Solidarités / Ministère de l'Agriculture et de la Souveraineté Alimentaire
+* [**11h30**] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
+* [**12h**] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires, du ministère de l’Intérieur et des Outre-mer et de la Justice
+* [**12h30**] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires 
+* [**13h**] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/) et DINUM
+* [**13h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et la DINUM avec la présentation de [DossierFacile](https://www.dossierfacile.fr/) et [APiLos](https://beta.gouv.fr/startups/apilos.html)
+* [**14h**] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des ministères Sociaux avec la présentation du Numérique en détention (Ned)
+* [**14h30**] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la Justice et DINUM
+* [**15h**] ATTRACTIVITY / **Des programmes innovants pour attirer et fidéliser des professionnels de la tech** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+* [**15h30**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
+* [**16h**] BUILDING FUTURE SOCIETIES - **Design et accessibilité / conception de services numériques** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+* [**16h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique de la direction générale des douanes et droits indirects, des ministères Sociaux et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
+* [**17h**] CYBERSECURITY - **Réseaux et cybersécurité** - Cloud : stratégie cloud de l'État - DINUM
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" title="Consulter les offres d’emploi dans le numérique de l’État - Lien externe"><b>Consulter les offres d’emploi dans le numérique de l’État </b></a></div>
 
