@@ -8,8 +8,9 @@ categories:
 tags:
 - VivaTech
 - GouvTech
-- Innovation publique
-- job
+- Salon
+- Numérique
+- innovation
 chapeau-text: Pour faire connaître ses grands chantiers et innovations numériques,
   présenter ses offres, et attirer et recruter des professionnels de la tech, l’État
   français sera massivement présent à VivaTech à travers un stand unique animé par
@@ -20,6 +21,7 @@ chapeau-text: Pour faire connaître ses grands chantiers et innovations numériq
   de l’intérêt général. Le rendez-vous est fixé au stand n°J59 pendant les 4 jours.
 une-ou-diaporama:
 - image: "/uploads/Post-RS-VVT-2024-French-_3_.jpeg"
+  alternative-textuelle: Image décorative
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/vivatech-programme/">Lire la suite</a></p></div>
