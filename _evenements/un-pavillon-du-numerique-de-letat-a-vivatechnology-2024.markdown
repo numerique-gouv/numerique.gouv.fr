@@ -69,9 +69,9 @@ Découvrez notre programme ci-dessous :
 
 ### Mercredi 22 mai 2024
 
-* [**10h30**] AI - Stratégie IA de l'État et initiatives produits IA de l'État - Direction interministérielle de la transformation publique/ direction interministérielle du numérique / Ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique / Ministère de l'Intérieur et des Outre-mer  
-* [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** **- Concevoir des services numériques agiles et à impact** - Ministère de la Justice / Ministère du Travail, de la Santé et des Solidarités / Ministère de l'Agriculture et de la Souveraineté Alimentaire
-* [**11h30**] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
+* [**10h30**] AI - Stratégie IA de l'État et initiatives produits IA de l'État - Direction interministérielle de la transformation publique, direction interministérielle du numérique, directions du numérique du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique et du ministère de l'Intérieur et des Outre-mer  
+* [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** **- Concevoir des services numériques agiles et à impact** - Directions du numérique du ministère de la Justice, du ministère du Travail, de la Santé et des Solidarités et du ministère de l'Agriculture et de la Souveraineté Alimentaire
+* [**11h30**] INTERNET AND DEMOCRACY - **Open Data** - Administration proactive et circulation de la donnée - Directions du numérique du ministère de la Justice
 * [**12h**] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires, du ministère de l’Intérieur et des Outre-mer et de la Justice
 * [**12h30**] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires 
 * [**13h**] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/) et DINUM
