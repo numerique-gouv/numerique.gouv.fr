@@ -18,6 +18,8 @@ chapeau-text: Pour faire connaître ses grands chantiers et innovations numériq
   un programme attrayant afin de moderniser son image et d’embaucher des professionnels
   aux compétences et aux parcours variés, souhaitant placer leurs expertises au service
   de l’intérêt général. Le rendez-vous est fixé au stand n°J59 pendant les 4 jours.
+une-ou-diaporama:
+- image: "/uploads/Post-RS-VVT-2024-French-_3_.jpeg"
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/vivatech-programme/">Lire la suite</a></p></div>
