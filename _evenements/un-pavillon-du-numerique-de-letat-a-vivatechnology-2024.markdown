@@ -1,6 +1,7 @@
 ---
 title: Un Pavillon du numérique de l’État à VivaTechnology 2024
 date: 2024-02-02 17:18:00 +01:00
+published: false
 categories:
 - Salon
 tags:
@@ -105,7 +106,7 @@ Découvrez notre programme ci-dessous :
 * [**10h30**] AI - **Stratégie IA de l'État et initiatives produits IA de l'État** - Direction interministérielle du numérique, directions du numérique du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique et du ministère du Travail, de la Santé et des Solidarités 
 * [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** **- Concevoir des services numériques agiles et à impact** - Directions du numérique des ministères du Travail, de la Santé et des Solidarités, de la Justice, de l'Agriculture et de la Souveraineté Alimentaire et de la direction de la transformation du numérique du ministère de l'Intérieur et des Outre-mer
 * [**11h30**] INTERNET AND DEMOCRACY - **Identité numérique** - Direction interministérielle du numérique, direction de la transformation du numérique du ministère de l'Intérieur et des Outre-mer  et direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires
-* [**12h**] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Direction interministérielle de la transformation publique , direction interministérielle du numérique, direction de la transformation numérique du ministère de l'Intérieur et des Outre-mer, direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires
+* [**12h**] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Direction interministérielle du numérique, direction de la transformation numérique du ministère de l'Intérieur et des Outre-mer, direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires
 * [**12h30**] INTERNET AND DEMOCRACY - **Design et accessibilité** - Conception de services numériques - Direction interministérielle du numérique , Service d'information du Gouvernement, direction du numérique du ministère du Travail, de la Santé et des Solidarités
 * [**13h**] CREATORS' ECOONOMY - **Creator's economy** - Service d'information du Gouvernement
 * [**13h30**] BUILDING FUTURE SOCIETIES - **Dématérialisation/simplification** - Directions du numérique des ministères de la Justice, de l'Intérieur et des Outre-mer, de l'Agriculture et de la Souveraineté alimentaire, et de la Transition écologique et de la Cohésion des territoires
