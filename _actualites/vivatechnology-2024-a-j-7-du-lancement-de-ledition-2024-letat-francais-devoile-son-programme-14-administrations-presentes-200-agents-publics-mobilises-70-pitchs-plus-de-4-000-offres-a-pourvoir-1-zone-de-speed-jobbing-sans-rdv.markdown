@@ -3,6 +3,7 @@ title: 'VivaTechnology 2024 : à J-7 du lancement de l’édition 2024, l’Éta
   dévoile son programme : 14 administrations présentes, 200 agents publics mobilisés,
   70 pitchs, plus de 4 000 offres à pourvoir, 1 zone de speed jobbing sans rdv'
 date: 2024-05-17 09:35:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 tags:
