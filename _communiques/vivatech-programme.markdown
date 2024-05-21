@@ -45,7 +45,7 @@ Afin de réussir ses grands chantiers de transformation et garantir sa souverain
 
 [Consulter les offres d’emploi](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/"button" title="Venez consulter notre espace en ligne sur le site de VivaTech - Lien externe"><b>Venez consulter notre espace en ligne sur le site de VivaTech</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/"button" title="Consulter le programme - Lien externe"><b>Consulter le programme</b></a></div>
 
 La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service du Premier ministre, la DINUM intervient sous l’égide du ministre de la Transformation et de la Fonction publiques. En tant que cheffe de file du numérique de l’État, **elle a pour objectif de rendre l’État plus efficace, plus simple et plus souverain** et collabore à cet effet avec l’ensemble des directions numériques des ministères et ses partenaires, lors de VivaTechnology 2024, elle sera présente avec :
 
