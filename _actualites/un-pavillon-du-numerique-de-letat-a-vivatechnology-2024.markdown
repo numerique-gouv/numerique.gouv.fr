@@ -1,5 +1,5 @@
 ---
-title: Un Pavillon du numérique de l’État à VivaTechnology 2024
+title: 'Un pavillon numérique de l’État à VivaTechnology 2024 : programme complet'
 date: 2024-05-21 10:32:00 +02:00
 categories:
 - Salon
