@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 14 mai 2024
+date_de_modification: 21 mai 2024
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -98,30 +98,6 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Produits interministériels</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-back-end---tchap---suite-numerique-hf-reference-2024-1544379/" title="Architecte Technique Back End - Tchap - Suite numérique H/F - Lien externe">Architecte Technique Back End - Tchap - Suite numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-technique-back-end---tchap---suite-numerique-hf-reference-2024-1544379/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-architecte-technique-mobile---tchap---suite-numerique-hf-reference-2024-1544383/" title="Architecte Technique Mobile - Tchap - Suite numérique H/F - Lien externe">Architecte Technique Mobile - Tchap - Suite numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-architecte-technique-mobile---tchap---suite-numerique-hf-reference-2024-1544383/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1544512/" title="Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F - Lien externe">Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1544512/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
    <div class="panel">
@@ -135,12 +111,6 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2024-1454680/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-responsable-de-projet-logistique-et-cadre-de-vie-hf-reference-2024-1544448/" title="Responsable de Projet logistique et cadre de vie H/F - Lien externe">Responsable de Projet logistique et cadre de vie H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-responsable-de-projet-logistique-et-cadre-de-vie-hf-reference-2024-1544448/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
    <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-du-pole-ressources-humaines-et-experience-collaborateurs-hf-reference-2024-1551503/" title="Chef/fe du pôle Ressources Humaines et Expérience Collaborateurs H/F - Lien externe">Chef/fe du pôle Ressources Humaines et Expérience Collaborateurs H/F</a></b>
