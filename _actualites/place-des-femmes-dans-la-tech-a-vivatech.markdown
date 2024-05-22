@@ -18,4 +18,4 @@ une-ou-diaporama:
   alternative-textuelle: image décorative
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/place-des-femmes-dans-la-tech-a-vivatech/">Lire le communiqué de presse</a></p></div>

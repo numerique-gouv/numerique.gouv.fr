@@ -28,7 +28,7 @@ Et pourtant, 900 000 postes seront prochainement vacants dans les métiers du nu
 
 Aux côtés de la direction interministérielle du numérique (DINUM), les 14 administrations prenant part au pavillon numérique de l’État s’engagent pour mieux faire connaître les opportunités de carrière au sein de l’État et inciter celles et ceux qui le souhaitent à choisir le service public. Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, portera notamment ce message d’égalité entre les femmes et les hommes encourageant la féminisation des métiers du service public, en particulier sur ceux du numérique, demain, jeudi 23 mai 2024 sur le pavillon numérique de l’État.
 
-30 JEUNES FILLES MENTORÉES PAR 30 FEMMES DE LA TECH PUBLIQUE :
+### 30 JEUNES FILLES MENTORÉES PAR 30 FEMMES DE LA TECH PUBLIQUE
 
 Co-porté par VivaTech, les Intrépides de la Tech, We are the Future in Tech et NetExplo, le programme « 100 + 100 = Future in Tech – Mentoring » vise à faire se rencontrer 100 femmes du numérique aux parcours inspirants et aux métiers divers avec 100 jeunes filles de niveaux 4ème, 3ème et 2nde, issues en priorité de milieu d’éducation prioritaire. 
 
@@ -36,7 +36,7 @@ L’objectif : partager des parcours professionnels inspirants et les encourager
 
 L’État Français sera représenté par 30 femmes de la tech aux fonctions variées : cadre dirigeant de l’État dont la directrice interministérielle du numérique, data scientist, responsable des SI, inspectrice des finances publiques, ou encore magistrate et intrapreneuse de Startup d’État ou encore chargée d’adoption au cloud, provenant de 10 administrations différentes, ministères, services du Premier ministre ou encore une autorité administrative indépendante. Chaque femme accompagnera une jeune fille ce samedi 25 mai de 9h à 14h ; l’après-midi sera dédié à des activités organisées par VivaTech en partenariat avec E-mma et Latitudes.
 
-150 ÉTUDIANTS DE TOUTE LA FRANCE INVITÉS PAR L’ÉTAT SUR LE PAVILLON DU NUMÉRIQUE 
+### 150 ÉTUDIANTS DE TOUTE LA FRANCE INVITÉS PAR L’ÉTAT SUR LE PAVILLON DU NUMÉRIQUE 
 
 Dans la continuité de cette opération, l’État recevra 150 étudiants de toute la France dans le domaine du numérique sur son pavillon numérique grâce à un partenariat de la DINUM avec près de 30 écoles et universités proposant des formations numériques. 
 
