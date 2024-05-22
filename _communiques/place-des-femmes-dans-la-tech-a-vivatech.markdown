@@ -13,35 +13,50 @@ chapeau-text: 'Pour attirer et recruter des professionnels du numérique, l’É
   unique animé par 14 administrations et ce, jusqu’au samedi 25 mai 2024 à Paris.
   Ce samedi, journée dédiée au grand public, il concentrera son action sur la jeunesse
   et en particulier les jeunes femmes. '
+une-ou-diaporama:
+- image: "/uploads/Visuel%20cloud%20RS.jpg"
+  alternative-textuelle: image décorative
 files:
 - file: "/uploads/CP_VIVATECHNOLOGY2024_FOCUS_FEMMES_TECH_ET_ETUDIANTS.pdf"
-  nom: Télécharger le communiqué de presse
+  nom: Télécharger le communiqué
 ---
 
-Si les initiatives se déploient au sein de l’État, les chiffres restent encore alarmants : en Europe, pour 1 000 femmes diplômées, seules 24 ont suivi des études menant aux métiers du numérique, et 6 d’entre elles accéderont à un de ces métiers. Les hommes diplômés sont quatre fois plus nombreux, et huit fois plus à faire carrière [1]. En France, dans les métiers du numérique, les femmes sont représentées à 33%, et le fossé se creuse encore lorsqu’on parle des fonctions les plus techniques (souvent les plus critiques) : la proportion de femmes descend sous les 15% [2]. Au sein de la Fonction publique d’État, il y a 56% de femmes et 25% dans les effectifs du numérique public. 
+Si les initiatives se déploient au sein de l’État, les chiffres restent encore alarmants : en Europe, pour 1 000 femmes diplômées, seules 24 ont suivi des études menant aux métiers du numérique, et 6 d’entre elles accéderont à un de ces métiers. Les hommes diplômés sont quatre fois plus nombreux, et huit fois plus à faire carrière [1]. 
+
+En France, dans les métiers du numérique, les femmes sont représentées à 33%, et le fossé se creuse encore lorsqu’on parle des fonctions les plus techniques (souvent les plus critiques) : la proportion de femmes descend sous les 15% [2]. Au sein de la Fonction publique d’État, il y a 56% de femmes et 25% dans les effectifs du numérique public. 
 Et pourtant, 900 000 postes seront prochainement vacants dans les métiers du numérique (UE) [3], alors qu’il en manque 50 000 par an en France. Selon la fondation Simplon : en cause, les représentations sociales et les stéréotypes de genre qui pèsent sur l’orientation et l’auto-censure des femmes (syndrome de l’imposteur) qui engendrent des taux de décrochage des formations, de démission ou de réorientation dans les métiers numériques bien plus élevés chez les femmes.[4]
 
 Aux côtés de la direction interministérielle du numérique (DINUM), les 14 administrations prenant part au pavillon numérique de l’État s’engagent pour mieux faire connaître les opportunités de carrière au sein de l’État et inciter celles et ceux qui le souhaitent à choisir le service public. Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, portera notamment ce message d’égalité entre les femmes et les hommes encourageant la féminisation des métiers du service public, en particulier sur ceux du numérique, demain, jeudi 23 mai 2024 sur le pavillon numérique de l’État.
 
-30 JEUNES FILLES MENTORÉES PAR 30 FEMMES DE LA TECH PUBLIQUE :
-Co-porté par VivaTech, les Intrépides de la Tech, We are the Future in Tech et NetExplo, le programme « 100 + 100 = Future in Tech – Mentoring » vise à faire se rencontrer 100 femmes du numérique aux parcours inspirants et aux métiers divers avec 100 jeunes filles de niveaux 4ème, 3ème et 2nde, issues en priorité de milieu d’éducation prioritaire. L’objectif : partager des parcours professionnels inspirants et les encourager à s’intéresser au secteur de la tech afin de créer des vocations dès le plus jeune âge,  ceci contribuant à lutter contre la sous-représentation des femmes dans le monde du numérique.
+### 30 JEUNES FILLES MENTORÉES PAR 30 FEMMES DE LA TECH PUBLIQUE :
+
+Co-porté par VivaTech, les Intrépides de la Tech, We are the Future in Tech et NetExplo, le programme « 100 + 100 = Future in Tech – Mentoring » vise à faire se rencontrer 100 femmes du numérique aux parcours inspirants et aux métiers divers avec 100 jeunes filles de niveaux 4ème, 3ème et 2nde, issues en priorité de milieu d’éducation prioritaire. 
+
+L’objectif : partager des parcours professionnels inspirants et les encourager à s’intéresser au secteur de la tech afin de créer des vocations dès le plus jeune âge,  ceci contribuant à lutter contre la sous-représentation des femmes dans le monde du numérique.
 
 L’État Français sera représenté par 30 femmes de la tech aux fonctions variées : cadre dirigeant de l’État dont la directrice interministérielle du numérique, data scientist, responsable des SI, inspectrice des finances publiques, ou encore magistrate et intrapreneuse de Startup d’État ou encore chargée d’adoption au cloud, provenant de 10 administrations différentes, ministères, services du Premier ministre ou encore une autorité administrative indépendante. Chaque femme accompagnera une jeune fille ce samedi 25 mai de 9h à 14h ; l’après-midi sera dédié à des activités organisées par VivaTech en partenariat avec E-mma et Latitudes.
 
-150 ÉTUDIANTS DE TOUTE LA FRANCE INVITÉS PAR L’ÉTAT SUR LE PAVILLON DU NUMÉRIQUE 
-Dans la continuité de cette opération, l’État recevra 150 étudiants de toute la France dans le domaine du numérique sur son pavillon numérique grâce à un partenariat de la DINUM avec près de 30 écoles et universités proposant des formations numériques. Parmi elles : Campus Fonderie de l’Image, ECE PARIS, Ecole Polytechnique, EFREI Paris, EM LYON BUSINESS SCHOOL, ENSG-Géomatique, ENSIMAG, EPITA, ESIEA, IESEG, INSA Lyon, INSEEC, Mines Nancy, Polytech Paris-Saclay, Polytech Grenoble, mais également les Universités d’Avignon, de la Rochelle, de Paris 1 Panthéon Sorbonne, ou encore l’IUT Bordeaux Montaigne… L’objectif : faire connaître aux étudiants la stratégie numérique de l’État et les administrations engagées sur sa transformation numérique et informer sur la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. Les étudiants seront invités à échanger avec les agents publics mobilisés dont des stagiaires et apprentis, assister aux pitchs thématiques et plus généralement découvrir l’écosystème tech de VivaTech. 
+### 150 ÉTUDIANTS DE TOUTE LA FRANCE INVITÉS PAR L’ÉTAT SUR LE PAVILLON DU NUMÉRIQUE
+ 
+Dans la continuité de cette opération, l’État recevra 150 étudiants de toute la France dans le domaine du numérique sur son pavillon numérique grâce à un partenariat de la DINUM avec près de 30 écoles et universités proposant des formations numériques. Parmi elles : Campus Fonderie de l’Image, ECE PARIS, Ecole Polytechnique, EFREI Paris, EM LYON BUSINESS SCHOOL, ENSG-Géomatique, ENSIMAG, EPITA, ESIEA, IESEG, INSA Lyon, INSEEC, Mines Nancy, Polytech Paris-Saclay, Polytech Grenoble, mais également les Universités d’Avignon, de la Rochelle, de Paris 1 Panthéon Sorbonne, ou encore l’IUT Bordeaux Montaigne… 
+
+L’objectif : faire connaître aux étudiants la stratégie numérique de l’État et les administrations engagées sur sa transformation numérique et informer sur la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. Les étudiants seront invités à échanger avec les agents publics mobilisés dont des stagiaires et apprentis, assister aux pitchs thématiques et plus généralement découvrir l’écosystème tech de VivaTech. 
 
 Sur demande, des témoignages peuvent être transmis et des interviews peuvent être organisées le jour-J, sur le stand.
 
-Annexes :
+**Annexes :**
 
-Références : 
-[1] [https://ec.europa.eu/digital-single-market/en/european-network-women-digital](https://ec.europa.eu/digital-single-market/en/european-network-women-digital)
-[2] Etude Syntec numérique, 2017
-[3] Rapport des Ministères de l’Éducation, de l’Économie et du Travail, 2016
-[4] Découvrir d’autres chiffres clés via le plaidoyer de Simplon.co
+**Références :** 
 
-Liste des agentes du numérique public mentor (par ordre alphabétique) :
+*[1] [https://ec.europa.eu/digital-single-market/en/european-network-women-digital](https://ec.europa.eu/digital-single-market/en/european-network-women-digital)*
+
+*[2] Étude Syntec numérique, 2017*
+
+*[3] Rapport des Ministères de l’Éducation, de l’Économie et du Travail, 2016*
+
+*[4] Découvrir d’autres chiffres clés via le plaidoyer de Simplon.co*
+
+**Liste des agentes du numérique public mentor (par ordre alphabétique) :**
 * Myriam BELLAZOUG, responsable conformité et risques SSI des ministères sociaux, direction du numérique du ministère du Travail, de la Santé et des Solidarités
 * Élise BLANCHET, chargée MOA - direction des projets numériques, directions numériques du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique
 * Danielle BODO NGAH ISIC, cheffe de projet MOE RIO, direction de la transformation du ministère de l’Intérieur et des Outre-mer
@@ -75,7 +90,7 @@ En tant que cheffe de file du numérique de l’État, elle a pour objectif de r
 * [La direction de la Transformation Numérique du ministère de l’Intérieur et des Outre-mer](https://www.interieur.gouv.fr/ministere/secretariat-general/direction-de-la-transformation-numerique)
 * [La direction numérique du ministère de la Justice](https://www.justice.gouv.fr/)
 * [La direction numérique du ministère de la Transition écologique et de la Cohésion des territoires](https://www.ecologie.gouv.fr/secretariat-general)
-* La direction numérique des ministères Sociaux : https://travail.gouv.fr ; https://sante.gouv.fr ; https://solidarites.gouv.fr/
+* La direction numérique des ministères Sociaux : [https://travail.gouv.fr](https://travail.gouv.fr) ; [https://sante.gouv.fr](https://sante.gouv.fr) ; [https://solidarites.gouv.fr/](https://solidarites.gouv.fr/)
 * [La direction numérique du ministère du ministère de l’Agriculture et de la Souveraineté alimentaire](https://agriculture.gouv.fr/)
 * [Les directions numériques du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique](https://www.economie.gouv.fr/)
 * [Le service d’information du Gouvernement](https://www.info.gouv.fr/organisation/service-d-information-du-gouvernement-sig )
