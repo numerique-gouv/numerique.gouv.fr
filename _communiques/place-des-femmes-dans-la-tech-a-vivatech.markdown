@@ -3,7 +3,7 @@ title: 'Place des femmes dans la tech : à Vivatech, 30 agentes du numérique de
   pour mentorer 30 jeunes filles de niveaux 4ème, 3ème, 2nde afin faire connaître
   les opportunités de carrières au sein de l’état et sensibiliser les femmes aux métiers
   tech dès le plus jeune âge'
-date: 2024-05-22 10:45:00 +02:00
+date: 2024-05-20 10:45:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -13,12 +13,9 @@ chapeau-text: 'Pour attirer et recruter des professionnels du numérique, l’É
   unique animé par 14 administrations et ce, jusqu’au samedi 25 mai 2024 à Paris.
   Ce samedi, journée dédiée au grand public, il concentrera son action sur la jeunesse
   et en particulier les jeunes femmes. '
-une-ou-diaporama:
-- image: "/uploads/Visuel%20cloud%20RS.jpg"
-  alternative-textuelle: image décorative
 files:
 - file: "/uploads/CP_VIVATECHNOLOGY2024_FOCUS_FEMMES_TECH_ET_ETUDIANTS.pdf"
-  nom: Télécharger le communiqué
+  nom: Télécharger le communiqué de presse
 ---
 
 Si les initiatives se déploient au sein de l’État, les chiffres restent encore alarmants : en Europe, pour 1 000 femmes diplômées, seules 24 ont suivi des études menant aux métiers du numérique, et 6 d’entre elles accéderont à un de ces métiers. Les hommes diplômés sont quatre fois plus nombreux, et huit fois plus à faire carrière [1]. En France, dans les métiers du numérique, les femmes sont représentées à 33%, et le fossé se creuse encore lorsqu’on parle des fonctions les plus techniques (souvent les plus critiques) : la proportion de femmes descend sous les 15% [2]. Au sein de la Fonction publique d’État, il y a 56% de femmes et 25% dans les effectifs du numérique public. 
