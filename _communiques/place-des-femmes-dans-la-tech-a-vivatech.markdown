@@ -15,9 +15,10 @@ chapeau-text: 'Pour attirer et recruter des professionnels du numérique, l’É
   et en particulier les jeunes femmes. '
 une-ou-diaporama:
 - image: "/uploads/Visuel%20cloud%20RS.jpg"
+  alternative-textuelle: image décorative
 files:
 - file: "/uploads/CP_VIVATECHNOLOGY2024_FOCUS_FEMMES_TECH_ET_ETUDIANTS.pdf"
-  nom: Télécharger le communiqué de presse
+  nom: Télécharger le communiqué
 ---
 
 Si les initiatives se déploient au sein de l’État, les chiffres restent encore alarmants : en Europe, pour 1 000 femmes diplômées, seules 24 ont suivi des études menant aux métiers du numérique, et 6 d’entre elles accéderont à un de ces métiers. Les hommes diplômés sont quatre fois plus nombreux, et huit fois plus à faire carrière [1]. En France, dans les métiers du numérique, les femmes sont représentées à 33%, et le fossé se creuse encore lorsqu’on parle des fonctions les plus techniques (souvent les plus critiques) : la proportion de femmes descend sous les 15% [2]. Au sein de la Fonction publique d’État, il y a 56% de femmes et 25% dans les effectifs du numérique public. 
