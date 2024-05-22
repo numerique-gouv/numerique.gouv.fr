@@ -13,6 +13,8 @@ chapeau-text: 'Pour attirer et recruter des professionnels du numérique, l’É
   unique animé par 14 administrations et ce, jusqu’au samedi 25 mai 2024 à Paris.
   Ce samedi, journée dédiée au grand public, il concentrera son action sur la jeunesse
   et en particulier les jeunes femmes. '
+une-ou-diaporama:
+- image: "/uploads/Visuel%20cloud%20RS.jpg"
 files:
 - file: "/uploads/CP_VIVATECHNOLOGY2024_FOCUS_FEMMES_TECH_ET_ETUDIANTS.pdf"
   nom: Télécharger le communiqué de presse
