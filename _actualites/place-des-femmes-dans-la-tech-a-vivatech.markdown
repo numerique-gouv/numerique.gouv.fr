@@ -4,7 +4,6 @@ title: 'Place des femmes dans la tech : à Vivatech, 30 agentes du numérique de
   les opportunités de carrières au sein de l’état et sensibiliser les femmes aux métiers
   tech dès le plus jeune âge'
 date: 2024-05-20 10:56:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -14,4 +13,4 @@ une-ou-diaporama:
   alternative-textuelle: image décorative
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://preprod.numerique.gouv.fr/espace-presse/place-des-femmes-dans-la-tech-a-vivatech/">Lire le communiqué de presse</a></p></div>
