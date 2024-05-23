@@ -50,5 +50,7 @@ Début février 2024, la France et l’Allemagne signaient une déclaration d’
 
 Présente à VivaTech pendant les 3 journées dédiés aux professionnels, l’équipe présentera La Suite numérique à 14h sur la zone de pitch du pavillon numérique de l’État, stand n°J59. En complément, deux webinaires d’information réservés aux agents publics sont prévus le 13 juin 2024 et le 23 septembre 2024 : plus d’informations sur : [numerique.gouv.fr/agenda](https://www.numerique.gouv.fr/agenda/)
 
-« Pour construire un service public plus simple, plus efficace et plus souverain, les agents publics doivent pouvoir s’appuyer sur des outils numériques répondant à de hauts standards de qualité, collaboratifs, sécurisés et souverains. Je suis fier d’annoncer le lancement de La Suite numérique à VivaTech, sur le pavillon numérique de l’État et en présence de plus de 100 agents publics de l’écosystème numérique, des éditeurs et des partenaires européens. Travailler avec La Suite numérique, c’est contribuer à notre souveraineté numérique et j’invite tous les agents publics à s’en saisir dès aujourd’hui ! ».
-Stanislas Guerini, ministre de la Transformation et de la Fonction publiques
+> « Pour construire un service public plus simple, plus efficace et plus souverain, les agents publics doivent pouvoir s’appuyer sur des outils numériques répondant à de hauts standards de qualité, collaboratifs, sécurisés et souverains. Je suis fier d’annoncer le lancement de La Suite numérique à VivaTech, sur le pavillon numérique de l’État et en présence de plus de 100 agents publics de l’écosystème numérique, des éditeurs et des partenaires européens. Travailler avec La Suite numérique, c’est contribuer à notre souveraineté numérique et j’invite tous les agents publics à s’en saisir dès aujourd’hui ! » 
+<br>
+
+**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques.**
