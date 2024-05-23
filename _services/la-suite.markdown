@@ -12,7 +12,7 @@ chapeau-text: 'La DINUM met à disposition des agents publics, un bouquet d’ap
   numériques interministérielles souveraines, libres et ouvertes, basées sur des communs
   numériques afin de simplifier la gestion de travail en toute sécurité. '
 une:
-  image: "/uploads/logo%20DINUM-e73d37.png"
+  image: "/uploads/Web%20la%20Suite%20septembre.png"
 layout: rgaa
 ---
 
