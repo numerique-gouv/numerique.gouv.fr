@@ -3,7 +3,6 @@ title: L’État lance une suite numérique collaborative permettant aux agents 
   de disposer d’outils numériques souverains, sécurisés, encore plus performants et
   facilitant le travail collaboratif à distance
 date: 2024-05-23 11:20:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
