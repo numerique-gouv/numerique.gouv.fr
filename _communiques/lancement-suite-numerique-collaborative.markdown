@@ -3,6 +3,7 @@ title: L’État lance une suite numérique collaborative permettant aux agents 
   de disposer d’outils numériques souverains, sécurisés, encore plus performants et
   facilitant le travail collaboratif à distance
 date: 2024-05-23 11:20:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 tags:
@@ -26,7 +27,7 @@ Il s’agit de proposer aux usagers une offre complète comprenant : **l’authe
 Après le « sac à dos numérique de l’agent public » lancé en 2021, notamment accéléré pour répondre à la crise sanitaire, **la Suite numérique prend désormais le relais de ces premiers travaux**.
 
 Parmi les outils de La Suite numérique proposés, certains sont déjà existants tels que : 
-* [Tchap](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/): la messagerie instantanée de confiance du secteur public utilisée quotidiennement par 200 000 utilisateurs. Une extension de l’outil d’IA Albert est prévue sur Tchap prochainement, courant de l’été. 
+* [Tchap](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) : la messagerie instantanée de confiance du secteur public utilisée quotidiennement par 200 000 utilisateurs. Une extension de l’outil d’IA Albert est prévue sur Tchap prochainement, courant de l’été. 
 * [Audioconférence de l’État](https://www.numerique.gouv.fr/outils-agents/audioconference-etat/) comptant près de 8 000 usagers pour 700 réunions hebdomadaires (chiffre 2024 à mi-mai).
 * [Webconférence de l’État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) comptant 47 000 usagers pour 10 000 réunions hebdomadaires (chiffre 2024 à mi-mai).
 * [Webinaire de l'État](https://www.numerique.gouv.fr/outils-agents/webinaire-etat/) : le service de webinaire pouvant accueillir jusqu’à 350 participants, des agents publics et des interlocuteurs extérieurs à l’État (issus des secteurs publics, privés ou associatifs) a enregistré plus de 800 000 usagers pour 65 000 réunions hebdomadaires (chiffre 2024 à mi-mai).
