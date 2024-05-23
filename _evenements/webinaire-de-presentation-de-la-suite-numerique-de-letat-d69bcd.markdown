@@ -15,6 +15,11 @@ une-ou-diaporama:
     Webinaire d'information
     Lundi 23 septembre 2024
     14h, en ligne
+event_start_date: 2024-09-23 14:00:00 +02:00
+champs_informations:
+- intitule: En ligne
+  contenu: Inscription obligatoire
+  lien: https://grist.incubateur.net/o/docs/forms/nX3ePq1cALGNNEagNMdEDG/13
 ---
 
 La Suite numérique vise à fédérer tous les agents et professionnels de la sphère publique autour d’applications disponibles à la carte et **interconnectées**, pour **une gestion fluide et efficace** du travail quotidien.
