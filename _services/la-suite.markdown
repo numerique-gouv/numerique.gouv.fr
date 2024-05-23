@@ -33,9 +33,11 @@ La Suite numérique répond à des besoins essentiels de bureautique collaborati
 
 Initiative interministérielle, la Suite est le fruit de collaboration entre Ministères. 
 
-[En savoir plus et connaître les fonctionnalités](http://lasuite.numerique.gouv.fr/ )
+[En savoir plus et connaître les fonctionnalités]( )
 
-Lire le communiqué de presse
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="http://lasuite.numerique.gouv.fr/" class="button" title="En savoir plus et connaître les fonctionnalités  - Lien externe"><b>En savoir plus et connaître les fonctionnalités </b></a></div>
+
+[Lire le communiqué de presse](https://www.numerique.gouv.fr/espace-presse/lancement-suite-numerique-collaborative/)
 
 ### De premiers travaux entrepris pour La Suite numérique territoriale
 
