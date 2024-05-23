@@ -14,6 +14,8 @@ chapeau-text: 'Premier employeur de France, la fonction publique se doit de gara
   souverain, a conçu et déployé La Suite numérique visant à fédérer tous les agents
   et professionnels de la sphère publique autour de services disponibles à la carte
   et interconnectés, pour une gestion fluide et efficace du travail collaboratif quotidien. '
+une-ou-diaporama:
+- image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(2).png"
 files:
 - file: "/uploads/CP_L_ETAT_LANCE_UNE_SUITE_NUMERIQUE_SOUVERAINE.pdf"
   nom: Télécharger le communiqué de presse
