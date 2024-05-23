@@ -45,4 +45,4 @@ Au programme :
 Ayant convaincu plus de 600 000 utilisateurs, l’ambition de La Suite est de s’ouvrir à tous les agents publics, y compris au sein des collectivités territoriales et des opérateurs l’État.
 
 * [Utiliser La Suite numérique](https://lasuite.numerique.gouv.fr/)
-* Des webinaires de présentation sont régulièrement organisés, pour participer au prochain, le 13 juin à 14h : inscrivez-vous
+* Des webinaires de présentation sont régulièrement organisés, pour participer au prochain, le 13 juin à 14h : [inscrivez-vous](https://numerique.gouv.fr/agenda/webinaire-de-presentation-de-la-suite-numerique-de-letat/)
