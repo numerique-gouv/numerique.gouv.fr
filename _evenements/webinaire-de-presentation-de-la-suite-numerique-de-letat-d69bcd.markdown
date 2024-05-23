@@ -10,7 +10,8 @@ chapeau-text: |-
 
   Pour en savoir plus sur l’utilisation des produits de la Suite, participez au webinaire de présentation avec les équipes le jeudi 13 juin à 14h et le lundi 23 septembre à 14h, elles répondront à toutes vos questions portant sur l’utilisation de La Suite !
 une-ou-diaporama:
-- alternative-textuelle: |-
+- image: "/uploads/Web%20la%20Suite%20septembre.png"
+  alternative-textuelle: |-
     lasuite.numerique.gouv.fr
     Webinaire d'information
     Lundi 23 septembre 2024
