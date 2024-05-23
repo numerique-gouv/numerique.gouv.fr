@@ -14,6 +14,9 @@ chapeau-text: 'Premier employeur de France, la fonction publique se doit de gara
   souverain, a conçu et déployé La Suite numérique visant à fédérer tous les agents
   et professionnels de la sphère publique autour de services disponibles à la carte
   et interconnectés, pour une gestion fluide et efficace du travail collaboratif quotidien. '
+files:
+- file: "/uploads/CP_L_ETAT_LANCE_UNE_SUITE_NUMERIQUE_SOUVERAINE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, vient d’annoncer, à VivaTech, lors du salon européen de l’innovation technologique, le lancement de La Suite numérique au service de tous les agents publics qui sont invités à s’en emparer dès aujourd’hui.**
