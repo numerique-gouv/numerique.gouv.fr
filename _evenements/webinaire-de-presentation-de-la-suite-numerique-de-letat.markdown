@@ -9,7 +9,18 @@ chapeau-text: |-
   Agents publics, rejoignez la communauté de La Suite numérique pour apprendre à utiliser les applications à la carte et interconnectées qui permettent d’échanger avec vos collègues, tous les autres agents publics et tous vos interlocuteurs même externes à l’État, de manière simple et sécurisée.
 
   Pour en savoir plus sur l’utilisation des produits de la Suite, participez au webinaire de présentation avec les équipes le jeudi 13 juin à 14h et le lundi 23 septembre à 14h, elles répondront à toutes vos questions portant sur l’utilisation de La Suite !
+une-ou-diaporama:
+- image: "/uploads/Web%20la%20Suite%20juin.png"
+  alternative-textuelle: |-
+    lasuite.numerique.gouv.fr
+    Webinaire d'information
+    Jeudi 13 juin 2024
+    14h, en ligne
 event_start_date: 2024-06-13 14:00:00 +02:00
+champs_informations:
+- intitule: En ligne
+  contenu: Inscription obligatoire
+  lien: https://grist.incubateur.net/o/docs/forms/fJQW1odSzMWCJ7vef9QT7v/11
 ---
 
 La Suite numérique vise à fédérer tous les agents et professionnels de la sphère publique autour d’applications disponibles à la carte et **interconnectées**, pour **une gestion fluide et efficace** du travail quotidien.
