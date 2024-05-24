@@ -35,20 +35,17 @@ d’usagers utilisent ce service de l’État dont la confiance progresse de fa�
 confiance dans le numérique ; un chiffre au-dessus de la moyenne (41 %) des 8 dernières 
 années**. Cette confiance grimpe même, chez les 65 ans et plus, de 10 points en 1 an (47 % vs 
 37 % en 2022), alors même qu’elle s’effrite chez les 35-49 ans, pourtant familiers du digital (46 
-% vs 53 % en 2022). **Aussi, certains moyens mis en place par les acteurs du numérique 
-et l’État sont jugés globalement efficaces, c’est le cas de l’authentification forte, qui reste 
-l’outil de protection le plus apprécié (68 %) et de la même façon, l’usage des fournisseurs 
-d’identité numérique au travers de FranceConnect sont plébiscités : FranceConnect 
-progresse de 14 points** (79 % des répondants lui font confiance contre 65 % seulement en 
+% vs 53 % en 2022). 
+**Aussi, certains moyens mis en place par les acteurs du numérique et l’État sont jugés globalement efficaces, c’est le cas de l’authentification forte, qui reste 
+l’outil de protection le plus apprécié (68 %) et de la même façon, l’usage des fournisseurs  d’identité numérique au travers de FranceConnect sont plébiscités : FranceConnect progresse de 14 points** (79 % des répondants lui font confiance contre 65 % seulement en 
 2019, dont 86 % des 50 – 64 ans).
 
 Consulter les résultats de la 11ème édition du baromètre de la confiance des Français dans le 
 numérique en 2023 – édition 2024 : [https://www.acsel.eu/11ed-baro-confiance-resultats/](https://www.acsel.eu/11ed-baro-confiance-resultats/)
-Ce baromètre, mené par l’association de l’économie numérique (Acsel), mesure depuis plus 
-de 10 ans l’état de la confiance des Français dans les usages numériques notamment à 
-travers son baromètre annuel « confiance et numérique ». [https://www.acsel.eu](https://www.acsel.eu)
 
-**FranceConnect en bref** : [franceconnect.gouv.fr](https://franceconnect.gouv.fr/)
+Ce baromètre, mené par l’association de l’économie numérique (Acsel), mesure depuis plus de 10 ans l’état de la confiance des Français dans les usages numériques notamment à travers son baromètre annuel « confiance et numérique ». [https://www.acsel.eu (https://www.acsel.eu)
+
+**FranceConnect en bref**: [franceconnect.gouv.fr](https://franceconnect.gouv.fr/)
 * Lancement en 2016 ;
 * 43 millions d’usagers de FranceConnect et 79% des Français se disent avoir 
 confiance dans FranceConnect (baromètre de l’association de l’économie numérique 
@@ -56,7 +53,8 @@ confiance dans FranceConnect (baromètre de l’association de l’économie num
 * 320 millions de connexions annuelles ; 
 * 1800 services en ligne.
 
-**FranceConnect+ en bref **: [franceconnect.gouv.fr/france-connect-plus](http://franceconnect.gouv.fr/france-connect-plus)
+**FranceConnect+ en bref**: [franceconnect.gouv.fr/france-connect-plus](http://franceconnect.gouv.fr/france-connect-plus)
+
 **Pour sécuriser l’accès aux démarches les plus sensibles nécessitant une sécurité 
 accrue telles que l’ouverture d’un compte bancaire, la consultation de son dossier 
 médical ou de lettres recommandées électroniques, l’État a mis en place
