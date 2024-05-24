@@ -1,10 +1,17 @@
 ---
 title: La confiance des français progresse de 14 points en 5 ans
 date: 2024-05-24 11:08:00 +02:00
-published: false
-chapeau-text: 'La solution d''identification permettant à tous les français d''accéder
+categories:
+- Communiqué de presse
+tags:
+- FranceConnect
+- Identité numérique
+chapeau-text: La solution d'identification permettant à tous les français d'accéder
   à leurs démarches en ligne de manière simple et sécurisée est reconnue par les français
-  comme fiable à hauteur de 79 %. '
+  comme fiable à hauteur de 79 %.
+une-ou-diaporama:
+- image: "/uploads/FC_logo_2_CMJN.jpg"
+  alternative-textuelle: Image décorative
 files:
 - file: "/uploads/CP_FRANCECONNECT_PROGRESSE_CONFIANCE_FRANCAIS.pdf"
   nom: 'Télécharger le communiqué '
