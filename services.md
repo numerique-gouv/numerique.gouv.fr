@@ -60,6 +60,10 @@ publications:
   url: "/services/administration-proactive/"
   une-ou-diaporama:
   - image: "/uploads/Culture_Transfo_1600x860.png"
+- title: La Suite numérique
+  url: "/services/la-suite/"
+  une-ou-diaporama:
+  - image: "/uploads/marianne-applications.19d48254-4fdd8a.svg"
 layout: publications
 ---
 
