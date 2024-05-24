@@ -5,6 +5,9 @@ published: false
 chapeau-text: 'La solution d''identification permettant à tous les français d''accéder
   à leurs démarches en ligne de manière simple et sécurisée est reconnue par les français
   comme fiable à hauteur de 79 %. '
+files:
+- file: "/uploads/CP_FRANCECONNECT_PROGRESSE_CONFIANCE_FRANCAIS.pdf"
+  nom: 'Télécharger le communiqué '
 ---
 
 **À l’occasion de VivaTech où est réuni tout l’écosystème numérique y compris celui du 
