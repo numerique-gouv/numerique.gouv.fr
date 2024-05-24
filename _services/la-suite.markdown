@@ -12,7 +12,7 @@ chapeau-text: 'La DINUM met à disposition des agents publics, un bouquet d’ap
   numériques interministérielles souveraines, libres et ouvertes, basées sur des communs
   numériques afin de simplifier la gestion de travail en toute sécurité. '
 une:
-  image: "/uploads/Web%20la%20Suite%20septembre.png"
+  image: "/uploads/marianne-applications.19d48254.svg"
 layout: rgaa
 ---
 
@@ -32,8 +32,6 @@ La Suite numérique répond à des besoins essentiels de bureautique collaborati
 * Resana, la plateforme collaborative du secteur public comptant.
 
 Initiative interministérielle, la Suite est le fruit de collaboration entre Ministères. 
-
-[En savoir plus et connaître les fonctionnalités]( )
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="http://lasuite.numerique.gouv.fr/" class="button" title="En savoir plus et connaître les fonctionnalités  - Lien externe"><b>En savoir plus et connaître les fonctionnalités </b></a></div>
 
