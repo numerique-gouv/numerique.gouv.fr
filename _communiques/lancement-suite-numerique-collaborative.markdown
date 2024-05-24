@@ -16,8 +16,9 @@ chapeau-text: 'Premier employeur de France, la fonction publique se doit de gara
   et interconnectés, pour une gestion fluide et efficace du travail collaboratif quotidien. '
 une-ou-diaporama:
 - image: "/uploads/Copie%20de%20Visuel%20RS%2034-%201920x1080px%20(2).png"
+  alternative-textuelle: Image décorative
 files:
-- file: "/uploads/CP_L_ETAT_LANCE_UNE_SUITE_NUMERIQUE_SOUVERAINE.pdf"
+- file: "/uploads/CP_L_ETAT_LANCE_UNE_SUITE_NUMERIQUE_SOUVERAINE-2a880d.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
