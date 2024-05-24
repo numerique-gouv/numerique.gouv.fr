@@ -3,7 +3,7 @@ title: 'Place des femmes dans la tech : à Vivatech, 30 agentes du numérique de
   pour mentorer 30 jeunes filles de niveaux 4ème, 3ème, 2nde afin faire connaître
   les opportunités de carrières au sein de l’État et sensibiliser les femmes aux métiers
   tech dès le plus jeune âge'
-date: 2024-05-20 10:56:00 +02:00
+date: 2024-05-22 10:56:00 +02:00
 categories:
 - Communiqué de presse
 tags:

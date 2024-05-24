@@ -18,7 +18,7 @@ une-ou-diaporama:
   alternative-textuelle: image décorative
 files:
 - file: "/uploads/CP_VIVATECHNOLOGY2024_FOCUS_FEMMES_TECH_ET_ETUDIANTS.pdf"
-  nom: Télécharger le communiqué
+  nom: Télécharger le communiqué de presse
 ---
 
 Si les initiatives se déploient au sein de l’État, les chiffres restent encore alarmants : en Europe, pour 1 000 femmes diplômées, seules 24 ont suivi des études menant aux métiers du numérique, et 6 d’entre elles accéderont à un de ces métiers. Les hommes diplômés sont quatre fois plus nombreux, et huit fois plus à faire carrière [1]. 
