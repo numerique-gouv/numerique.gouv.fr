@@ -13,4 +13,4 @@ une-ou-diaporama:
 - image: "/uploads/FC_logo_2_CMJN.jpg"
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-confiance-des-francais-progresse-de-14-points-en-5-ans/">Consulter le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-confiance-des-francais-progresse-de-14-points-en-5-ans/">Lire le communiqué de presse</a></p></div>
