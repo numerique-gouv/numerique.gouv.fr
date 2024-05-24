@@ -1,6 +1,6 @@
 ---
 title: La confiance des français progresse de 14 points en 5 ans
-date: 2024-05-24 11:25:00 +02:00
+date: 2024-05-23 11:25:00 +02:00
 categories:
 - Communiqué de presse
 tags:
