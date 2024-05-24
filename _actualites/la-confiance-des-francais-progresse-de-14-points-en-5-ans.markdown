@@ -1,6 +1,6 @@
 ---
 title: La confiance des français progresse de 14 points en 5 ans
-date: 2024-05-23 11:25:00 +02:00
+date: 2024-05-24 11:25:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -11,6 +11,7 @@ chapeau-text: La solution d'identification permettant à tous les français d'ac
   comme fiable à hauteur de 79 %.
 une-ou-diaporama:
 - image: "/uploads/FC_logo_2_CMJN.jpg"
+  alternative-textuelle: image décorative
 ---
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-confiance-des-francais-progresse-de-14-points-en-5-ans/">Lire le communiqué de presse</a></p></div>
