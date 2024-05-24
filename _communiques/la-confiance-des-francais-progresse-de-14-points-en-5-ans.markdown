@@ -43,7 +43,7 @@ l’outil de protection le plus apprécié (68 %) et de la même façon, l’usa
 Consulter les résultats de la 11ème édition du baromètre de la confiance des Français dans le 
 numérique en 2023 – édition 2024 : [https://www.acsel.eu/11ed-baro-confiance-resultats/](https://www.acsel.eu/11ed-baro-confiance-resultats/)
 
-Ce baromètre, mené par l’association de l’économie numérique (Acsel), mesure depuis plus de 10 ans l’état de la confiance des Français dans les usages numériques notamment à travers son baromètre annuel « confiance et numérique ». [https://www.acsel.eu (https://www.acsel.eu)
+Ce baromètre, mené par l’association de l’économie numérique (Acsel), mesure depuis plus de 10 ans l’état de la confiance des Français dans les usages numériques notamment à travers son baromètre annuel « confiance et numérique ». [https://www.acsel.eu](https://www.acsel.eu)
 
 **FranceConnect en bref**: [franceconnect.gouv.fr](https://franceconnect.gouv.fr/)
 * Lancement en 2016 ;
