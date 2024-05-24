@@ -1,7 +1,6 @@
 ---
 title: La confiance des français progresse de 14 points en 5 ans
 date: 2024-05-23 11:25:00 +02:00
-published: false
 tags:
 - Identité numérique
 - FranceConnect
@@ -12,4 +11,4 @@ une-ou-diaporama:
 - image: "/uploads/FC_logo_2_CMJN.jpg"
 ---
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/agenda/un-pavillon-du-numerique-de-letat-a-vivatechnology-2024/">Consulter la page agenda</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/la-confiance-des-francais-progresse-de-14-points-en-5-ans/">Consulter le communiqué de presse</a></p></div>
