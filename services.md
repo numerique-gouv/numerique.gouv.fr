@@ -63,7 +63,7 @@ publications:
 - title: La Suite numérique
   url: "/services/la-suite/"
   une-ou-diaporama:
-  - image: "/uploads/marianne-applications.19d48254-4fdd8a.svg"
+  - image: "/uploads/Design%20sans%20titre.jpg"
 layout: publications
 ---
 
