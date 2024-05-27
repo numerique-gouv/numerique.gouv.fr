@@ -46,7 +46,7 @@ Afin de renforcer la cybersécurité des collectivités territoriales, la DINUM,
 
 L’ambition est de mettre à disposition des collectivités un ensemble de services numériques sécurisés, notamment nom de domaine, serveur mail et espace de stockage minimal. Les travaux ont été initiés au début de l’année 2024 et se poursuivront jusqu’à au moins fin 2025, l’objectif de cette phase de lancement étant de recueillir des retours d’expérience et ajuster l’offre selon les besoins et contraintes identifiés sur le terrain.
 
-**Les collectivités territoriales et partenaires locaux souhaitant participer aux développements de La Suite numérique territoriale sont invités à se rapprocher de l’ANCT**, animatrice d’un groupe pilote et d’ateliers ouverts organisés depuis mars 2024 : [suiteterritoriale@anct.gouv.fr](mailto:suiteterritoriale@anct.gouv.fr).
+**Les collectivités territoriales et partenaires locaux souhaitant participer aux développements de La Suite numérique territoriale sont invités à se rapprocher de l’ANCT**, animatrice d’un groupe pilote et d’ateliers ouverts organisés depuis mars 2024 : [suiteterritoriale@anct.gouv.fr](mailto:lasuiteterritoriale@anct.gouv.fr).
 
 ### Une ouverture vers les acteurs privés et européens
 
