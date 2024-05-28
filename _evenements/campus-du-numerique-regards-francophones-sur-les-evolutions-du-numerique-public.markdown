@@ -33,6 +33,12 @@ Cette journée de rencontre abordera des questions clés sur l’évolution du n
 * L'IA promesses et défis pour l'action publique
 * Focus sur l'encadrement de l'IA et l'usage dans les RH
 
+### Modalités de participation :
+
+* En présentiel (places limitées) à l'Institut National du Service Public (2 avenue de l’Observatoire, Paris 6ème). Déjeuner inclus
+* En distanciel avec transfert d'un lien
+
+
 ### Comment s’inscrire ?
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://admin.eventdrive.com/public/events/63608/website/registrationforms/189413/83432/" class="button" title="S'inscrire - Lien externe"><b>Inscriptions closes</b></a></div>
