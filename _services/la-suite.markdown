@@ -24,12 +24,12 @@ La Suite numérique répond à des besoins essentiels de bureautique collaborati
 
 ### Parmi les outils de La Suite numérique proposés, certains existants tels que :
 
-* Tchap : la messagerie instantanée de confiance du secteur public ;
-* Audioconférence de l’État ;
-* Webconférence de l’État ;
-* Webinaire de l’État ;
-* France transfert, la solution d’envoi de fichiers volumineux simple et sécurisée ;
-* Resana, la plateforme collaborative du secteur public comptant.
+* [Tchap](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) : la messagerie instantanée de confiance du secteur public ;
+* [Audioconférence de l’État](https://www.numerique.gouv.fr/outils-agents/audioconference-etat/) ;
+* [Webconférence de l’État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) ;
+* [Webinaire de l’État](https://www.numerique.gouv.fr/outils-agents/webinaire-etat/) ;
+* [France transfert](https://www.numerique.gouv.fr/outils-agents/france-transfert/) : la solution d’envoi de fichiers volumineux simple et sécurisée ;
+* [Resana](https://www.numerique.gouv.fr/outils-agents/resana/) : la plateforme collaborative du secteur public comptant.
 
 Initiative interministérielle, la Suite est le fruit de collaboration entre Ministères. 
 
