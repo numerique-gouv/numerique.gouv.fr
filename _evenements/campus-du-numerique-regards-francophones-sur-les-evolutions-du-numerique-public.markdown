@@ -2,6 +2,12 @@
 title: 'Campus du numérique : Regards francophones sur les évolutions du numérique
   public'
 date: 2024-05-28 10:26:00 +02:00
+categories:
+- Evénement
+tags:
+- Formation
+- Numérique
+- campus
 chapeau-text: 'Dans le cadre de la coopération franco-québécoise, la Direction interministérielle
   du numérique (DINUM), la Direction générale de l''administration et de la fonction
   publique (DGAFP) ainsi que l’Académie de la transformation numérique (ATN) de l’Université
