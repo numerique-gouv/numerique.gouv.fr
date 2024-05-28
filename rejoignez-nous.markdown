@@ -68,10 +68,10 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-pour-la-suite-numerique-bizdev-hf-reference-2024-1527867/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2024-1572945/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-adjoint-au-chef-de-pole-relation-usagers-et-agents-hf-reference-2024-1523400/" title="Adjoint/e au chef de pôle relation usagers et agents H/F - Lien externe">Adjoint/e au chef de pôle relation usagers et agents H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2024-1572945/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-adjoint-au-chef-de-pole-relation-usagers-et-agents-hf-reference-2024-1523400/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
