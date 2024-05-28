@@ -1,6 +1,11 @@
 ---
 title: Journée Numérique et Territoires
 date: 2024-05-28 15:48:00 +02:00
+categories:
+- Journée d'échanges
+tags:
+- TNT
+- Transformation numérique des territoires
 chapeau-text: 'La direction interministérielle du numérique (DINUM) et l''Agence nationale
   de la cohésion des territoires (ANCT) organise la 2ème édition "Journée Numérique
   & Territoires" le jeudi 20 juin 2024, dans les locaux de la DINUM. '
