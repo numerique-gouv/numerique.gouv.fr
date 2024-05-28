@@ -7,7 +7,7 @@ tags:
 - TNT
 - Transformation numérique des territoires
 chapeau-text: 'La direction interministérielle du numérique (DINUM) et l''Agence nationale
-  de la cohésion des territoires (ANCT) organise la 2ème édition "Journée Numérique
+  de la cohésion des territoires (ANCT) organisent la 2ème édition "Journée Numérique
   & Territoires" le jeudi 20 juin 2024, dans les locaux de la DINUM. '
 une-ou-diaporama:
 - image: "/uploads/image3-3jvdunhz.png"
