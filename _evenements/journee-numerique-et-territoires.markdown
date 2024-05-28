@@ -67,6 +67,6 @@ L’évènement est ouvert à tous les agents et élus des collectivités territ
 
 <div align="center"><p><a href="https://www.evenements-spm.fr/public/events/63299/website/registrationforms/single/82805" class="button">S'inscrire</a> <br>
 
-*Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.*
+*Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.
 
-*L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.*
+L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.*
