@@ -1,7 +1,6 @@
 ---
 title: Journée Numérique et Territoires
 date: 2024-05-28 15:48:00 +02:00
-published: false
 categories:
 - Journée d'échanges
 tags:
@@ -30,7 +29,7 @@ champs_informations:
   contenu: tnt.dinum@modernisation.gouv.fr
 ---
 
-Dans le cadre de leur pilotage conjoint du programme « Transformation numérique des territoires », la direction interministérielle du numérique (DINUM) et l'Agence nationale de la cohésion des territoires (ANCT) vous convie à la deuxième édition de la Journée Numérique & Territoires, le jeudi 20 juin 2024.
+Dans le cadre de leur pilotage conjoint du programme « Transformation numérique des territoires », la direction interministérielle du numérique (DINUM) et l'Agence nationale de la cohésion des territoires (ANCT) organisent la deuxième édition de la Journée Numérique & Territoires, le jeudi 20 juin 2024.
 
 Un peu plus d’un an après la première édition dédiée aux résultats du fonds « Transformation numérique des collectivités territoriales » du plan France Relance, qui avait rassemblé plus de 350 participants - agents publics, élus, représentants d’associations de collectivités, administrations centrales – le programme Transformation numérique des territoires (TNT) convie les acteurs de l’État et les collectivités territoriales à une journée d’échange et de mobilisation autour des grands enjeux de transformation numérique de l’action publique.
 
@@ -72,5 +71,4 @@ L’évènement est ouvert à tous les agents et élus des collectivités territ
 <div align="center"><p><a href="https://www.evenements-spm.fr/public/events/63299/website/registrationforms/single/82805" class="button">S'inscrire</a> <br>
 
 *Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.
-
 L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.*
