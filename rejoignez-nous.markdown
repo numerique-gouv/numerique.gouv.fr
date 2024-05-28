@@ -101,40 +101,10 @@ layout: page-annexe
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-budget-et-achats-hf-reference-2023-1304294/" title="Chargé/e de mission budget et achats H/F - Lien externe">Chargé/e de mission budget et achats H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-budget-et-achats-hf-reference-2023-1304294/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2024-1454680/" title="Gestionnaire financier H/F - Lien externe">Gestionnaire financier H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2024-1454680/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-du-pole-ressources-humaines-et-experience-collaborateurs-hf-reference-2024-1551503/" title="Chef/fe du pôle Ressources Humaines et Expérience Collaborateurs H/F - Lien externe">Chef/fe du pôle Ressources Humaines et Expérience Collaborateurs H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-du-pole-ressources-humaines-et-experience-collaborateurs-hf-reference-2024-1551503/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-du-pole-attractivite-hf-reference-2024-1551538/" title="Chef/fe du pôle Attractivité H/F - Lien externe">Chef/fe du pôle Attractivité H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-du-pole-attractivite-hf-reference-2024-1551538/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Assistant/e de direction PMO (Project Management Officer) H/F - Lien externe">Assistant/e de direction PMO (Project Management Officer) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
