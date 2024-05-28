@@ -2,7 +2,6 @@
 title: 'La Suite numérique : des outils numériques souverains, sécurisés, encore plus
   performants et facilitant le travail collaboratif à distance dédiés aux agents publics'
 date: 2024-05-22 15:59:00 +02:00
-published: false
 categories:
 - Service
 tags:
@@ -18,5 +17,6 @@ une:
 layout: rgaa
 ---
 
-Consulter lasuite.numerique.gouv.fr
-Consulter les outils existants 
+<div align="center"><p><a href="http://lasuite.numerique.gouv.fr/" class="button">Consulter lasuite.numerique.gouv.fr</a> <br>
+
+<div align="center"><p><a href="https://www.numerique.gouv.fr/outils-agents/" class="button">Consulter les outils existants</a> <br>
