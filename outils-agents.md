@@ -1,8 +1,12 @@
 ---
 title: Outils de travail collaboratif pour les agents
 permalink: "/outils-agents/"
-chapeau-text: Agents, découvrez les outils numériques mis à votre disposition par
-  la DINUM, en interministériel, pour faciliter le travail en équipe et à distance.
+chapeau-text: |-
+  Agents, découvrez les outils numériques mis à votre disposition par la DINUM, en interministériel, pour faciliter le travail en équipe et à distance.
+
+  <br>
+  <br>
+  <div align="center"><p><a href="http://lasuite.numerique.gouv.fr/" class="button">Consulter lasuite.numerique.gouv.fr</a> <br>
 une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
