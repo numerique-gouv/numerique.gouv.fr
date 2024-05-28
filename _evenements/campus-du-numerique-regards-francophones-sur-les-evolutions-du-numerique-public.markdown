@@ -9,6 +9,13 @@ chapeau-text: 'Dans le cadre de la coopération franco-québécoise, la Directio
   public, le 5 juin prochain à Paris. '
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20CAMPUS-ca94c2.png"
+event_start_date: 2024-06-05 08:30:00 +02:00
+lieu: Institut National du Service Public
+adresse: 2 avenue de l’Observatoire, Paris 6ème
+champs_informations:
+- intitule: Modalités
+  contenu: Inscription gratuite et obligatoire
+  Lien: https://admin.eventdrive.com/public/events/63608/website/registrationforms/189413/83432/
 ---
 
 Ce rendez-vous a pour objectif d’échanger et partager les expertises sur les grands enjeux humains, technologiques, éthiques et écologiques qu’imposent le déploiement et l’utilisation du numérique au sein de l’État. 
