@@ -8,10 +8,10 @@ tags:
 - Formation
 - Numérique
 - campus
-chapeau-text: 'Dans le cadre de la coopération franco-québécoise, la Direction interministérielle
-  du numérique (DINUM), la Direction générale de l''administration et de la fonction
-  publique (DGAFP) ainsi que l’Académie de la transformation numérique (ATN) de l’Université
-  Laval organisent les premiers Regards francophones sur les évolutions du numérique
+chapeau-text: 'Dans le cadre de la coopération franco-québécoise, la direction interministérielle
+  du numérique (DINUM), la direction générale de l''administration et de la fonction
+  publique (DGAFP) ainsi que l’académie de la transformation numérique (ATN) de l’université
+  Laval organisent les premiers regards francophones sur les évolutions du numérique
   public, le 5 juin prochain à Paris. '
 une-ou-diaporama:
 - image: "/uploads/Post%20RS%20CAMPUS-ca94c2.png"
