@@ -1,6 +1,7 @@
 ---
 title: Journée Numérique et Territoires
 date: 2024-05-28 15:48:00 +02:00
+published: false
 categories:
 - Journée d'échanges
 tags:
