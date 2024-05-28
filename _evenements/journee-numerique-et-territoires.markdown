@@ -20,6 +20,9 @@ champs_informations:
   contenu: Jeudi 20 juin 2024
 - intitule: 'Horaires '
   contenu: 9h - 18h30
+- intitule: Modalité
+  contenu: Inscription obligatoire
+  lien: https://www.evenements-spm.fr/public/events/63299/website/registrationforms/0/82805
 - intitule: Comment y aller
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 - intitule: Une question ?
