@@ -40,4 +40,3 @@ publications:
 layout: publications
 ---
 
-<div align="center"><p><a href="http://lasuite.numerique.gouv.fr/" class="button">Consulter lasuite.numerique.gouv.fr</a> <br>
