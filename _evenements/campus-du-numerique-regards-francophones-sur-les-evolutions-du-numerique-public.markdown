@@ -56,4 +56,4 @@ Cette journée de rencontre abordera des questions clés sur l’évolution du n
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://admin.eventdrive.com/public/events/63608/website/registrationforms/189413/83432/" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 
-Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.
+*Inscription ne vaut pas participation : une validation de votre participation vous sera adressée par mail dans les jours suivant la clôture des inscriptions.*
