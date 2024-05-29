@@ -13,7 +13,7 @@ chapeau-text: 'Dans le cadre de la coopération franco-québécoise, la directio
   Laval organisent les premiers regards francophones sur les évolutions du numérique
   public, le 5 juin prochain à Paris. '
 une-ou-diaporama:
-- image: "/uploads/Mod%C3%A8le%20page%20agenda%203.png"
+- image: "/uploads/Mod%C3%A8le%20page%20agenda%203%20(1).png"
 event_start_date: 2024-06-05 08:30:00 +02:00
 lieu: Institut National du Service Public
 adresse: 2 avenue de l’Observatoire, Paris 6ème
