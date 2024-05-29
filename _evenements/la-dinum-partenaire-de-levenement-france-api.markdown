@@ -21,7 +21,7 @@ champs_informations:
   lien: https://franceapi.fr/index.php/inscriptions/
 ---
 
-Pour l’édition 2024, la direction interministérielle du numérique (DINUM) sera partenaire de l’événement France API et viendra à cet effet présenter les différentes APIs développées par la DINUM contribuant à rendre l’Etat plus simple et plus simple dans son action.
+Pour l’édition 2024, la direction interministérielle du numérique (DINUM) sera partenaire de l’événement France API et viendra à cet effet présenter les différentes API du service public contribuant à rendre l’Etat plus simple et plus simple dans son action.
 
 L’équipe [api.gouv.fr](https://api.gouv.fr/) avec Vincent Mazalaigue, chef de pôle circulation de la données du département Opérateur de produits interministériels de la DINUM et Magali Bouvat, chargée des relations des partenaires [api.gouv.fr](https://api.gouv.fr/) du département Opérateur de produits interministériels de la DINUM seront présents lors de cet événement à travers le stand bronze, situé salle Ariane de l'Espace Charenton.
 
@@ -35,7 +35,11 @@ Parmi les offres particulièrement présentées :
 
 * L’API Particulier qui offre la possibilité aux entités administratives de simplifier les démarches des particuliers en récupérant pour eux leurs informations administratives (quotient familial CAF, composition familiale, statut demandeur d’emploi, étudiant et étudiant boursier) déjà détenues par l’administration appliquant ainsi le principe « Dites-le-nous une fois ». Pour consulter la fiche de cette API : [https://api.gouv.fr/les-api/api-particulier](https://api.gouv.fr/les-api/api-particulier)
 
+* L'API Entreprise, un bouquet d'API qui permet aux entités administratives d'accéder aux données et aux documents administratifs des entreprises et des associations (identité des entreprises et des associations, adresse, extrait Kbis, effectif, mandataires sociaux, attestations sociale et fiscale, données financières, carte professionnelle travaux publics, diverses certifications), afin de simplifier leurs démarches."
+
 * MonComptePro qui permet à des administrations, des collectivités, des entreprises ou des organisations d’ajouter le bouton MonComptePro pour authentifier les professionnels de manière fiable et sécurisée leur permettant d’accéder ensuite à leurs services en ligne. Pour consulter la fiche de cette API : [https://api.gouv.fr/les-api/moncomptepro](https://api.gouv.fr/les-api/moncomptepro)
+
+* Datapass, un outil d'habilitation juridique qui offre aux fournisseurs de données la possibilité d'accorder les droits d'accès à leurs API (dématérialisation des conventions, automatisation de la délivrance des jetons d'accès)
 
 * Et bien plus encore…
 
