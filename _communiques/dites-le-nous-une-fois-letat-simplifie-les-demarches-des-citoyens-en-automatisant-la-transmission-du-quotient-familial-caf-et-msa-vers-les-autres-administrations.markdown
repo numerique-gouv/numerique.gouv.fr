@@ -15,6 +15,8 @@ chapeau-text: Pour garantir des services publics plus simples, accessibles et ef
   l’utilisation de leurs données pour être averties ou bénéficier directement des
   aides auxquelles ils sont éligibles selon le principe du « Dites-le-nous une fois
   », ce dernier s’accélère au service des usagers.
+une-ou-diaporama:
+- image: "/uploads/guichet-dlnuf-hub.png"
 files:
 - file: "/uploads/CP_DLNUF_L_ETAT_AUTOMATISE_TRANSMISSION_QUOTIENT_FAMILIAL.pdf"
   nom: Télécharger le communiqué de presse
