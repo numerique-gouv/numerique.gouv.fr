@@ -1,16 +1,11 @@
 ---
 title: Journée Numérique et Territoires
 date: 2024-05-28 15:48:00 +02:00
-categories:
-- Journée d'échanges
-tags:
-- TNT
-- Transformation numérique des territoires
 chapeau-text: 'La direction interministérielle du numérique (DINUM) et l''Agence nationale
   de la cohésion des territoires (ANCT) organisent la 2ème édition "Journée Numérique
   & Territoires" le jeudi 20 juin 2024, dans les locaux de la DINUM. '
 une-ou-diaporama:
-- image: "/uploads/image3-3jvdunhz-fb1a72.png"
+- image: "/uploads/image3-3jvdunhz-73f0b8.png"
   alternative-textuelle: Image décorative
 event_start_date: 2024-06-20 00:00:00 +02:00
 lieu: Direction interministérielle du numérique
@@ -22,11 +17,8 @@ champs_informations:
   contenu: 9h - 18h30
 - intitule: Modalité
   contenu: Inscription obligatoire
-  lien: https://www.evenements-spm.fr/public/events/63299/website/registrationforms/0/82805
 - intitule: Comment y aller
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
-- intitule: Une question ?
-  contenu: tnt.dinum@modernisation.gouv.fr
 ---
 
 Dans le cadre de leur pilotage conjoint du programme « Transformation numérique des territoires », la direction interministérielle du numérique (DINUM) et l'Agence nationale de la cohésion des territoires (ANCT) organisent la deuxième édition de la Journée Numérique & Territoires, le jeudi 20 juin 2024.
@@ -70,5 +62,5 @@ L’évènement est ouvert à tous les agents et élus des collectivités territ
 
 <div align="center"><p><a href="https://www.evenements-spm.fr/public/events/63299/website/registrationforms/single/82805" class="button">S'inscrire</a> <br>
 
-*Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.
-L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.*
+Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.
+L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.
