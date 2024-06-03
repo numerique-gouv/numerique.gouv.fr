@@ -31,19 +31,63 @@ Cette journée de rencontre abordera des questions clés sur l’évolution du n
 
 ### Au programme : 
 
-**Conférence d’ouverture**
-* Impulser le changement dans le cadre des transitions numériques au sein des administrations
+<b>Conférence d’ouverture<b>
+<li>Impulser le changement dans le cadre des transitions numériques au sein des administrations</li>
+
+Avec :
+• *France* **Faustine BENTABERRY** Cheffe du département de la coopération, des partenariats et de la prospective (Direction générale de l'administration et de la fonction publique)
+• *France* **Joséphine HURSTEL** Responsable des Études (Conseil National du Numérique)
+• *Europe* **Carlos MORENO-RODRIGUEZ** Président de l'association représentative des employeurs EUPAE
 
 **Thématique de la gouvernance des données**
 * Renforcer la gouvernance par une gestion stratégique des données
 
+Avec :
+• *Québec* **Martin NOËL** Conseiller académique (Académie de la transformation numérique - Université Laval)
+• *Québec* **Stéphanie CARLE TAVERA** Directrice, Direction générale des données numériques et du gouvernement ouvert (Ministère de la Cybersécurité et du Numérique)
+• *France* **Marion LOUSTRIC** Directrice du programme administration proactive (Direction interministérielle du numérique)
+
 **Thématique de l’écoresponsabilité**
 * Limiter l’impact écologique du numérique
 
+Avec :
+• *France* **Mélanie RAPHAËL** Responsable de la Mission Interministérielle Numérique Ecoresponsable (MiNumEco) et Experte Numérique Ecoresponsable (Direction interministérielle du numérique)
+• *France* **Mathilde CHEVALIER** Acheteuse informatiques chez Direction des achats de l'État (DAE)
+• *Québec* **Géraldine ANGULO** Spécialiste en Numérique ; Responsable et chercheuse en matière de numérique responsable
+• *France* **Véronique BOUVELLE** Chef de projet Transition Ecologique Numérique (Direction Générale des Entreprises)
+• *France* **Thierry LOCHON** Directeur de programme numérique et écologie (Ministère de la Transition écologique)
+
 **Thématique de l’intelligence artificielle**
 * Démonstration IA pour le service public
+
+Avec :
+• *France* **Raphaël BEVENOT** - Chef adjoint du Datalab (Direction interministérielle du numérique)
+
 * L'IA promesses et défis pour l'action publique
+
+Avec :
+• *France* **Pierre-Etienne DEVINEAU** Lead Data Scientist (Direction interministérielle du numérique)
+• *France* **Erwan PAITEL** Rapporteur du Comité de l'intelligence artificielle générative
+• *Québec* **Lyse LANGLOIS** Professeure titulaire (Département des relations industrielles, Faculté des sciences sociales, Université Laval) et Directrice générale (OBVIA)
+• *France* **Raphaël-David LASSERI** Fondateur & Directeur général de Magic LEMP
+
 * Focus sur l'encadrement de l'IA et l'usage dans les RH
+
+Avec :
+• *France* **Mathilde ICARD** Cheffe de service du service de la synthèse statutaire, du développement des compétences et de la donnée (Direction générale de l'administration et de la fonction publique)
+• *France* **Fadila LETURCQ** Cheffe de pôle Campus du numérique public (DINUM)
+• *Québec* **Chantal GARCIA** Directrice principale, Centre québécois d’excellence numérique (Ministère de la Cybersécurité et du Numérique)
+• *OCDE* **Daniel GERSON** Head of the Public Employment and Management team (OECD - OCDE)
+
+**Intervention de clôture**
+* Mutualiser nos ressources et nos moyens : vers un Observatoire sur la transformation numérique
+
+Avec :
+• *France* **Mathilde ICARD** Cheffe de service du service de la synthèse statutaire, du développement des compétences et de la donnée (Direction générale de l'administration et de la fonction publique)
+• *Québec* **Eric DEMERS** Conseiller au développement Affaires et formation (Académie de la transformation numérique - Université Laval)
+• *France* **Fadila LETURCQ** Cheffe de pôle Campus du numérique public (DINUM)
+• *Québec* **Martin NOËL** Conseiller académique (Académie de la transformation numérique - Université Laval)
+• *Québec* **Sehl MELLOULI** Vice-recteur adjoint aux services à l’enseignement et à la formation tout au long de la vie Professeur titulaire (Département de systèmes d'information organisationnels de la Faculté des sciences de l’administration, Université Laval) et Directeur par intérim (Académie de la transformation numérique)
 
 ### Modalités de participation :
 
