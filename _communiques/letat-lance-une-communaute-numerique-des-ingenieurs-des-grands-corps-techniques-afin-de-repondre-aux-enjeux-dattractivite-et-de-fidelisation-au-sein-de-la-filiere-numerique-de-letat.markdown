@@ -38,7 +38,7 @@ Cette communauté constitue un véritable outil de développement des trajectoir
 **Les ingénieurs des grands corps techniques souhaitant rejoindre la communauté numérique seront invités à le faire dès aujourd’hui en envoyant un mail à  [communaute-numerique@modernisation.gouv.fr](mailto:communaute-numerique@modernisation.gouv.fr)**
 
 **À propos de la DINUM** : 
-La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
+<br>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
 [numerique.gouv.fr/dinum](https://www.numerique.gouv.fr/dinum/)
 
 **À propos de la DIESE** :  
