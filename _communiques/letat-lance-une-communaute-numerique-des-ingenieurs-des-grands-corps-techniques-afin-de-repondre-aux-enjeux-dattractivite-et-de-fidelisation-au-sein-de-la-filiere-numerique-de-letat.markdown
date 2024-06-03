@@ -12,6 +12,11 @@ chapeau-text: Le renforcement du pilotage et la valorisation des compétences so
   et garantir sa souveraineté, comme rappelé par le président de la République et
   le Premier ministre lors des rencontres des cadres dirigeants de l’État le 12 mars
   2024.
+une-ou-diaporama:
+- image: "/uploads/3-ea6479.png"
+files:
+- file: "/uploads/CP_L_ETAT_LANCE_COMMUNAUTE_NUMERIQUE_INGENIEURS_GRANDS_CORPS_TECHNIQUES.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Les corps techniques, deuxième pilier de l’encadrement supérieur de l’État, s’inscrivent résolument dans cette logique, notamment pour les compétences numériques. Le numérique est transverse pour l’ensemble des administrations et ses métiers sont en forte tension. Il est donc nécessaire de mieux armer techniquement la fonction publique dans ce domaine, comme rappelé dans le rapport « Les ressources humaines de l’État dans le numérique » de l’inspection générale des finances et du conseil général de l’économie de l’industrie, de l’énergie et des technologies.
