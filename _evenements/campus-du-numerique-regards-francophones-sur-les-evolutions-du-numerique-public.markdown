@@ -32,7 +32,7 @@ Cette journée de rencontre abordera des questions clés sur l’évolution du n
 ### Au programme : 
 
 <b>Conférence d’ouverture<b>
-<li>Impulser le changement dans le cadre des transitions numériques au sein des administrations</li>
+* Impulser le changement dans le cadre des transitions numériques au sein des administrations
 
 Avec :
 <br>• *France* **Faustine BENTABERRY** Cheffe du département de la coopération, des partenariats et de la prospective (Direction générale de l'administration et de la fonction publique)
