@@ -11,7 +11,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) et l''Agen
   de la cohésion des territoires (ANCT) organisent la 2ème édition "Journée Numérique
   & Territoires" le jeudi 20 juin 2024, dans les locaux de la DINUM. '
 une-ou-diaporama:
-- image: "/uploads/Logo_JNT_2024_HD.eps"
+- image: "/uploads/Logo_JNT_2024_HD_page-0001.jpg"
   alternative-textuelle: Image décorative
 event_start_date: 2024-06-20 00:00:00 +02:00
 lieu: Direction interministérielle du numérique
