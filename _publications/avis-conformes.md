@@ -95,6 +95,19 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Vise à mettre en place un système d’information unique harmonisant
+        la gestion des processus budgétaires, financiers et comptables des 6 Agences
+        de l’Eau. Les enjeux de ce programme sont majeurs, notamment compte tenu des
+        montants des recouvrements et reversements, de l’ordre de 2 Md€/an.
+      file: "/uploads/2023-CMR-29-MTECT-SIGF_AVIS_DINUM_VF.pdf"
+      titre: SIGF - LADE
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane)
+      titre: LIDAR HD
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+    date-annee: 2023
+  - avis:
     - description: Fusion des différentes procédures et décisions environnementales
         requises pour les installations classées au sein d’une unique autorisation
         environnementale
@@ -125,19 +138,6 @@ ministeres:
       file: "/uploads/projet_2020_art_3.pdf"
       titre: 'Calcul 2020 '
     date-annee: 2018
-  - avis:
-    - description: Vise à mettre en place un système d’information unique harmonisant
-        la gestion des processus budgétaires, financiers et comptables des 6 Agences
-        de l’Eau. Les enjeux de ce programme sont majeurs, notamment compte tenu des
-        montants des recouvrements et reversements, de l’ordre de 2 Md€/an.
-      file: "/uploads/2023-CMR-29-MTECT-SIGF_AVIS_DINUM_VF.pdf"
-      titre: SIGF - LADE
-    - description: Fédérer les principaux porteurs des initiatives de modélisation
-        tridimensionnelle du territoire, autour de la production et la diffusion d’un
-        référentiel sur l’ensemble du territoire (hors Guyane)
-      titre: LIDAR HD
-      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
-    date-annee: 2023
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
   titre: Ministère de la Transition Ecologique et des Collectivités Territoriales  -
     IGN
