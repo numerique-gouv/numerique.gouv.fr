@@ -184,12 +184,7 @@ ministeres:
   image: "/assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg"
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
-  - avis:
-    - description: Système d’Exploitation de la REStauration. Nouveau système d'information
-        de la filière Restauration et Loisir du Service du Commissariat des Armées.
-      file: "/uploads/2023-CMR-12-MINARM-SERES_AVIS_DINUM_VF.pdf"
-      titre: SERES
-    date-annee: 2023
+  - 
   - avis:
     - description: Système d’information des indemnités des militaires
       file: "/uploads/Source_solde_II_art3.pdf"
