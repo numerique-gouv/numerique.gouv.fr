@@ -29,6 +29,15 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: L’infrastructure SECOURIR, SErvice de COmmunications d’Urgence
+        Intelligent et Résilient, permet le routage intelligent des communications
+        et assure la distribution des alertes en tenant compte de la surcharge de
+        certains centres d’appels. Elle concoure à la  rénovation des communications
+        d’urgence des SIS qui s’appuie à date sur des technologies RTC.
+      file: "/uploads/2023-CMR-06-MIOM-SECOURIR_AVIS_DINUM_VF.pdf"
+      titre: SECOURIR
+    date-annee: 2023
+  - avis:
     - description: Transformation de la gestion des 130 000 agents de la gendarmerie
         pour les remettre au cœur des décisions RH par la montée en puissance des
         nouveaux outils technologiques
@@ -140,6 +149,14 @@ ministeres:
       file: "/uploads/PROJAE_Art_3.pdf"
       titre: PROJAE
     date-annee: 2018
+  - avis:
+    - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
+        de faciliter la gestion administrative de la détention pour les surveillants
+        pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
+        et de leurs proches.
+      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      titre: NED
+    date-annee: 
   image: "/assets/img/avis-conformes/ministeredelajustice_ok.jpg"
   titre: Ministère de la Justice
 - annees:
@@ -217,6 +234,12 @@ ministeres:
     Emploi et de l’Insertion '
 - annees:
   - avis:
+    - description: 'Unification du Recouvrement Fiscal : dans le cadre de l’unification
+        au sein de la DGFiP du recouvrement des taxes, la gestion et le recouvrement
+        des principales taxes gérées par la Direction générale des douanes et droits
+        indirects sont transférées à la Direction générale de finances publiques (DGFiP).'
+      file: "/uploads/2023-CMR-28-MEFSIN-URF_AVIS_DINUM_VF.pdf"
+      titre: URF
     - description: Le projet Telemac de la Direction générale des douanes et des droits
         indirects permettra de déployer des applications numériques à destination
         des 16 500 agents de terrain leur permettant, directement depuis leur smartphone,
