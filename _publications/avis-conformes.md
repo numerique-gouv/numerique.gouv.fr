@@ -143,21 +143,6 @@ ministeres:
     IGN
 - annees:
   - avis:
-    - description: Programme de dématérialisation des procédures pénales
-      file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
-      titre: Procédure Pénale Numérique  (PPN)
-    - description: Projet de système d’information dédié au développement de la peine
-        de Travail d’Intérêt Général (TIG) et le renforcement de l’insertion professionnelle
-        des personnes placées sous main de justice
-      file: "/uploads/ATIGIP360_art.3.pdf"
-      titre: 'ATIGIP360° '
-    date-annee: 2021
-  - avis:
-    - description: Système archivistique de la justice
-      file: "/uploads/PROJAE_Art_3.pdf"
-      titre: PROJAE
-    date-annee: 2018
-  - avis:
     - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
         de faciliter la gestion administrative de la détention pour les surveillants
         pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
@@ -172,6 +157,21 @@ ministeres:
       file: "/uploads/2023-CMR-14-MJ-ECRIS%20TCN_AVIS_DINUM_VF.pdf"
       titre: ECRIS TCN
     date-annee: 2023
+  - avis:
+    - description: Programme de dématérialisation des procédures pénales
+      file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
+      titre: Procédure Pénale Numérique  (PPN)
+    - description: Projet de système d’information dédié au développement de la peine
+        de Travail d’Intérêt Général (TIG) et le renforcement de l’insertion professionnelle
+        des personnes placées sous main de justice
+      file: "/uploads/ATIGIP360_art.3.pdf"
+      titre: 'ATIGIP360° '
+    date-annee: 2021
+  - avis:
+    - description: Système archivistique de la justice
+      file: "/uploads/PROJAE_Art_3.pdf"
+      titre: PROJAE
+    date-annee: 2018
   image: "/assets/img/avis-conformes/ministeredelajustice_ok.jpg"
   titre: Ministère de la Justice
 - annees:
