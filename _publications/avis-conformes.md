@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 13
-date_de_modification: 13 septembre 2022
+date_de_modification: 4 juin 2024
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -104,11 +104,6 @@ ministeres:
         le cadre de l’observatoire de l’artificialisation des sols (OCSGE)
       file: "/uploads/2022-OCSGE_MTECT_IGN.pdf"
       titre: 'OCSGE – Occupation et Usages de Sols '
-    - description: Fédérer les principaux porteurs des initiatives de modélisation
-        tridimensionnelle du territoire, autour de la production et la diffusion d’un
-        référentiel sur l’ensemble du territoire (hors Guyane)
-      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
-      titre: Lidar HD
     date-annee: 2022
   - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
@@ -130,6 +125,19 @@ ministeres:
       file: "/uploads/projet_2020_art_3.pdf"
       titre: 'Calcul 2020 '
     date-annee: 2018
+  - avis:
+    - description: Vise à mettre en place un système d’information unique harmonisant
+        la gestion des processus budgétaires, financiers et comptables des 6 Agences
+        de l’Eau. Les enjeux de ce programme sont majeurs, notamment compte tenu des
+        montants des recouvrements et reversements, de l’ordre de 2 Md€/an.
+      file: "/uploads/2023-CMR-29-MTECT-SIGF_AVIS_DINUM_VF.pdf"
+      titre: SIGF - LADE
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane)
+      titre: LIDAR HD
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+    date-annee: 2023
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
   titre: Ministère de la Transition Ecologique et des Collectivités Territoriales  -
     IGN
@@ -209,6 +217,17 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Vise la création d’un système national informatisé pour l'allocation
+        personnalisée d'autonomie. Simplifie les procédures, aide à obtenir des droits
+        et gère les prestations pour demandeurs et gestionnaires départementaux.
+      file: "/uploads/2023-SI_APA_MSS_CNSA-ee850a.pdf"
+      titre: SI APA
+    - description: Groupement d’applications qui gère la programmation, le décisionnel,
+        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
+      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      titre: Système d’information du Fonds Social Européen (SI FSE)
+    date-annee: 2023
+  - avis:
     - description: Facilitation de l'accès aux professionnels de santé tout en constituant
         un vecteur de désengorgement des urgences
       file: "/uploads/2022-SAS_MSS.pdf"
@@ -225,10 +244,6 @@ ministeres:
       file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
       titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
         médico-social (ROR)
-    - description: Groupement d’applications qui gère la programmation, le décisionnel,
-        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
-      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
-      titre: Système d’information du Fonds Social Européen (SI FSE)
     date-annee: 2021
   - avis:
     - description: Le Health Data Hub est une plateforme sécurisée pour des projets
