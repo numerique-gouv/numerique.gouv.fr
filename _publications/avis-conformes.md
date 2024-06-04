@@ -153,6 +153,12 @@ ministeres:
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
   - avis:
+    - description: Système d’Exploitation de la REStauration. Nouveau système d'information
+        de la filière Restauration et Loisir du Service du Commissariat des Armées.
+      file: "/uploads/2023-CMR-12-MINARM-SERES_AVIS_DINUM_VF.pdf"
+      titre: SERES
+    date-annee: 2023
+  - avis:
     - description: Système d’information des indemnités des militaires
       file: "/uploads/Source_solde_II_art3.pdf"
       titre: Source Solde II
@@ -211,6 +217,13 @@ ministeres:
     Emploi et de l’Insertion '
 - annees:
   - avis:
+    - description: Le projet Telemac de la Direction générale des douanes et des droits
+        indirects permettra de déployer des applications numériques à destination
+        des 16 500 agents de terrain leur permettant, directement depuis leur smartphone,
+        de consulter des documents, de renseigner des formulaires ou de rédiger des
+        procédures contentieuses.
+      file: "/uploads/2023-CMR-15-MEFSIN-TELEMAC_AVIS_DINUM_vF-f1453c.PDF"
+      titre: TELEMAC
     - description: Généralisation de la facturation électronique et de transmission
         des données de transaction à l’administration fiscale
       file: "/uploads/2023-FACTURATION%20ELECTRONIQUE_volet2_MEFSIN.pdf"
