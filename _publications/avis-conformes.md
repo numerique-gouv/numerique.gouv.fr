@@ -163,6 +163,14 @@ ministeres:
       titre: ECRIS TCN
     date-annee: 2023
   - avis:
+    - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
+        de faciliter la gestion administrative de la détention pour les surveillants
+        pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
+        et de leurs proches.
+      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      titre: NED
+    date-annee: 2022
+  - avis:
     - description: Programme de dématérialisation des procédures pénales
       file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
       titre: Procédure Pénale Numérique  (PPN)
@@ -177,14 +185,6 @@ ministeres:
       file: "/uploads/PROJAE_Art_3.pdf"
       titre: PROJAE
     date-annee: 2018
-  - avis:
-    - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
-        de faciliter la gestion administrative de la détention pour les surveillants
-        pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
-        et de leurs proches.
-      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
-      titre: NED
-    date-annee: 2022
   image: "/assets/img/avis-conformes/ministeredelajustice_ok.jpg"
   titre: Ministère de la Justice
 - annees:
