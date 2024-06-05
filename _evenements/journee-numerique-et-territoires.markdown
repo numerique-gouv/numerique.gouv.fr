@@ -60,7 +60,7 @@ De nombreuses présentations / démonstrations de produits et services numériqu
 *(en présentiel)*
 
 **Un forum :**
-Les équipes et experts de la DINUM, de l'ANCT, de la DITP, de l'ANSSI et d'autres directions ministérielles, seront à votre disposition pour vous rencontrer et échanger sur l'offre d'accompagnement existante pour appuyer la transformation numérique des territoires.
+Les équipes et experts de la DINUM, de l'ANCT, de l'ANSSI et d'autres directions ministérielles, seront à votre disposition pour vous rencontrer et échanger sur l'offre d'accompagnement existante pour appuyer la transformation numérique des territoires.
 
 **Des espaces de networking :**
 Une opportunité exceptionnelle de rencontres et de réseautage entre pairs.
