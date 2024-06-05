@@ -117,6 +117,11 @@ ministeres:
         le cadre de l’observatoire de l’artificialisation des sols (OCSGE)
       file: "/uploads/2022-OCSGE_MTECT_IGN.pdf"
       titre: 'OCSGE – Occupation et Usages de Sols '
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane)
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+      titre: LIDAR HD
     date-annee: 2022
   - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
@@ -147,7 +152,7 @@ ministeres:
         de faciliter la gestion administrative de la détention pour les surveillants
         pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
         et de leurs proches.
-      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      file: "/uploads/2023-NED_MJ.pdf"
       titre: NED
     - description: Le système ECRIS (European Criminal Information System) a initié
         il y a plus de 10 ans la mise en place d’outils d’interconnexion des casiers
@@ -172,6 +177,14 @@ ministeres:
       file: "/uploads/PROJAE_Art_3.pdf"
       titre: PROJAE
     date-annee: 2018
+  - avis:
+    - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
+        de faciliter la gestion administrative de la détention pour les surveillants
+        pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
+        et de leurs proches.
+      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      titre: NED
+    date-annee: 2022
   image: "/assets/img/avis-conformes/ministeredelajustice_ok.jpg"
   titre: Ministère de la Justice
 - annees:
