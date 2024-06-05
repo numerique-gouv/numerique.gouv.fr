@@ -117,6 +117,11 @@ ministeres:
         le cadre de l’observatoire de l’artificialisation des sols (OCSGE)
       file: "/uploads/2022-OCSGE_MTECT_IGN.pdf"
       titre: 'OCSGE – Occupation et Usages de Sols '
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane)
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+      titre: LIDAR HD
     date-annee: 2022
   - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
@@ -147,7 +152,7 @@ ministeres:
         de faciliter la gestion administrative de la détention pour les surveillants
         pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
         et de leurs proches.
-      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      file: "/uploads/2023-NED_MJ.pdf"
       titre: NED
     - description: Le système ECRIS (European Criminal Information System) a initié
         il y a plus de 10 ans la mise en place d’outils d’interconnexion des casiers
@@ -157,6 +162,14 @@ ministeres:
       file: "/uploads/2023-CMR-14-MJ-ECRIS%20TCN_AVIS_DINUM_VF.pdf"
       titre: ECRIS TCN
     date-annee: 2023
+  - avis:
+    - description: Ce programme a pour ambition, pour l’administration pénitentiaire,
+        de faciliter la gestion administrative de la détention pour les surveillants
+        pénitentiaires et à dématérialiser des procédures au bénéfice des détenus
+        et de leurs proches.
+      file: "/uploads/2022-CMR-028-AVIS_DINUM_MJ_NED_VF.pdf"
+      titre: NED
+    date-annee: 2022
   - avis:
     - description: Programme de dématérialisation des procédures pénales
       file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
@@ -219,7 +232,7 @@ ministeres:
       titre: SI APA
     - description: Groupement d’applications qui gère la programmation, le décisionnel,
         la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
-      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      file: "/uploads/2023-CMR-22-MT-FSE_AVIS_DINUM_VF.pdf"
       titre: Système d’information du Fonds Social Européen (SI FSE)
     date-annee: 2023
   - avis:
@@ -239,6 +252,10 @@ ministeres:
       file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
       titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
         médico-social (ROR)
+    - description: Groupement d’applications qui gère la programmation, le décisionnel,
+        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
+      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      titre: Système d’information du Fonds Social Européen (SI FSE)
     date-annee: 2021
   - avis:
     - description: Le Health Data Hub est une plateforme sécurisée pour des projets
