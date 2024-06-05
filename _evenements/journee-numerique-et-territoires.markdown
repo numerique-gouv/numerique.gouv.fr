@@ -23,6 +23,7 @@ champs_informations:
   contenu: 9h - 18h30
 - intitule: Modalité
   contenu: Inscription obligatoire
+  lien: https://www.evenements-spm.fr/public/events/63299/website/home/0/0/preview?signature=06e195b8a5ec3f1e000e0c086ee8880ea7f4ec359aaf762459910bad1b775e75
 - intitule: Comment y aller
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 ---
@@ -66,7 +67,7 @@ Une opportunité exceptionnelle de rencontres et de réseautage entre pairs.
 
 L’évènement est ouvert à tous les agents et élus des collectivités territoriales, structures de mutualisation, mais également aux administrations centrales, opérateurs, services déconcentrés, SGAR et chargés de transformation numérique.
 
-<div align="center"><p><a href="https://www.evenements-spm.fr/public/events/63299/website/registrationforms/single/82805" class="button">S'inscrire</a> <br>
+<div align="center"><p><a href="https://www.evenements-spm.fr/public/events/63299/website/home/0/0/preview?signature=06e195b8a5ec3f1e000e0c086ee8880ea7f4ec359aaf762459910bad1b775e75" class="button">S'inscrire</a> <br>
 
 Le nombre de places en présentiel étant limité, n'hésitez pas à vous inscrire au plus vite.
 L'accès au site ne sera possible que sur présentation d'un billet nominatif et d'une pièce d'identité en cours de validité.
