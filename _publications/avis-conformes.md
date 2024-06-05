@@ -232,7 +232,7 @@ ministeres:
       titre: SI APA
     - description: Groupement d’applications qui gère la programmation, le décisionnel,
         la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
-      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      file: "/uploads/2023-CMR-22-MT-FSE_AVIS_DINUM_VF.pdf"
       titre: Système d’information du Fonds Social Européen (SI FSE)
     date-annee: 2023
   - avis:
@@ -252,6 +252,10 @@ ministeres:
       file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
       titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
         médico-social (ROR)
+    - description: Groupement d’applications qui gère la programmation, le décisionnel,
+        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
+      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      titre: Système d’information du Fonds Social Européen (SI FSE)
     date-annee: 2021
   - avis:
     - description: Le Health Data Hub est une plateforme sécurisée pour des projets
