@@ -20,7 +20,7 @@ champs_informations:
 - intitule: 'Date '
   contenu: Jeudi 20 juin 2024
 - intitule: 'Horaires '
-  contenu: 9h - 18h30
+  contenu: 9h - 18h
 - intitule: Modalité
   contenu: Inscription obligatoire
   lien: https://www.evenements-spm.fr/public/events/63299/website/home/0/0/preview?signature=06e195b8a5ec3f1e000e0c086ee8880ea7f4ec359aaf762459910bad1b775e75
