@@ -8,7 +8,7 @@ titre-twitter: En direct de Twitter
 twitters:
 - address: Numerique_Gouv
   nbTweets: 1
-- address: betagouv
+- address: datagouvfr
   nbTweets: 1
 - address: etalab
   nbTweets: 1
