@@ -9,16 +9,16 @@ tags:
 - TNT
 chapeau-text: 'La direction interministérielle du numérique (DINUM) et l''Agence nationale
   de la cohésion des territoires (ANCT) organisent la 2ème édition "Journée Numérique
-  & Territoires" le jeudi 20 juin 2024, dans les locaux de la DINUM. '
+  & Territoires" le jeudi 3 octobre 2024, dans les locaux de la DINUM. '
 une-ou-diaporama:
 - image: "/uploads/Logo_JNT_2024_HD_page-0001.jpg"
   alternative-textuelle: Image décorative
-event_start_date: 2024-06-20 00:00:00 +02:00
+event_start_date: 2024-10-03 00:00:00 +02:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
 champs_informations:
 - intitule: 'Date '
-  contenu: Jeudi 20 juin 2024
+  contenu: Jeudi 3 octobre 2024
 - intitule: 'Horaires '
   contenu: 9h - 18h
 - intitule: Modalité
@@ -28,7 +28,7 @@ champs_informations:
   contenu: 'Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier '
 ---
 
-Dans le cadre de leur pilotage conjoint du programme « Transformation numérique des territoires », la direction interministérielle du numérique (DINUM) et l'Agence nationale de la cohésion des territoires (ANCT) organisent la deuxième édition de la Journée Numérique & Territoires, le jeudi 20 juin 2024.
+Dans le cadre de leur pilotage conjoint du programme « Transformation numérique des territoires », la direction interministérielle du numérique (DINUM) et l'Agence nationale de la cohésion des territoires (ANCT) organisent la deuxième édition de la Journée Numérique & Territoires, le jeudi 3 octobre 2024.
 
 Un peu plus d’un an après la première édition dédiée aux résultats du fonds « Transformation numérique des collectivités territoriales » du plan France Relance, qui avait rassemblé plus de 350 participants - agents publics, élus, représentants d’associations de collectivités, administrations centrales – le programme Transformation numérique des territoires (TNT) convie les acteurs de l’État et les collectivités territoriales à une journée d’échange et de mobilisation autour des grands enjeux de transformation numérique de l’action publique.
 
