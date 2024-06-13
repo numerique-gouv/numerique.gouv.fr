@@ -1,6 +1,7 @@
 ---
 title: Osmose, plateforme des communautés professionnelles de l’État
 date: 2020-04-03 06:46:00 +02:00
+published: false
 tags:
 - Osmose
 - ETNA
