@@ -31,10 +31,6 @@ publications:
   url: "/outils-agents/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
-- title: Osmose, plateforme des communautés professionnelles de l’État
-  url: "/outils-agents/osmose/"
-  une-ou-diaporama:
-  - image: "/uploads/20200331_produit_service_Osmose.png"
 - title: Resana, plateforme collaborative pour vos groupes de travail
   url: "/outils-agents/resana/"
   une-ou-diaporama:
