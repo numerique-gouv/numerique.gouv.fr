@@ -19,6 +19,6 @@ layout: rgaa
 
 <div align="center"><p><a href="http://lasuite.numerique.gouv.fr/" class="button">Consulter lasuite.numerique.gouv.fr</a> <br>
 
-<div align="center"><p><a href="https://lasuite.numerique.gouv.fr/communs" class="button">Consulter les Fonds Communs Numériques</a> <br>
+<div align="center"><p><a href="https://lasuite.numerique.gouv.fr/communs" class="button">Consulter le Fonds Communs Numériques</a> <br>
 
 <div align="center"><p><a href="https://www.numerique.gouv.fr/outils-agents/" class="button">Consulter les outils existants</a> <br>
