@@ -11,7 +11,6 @@ chapeau-text: La mutualisation interministérielle de composants et services au 
 une:
   image: "/uploads/principes-mutualisation-si_fille.jpg"
   alternative-textuel: 
-file: "/uploads/Principes-mutualisation-si.pdf"
 list-items:
 - order: 1
   title: 1 · Le choix des SI à mutualiser se fait en fonction des **gains financiers**
