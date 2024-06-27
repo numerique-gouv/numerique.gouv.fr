@@ -20,22 +20,25 @@ une-ou-diaporama:
 En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
 <br>
-<div class=><p><a href=>1. Les systèmes d’information santé </a></p></div>
-<br>
+<div class="lien-important"><p><a href="https://esante.gouv.fr/lagence">Les systèmes d'information en santé</a></p></div>
 
 Pour accélérer la transformation numérique du système de santé, l’Agence Numérique en Santé (ANS) met en œuvre la construction et le déploiement de systèmes nationaux :
 
--* Le SI-SAMU : permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de **30 millions d’appels par an** ;
+* Le SI-SAMU : permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de **30 millions d’appels par an** ;
 
--* Le SI-VIC : pour le suivi des victimes d’attentats et  de situations sanitaires exceptionnelles. Plus de **700 000 dossiers créés** dans le cadre du suivi de l’épidémie Covid-19 ;
+* Le SI-VIC : pour le suivi des victimes d’attentats et  de situations sanitaires exceptionnelles. Plus de **700 000 dossiers créés** dans le cadre du suivi de l’épidémie Covid-19 ;
 
--* Le SICAP : système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an.
+* Le SICAP : système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an.
 
 #### Assurer la sécurité des données
 
 *"L’hébergement de ces systèmes d’information sur des **solutions de confiance qualifiées SecNumCloud et HDS** permet d’assurer un **haut de niveau de sécurité** sur les données recueillies. Les technologies cloud apportent **élasticité et scalabilité** permettant de prendre en charge une forte variabilité et un grand volume de demandes et de données. Le cloud facilite également la **transférabilité** lors des changements de marché de TMA/infogérance en conservant l’applicatif sur le même hébergeur cloud."*
 
-### Anticiper les besoins et prévoir les évolutions
+#### Anticiper les besoins et prévoir les évolutions
 
 *"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."*
 
+Témoignage de l'Agence Numérique en Santé
+
+<br>
+<div class="lien-important"><p><a href="https://esante.gouv.fr/lagence">Les systèmes d'information en santé</a></p></div>
