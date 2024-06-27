@@ -19,9 +19,10 @@ chapeau-text: "La migration vers le cloud de l’État est un moyen de produire 
 ---
 
 Dans le cadre ??? la DINUM a posé 3 questions à :
+Les témoignages des porteurs de projets cloud
 
 <br>
-<div class=><p><a href=>Les systèmes d’information santé </a></p></div>
+<div class=><p><a href=>1. Les systèmes d’information santé </a></p></div>
 <br>
 
 Pour accélérer la transformation numérique du système de santé, l’Agence Numérique en Santé (ANS) met en œuvre la construction et le déploiement de systèmes nationaux :
