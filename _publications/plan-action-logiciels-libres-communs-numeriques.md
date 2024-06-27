@@ -45,7 +45,7 @@ Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les c
 <p style="margin-top: 0px;"></p>
 <ol>
   <li>
-    <p><b>Référencer des solutions libres et open source</b> (Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur  <a href="https://communs.societenumerique.gouv.fr/" title="Communs numériques - Lien externe"></a>).</p>
+    <p><b>Référencer des solutions libres et open source</b>.</p>
   </li>
   <li>
     <p><b>Référencer les logiciels libres et les communs numériques</b> significativement utilisés dans l’administration et y développer l’échange d’expertise interne (dans le <a href="https://sill.etalab.gouv.fr">socle interministériel de logiciels libres - SILL</a>), en incluant ces actions&nbsp;:</p>
@@ -92,4 +92,4 @@ Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les c
 <br>
 <br>
 
-<div class="lien-important"><p><a href="https://communs.numerique.gouv.fr" alt="Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr - Lien externe">Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr</a></p></div>
+<div class="lien-important"><p><a href="https://code.gouv.fr/fr/" alt="Plus d'infos sur - Lien externe">Plus d'infos sur https://code.gouv.fr/fr/</a></p></div>
