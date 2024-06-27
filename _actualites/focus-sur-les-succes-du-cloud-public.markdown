@@ -49,7 +49,7 @@ Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés 
 
 #### Renforcer sa capacité d’innovation et améliorer la gestion des services 
 
-*"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur internet. D’où la nécessité de disposer d’une infrastructure disponible, **performante et capable de s’adapter** à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa **capacité d’innover**, d’améliorer la gestion de ses services numériques notamment en termes de **résilience **et de répondre plus efficacement aux **besoins du public**."*
+*"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur internet. D’où la nécessité de disposer d’une infrastructure disponible, **performante et capable de s’adapter** à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa **capacité d’innover**, d’améliorer la gestion de ses services numériques notamment en termes de **résilience** et de répondre plus efficacement aux **besoins du public**."*
 
 #### Déployer des applications évolutives
 
