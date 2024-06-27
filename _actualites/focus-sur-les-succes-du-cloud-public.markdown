@@ -17,9 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-En tant qu'outil concret au service des Français, le cloud de l’État
-
-Certains services ont fait leur apparition dans le quotidien des français mais leur réalisation reste méconnu du grand public. La DINUM a décidé de mettre en lumière les dessous du cloud avec les témoignages à succès d'une quinzaine d'entité ayant mis en place des projets avec le cloud de l’État. 
+En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
 <br>
 <div class=><p><a href=>1. Les systèmes d’information santé </a></p></div>
