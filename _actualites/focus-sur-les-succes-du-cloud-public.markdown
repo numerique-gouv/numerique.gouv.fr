@@ -12,14 +12,14 @@ chapeau-text: "La migration vers le cloud de l’État est un moyen de produire 
   durables. \n\nDe nombreux projets d'utilité publique ont été rendus possibles grâce
   au cloud ces dernières années, notamment dans le domaine de la dématérialisation,
   donnant ainsi une opportunité au cœur des enjeux de simplification et d’accessibilité
-  des services publics.\n\nSi certains de ces services sont connus par les Français,
-  car ils font leur apparition progressive dans leur quotidien, le levier qu’a représenté
-  le Cloud dans leur réalisation reste méconnu : la DINUM a décidé de mettre en lumière
-  cet outil désormais incontournable dans la production de nos services publics."
+  des services publics."
+une-ou-diaporama:
+- image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-Dans le cadre ??? la DINUM a posé 3 questions à :
-Les témoignages des porteurs de projets cloud
+En tant qu'outil concret au service des Français, le cloud de l’État
+
+Certains services ont fait leur apparition dans le quotidien des français mais leur réalisation reste méconnu du grand public. La DINUM a décidé de mettre en lumière les dessous du cloud avec les témoignages à succès d'une quinzaine d'entité ayant mis en place des projets avec le cloud de l’État. 
 
 <br>
 <div class=><p><a href=>1. Les systèmes d’information santé </a></p></div>
