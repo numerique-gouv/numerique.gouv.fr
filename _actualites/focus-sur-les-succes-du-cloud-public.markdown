@@ -41,4 +41,20 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 Témoignage de l'Agence Numérique en Santé
 
 <br>
-<div class="lien-important"><p><a href="https://esante.gouv.fr/lagence">Les systèmes d'information en santé</a></p></div>
+<div class="lien-important"><p><a href="https://geoportail.gouv.fr">Géoplateforme</a></p></div>
+
+La Géoplateforme est le nouvel espace public de l’information géographique, développé par l’Institut national de l’information géographique et forestière (IGN), qui a pour objectif d’optimiser la production et la diffusion des géodonnées au service de la décision publique. 
+
+Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci.
+
+#### Renforcer sa capacité d’innovation et améliorer la gestion des services 
+
+*"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur internet. D’où la nécessité de disposer d’une infrastructure disponible, **performante et capable de s’adapter** à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa **capacité d’innover**, d’améliorer la gestion de ses services numériques notamment en termes de **résilience **et de répondre plus efficacement aux **besoins du public**."*
+
+#### Déployer des applications évolutives
+
+L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
+o	Une application dans le top 10 des applications gouvernementales en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
+o	Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement
+
+Témoignage de l'Institut national de l’information géographique et forestière
