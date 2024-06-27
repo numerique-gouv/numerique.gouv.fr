@@ -54,11 +54,9 @@ list-items:
   title: 9 · **Exploitons tout le potentiel des données**
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
-file: "/uploads/9principes_reussite_projets-si-etat.pdf"
 layout: liste-detaillee
 ---
 
 Réussir la transformation du système d’information (SI) de l’État est l'une des conditions majeures pour créer de nouveaux services, accompagner la simplification des relations entre les citoyens et l’État, favoriser de nouvelles formes d’engagement et confirmer la stratégie d’État plateforme au service de la souveraineté économique et de l’autonomie des citoyens. Or le SI de l’État se structure autour de projets souvent complexes et aux dimensions hors normes. **Leur réussite exige donc, à tous les niveaux de responsabilité, de mobiliser des principes communs, fondés sur l’expérience, pour en maîtriser les risques.**
 
 Ces principes placent la résolution des problèmes des utilisateurs et la responsabilisation des acteurs du projet au cœur de la démarche. Ils guideront désormais la conception et l’analyse des projets à venir. 
-Ces principes sont également disponibles sur le site des documents de référence du SI de l’État [references.modernisation.gouv.fr](references.modernisation.gouv.fr){:target="_blank"}.
