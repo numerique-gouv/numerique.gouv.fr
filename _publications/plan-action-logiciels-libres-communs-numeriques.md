@@ -37,12 +37,12 @@ Le plan d’action « logiciels libres et communs numériques » a été conçu 
 **Lire notre article :** [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
 {:.margin-left-3}
 
-Ce plan d’action est piloté par la mission logiciels libres de la DINUM(https://www.etalab.gouv.fr/ "Etalab - Lien externe") de la DINUM.
+Ce plan d’action est piloté par la mission logiciels libres de la DINUM.
 
 Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les communs numériques dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
 
 <h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">Mieux connaître, utiliser et concevoir les logiciels libres et les communs numériques</h2>
-<p style="margin-top: 0px;">(via la mission LABEL de la DINUM)</p>
+<p style="margin-top: 0px;"></p>
 <ol>
   <li>
     <p><b>Référencer des solutions libres et open source</b> (dans <a href="https://catalogue.numerique.gouv.fr" title="catalogue.numerique.gouv.fr - Lien externe">le catalogue GouvTech</a>).</p>
