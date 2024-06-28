@@ -273,8 +273,7 @@ La Brigade propose la mise à disposition d’experts pluridisciplinaires pour v
     <tr>
 <th>Numérique responsable</th>
       <td>Sensibilisation au numérique responsable ou à l’écoconception de services numériques</td>
-<td>à la demande</td>
-      <td>1/2 journée</td>
+<td>à la demande - 1/2 journée</td>
       <td><a href="mailto:melanie.raphael@modernisation.gouv.fr" title="Contact - Lien externe">Contact</a></td>
     </tr>
     <tr>
