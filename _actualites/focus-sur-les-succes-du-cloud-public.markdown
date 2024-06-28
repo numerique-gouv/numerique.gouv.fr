@@ -1,6 +1,7 @@
 ---
 title: Focus sur les succès du cloud public
 date: 2024-06-27 13:49:00 +02:00
+published: false
 categories:
 - Actualité
 tags:
