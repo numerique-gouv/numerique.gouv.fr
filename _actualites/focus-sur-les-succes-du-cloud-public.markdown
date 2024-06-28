@@ -41,7 +41,7 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 Témoignage de l'Agence Numérique en Santé
 
 <br>
-<div class="lien-important"><p><a href="https://geoportail.gouv.fr">Géoplateforme</a></p></div>
+<div class="lien-important"><p><a href="https://geoportail.gouv.fr">La Géoplateforme</a></p></div>
 
 La Géoplateforme est le nouvel espace public de l’information géographique, développé par l’Institut national de l’information géographique et forestière (IGN), qui a pour objectif d’optimiser la production et la diffusion des géodonnées au service de la décision publique. 
 
@@ -53,8 +53,8 @@ Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés 
 
 #### Déployer des applications évolutives
 
-L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
+*"L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
 o	Une application dans le top 10 des applications gouvernementales en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
-o	Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement
+o	Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement"*
 
 Témoignage de l'Institut national de l’information géographique et forestière
