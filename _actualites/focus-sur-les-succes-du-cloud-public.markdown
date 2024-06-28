@@ -32,7 +32,7 @@ Destiné à centraliser les analyses de biologie médicale, l’Entrepôt Nation
 
 *"Les clés de notre succès ont été de nous appuyer sur l’**expertise des prestataires** choisis dans le cadre du marché cloud et d’établir une **communication quotidienne et dynamique** tout au long du développement."*
 
-Témoignage du ministère du Travail, de la Santé et de la Solidarité
+Témoignage du ministère du Travail, de la Santé et de la Solidarité (?)
 
 <br>
 <div class="lien-important"><p><a href="https://geoportail.gouv.fr">La Géoplateforme</a></p></div>
@@ -87,8 +87,13 @@ Au travers de ses différents portails, l’infrastructure de diffusion du Servi
 
 *"D’une part, nous avons mis un accord cadre en place pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du SHOM, confié à un prestataire compétent. D’autre part côté SHOM, une (petite) équipe projet est dédiée à couvrir les aspects administratifs et techniques, dont SSI. A horizon 2029, avoir des prestataires différents, pour l’hébergement et pour les développements/la maintenance, permettrait au SHOM de mieux maîtriser son SI de diffusion (dépendances, interace, gestion des accès, etc.), sous réserve que la multiplication des prestataires reste gérable des points de vue administratif et technique."*
 
-Témoignage du ministère des Armées
+Témoignage du ministère des Armées (?)
 
+<br>
+<div class="lien-important"><p><a href="https://www.e-cancer.fr/Expertises-et-publications/La-plateforme-de-donnees-en-cancerologie">La plateforme de données en cancérologie</a></p></div>
 
+???
+
+Témoignage de l'Institut nationale du cancer
 
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
