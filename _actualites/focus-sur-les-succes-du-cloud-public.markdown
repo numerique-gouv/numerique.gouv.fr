@@ -1,6 +1,7 @@
 ---
 title: Focus sur les succès du cloud public
 date: 2024-06-27 13:49:00 +02:00
+published: false
 categories:
 - Actualité
 tags:
@@ -17,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-### En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
+### En tant qu'outil concret au service des français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
 <br>
 <div class="lien-important"><p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">Laboé-SI</a></p></div>
@@ -92,8 +93,31 @@ Témoignage du ministère des Armées (?)
 <br>
 <div class="lien-important"><p><a href="https://www.e-cancer.fr/Expertises-et-publications/La-plateforme-de-donnees-en-cancerologie">La plateforme de données en cancérologie</a></p></div>
 
-???
+Développée par l’Institut national du cancer, la plateforme de données en cancérologie, est un entrepôt de données qui regroupe, dans les meilleures conditions de sécurité et de confidentialité, des données de santé issues de différentes sources. 
+
+A travers cette plateforme, l’Institut national du cancer prévoit la mise à disposition de ces données dans un environnement de travail sécurisé pour les chercheurs dans le respect du cadre réglementaire. Elle ouvre des perspectives de travaux innovants sur, par exemple, les parcours de soins, l’association de données administratives et de données cliniques et sur les méthodes d’intelligence artificielle.
+
+#### **Un hébergement sécurisé pour les données sensibles**
+
+*"Traitant les données de santé des français, il est indispensable de répondre aux **exigences réglementaires** correspondantes dont une des composantes est d’être HDS (hébergeur de données de santé). Cela nécessite de s’appuyer sur les **experts certifiés** afin d’assurer la sécurité et la conformité de la plateforme. Cela offre aussi une scalabilité plus importante afin de répondre aux besoins d’analyses à venir. Le fort besoin de réassurance et de garanties des personnes sur le traitement de leurs données de santé a également été un argument dans le choix de cette **stratégie d’hébergement**."*
+
+#### **Favoriser la souveraineté pour une maitrise d’œuvre réussie**
+
+*"Qui dit maîtrise de nos données implique **souveraineté sur l’hébergement** ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi **notre savoir-faire** face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait partie des critères ayant conduit ce choix."*
 
 Témoignage de l'Institut nationale du cancer
+
+<br>
+<div class="lien-important"><p><a href="LIEN">Albert</a></p></div>
+
+#### ****
+
+*""*
+
+#### ****
+
+*""*
+
+Témoignage de
 
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
