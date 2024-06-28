@@ -89,4 +89,6 @@ Au travers de ses différents portails, l’infrastructure de diffusion du Servi
 
 Témoignage du ministère des Armées
 
+
+
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
