@@ -19,6 +19,41 @@ une-ou-diaporama:
 
 En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
+
+<br>
+<div class="lien-important"><p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">Laboé-SI</a></p></div>
+
+Destiné à centraliser les analyses de biologie médicale, l’Entrepot National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.
+
+#### Gestion des données sensibles
+
+*"La sensibilité des données exige un **cadre juridique et technique rigoureux** pour garantir la sécurité des citoyens. Le cloud nous permet de **déléguer certaines contraintes** internes telles que la très haute disponibilité, les certifications et la capacité de gérer d’importantes **variations d’activité**."*
+
+#### Un écosystème d’experts 
+
+*"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."*
+
+Témoignage du ministère du Travail, de la Santé et de la Solidarité
+
+<br>
+<div class="lien-important"><p><a href="https://geoportail.gouv.fr">La Géoplateforme</a></p></div>
+
+La Géoplateforme est le nouvel espace public de l’information géographique, développé par l’Institut national de l’information géographique et forestière (IGN), qui a pour objectif d’optimiser la production et la diffusion des géodonnées au service de la décision publique. 
+
+Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci.
+
+#### Renforcer sa capacité d’innovation et améliorer la gestion des services 
+
+*"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur internet. D’où la nécessité de disposer d’une infrastructure disponible, **performante et capable de s’adapter** à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa **capacité d’innover**, d’améliorer la gestion de ses services numériques notamment en termes de **résilience** et de répondre plus efficacement aux **besoins du public**."*
+
+#### Déployer des applications évolutives
+
+*"L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
+* Une application dans le top 10 des applications gouvernementales en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
+* Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement."*
+
+Témoignage de l'Institut national de l’information géographique et forestière
+
 <br>
 <div class="lien-important"><p><a href="https://esante.gouv.fr/lagence">Les systèmes d'information en santé</a></p></div>
 
@@ -40,21 +75,5 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 
 Témoignage de l'Agence Numérique en Santé
 
-<br>
-<div class="lien-important"><p><a href="https://geoportail.gouv.fr">La Géoplateforme</a></p></div>
 
-La Géoplateforme est le nouvel espace public de l’information géographique, développé par l’Institut national de l’information géographique et forestière (IGN), qui a pour objectif d’optimiser la production et la diffusion des géodonnées au service de la décision publique. 
-
-Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci.
-
-#### Renforcer sa capacité d’innovation et améliorer la gestion des services 
-
-*"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur internet. D’où la nécessité de disposer d’une infrastructure disponible, **performante et capable de s’adapter** à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa **capacité d’innover**, d’améliorer la gestion de ses services numériques notamment en termes de **résilience** et de répondre plus efficacement aux **besoins du public**."*
-
-#### Déployer des applications évolutives
-
-*"L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
-o	Une application dans le top 10 des applications gouvernementales en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
-o	Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement"*
-
-Témoignage de l'Institut national de l’information géographique et forestière
+[Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
