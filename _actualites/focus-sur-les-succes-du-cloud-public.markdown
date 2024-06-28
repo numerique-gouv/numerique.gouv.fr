@@ -8,12 +8,12 @@ tags:
 - Cloud
 - Numérique
 - Sécurité
-chapeau-text: "La migration vers le cloud de l’État est un moyen de produire des services
-  numériques plus réactifs, centrés sur les utilisateurs, plus performants et plus
-  durables. \n\nDe nombreux projets d'utilité publique ont été rendus possibles grâce
+chapeau-text: "De nombreux projets d'utilité publique ont été rendus possibles grâce
   au cloud ces dernières années, notamment dans le domaine de la dématérialisation,
   donnant ainsi une opportunité au cœur des enjeux de simplification et d’accessibilité
-  des services publics."
+  des services publics.\n\nLa migration vers le cloud de l’État est un moyen de produire
+  des services numériques plus réactifs, centrés sur les utilisateurs, plus performants
+  et plus durables. "
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
@@ -110,14 +110,16 @@ Témoignage de l'Institut nationale du cancer
 <br>
 <div class="lien-important"><p><a href="LIEN">Albert</a></p></div>
 
-#### ****
+Albert est le programme d’intelligence artificielle générative (LLM) développé par la DINUM qui propose une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Comme par exemple : libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage.
 
-*""*
+#### **Un accès rapide et performant**
 
-#### ****
+*"Le cloud nous a permis d’avoir rapidement accès à des ressources de calcul nécessaires, dans des environnements sécurisés, en nous évitant de préjuger nos investissements qui auraient pu être lourds et mal dimensionnés, surtout en début de projet. Ainsi, il nous a donné une agilité précieuse pour avancer dans nos travaux."*
 
-*""*
+#### **Expérimenter et innover**
 
-Témoignage de
+*"L’IA peut parfois être perçue à tort comme une solution ultime. En réalité, elle est une technologie qui soutient une solution, laquelle doit être adaptée à un cas d’usage spécifique. Il est primordial de bien identifier les cas d’usage qui exploiteront la technologie de manière pertinente. Nous privilégions une approche basée sur le test et l’expérimentation, et le cloud se prête parfaitement à cette méthode."*
+
+Témoignage de la direction interministerielle du numérique
 
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
