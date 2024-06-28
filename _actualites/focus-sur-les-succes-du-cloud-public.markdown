@@ -25,11 +25,11 @@ une-ou-diaporama:
 
 Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.
 
-#### Gestion des données sensibles
+#### **Gestion des données sensibles**
 
 *"La sensibilité des données exige un **cadre juridique et technique rigoureux** pour garantir la sécurité des citoyens. Le cloud nous permet de **déléguer certaines contraintes** internes telles que la très haute disponibilité, les certifications et la capacité de gérer d’importantes **variations d’activité**."*
 
-#### Un écosystème d’experts 
+**#### Un écosystème d’experts** 
 
 *"Les clés de notre succès ont été de nous appuyer sur l’**expertise des prestataires** choisis dans le cadre du marché cloud et d’établir une **communication quotidienne et dynamique** tout au long du développement."*
 
@@ -76,8 +76,10 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 Témoignage de l'Agence Numérique en Santé
 
 <br>
-<div class="lien-important"><p><a href="https://www.shom.fr/fr/qui-sommes-nous/histoire">La Géoplateforme</a></p></div>
+<div class="lien-important"><p><a href="https://www.shom.fr/fr/qui-sommes-nous/histoire">Le SHOM</a></p></div>
 
+Au travers de ses différents portails, l’infrastructure de diffusion du Service hydrographique et océanographique de la marine (SHOM), permet à tous citoyens d’accéder à des informations caractérisant de l’environnement physique marin : bathymétrie, limites maritimes, horaires des marées, données océanographiques…
 
+Témoignage du ministère des Armées
 
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
