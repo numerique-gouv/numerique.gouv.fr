@@ -75,5 +75,9 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 
 Témoignage de l'Agence Numérique en Santé
 
+<br>
+<div class="lien-important"><p><a href="https://www.shom.fr/fr/qui-sommes-nous/histoire">La Géoplateforme</a></p></div>
+
+
 
 [Retrouvez toutes les informations du cloud dans la sphère publique](https://www.numerique.gouv.fr/services/cloud/)
