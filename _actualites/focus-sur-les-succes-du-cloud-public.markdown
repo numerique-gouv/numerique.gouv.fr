@@ -17,13 +17,13 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
+### En tant qu'outil concret au service des Français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
 
 <br>
 <div class="lien-important"><p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">Laboé-SI</a></p></div>
 
-Destiné à centraliser les analyses de biologie médicale, l’Entrepot National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.
+Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.
 
 #### Gestion des données sensibles
 
@@ -31,7 +31,7 @@ Destiné à centraliser les analyses de biologie médicale, l’Entrepot Nationa
 
 #### Un écosystème d’experts 
 
-*"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."*
+*"Les clés de notre succès ont été de nous appuyer sur l’**expertise des prestataires** choisis dans le cadre du marché cloud et d’établir une **communication quotidienne et dynamique** tout au long du développement."*
 
 Témoignage du ministère du Travail, de la Santé et de la Solidarité
 
@@ -48,9 +48,9 @@ Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés 
 
 #### Déployer des applications évolutives
 
-*"L’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
-* Une application dans le top 10 des applications gouvernementales en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
-* Une nouvelle application mobile gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement."*
+*"L’IGN a souhaité assurer une **montée en compétence** de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de l’outil. Une démarche de réinternalisation de certaines applications (Build & run) a donné lieu à au développement des projets suivants : 
+* Une application dans le **top 10 des applications gouvernementales** en termes d’audience : l’IGN a adapté l’application [geoportail.gouv.fr](https://geoportail.gouv.fr) pour la rendre cloud native et l’exploite depuis plusieurs mois. Elle offre un accès en visualisation aux données de la Géoplateforme.
+* Une nouvelle **application mobile** gratuite pour explorer les territoires : L’IGN vient également de développer et publier « [Cartes IGN](https://www.ign.fr/telechargez-application-cartographique-cartes-ign) » pour explorer le territoire français, suivre ses évolutions et s’orienter facilement."*
 
 Témoignage de l'Institut national de l’information géographique et forestière
 
@@ -59,11 +59,11 @@ Témoignage de l'Institut national de l’information géographique et forestiè
 
 Pour accélérer la transformation numérique du système de santé, l’Agence Numérique en Santé (ANS) met en œuvre la construction et le déploiement de systèmes nationaux :
 
-* Le SI-SAMU : permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de **30 millions d’appels par an** ;
+* Le SI-SAMU : permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des **demandes de soins** formulées par la population, soit plus de **30 millions d’appels par an** ;
 
-* Le SI-VIC : pour le suivi des victimes d’attentats et  de situations sanitaires exceptionnelles. Plus de **700 000 dossiers créés** dans le cadre du suivi de l’épidémie Covid-19 ;
+* Le SI-VIC : pour le suivi des **victimes d’attentats** et  de situations sanitaires exceptionnelles. Plus de **700 000 dossiers créés** dans le cadre du suivi de l’épidémie Covid-19 ;
 
-* Le SICAP : système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an.
+* Le SICAP : système d’information des centres **antipoison et de toxicovigilance**, qui gèrent plus de 400 000 appels par an.
 
 #### Assurer la sécurité des données
 
@@ -71,7 +71,7 @@ Pour accélérer la transformation numérique du système de santé, l’Agence 
 
 #### Anticiper les besoins et prévoir les évolutions
 
-*"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."*
+*"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins sécurité en pare-feux, cloisonnement réseau, gestion des accès administrateur, traçabilité ou encore en protections contre les malwares. D'autre part nous avons dû prévoir les évolutions, voire la refonte des applications, pour exploiter pleinement les avantages du cloud, notamment le paiement à l’usage et maitriser les coûts dans une démarche Finops."*
 
 Témoignage de l'Agence Numérique en Santé
 
