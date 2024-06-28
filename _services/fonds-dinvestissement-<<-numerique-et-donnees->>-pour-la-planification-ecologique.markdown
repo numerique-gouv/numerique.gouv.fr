@@ -8,7 +8,7 @@ tags:
 - France Nation Verte
 date_de_modification: 12 mars 2024
 chapeau-text: Vous êtes une administration centrale ou déconcentrée de l’État ou un
-  opérateur de l’État ? Obtenez un financement pour développer des projets numériques
+  opérateur de l’État ? Obtenez un cofinancement pour développer des projets numériques
   qui répondent aux défis de la transition écologique, grâce au fonds d’investissement
   « Numérique et Données » pour la planification écologique, piloté par la direction
   interministérielle du numérique (DINUM) en partenariat avec le Secrétariat général
