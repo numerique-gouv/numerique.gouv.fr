@@ -1,6 +1,12 @@
 ---
 title: Formation à l'écoconception 8 octobre 2024
 date: 2024-06-28 16:09:00 +02:00
+categories:
+- Formation
+tags:
+- Formation
+- Numérique écoresponsable
+- Écoconception
 chapeau-text: Vous êtes un agent public travaillant dans le numérique et les sujets
   environnementaux vous intéressent ? Participez à la formation de sensibilisation
   à l'écoconception de services numériques avec les équipes le mardi 8 octobre 2024
