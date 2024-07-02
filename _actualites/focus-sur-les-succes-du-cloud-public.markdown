@@ -23,20 +23,21 @@ une-ou-diaporama:
 <br>
 <div class="lien-important"><p><a href="https://www.service-public.fr/particuliers/vosdroits/R16396">Démarche d'inscription sur les listes électorales (DILE)</a></p></div>
 
-La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site service-public.fr, et leur offre également la possibilité d’interroger leur situation électorale.
+La dématérialisation de la DILE permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site service-public.fr, et leur offre également la possibilité d’interroger leur situation électorale.
 
 #### **Une adaptation et une protection renforcée**
 
 *"L'hébergement de cette application dans une solution cloud apporte deux avantages majeurs :*
 
-* *L'élasticité : une prise en charge instantanée et une très grande variation du nombre de transactions réalisées dans l'application sans dégradation du service. A l'approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L'élasticité du cloud permet en quelque sorte de s'adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.*
-* *La sécurité : indispensable car le niveau de criticité de cette application est élevé si, par exemple, elle fait l'objet d'une attaque de la part une puissance étrangère, de même que les données qu'elle héberge sont sensibles. Par conséquent, le choix s'est porté sur l'offre du fournisseur sélectionné, qualifié SecNumCloud par l'Agence nationale de la sécurité des systèmes d'information (ANSSI)."*
+* ***L'élasticité :** une prise en charge instantanée et une très **grande variation** du nombre de transactions réalisées dans l'application sans dégradation du service. A l'approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L'élasticité du cloud permet en quelque sorte de **s'adapter au rythme de vie des français**. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.*
 
-#### 
+* ***La sécurité :** indispensable car le niveau de criticité de cette application est élevé si, par exemple, elle fait l'objet d'une attaque de la part une puissance étrangère, de même que les données qu'elle héberge sont sensibles. Par conséquent, le choix s'est porté sur l'offre du fournisseur sélectionné, qualifié SecNumCloud par l'Agence nationale de la sécurité des systèmes d'information (ANSSI)."*
 
-*""*
+#### **Une solution flexible et rapide**
 
-Témoignage de la 
+*"Le cloud apporte également de la **résilience à l'application** : les redondances mises en place permettent d'éliminer le risque de rupture de service en cas de problème technique sur l'un des hébergements. De plus, le déploiement de l'application a été **complètement automatisé** par la direction de l’information légale et administrative (DILA), si bien qu'il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. Cela offre une **grande réactivité** et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d'organisation d'élections anticipées dans un court délai. Ce script d'automatisation a servi à la DILA de modèle pour l'automatisation d'autres applications."*
+
+Témoignage de la direction de l’information légale et administrative
 
 <br>
 <div class="lien-important"><p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">Laboé-SI</a></p></div>
