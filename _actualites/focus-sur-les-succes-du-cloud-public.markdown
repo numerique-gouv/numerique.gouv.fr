@@ -21,6 +21,24 @@ une-ou-diaporama:
 ### En tant qu'outil concret au service des français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
 
 <br>
+<div class="lien-important"><p><a href="https://www.service-public.fr/particuliers/vosdroits/R16396">Démarche d'inscription sur les listes électorales (DILE)</a></p></div>
+
+La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site service-public.fr, et leur offre également la possibilité d’interroger leur situation électorale.
+
+#### **Une adaptation et une protection renforcée**
+
+*"L'hébergement de cette application dans une solution cloud apporte deux avantages majeurs :*
+
+* *L'élasticité : une prise en charge instantanée et une très grande variation du nombre de transactions réalisées dans l'application sans dégradation du service. A l'approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L'élasticité du cloud permet en quelque sorte de s'adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.*
+* *La sécurité : indispensable car le niveau de criticité de cette application est élevé si, par exemple, elle fait l'objet d'une attaque de la part une puissance étrangère, de même que les données qu'elle héberge sont sensibles. Par conséquent, le choix s'est porté sur l'offre du fournisseur sélectionné, qualifié SecNumCloud par l'Agence nationale de la sécurité des systèmes d'information (ANSSI)."*
+
+#### 
+
+*""*
+
+Témoignage de la 
+
+<br>
 <div class="lien-important"><p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">Laboé-SI</a></p></div>
 
 Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.
@@ -80,7 +98,7 @@ Témoignage de l'Agence Numérique en Santé
 
 Au travers de ses différents portails, l’infrastructure de diffusion du Service hydrographique et océanographique de la marine (SHOM), permet à tous citoyens d’accéder à des informations caractérisant de l’environnement physique marin : bathymétrie, limites maritimes, horaires des marées, données océanographiques…
 
-#### **Vers un accès sécurisé et une baisse des coûts**
+#### **Vers un accès sécurisé et économique**
 
 *"Le développement de l’entrepôt pour accéder aux données et services décrivant l’environnement physique marin a pu être possible que sur une solution cloud, car le SHOM ne pouvait pas le déployer au sein de son propre SI pour des raisons de capacité, de performance, de maintenance, de gestion des accès, de sécurité informatique etc. Certaines données étant jugées sensibles, la migration sur un cloud qualifié SecNumCloud, financée par la DINUM en 2022, a permis de sécuriser davantage les données et services du SHOM comme pour les données opposables ou les données liées à la sécurité de la navigation. Cela a permis aussi de baisser les coûts d’exploitation courante de notre infrastructure de diffusion, mais en revanche a accru le coût d’hébergement."*
 
