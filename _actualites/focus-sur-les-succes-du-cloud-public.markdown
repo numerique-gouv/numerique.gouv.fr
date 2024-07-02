@@ -127,6 +127,21 @@ A travers cette plateforme, l’Institut national du cancer prévoit la mise à 
 Témoignage de l'Institut nationale du cancer
 
 <br>
+<div class="lien-important"><p><a href="https://www.vie-publique.fr/">vie-publique.fr</a></p></div>
+
+Dédié aux politiques publiques et au fonctionnement des institutions, le site d’information vie-publique.fr accueille plus de 30 millions de visiteurs par an et leur donne accès gratuitement à des contenus et ressources fiables pour approfondir leurs connaissances civiques.
+
+#### **Un succès pour l'équipe de développement**
+
+*"Alors que tous les développeurs partageaient la même plateforme de développement, ce qui créait des dépendances et interférences, ils disposent désormais chacun de leur environnement propre, qu'ils peuvent allumer ou éteindre chaque jour et indépendamment de leurs collègues, minimisant ainsi les coûts associés. Ces gains de flexibilité ont permis une amélioration du service, des mises à jour plus régulières du contenu du site, qui est moins sujet à des surcharges ou ruptures de service. Cette migration a également été l'occasion de réduire drastiquement le temps moyen de livraison des pages du site."*
+
+#### **Vers une optimisation organisationnelle**
+
+*"Nous sommes passés d'une organisation d’intégrateurs sur site à une usine de développement utilisant une plateforme Intégration Continue/Déploiement Continu (CI/CD) et des scripts de déploiement, qui permettent de développer des outils mutualisés permettant s'adapter rapidement aux besoins métiers (changement de fournisseur, gestion de la tarification, résilience…). La création de pipelines pour tous les projets par l'équipe socle permet de réduire le besoin en accompagnement des équipes de développement des projets. Cette transformation a représenté un important effort de formation de nos équipes, une composante cruciale pour la réussite du projet."*
+
+Témoignage de la direction de l’information légale et administrative
+
+<br>
 <div class="lien-important"><p><a href="LIEN">Albert</a></p></div>
 
 Albert est le programme d’intelligence artificielle générative (LLM) développé par la DINUM qui propose une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Comme par exemple : libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage.
