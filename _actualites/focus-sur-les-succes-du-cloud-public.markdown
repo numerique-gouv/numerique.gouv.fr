@@ -54,9 +54,23 @@ une-ou-diaporama:
       <ul>
       <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       <ul>
-      </p>
-    </div>
-  </div>
+
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
