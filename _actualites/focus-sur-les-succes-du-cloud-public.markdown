@@ -41,31 +41,31 @@ une-ou-diaporama:
     <div class="accordion-content" id="projets-proactive">
 
       <p>La dématérialisation de la DILE permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site service-public.fr, et leur offre également la possibilité d’interroger leur situation électorale.</p>
-      <p>Une adaptation et une protection renforcée</p>
+      <p><strong>Une adaptation et une protection renforcée</strong></p>
       <ul>
-      <p>L'hébergement de cette application dans une solution cloud apporte deux avantages majeurs :<p>
-        <li>L'élasticité : une prise en charge instantanée et une très grande variation du nombre de transactions réalisées dans l'application sans dégradation du service. A l'approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L'élasticité du cloud permet en quelque sorte de s'adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.</li>
-        <li>La sécurité : indispensable car le niveau de criticité de cette application est élevé si, par exemple, elle fait l'objet d'une attaque de la part une puissance étrangère, de même que les données qu'elle héberge sont sensibles. Par conséquent, le choix s'est porté sur l'offre du fournisseur sélectionné, qualifié SecNumCloud par l'Agence nationale de la sécurité des systèmes d'information (ANSSI).</li>
-      <p>Une solution flexible
-      </p>Le cloud apporte également de la résilience à l'application : les redondances mises en place permettent d'éliminer le risque de rupture de service en cas de problème technique sur l'un des hébergements. De plus, le déploiement de l'application a été complètement automatisé par la direction de l’information légale et administrative (DILA), si bien qu'il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. Cela offre une grande réactivité et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d'organisation d'élections anticipées dans un court délai. Ce script d'automatisation a servi à la DILA de modèle pour l'automatisation d'autres applications.</p>
+      <p><i>"L'hébergement de cette application dans une solution cloud apporte deux avantages majeurs :</i><p>
+        <li><i><strong>L'élasticité</strong> : une prise en charge instantanée et une très grande variation du nombre de transactions réalisées dans l'application sans dégradation du service. A l'approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L'élasticité du cloud permet en quelque sorte de s'adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.</i></li>
+        <li><i><strong>La sécurité </strong>: indispensable car le niveau de criticité de cette application est élevé si, par exemple, elle fait l'objet d'une attaque de la part une puissance étrangère, de même que les données qu'elle héberge sont sensibles. Par conséquent, le choix s'est porté sur l'offre du fournisseur sélectionné, qualifié SecNumCloud par l'Agence nationale de la sécurité des systèmes d'information (ANSSI)."</i></li>
+      <p><strong>Une solution flexible</strong>
+      </p><i>"Le cloud apporte également de la <strong>résilience à l'application</strong> : les redondances mises en place permettent d'éliminer le risque de rupture de service en cas de problème technique sur l'un des hébergements. De plus, le déploiement de l'application a été complètement automatisé par la direction de l’information légale et administrative (DILA), si bien qu'il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. Cela offre une <strong>grande réactivité</strong> et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d'organisation d'élections anticipées dans un court délai. Ce script d'automatisation a servi à la DILA de modèle pour l'automatisation d'autres applications."</i></p>
       </p>Témoignage de la direction de l’information légale et administrative
       </p>
+      <ul>
       </p>[En savoir plus sur la démarche](https://www.service-public.fr/particuliers/vosdroits/R16396)
+      <ul>
       </p>
-    </div>
-  </div>
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
     <div class="accordion-content" id="projets-proactive">
 
       <p>Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.</p>
-      <p>**Gestion des données sensibles**</p>
+      <p><strong>Gestion des données sensibles</strong></p>
       <ul>
-      <p>*"La sensibilité des données exige un **cadre juridique et technique rigoureux** pour garantir la sécurité des citoyens. Le cloud nous permet de **déléguer certaines contraintes** internes telles que la très haute disponibilité, les certifications et la capacité de gérer d’importantes **variations d’activité**."*<p>
-      <p>**Un écosystème d’experts**<p>
+      <p><i>"La sensibilité des données exige un <strong>cadre juridique et technique rigoureux</strong> pour garantir la sécurité des citoyens. Le cloud nous permet de <strong>déléguer certaines contraintes</strong> internes telles que la très haute disponibilité, les certifications et la capacité de gérer d’importantes <strong>variations d’activité</strong>."</i><p>
+      <p><strong>Un écosystème d’experts</strong><p>
       <ul>
-      <p>*"Les clés de notre succès ont été de nous appuyer sur l’**expertise des prestataires** choisis dans le cadre du marché cloud et d’établir une **communication quotidienne et dynamique** tout au long du développement."*<p>
+      <p><i>"Les clés de notre succès ont été de nous appuyer sur l’<strong>expertise des prestataires</strong> choisis dans le cadre du marché cloud et d’établir une <strong>communication quotidienne et dynamique</strong> tout au long du développement."</i><p>
       </ul>
       </p>Témoignage du ministère du Travail, de la Santé et de la Solidarité (?)</p>
     </div>
