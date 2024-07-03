@@ -54,6 +54,9 @@ une-ou-diaporama:
       <ul>
       <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       </ul>
+    </div>
+  </div>
+</div>
 
 FIN FIN 
 
@@ -88,5 +91,8 @@ FIN FIN
       <br>
       </p>Témoignage du ministère du Travail, de la Santé et de la Solidarité (?)</p>
       <ul>
-      </p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">En savoir plus sur le système</a>
+      <a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">En savoir plus sur le système</a>
       </ul>
+    </div>
+  </div>
+</div>
