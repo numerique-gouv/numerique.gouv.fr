@@ -32,10 +32,10 @@ layout: page-annexe
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F - Lien externe">Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
