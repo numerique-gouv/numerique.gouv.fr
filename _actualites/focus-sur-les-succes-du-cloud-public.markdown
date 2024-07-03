@@ -54,7 +54,7 @@ une-ou-diaporama:
       <ul>
       <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       <ul>
-
+    </div>
 
 <script>
   function myFunction(id) {
