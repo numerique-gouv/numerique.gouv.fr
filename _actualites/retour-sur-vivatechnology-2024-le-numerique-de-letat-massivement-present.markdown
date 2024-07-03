@@ -24,8 +24,7 @@ Au sein du pavillon numérique de l’État, **plus de 200 agents publics étaie
 
 Avec plus de 4 000 offres d’emploi à pourvoir, un espace dédié au recrutement, estampillé « #Choisirleservicepublic », offrait la possibilité aux candidats d’échanger avec les agents publics de la tech au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique.
 
-Bouton : consulter les offres d’emploi : https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/
-
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/" class="button" title="Consulter les offres d'emploi- Lien externe"><b>Consulter les offres d'emploi</b></a></div>
 
 ### **Mercredi 22 mai**
 
