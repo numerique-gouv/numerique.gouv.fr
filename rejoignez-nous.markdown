@@ -76,19 +76,19 @@ layout: page-annexe
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-responsable-du-csirt-dinum-hf-reference-2024-1601280/" title="Adjoint/e au responsable du CSIRT DINUM H/F - Lien externe">Adjoint/e au responsable du CSIRT DINUM H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-responsable-du-csirt-dinum-hf-reference-2024-1601280/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-expertexperte-cyberdefense-et-reponse-aux-incidents-de-securite-hf-reference-2024-1601291/" title="Expert/e cyberdéfense et réponse aux incidents de sécurité H/F - Lien externe">Expert/e cyberdéfense et réponse aux incidents de sécurité H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-expertexperte-cyberdefense-et-reponse-aux-incidents-de-securite-hf-reference-2024-1601291/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-csirt-dinum-hf-reference-2024-1601297/" title="Responsable du CSIRT DINUM H/F - Lien externe">Responsable du CSIRT DINUM H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-csirt-dinum-hf-reference-2024-1601297/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
