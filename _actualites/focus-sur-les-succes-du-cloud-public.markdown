@@ -51,7 +51,7 @@ une-ou-diaporama:
       </p>Témoignage de la direction de l’information légale et administrative
       </p>
       <ul>
-      </p>[En savoir plus sur la démarche](https://www.service-public.fr/particuliers/vosdroits/R16396)
+      </p><a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       <ul>
       </p>
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
