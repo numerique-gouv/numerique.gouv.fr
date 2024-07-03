@@ -53,6 +53,18 @@ layout: page-annexe
 <br>
 <br>
 
+<h1 class="h3"><b>Infrastructures et réseaux</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Ingénieur/e réseau - Chargé de relations ministères H/F - Lien externe">Ingénieur/e réseau - Chargé de relations ministères H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
 <h1 class="h3"><b>Produits interministériels</b></h1>
 <div class="wrapper">
  <div class="panel">
