@@ -54,7 +54,8 @@ une-ou-diaporama:
       <ul>
       <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       </ul>
-  </div>
+
+FIN FIN 
 
 <script>
   function myFunction(id) {
@@ -74,10 +75,9 @@ une-ou-diaporama:
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
-    <div class="accordion-content" id="projets-proactive">
-
-      <p>Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.</p>
+    <button onclick="myFunction('regles-cofinancement')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">LABOé-SI</button>
+    <div class="accordion-content" id="regles-cofinancement">
+            <p>Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.</p>
       <p><strong>Gestion des données sensibles</strong></p>
       <ul>
       <p><i>"La sensibilité des données exige un <strong>cadre juridique et technique rigoureux</strong> pour garantir la sécurité des citoyens. Le cloud nous permet de <strong>déléguer certaines contraintes</strong> internes telles que la très haute disponibilité, les certifications et la capacité de gérer d’importantes <strong>variations d’activité</strong>."</i><p>
@@ -89,4 +89,4 @@ une-ou-diaporama:
       </p>Témoignage du ministère du Travail, de la Santé et de la Solidarité (?)</p>
       <ul>
       </p><a href="https://laboesi.integ.sante.gouv.fr/auth/realms/saisie/protocol/openid-connect/auth?client_id=portail-saisie&redirect_uri=https%3A%2F%2Flaboesi.integ.sante.gouv.fr%2Fsaisie%2Findex.html&state=45464847-e3a7-4588-8b33-2c4fd2b942cd&response_mode=fragment&response_type=code&scope=openid&nonce=7565f1a4-827f-4e7e-8673-bf510d8ef944&code_challenge=aAXcRUsYv2E4DmnH7RwAsl8Jju5Hw3Y8WjY_uhfV8-Y&code_challenge_method=S256">En savoir plus sur le système</a>
-
+      </ul>
