@@ -13,6 +13,7 @@ une-ou-diaporama:
 
 En participant pour la deuxième année consécutive à VivaTech, le plus grand événement européen de l’innovation technologique, les directions engagées dans la transformation numérique de l’État présentaient, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
+MANQUE PHOTO PITCH!!!!
 
 ## **Le numérique de l’État massivement représenté**
 
