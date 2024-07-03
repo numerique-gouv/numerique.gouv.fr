@@ -6,11 +6,13 @@ chapeau-text: Du 22 au 25 mai 2024, 14 directions engagées dans la transformati
   numérique de l’État étaient réunies sur un stand unique pour **faire connaître leurs
   grands chantiers, présenter leurs offres et recruter des professionnels de la tech**.
   Retour sur l’édition 2024.
+une-ou-diaporama:
+- image: "/uploads/Copie%20de%20Base%20Page%20Agenda.png"
+  legende: Pavillon numérique de l’État au salon VivaTechnology
 ---
 
 En participant pour la deuxième année consécutive à VivaTech, le plus grand événement européen de l’innovation technologique, les directions engagées dans la transformation numérique de l’État présentaient, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
-![Copie de Base Page Agenda.png](/uploads/Copie%20de%20Base%20Page%20Agenda.png)
 
 ## **Le numérique de l’État massivement représenté**
 
@@ -30,7 +32,7 @@ Avec plus de 4 000 offres d’emploi à pourvoir, un espace dédié au recruteme
 
 Lors de cette première journée à VivaTech, les agents publics étaient mobilisés pour la journée de lancement. Au programme : accueil des premiers visiteurs, animation de la première quinzaine de pitchs thématiques, premiers échanges entre candidats et recruteurs et premiers accueils de personnalités publiques.
 
-![mercredi-1.png](/uploads/mercredi-1.png)
+![mercredi fshhf.jpg](/uploads/mercredi%20fshhf.jpg)
 
 ### **Jeudi 23 mai**
 
@@ -50,7 +52,7 @@ Pour la dernière journée dédiée aux professionnels du numérique, Marina Fer
 
 Une occasion aussi pour l’État de revenir sur la confiance des français en FranceConnect qui progresse de 14 points en 5 ans soit 79 % cette année contre 65 % en 2019 selon le baromètre de l’association de l’économie numérique (Acsel).
 
-![vendredi.jpg](/uploads/vendredi.jpg)
+![vednre.jpg](/uploads/vednre.jpg)
 
 ### **Samedi 25 mai**
 
