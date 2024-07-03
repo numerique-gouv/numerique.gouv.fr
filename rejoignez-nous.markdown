@@ -154,6 +154,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-a-la-cheffe-du-departement-rh-de-la-filiere-numerique-de-l-etat-hf-reference-2024-1525071/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-securite-numerique-responsable-de-la-securite-si-et-chefcheffe-de-la-cellule-cyber-hf-reference-2024-1598195/" title="Conseiller/ère sécurité numérique, responsable de la sécurité SI et chef/cheffe de la cellule cyber H/F - Lien externe">Conseiller/ère sécurité numérique, responsable de la sécurité SI et chef/cheffe de la cellule cyber H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-securite-numerique-responsable-de-la-securite-si-et-chefcheffe-de-la-cellule-cyber-hf-reference-2024-1598195/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
