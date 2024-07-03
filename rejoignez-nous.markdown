@@ -46,7 +46,7 @@ layout: page-annexe
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1617859/" title="Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F - Lien externe">Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1617859/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
