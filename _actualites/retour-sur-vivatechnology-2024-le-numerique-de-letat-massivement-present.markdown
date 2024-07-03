@@ -9,7 +9,8 @@ chapeau-text: Du 22 au 25 mai 2024, 14 directions engagées dans la transformati
 ---
 
 En participant pour la deuxième année consécutive à VivaTech, le plus grand événement européen de l’innovation technologique, les directions engagées dans la transformation numérique de l’État présentaient, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
-PHOTO 
+
+![Copie de Base Page Agenda.png](/uploads/Copie%20de%20Base%20Page%20Agenda.png)
 
 ## **Le numérique de l’État massivement représenté**
 
@@ -29,7 +30,8 @@ Bouton : consulter les offres d’emploi : https://choisirleservicepublic.gouv.f
 ### **Mercredi 22 mai**
 
 Lors de cette première journée à VivaTech, les agents publics étaient mobilisés pour la journée de lancement. Au programme : accueil des premiers visiteurs, animation de la première quinzaine de pitchs thématiques, premiers échanges entre candidats et recruteurs et premiers accueils de personnalités publiques.
-PHOTO
+
+![mercredi-1.png](/uploads/mercredi-1.png)
 
 ### **Jeudi 23 mai**
 
@@ -40,7 +42,8 @@ Il a aussi annoncé le lancement de la Suite numérique collaborative permettant
 En savoir plus : https://www.numerique.gouv.fr/services/la-suite/
 
 Dans la continuité, Marie Lebec, ministre chargée des Relations avec le Parlement et Catherine Vautrin, ministre du Travail, de la Santé et des Solidarités, se sont également rendues sur place pour échanger avec les agents publics et découvrir les innovations technologiques de l’État.
-PHOTO 
+
+[jeudi.JPG](/uploads/jeudi.JPG)
 
 ### **Vendredi 24 mai**
 
@@ -48,7 +51,7 @@ Pour la dernière journée dédiée aux professionnels du numérique, Marina Fer
 
 Une occasion aussi pour l’État de revenir sur la confiance des français en FranceConnect qui progresse de 14 points en 5 ans soit 79 % cette année contre 65 % en 2019 selon le baromètre de l’association de l’économie numérique (Acsel).
 
-[Ajouter une photo]
+![vendredi.jpg](/uploads/vendredi.jpg)
 
 ### **Samedi 25 mai**
 
@@ -61,7 +64,8 @@ La place des femmes dans la tech et la féminisation de la filière numérique d
 **Ouvert à tous, les agents publics de la tech ont échangé avec les citoyens et usagers du service public** sur les questions de transformation numérique de l’État et sur l’offre de l’État en matière de numérique.
 
 Le dernier jour du salon, Elisabeth Borne, Première ministre de 2022 à 2024 a échangé avec les agents engagés dans la création de l’IA souveraine et la création de BaseGun, un outil d’IA du ministère de l’Intérieur et des Outre-mer permettant d’identifier et classer instantanément une arme sur le terrain.
-[Ajouter une photo]
+
+[samedi.JPG](/uploads/samedi.JPG)
 
 La DINUM remercie l’ensemble des administrations, des agents publics, des collaborateurs et l’équipe VivaTech pour avoir, ensemble, contribué à la réussite de cette nouvelle édition.
 
