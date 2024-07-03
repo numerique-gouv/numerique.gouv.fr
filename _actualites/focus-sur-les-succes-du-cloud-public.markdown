@@ -2,7 +2,7 @@
 title: Focus sur les succès du cloud public
 date: 2024-07-03 13:49:00 +02:00
 categories:
-- Actualité
+- Actualités
 tags:
 - Cloud
 - Numérique
@@ -15,7 +15,6 @@ chapeau-text: "De nombreux projets d'utilité publique ont été rendus possible
   et plus durables. "
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
-layout: actualites
 ---
 
 ### En tant qu'outil concret au service des français, la réalisation du cloud de l’État reste encore méconnu du grand public. Pour mieux comprendre son impact, la DINUM a donné la parole à une quinzaine d'entité qui ont mis en place des projets à succès avec le cloud public.
