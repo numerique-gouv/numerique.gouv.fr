@@ -184,6 +184,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-securite-numerique-responsable-de-la-securite-si-et-chefcheffe-de-la-cellule-cyber-hf-reference-2024-1598195/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-open-source-et-communs-numeriques-hf-hf-reference-2024-1601344/" title="Chef/fe de Pôle Open source et communs numériques H/F - Lien externe">Chef/fe de Pôle Open source et communs numériques H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-open-source-et-communs-numeriques-hf-hf-reference-2024-1601344/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
