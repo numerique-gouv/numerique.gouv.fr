@@ -51,10 +51,8 @@ une-ou-diaporama:
       </p><i>"Le cloud apporte également de la <strong>résilience à l'application</strong> : les redondances mises en place permettent d'éliminer le risque de rupture de service en cas de problème technique sur l'un des hébergements. De plus, le déploiement de l'application a été complètement automatisé par la direction de l’information légale et administrative (DILA), si bien qu'il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. Cela offre une <strong>grande réactivité</strong> et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d'organisation d'élections anticipées dans un court délai. Ce script d'automatisation a servi à la DILA de modèle pour l'automatisation d'autres applications."</i></p>
       <br>
       Témoignage de la direction de l’information légale et administrative
-      <ul>
+
       <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
-      </p>
-    </div>
   </div>
 
 <script>
