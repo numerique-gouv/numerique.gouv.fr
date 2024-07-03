@@ -50,16 +50,19 @@ une-ou-diaporama:
       <p><strong>Une solution flexible</strong>
       </p><i>"Le cloud apporte également de la <strong>résilience à l'application</strong> : les redondances mises en place permettent d'éliminer le risque de rupture de service en cas de problème technique sur l'un des hébergements. De plus, le déploiement de l'application a été complètement automatisé par la direction de l’information légale et administrative (DILA), si bien qu'il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. Cela offre une <strong>grande réactivité</strong> et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d'organisation d'élections anticipées dans un court délai. Ce script d'automatisation a servi à la DILA de modèle pour l'automatisation d'autres applications."</i></p>
       <br>
-      </p>Témoignage de la direction de l’information légale et administrative</p>
+      Témoignage de la direction de l’information légale et administrative
       <ul>
-      </p><a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
+      <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
       <ul>
       </p>
     </div>
   </div>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Laboé-SI</button>
-    <div class="accordion-content" id="projets-mise-a-dispo">
+    <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
+    <div class="accordion-content" id="projets-proactive">
+
       <p>Destiné à centraliser les analyses de biologie médicale, l’Entrepôt National des Données de Biologie de son nouveau nom LABOé-SI, est un système d’information destiné à soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l’amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens.</p>
       <p><strong>Gestion des données sensibles</strong></p>
       <ul>
