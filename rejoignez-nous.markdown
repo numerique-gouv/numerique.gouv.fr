@@ -79,6 +79,18 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-cloud-hf-reference-2024-1572912/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-pour-la-suite-numerique-bizdev-hf-reference-2024-1527867/" title="Responsable des partenariats pour la Suite Numérique (bizdev) H/F - Lien externe">Responsable des partenariats pour la Suite Numérique (bizdev) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-pour-la-suite-numerique-bizdev-hf-reference-2024-1527867/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---simulateur-des-droits-hf-hf-reference-2024-1601253/" title="Responsable Produit - simulateur des droits (H/F) H/F - Lien externe">Responsable Produit - simulateur des droits (H/F) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---simulateur-des-droits-hf-hf-reference-2024-1601253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
