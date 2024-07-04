@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-lll
+
 
 <script>
   function myFunction(id) {
@@ -36,7 +36,7 @@ lll
 </script>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('listes-electorales')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Démarche d’inscription sur les listes électorales (DILE)</button>
+    <button onclick="myFunction('listes-électorales')" id="accordion-button" class="accordion-title" aria-controls="listes-électorales" aria-expanded="false">La démarche d’inscription sur les listes électorales (DILE) </button>
     <div class="accordion-content" id="listes-électorales">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
@@ -105,8 +105,8 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
   </div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Les systèmes d’information de l’Agence du numérique en santé (ANS)</button>
-    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
+    <button onclick="myFunction('numérique-en-santé')" id="accordion-button" class="accordion-title" aria-controls="numérique-en-santé" aria-expanded="false">Les systèmes d’information de l’Agence du numérique en santé (ANS)</button>
+    <div class="accordion-content" id="numérique-en-santé">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :
@@ -130,8 +130,8 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
   </div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Le Service hydrographique et océanographique de la marine (SHOM)</button>
-    <div class="accordion-content" id="indicateurs-projets-proactive">
+    <button onclick="myFunction('océanographique')" id="accordion-button" class="accordion-title" aria-controls="océanographique" aria-expanded="false">Le Service hydrographique et océanographique de la marine (SHOM)</button>
+    <div class="accordion-content" id="océanographique">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
             <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (https://data.shom.fr, https://diffusion.shom.fr et https://maree.shom.fr), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
@@ -147,8 +147,8 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
   </div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La plateforme de données en cancérologie</button>
-    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
+    <button onclick="myFunction('cancérologie')" id="accordion-button" class="accordion-title" aria-controls="cancérologie" aria-expanded="false">La plateforme de données en cancérologie</button>
+    <div class="accordion-content" id="cancérologie">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"La plateforme de données en cancérologie, développée par l’Institut national du cancer, est un entrepôt de données qui regroupe, dans les meilleures conditions de sécurité et de confidentialité, des données de santé issues de différentes sources. La mise en place de cette plateforme s’inscrit pleinement dans la stratégie décennale de lutte contre les cancers, qui prévoit la mobilisation de l’intelligence artificielle pour relever de nouveaux défis. L’Institut national du cancer prévoit à travers cette plateforme la mise à disposition de ces données dans un environnement de travail sécurisé pour les chercheurs dans le respect du cadre réglementaire. Elle ouvre des perspectives de travaux innovants sur, par exemple, les parcours de soins, l’association de données administratives et de données cliniques et sur les méthodes d’intelligence artificielle."</i></p>
       <ul>
