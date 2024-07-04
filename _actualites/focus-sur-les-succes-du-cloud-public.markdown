@@ -34,7 +34,7 @@ une-ou-diaporama:
   }
 
 </script>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Démarche d’inscription sur les listes électorales (DILE)</button>
     <div class="accordion-content" id="indicateurs-projets-proactive">
@@ -54,7 +54,7 @@ une-ou-diaporama:
       </ul>
     </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Laboé-SI</button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
@@ -72,7 +72,7 @@ une-ou-diaporama:
       </ul>
     </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La Géoplateforme</button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
@@ -98,7 +98,7 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
     </div>
   </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Démarche d’inscription sur les listes électorales (DILE)</button>
     <div class="accordion-content" id="indicateurs-projets-proactive">
@@ -118,7 +118,7 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
       </ul>
     </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Laboé-SI</button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
@@ -136,7 +136,7 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
       </ul>
     </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La Géoplateforme</button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
