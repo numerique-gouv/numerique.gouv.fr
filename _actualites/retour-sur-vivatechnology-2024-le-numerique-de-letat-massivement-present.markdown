@@ -47,7 +47,7 @@ Journée marquée par les annonces de Stanislas Guerini, ministre de la Transfor
 
 Il a aussi annoncé le lancement de la Suite numérique collaborative permettant aux agents publics de disposer d’outils numériques souverains, sécurisés, encore plus performants et facilitant le travail collaboratif à distance. Elle vise à fédérer tous les agents et professionnels de la sphère publique autour de services disponibles à la carte et interconnectés, pour une gestion fluide et efficace du travail collaboratif quotidien.
 
-En savoir plus : https://www.numerique.gouv.fr/services/la-suite/
+En savoir plus : [https://www.numerique.gouv.fr/services/la-suite/](https://www.numerique.gouv.fr/services/la-suite/)
 
 Dans la continuité, Marie Lebec, ministre chargée des Relations avec le Parlement et Catherine Vautrin, ministre du Travail, de la Santé et des Solidarités, se sont également rendues sur place pour échanger avec les agents publics et découvrir les innovations technologiques de l’État.
 
