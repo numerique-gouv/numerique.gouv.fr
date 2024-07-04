@@ -123,3 +123,20 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     </div>
   </div>
   </div>
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Service hydrographique et océanographique de la marine (SHOM)</button>
+    <div class="accordion-content" id="indicateurs-projets-proactive">
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+      <ul>
+            <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (https://data.shom.fr, https://diffusion.shom.fr et https://maree.shom.fr), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
+      </ul>
+            <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
+            <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt pour accéder aux données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. La migration sur un cloud qualifié SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles (ex : données opposables, données liées à la sécurité de la navigation). Cela a permis aussi de baisser les coûts d’exploitation courante de notre infrastructure de diffusion, mais en revanche a accru le coût d’hébergement."</i></p>
+      <ul>
+            <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
+            <p><i>"Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?"</i></p>
+      </ul>
+    </div>
+  </div>
+  </div>
