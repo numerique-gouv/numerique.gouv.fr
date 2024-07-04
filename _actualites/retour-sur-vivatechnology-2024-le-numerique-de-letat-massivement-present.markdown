@@ -77,4 +77,4 @@ Le dernier jour du salon, Elisabeth Borne, Première ministre de 2022 à 2024 a 
 
 La DINUM remercie l’ensemble des administrations, des agents publics, des collaborateurs et l’équipe VivaTech pour avoir, ensemble, contribué à la réussite de cette nouvelle édition.
 
-**Administrations engagées dans la transformation numérique de l’État, vous souhaitez rejoindre le pavillon numérique de l’État à VivaTech en 2025 ? Contactez l’équipe communication de la DINUM : [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)**.
+**Administrations engagées dans la transformation numérique de l’État, vous souhaitez rejoindre le pavillon numérique de l’État à VivaTech en 2025 ? Contactez l’équipe communication de la DINUM : [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)**
