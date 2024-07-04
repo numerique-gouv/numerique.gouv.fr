@@ -37,17 +37,24 @@ une-ou-diaporama:
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Indicateurs obligatoires pour les projets d'administrations proactive</button>
+    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
     <div class="accordion-content" id="indicateurs-projets-proactive">
-            <p>Pour les projets portant sur l’administration proactive, les indicateurs suivants seront obligatoires :</p>
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
-        <li><strong>Nombre d’usagers ayant bénéficié des effets d’une proactivité</strong> (en distinguant information et attribution automatique d’un droit / d’une action de l’administration) ;</li>
-        <li><strong>Taux de conversion suite à une information proactive (nombre de démarches réalisées / nombre d’usagers contactés hors attribution automatique de droit)</strong></li>
+        <p><i>"LABOé-SI (nouveau nom de l’Entrepot National des Données de Biologie - ENDB) est un système d'information national destiné à centraliser les analyses de biologie médicale, afin de soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l'amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens."</i></p>
+      </ul>
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+      <ul>
+        <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
+      </ul>
+            <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
+      <ul>
+        <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
       </ul>
     </div>
   </div>
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Indicateurs obligatoires pour les projets de création ou amélioration de la mise à disposition de données à des tiers</button>
+    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Démarche d'inscription sur les listes électorales </button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
       <p>Pour les projets portant sur la création ou l’amélioration de la mise à disposition de données à des tiers, les indicateurs suivants seront obligatoires :</p>
       <ul>
