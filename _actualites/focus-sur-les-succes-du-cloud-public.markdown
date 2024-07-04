@@ -166,10 +166,8 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
   <div class="accordion-item">
     <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert " aria-expanded="false">Albert</button>
     <div class="accordion-content" id="Albert ">
-      <ul>
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Albert est l’IA générative souveraine de l’État libre et ouverte, développée par la direction interministérielle du numérique (DINUM). Il s’agit de proposer une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Par exemple libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage."</i></p>
-      </ul>
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Le principale clé a été la disponibilité de la ressource de calcul, déterminante pour de telles IA. Le cloud nous a permis d’avoir rapidement accès à ces ressources, dans des environnements sécurisés, en nous évitant de préjuger d’investissements qui auraient pu être lourds et mal dimensionnés, surtout en début de projet. Le cloud nous a donné une agilité précieuse pour avancer dans nos travaux."</i></p>
