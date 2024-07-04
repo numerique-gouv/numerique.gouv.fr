@@ -73,7 +73,7 @@ La place des femmes dans la tech et la féminisation de la filière numérique d
 
 Le dernier jour du salon, Elisabeth Borne, Première ministre de 2022 à 2024 a échangé avec les agents engagés dans la création de l’IA souveraine et la création de BaseGun, un outil d’IA du ministère de l’Intérieur et des Outre-mer permettant d’identifier et classer instantanément une arme sur le terrain.
 
-[samedi-7cf988.JPG](/uploads/samedi-7cf988.JPG)
+![ima_52ea046.jpeg](/uploads/ima_52ea046.jpeg)
 
 La DINUM remercie l’ensemble des administrations, des agents publics, des collaborateurs et l’équipe VivaTech pour avoir, ensemble, contribué à la réussite de cette nouvelle édition.
 
