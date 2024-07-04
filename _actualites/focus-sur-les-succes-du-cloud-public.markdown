@@ -72,6 +72,7 @@ une-ou-diaporama:
       </ul>
     </div>
   </div>
+</div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La Géoplateforme</button>
