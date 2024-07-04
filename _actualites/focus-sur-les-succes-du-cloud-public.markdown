@@ -1,6 +1,7 @@
 ---
 title: Focus sur les succès du cloud public
 date: 2024-07-03 13:49:00 +02:00
+published: false
 categories:
 - Actualités
 tags:
@@ -164,8 +165,8 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
   </div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert " aria-expanded="false">Albert</button>
-    <div class="accordion-content" id="Albert ">
+    <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert" aria-expanded="false">Albert</button>
+    <div class="accordion-content" id="Albert">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Albert est l’IA générative souveraine de l’État libre et ouverte, développée par la direction interministérielle du numérique (DINUM). Il s’agit de proposer une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Par exemple libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage."</i></p>
       <ul>
