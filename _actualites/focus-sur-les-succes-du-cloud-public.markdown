@@ -182,3 +182,18 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     </div>
   </div>
   </div>
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('vie-publique')" id="accordion-button" class="accordion-title" aria-controls="vie-publique" aria-expanded="false">Le site vie-publique.fr</button>
+    <div class="accordion-content" id="vie-publique">
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+            <p><i>"Le site vie-publique.fr est un site public d’information gratuit, dédié aux politiques publiques et au fonctionnement des institutions. Il accueille plus de 30 millions de visiteurs par an et leur donne accès à des contenus et ressources fiables pour approfondir leurs connaissances civiques."</i></p>
+      <ul>
+            <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
+            <p><i>"Alors que tous les développeurs partageaient la même plateforme de développement, ce qui créait des dépendances et interférences, ils disposent désormais chacun de leur environnement propre, qu’ils peuvent allumer ou éteindre chaque jour et indépendamment de leurs collègues, minimisant ainsi les coûts associés. Ces gains de flexibilité ont permis une amélioration du service, des mises à jour plus régulières du contenu du site, qui est moins sujet à des surcharges ou ruptures de service. Cette migration a également été l’occasion de réduire drastiquement le temps moyen de livraison des pages du site."</i></p>
+      </ul>
+      <ul>
+            <p><strong>Y-a-il eu un impact organisationnel de cette transformation ?</strong></p>
+            <p><i>"Oui ! Nous sommes passés à d’une organisation avec des intégrateurs sur site à une usine de développement utilisant une plateforme CI/CD (Intégration Continue/Déploiement Continu) et des scripts de déploiement, qui permettent de développer des outils mutualisés permettant s’adapter rapidement aux besoins métiers (changement de fournisseur, gestion de la tarification, résilience…). La création de pipelines pour tous les projets par l’équipe socle permet de réduire le besoin en accompagnement des équipes de développement des projets. Cette transformation a représenté un important effort de formation de nos équipes, une composante cruciale pour la réussite du projet."</i></p>
+      </ul>
+            <p>Témoignage de la direction de l'information légale et administrative</p>
