@@ -36,7 +36,7 @@ une-ou-diaporama:
 </script>
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Démarche d’inscription sur les listes électorales</button>
+    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Démarche d’inscription sur les listes électorales (DILE)</button>
     <div class="accordion-content" id="indicateurs-projets-proactive">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
@@ -54,7 +54,6 @@ une-ou-diaporama:
       </ul>
     </div>
   </div>
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
     <div class="accordion-content" id="indicateurs-projets-proactive">
@@ -73,13 +72,27 @@ une-ou-diaporama:
     </div>
   </div>
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Démarche d'inscription sur les listes électorales </button>
+    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La Géoplateforme</button>
     <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
-      <p>Pour les projets portant sur la création ou l’amélioration de la mise à disposition de données à des tiers, les indicateurs suivants seront obligatoires :</p>
+      <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
-        <li><strong>Nombre de projets réutilisant la donnée</strong> mise à disposition (dans le cas d'une mise à disposition par fichier) ;</li>
-        <li><strong>Nombre de transmissions effectives de la donnée</strong> (dans le cas d'une API) ;</li>
-        <li><strong>Temps écoulé entre la demande d’accès et l’accès effectif</strong> à la donnée par un tiers</li>
+      <p><i>"La Géoplateforme est LE nouvel espace public de l’information géographique, qui a pour objectif d’<strong>optimiser la production</strong> et la diffusion des géodonnées au service de la décision publique. Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite la construction de portails et applications thématiques qui utilisent des données géographiques. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci."</i></p>
+      </ul>
+      <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ? </strong></p>
+      <ul>
+      <p></i>"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur Internet. D’où la nécessité de disposer d’une infrastructure disponible, performante et capable de s’adapter à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa capacité d’innover, d’améliorer la gestion de ses services numériques notamment en termes de résilience et de répondre plus efficacement aux besoins du public."</i></p>
+      <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
+      </ul>
+      <ul>
+      <p><i>"La Géoplateforme devant traiter plus de 250 millions de requêtes utilisateurs par jour avec une optimisation des temps de réponse, l’organisation du projet a nécessité une implication forte de l’ensemble des parties prenantes du projet. Cela s’est traduit notamment par l’organisation d’ateliers d’intelligence collective pour la conception du système, de nombreux tests sous forme de POC (Proof of concept), mais également la mise en œuvre de task force sur des sujets plus techniques en impliquant notamment le fournisseur de cloud (OVHCloud).
+
+La création d’une communauté Géoplateforme sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
+      </ul>
+      <p><strong>Quels ont été les principaux défis organisationnels rencontrés et comment les avez-vous surmontés ?</strong></p>
+      <ul>
+      <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
+        <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme https://cartes.gouv.fr), l’IGN a adapté l’application https://geoportail.gouv.fr pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
+        <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « Cartes IGN » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
       </ul>
     </div>
   </div>
