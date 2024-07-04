@@ -2,6 +2,10 @@
 title: FranceConnect franchit le cap des 40 millions de citoyens connectés en juin
   2024
 date: 2024-07-04 16:23:00 +02:00
+categories:
+- Actualités
+tags:
+- FranceConnect
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre%20(2).png"
 ---
