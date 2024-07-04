@@ -85,7 +85,6 @@ une-ou-diaporama:
       </ul>
       <ul>
       <p><i>"La Géoplateforme devant traiter plus de 250 millions de requêtes utilisateurs par jour avec une optimisation des temps de réponse, l’organisation du projet a nécessité une implication forte de l’ensemble des parties prenantes du projet. Cela s’est traduit notamment par l’organisation d’ateliers d’intelligence collective pour la conception du système, de nombreux tests sous forme de POC (Proof of concept), mais également la mise en œuvre de task force sur des sujets plus techniques en impliquant notamment le fournisseur de cloud (OVHCloud).
-
 La création d’une communauté Géoplateforme sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
       </ul>
       <p><strong>Quels ont été les principaux défis organisationnels rencontrés et comment les avez-vous surmontés ?</strong></p>
@@ -98,8 +97,8 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
   </div>
   </div>
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Les systèmes d’information en santé</button>
-    <div class="accordion-content" id="indicateurs-projets-proactive">
+    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Les systèmes d’information de l’ANS</button>
+    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :
