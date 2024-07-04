@@ -87,7 +87,7 @@ une-ou-diaporama:
       </ul>
       <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ? </strong></p>
       <ul>
-      <p></i>"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur Internet. D’où la nécessité de disposer d’une infrastructure disponible, performante et capable de s’adapter à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa capacité d’innover, d’améliorer la gestion de ses services numériques notamment en termes de résilience et de répondre plus efficacement aux besoins du public."</i></p>
+      <p><i>"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur Internet. D’où la nécessité de disposer d’une infrastructure disponible, performante et capable de s’adapter à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa capacité d’innover, d’améliorer la gestion de ses services numériques notamment en termes de résilience et de répondre plus efficacement aux besoins du public."</i></p>
       <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
       </ul>
       <ul>
@@ -155,6 +155,32 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Traitant les données de santé des français, il est indispensable de répondre aux exigences réglementaires correspondantes dont une des composantes est d’être HDS (Héberguer de données de santé). Cela nécessite de s’appuyer sur les experts certifiés afin d’assurer la sécurité et la conformité de la plateforme. Cela offre aussi une scalabilité plus importante afin de répondre aux besoins d’analyses à venir. Le fort besoin de réassurance et de garanties des personnes sur le traitement de leur données de santé a également été un argument dans le choix de cette stratégie d’hébergement."</i></p>
       </ul>
+      <ul>
             <p><strong>Quels ont été les critères retenus dans la MŒ ?</strong></p>
             <p><i>"Qui dit maîtrise de nos données implique souveraineté sur l’hébergement ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi notre savoir-faire face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait parti des critères ayant conduit ce choix."</i></p>
-
+      </ul>
+    </div>
+  </div>
+  </div>
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert " aria-expanded="false">Albert</button>
+    <div class="accordion-content" id="Albert ">
+      <ul>
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+            <p><i>"Albert est l’IA générative souveraine de l’État libre et ouverte, développée par la direction interministérielle du numérique (DINUM). Il s’agit de proposer une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Par exemple libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage."</i></p>
+      </ul>
+      <ul>
+            <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
+            <p><i>"Le principale clé a été la disponibilité de la ressource de calcul, déterminante pour de telles IA. Le cloud nous a permis d’avoir rapidement accès à ces ressources, dans des environnements sécurisés, en nous évitant de préjuger d’investissements qui auraient pu être lourds et mal dimensionnés, surtout en début de projet. Le cloud nous a donné une agilité précieuse pour avancer dans nos travaux."</i></p>
+      </ul>
+      <ul>
+            <p><strong>Quelles sont les perspectives pour Albert ?</strong></p>
+            <p><i>"L’IA n’échappe pas au risque du solutionnisme technologique. L’IA n’est pas une solution, mais une technologie au service d’une solution, elle-même au service d’un cas d’usage. Il est primordial de bien identifier les cas d’usage qui exploiteront la technologie de manière pertinente. Pour cela, tester, expérimenter est l’approche que nous privilégions, et le cloud se prête très bien à cette approche."</i></p>
+      </ul>
+      <ul>
+            <p>Témoignage de la direction interministerielle du numérique</p>
+      </ul>
+    </div>
+  </div>
+  </div>
