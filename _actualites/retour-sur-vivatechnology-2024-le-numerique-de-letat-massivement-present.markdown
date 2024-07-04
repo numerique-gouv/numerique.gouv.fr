@@ -1,7 +1,13 @@
 ---
 title: 'Retour sur VivaTechnology 2024 : le numérique de l’État massivement présent'
 date: 2024-06-05 14:52:00 +02:00
-published: false
+categories:
+- Article
+tags:
+- VivaTech
+- Salon
+- Numérique
+- Evenement
 chapeau-text: Du 22 au 25 mai 2024, 14 directions engagées dans la transformation
   numérique de l’État étaient réunies sur un stand unique pour **faire connaître leurs
   grands chantiers, présenter leurs offres et recruter des professionnels de la tech**.
@@ -13,7 +19,7 @@ une-ou-diaporama:
 
 En participant pour la deuxième année consécutive à VivaTech, le plus grand événement européen de l’innovation technologique, les directions engagées dans la transformation numérique de l’État présentaient, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
-MANQUE PHOTO PITCH!!!!
+![ima_c551454.jpeg](/uploads/ima_c551454.jpeg)
 
 ## **Le numérique de l’État massivement représenté**
 
