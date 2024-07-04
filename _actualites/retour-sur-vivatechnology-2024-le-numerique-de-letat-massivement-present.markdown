@@ -51,7 +51,7 @@ En savoir plus : [https://www.numerique.gouv.fr/services/la-suite/](https://www.
 
 Dans la continuité, Marie Lebec, ministre chargée des Relations avec le Parlement et Catherine Vautrin, ministre du Travail, de la Santé et des Solidarités, se sont également rendues sur place pour échanger avec les agents publics et découvrir les innovations technologiques de l’État.
 
-[jeudi-4920db.JPG](/uploads/jeudi-4920db.JPG)
+![IMG_3310.jpeg](/uploads/IMG_3310.jpeg)
 
 ### **Vendredi 24 mai**
 
@@ -77,4 +77,4 @@ Le dernier jour du salon, Elisabeth Borne, Première ministre de 2022 à 2024 a 
 
 La DINUM remercie l’ensemble des administrations, des agents publics, des collaborateurs et l’équipe VivaTech pour avoir, ensemble, contribué à la réussite de cette nouvelle édition.
 
-**Administrations engagées dans la transformation numérique de l’État, vous souhaitez rejoindre le pavillon numérique de l’État à VivaTech en 2025 ? Contactez l’équipe communication de la DINUM : communication.dinum[@]modernisation.gouv.fr**.
+**Administrations engagées dans la transformation numérique de l’État, vous souhaitez rejoindre le pavillon numérique de l’État à VivaTech en 2025 ? Contactez l’équipe communication de la DINUM : [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)**.
