@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 3 juin 2024
+date_de_modification: 3 juillet 2024
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -32,22 +32,16 @@ layout: page-annexe
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F - Lien externe">Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2024-1572945/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F - Lien externe">Directeur/Directrice de projet sécurisation du budget numérique de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2024-1572945/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-operations-de-la-brigade-d-intervention-numerique-hf-reference-2024-1572973/" title="Responsable des Opérations de la Brigade d'Intervention Numérique H/F - Lien externe">Responsable des Opérations de la Brigade d'Intervention Numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-operations-de-la-brigade-d-intervention-numerique-hf-reference-2024-1572973/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-du-budget-numerique-de-l-etat-hf-reference-2024-1607951/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -56,10 +50,58 @@ layout: page-annexe
 <h1 class="h3"><b>Données</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directricedirecteur-des-technologies-adjointeadjoint-au-chef-du-datalab-hf-reference-2024-1562863/" title="Directrice/Directeur des technologies, adjointe/adjoint au chef du Datalab H/F - Lien externe">Directrice/Directeur des technologies, adjointe/adjoint au chef du Datalab H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1617859/" title="Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F - Lien externe">Tech Lead - Pôle Ouverture des données publiques - data.gouv.fr H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/tech-lead---pole-ouverture-des-donnees-publiques---datagouvfr-hf-reference-2024-1617859/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2024-1617883/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directricedirecteur-des-technologies-adjointeadjoint-au-chef-du-datalab-hf-reference-2024-1562863/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/data-scientist-hf-reference-2024-1617883/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
+<h1 class="h3"><b>Infrastructures et réseaux</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Ingénieur/e réseau - Chargé de relations ministères H/F - Lien externe">Ingénieur/e réseau - Chargé de relations ministères H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-responsable-du-csirt-dinum-hf-reference-2024-1601280/" title="Adjoint/e au responsable du CSIRT DINUM H/F - Lien externe">Adjoint/e au responsable du CSIRT DINUM H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-responsable-du-csirt-dinum-hf-reference-2024-1601280/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-expertexperte-cyberdefense-et-reponse-aux-incidents-de-securite-hf-reference-2024-1601291/" title="Expert/e cyberdéfense et réponse aux incidents de sécurité H/F - Lien externe">Expert/e cyberdéfense et réponse aux incidents de sécurité H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-expertexperte-cyberdefense-et-reponse-aux-incidents-de-securite-hf-reference-2024-1601291/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-csirt-dinum-hf-reference-2024-1601297/" title="Responsable du CSIRT DINUM H/F - Lien externe">Responsable du CSIRT DINUM H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35136)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-du-csirt-dinum-hf-reference-2024-1601297/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Ingénieur/e réseau - Chargé de relations ministères H/F - Lien externe">Ingénieur/e réseau - Chargé de relations ministères H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur--e-reseau---charge-de-relations-ministeres-hf-reference-2024-1599705/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieure-systeme-et-reseaux-hf-reference-2024-1617867/" title="Ingénieur/e Système et réseaux H/F - Lien externe">Ingénieur/e Système et réseaux H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieure-systeme-et-reseaux-hf-reference-2024-1617867/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -74,28 +116,28 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-partenariats-pour-la-suite-numerique-bizdev-hf-reference-2024-1527867/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-adjoint-au-chef-de-pole-relation-usagers-et-agents-hf-reference-2024-1523400/" title="Adjoint/e au chef de pôle relation usagers et agents H/F - Lien externe">Adjoint/e au chef de pôle relation usagers et agents H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-adjoint-au-chef-de-pole-relation-usagers-et-agents-hf-reference-2024-1523400/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-directeur-technique-suite-numerique-hf-reference-2024-1523395/" title="Directrice/Directeur technique Suite Numérique H/F - Lien externe">Directrice/Directeur technique Suite Numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-directeur-technique-suite-numerique-hf-reference-2024-1523395/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
- <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-cloud-hf-reference-2024-1572912/" title="Directeur/Directrice de projet Cloud H/F - Lien externe">Directeur/Directrice de projet Cloud H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-cloud-hf-reference-2024-1572912/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-technique---promotion-des-produits-dinum-et-interoperabilite-des-produits-hf-reference-2024-1573160/" title="Mentor technique - Promotion des produits DINUM et interopérabilité des produits H/F - Lien externe">Mentor technique - Promotion des produits DINUM et interopérabilité des produits H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---simulateur-des-droits-hf-hf-reference-2024-1601253/" title="Responsable Produit - simulateur des droits (H/F) H/F - Lien externe">Responsable Produit - simulateur des droits (H/F) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-technique---promotion-des-produits-dinum-et-interoperabilite-des-produits-hf-reference-2024-1573160/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---simulateur-des-droits-hf-hf-reference-2024-1601253/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/referentreferente-logiciels-libres---open-source-programme-officer-hf-reference-2024-1601265/" title="Référent/e logiciels libres - open-source programme officer H/F - Lien externe">Référent/e logiciels libres - open-source programme officer H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/referentreferente-logiciels-libres---open-source-programme-officer-hf-reference-2024-1601265/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+ <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-federation-d-identite-des-citoyens-hf-reference-2024-1617876/" title="Devops fédération d'identité des citoyens H/F - Lien externe">Devops fédération d'identité des citoyens H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/devops-federation-d-identite-des-citoyens-hf-reference-2024-1617876/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -149,24 +191,6 @@ layout: page-annexe
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
    <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Assistant/e de direction PMO (Project Management Officer) H/F - Lien externe">Assistant/e de direction PMO (Project Management Officer) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-pmo-project-management-officer-hf-reference-2023-1388072/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge--chargee-de-mission-parcours-et-mobilite-de-la-filiere-numerique-hf-reference-2024-1527879/" title="Chargé/e de Mission parcours et mobilité de la filière numérique H/F - Lien externe">Chargé/e de Mission parcours et mobilité de la filière numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge--chargee-de-mission-parcours-et-mobilite-de-la-filiere-numerique-hf-reference-2024-1527879/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1308049/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef--cheffe-de-la-mission-buget--achat---hf-reference-2024-1586547/" title="Chef/fe de la Mission Budget / Achat H/F - Lien externe">Chef/fe de la Mission Budget / Achat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -177,6 +201,18 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-a-la-cheffe-du-departement-rh-de-la-filiere-numerique-de-l-etat-hf-reference-2024-1525071/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-securite-numerique-responsable-de-la-securite-si-et-chefcheffe-de-la-cellule-cyber-hf-reference-2024-1598195/" title="Conseiller/ère sécurité numérique, responsable de la sécurité SI et chef/cheffe de la cellule cyber H/F - Lien externe">Conseiller/ère sécurité numérique, responsable de la sécurité SI et chef/cheffe de la cellule cyber H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-securite-numerique-responsable-de-la-securite-si-et-chefcheffe-de-la-cellule-cyber-hf-reference-2024-1598195/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-open-source-et-communs-numeriques-hf-hf-reference-2024-1601344/" title="Chef/fe de Pôle Open source et communs numériques H/F - Lien externe">Chef/fe de Pôle Open source et communs numériques H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-open-source-et-communs-numeriques-hf-hf-reference-2024-1601344/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
