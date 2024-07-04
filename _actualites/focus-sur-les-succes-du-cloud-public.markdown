@@ -55,8 +55,8 @@ une-ou-diaporama:
     </div>
   </div>
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Laboé-SI</button>
-    <div class="accordion-content" id="indicateurs-projets-proactive">
+    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">Laboé-SI</button>
+    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"LABOé-SI (nouveau nom de l’Entrepot National des Données de Biologie - ENDB) est un système d'information national destiné à centraliser les analyses de biologie médicale, afin de soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l'amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens."</i></p>
