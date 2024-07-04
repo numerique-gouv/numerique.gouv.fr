@@ -141,3 +141,16 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     </div>
   </div>
   </div>
+<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La plateforme de données en cancérologie</button>
+    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+            <p><i>"La plateforme de données en cancérologie, développée par l’Institut national du cancer, est un entrepôt de données qui regroupe, dans les meilleures conditions de sécurité et de confidentialité, des données de santé issues de différentes sources. La mise en place de cette plateforme s’inscrit pleinement dans la stratégie décennale de lutte contre les cancers, qui prévoit la mobilisation de l’intelligence artificielle pour relever de nouveaux défis. L’Institut national du cancer prévoit à travers cette plateforme la mise à disposition de ces données dans un environnement de travail sécurisé pour les chercheurs dans le respect du cadre réglementaire. Elle ouvre des perspectives de travaux innovants sur, par exemple, les parcours de soins, l’association de données administratives et de données cliniques et sur les méthodes d’intelligence artificielle."</i></p>
+      <ul>
+            <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
+            <p><i>"Traitant les données de santé des français, il est indispensable de répondre aux exigences réglementaires correspondantes dont une des composantes est d’être HDS (Héberguer de données de santé). Cela nécessite de s’appuyer sur les experts certifiés afin d’assurer la sécurité et la conformité de la plateforme. Cela offre aussi une scalabilité plus importante afin de répondre aux besoins d’analyses à venir. Le fort besoin de réassurance et de garanties des personnes sur le traitement de leur données de santé a également été un argument dans le choix de cette stratégie d’hébergement."</i></p>
+      </ul>
+            <p><strong>Quels ont été les critères retenus dans la MŒ ?</strong></p>
+            <p><i>"Qui dit maîtrise de nos données implique souveraineté sur l’hébergement ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi notre savoir-faire face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait parti des critères ayant conduit ce choix."</i></p>
+
