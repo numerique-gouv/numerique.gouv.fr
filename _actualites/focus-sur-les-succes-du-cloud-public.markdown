@@ -56,9 +56,37 @@ Témoignage de la direction de l’information légale et administrative
 <a href="https://www.service-public.fr/particuliers/vosdroits/R16396">En savoir plus sur la démarche</a>
 </ul>
 </div>
-</div>
 
-
+  <div class="accordion-item">
+    <button onclick="myFunction('projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Détails des projets de création ou amélioration de la mise à disposition de données à des tiers  acceptés</button>
+    <div class="accordion-content" id="projets-mise-a-dispo">
+      <p>Il s’agira de projets :</p>
+      <ul>
+        <li>de mise à disposition de données au grand public (open data),</li>
+        <li>de partage de données entre administrations (API), </li>
+        <li>ou d’espace commun de données pour partager des données entre acteurs.</li>
+      </ul>
+      <p>Cela inclut à la fois des travaux de préparation, enrichissement et nettoyage de données, des développements permettant de diffuser ou partager les données (portail de diffusion, API, infrastructure de partage de données) et animation de communautés d’utilisateurs.</p>
+      <p>Si le projet s’incarne via des API, leur référencement dans api.gouv.fr est une obligation ; si le projet implique de la mise en open data, le référencement des données dans data.gouv.fr est obligatoire.</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <button onclick="myFunction('projets-amelioration-politique-publique')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails des projets d’amélioration d’une politique publique acceptés</button>
+    <div class="accordion-content" id="projets-amelioration-politique-publique">
+      <p>Les projets à accompagner seront choisis de manière à améliorer l’efficacité d’une politique publique en ayant recours à l’intelligence artificielle ou aux data sciences ou à faciliter le pilotage d’une politique publique via des tableaux de bord.</p>
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront particulièrement questionnés sur leur capacité à produire de l'impact réel de manière expérimentale en moins de 6 mois, puis incrémentale pour être généralisés.</strong></p>
+      <p>Les projets devront respecter plusieurs principes de qualité : </p>
+      <ul>
+        <li>Les codes sources produits dans le cadre des projets devront être publiés en open source ;</li>
+        <li>Référencement sur api.gouv.fr et data.gouv.fr ;</li>
+        <li>Accessibilité aux personnes en situation de handicap ;</li>
+        <li>Éco-responsabilité.</li>
+      </ul>
+      <p>Ces projets s’appuieront nécessairement sur des traitements de données permettant de cibler les usagers éligibles sur la base de critères à définir.
+      </p>
+    </div>
+  </div>
+  </div>
 FIN FIN
 
 <script>
