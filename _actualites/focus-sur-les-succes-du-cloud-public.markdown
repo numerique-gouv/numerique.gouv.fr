@@ -75,8 +75,8 @@ une-ou-diaporama:
 </div>
 <div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('indicateurs-projets-mise-a-dispo')" id="accordion-button" class="accordion-title" aria-controls="indicateurs-projets-mise-a-dispo" aria-expanded="false">La Géoplateforme</button>
-    <div class="accordion-content" id="indicateurs-projets-mise-a-dispo">
+    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme</button>
+    <div class="accordion-content" id="Géoplateforme">
       <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
       <p><i>"La Géoplateforme est LE nouvel espace public de l’information géographique, qui a pour objectif d’<strong>optimiser la production</strong> et la diffusion des géodonnées au service de la décision publique. Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite la construction de portails et applications thématiques qui utilisent des données géographiques. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci."</i></p>
