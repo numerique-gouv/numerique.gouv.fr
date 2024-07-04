@@ -97,3 +97,26 @@ La création d’une communauté Géoplateforme sur une plateforme collaborative
     </div>
   </div>
   </div>
+  <div class="accordion-item">
+    <button onclick="myFunction('indicateurs-projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Les systèmes d’information en santé</button>
+    <div class="accordion-content" id="indicateurs-projets-proactive">
+            <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
+      <ul>
+        <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :
+<br>
+Le SI-SAMU, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.
+<br>
+Le SI-VIC, système d’information pour le suivi des victimes d’attentats et de situations sanitaires exceptionnelles, où plus de 700 000 dossiers ont été créés dans le cadre du suivi de l’épidémie Covid-19.
+<br>
+Le SICAP, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</br></i></p>
+      </ul>
+            <p><strong>En quoi le recours au cloud est-il déterminant pour votre projet ?</strong></p>
+      <ul>
+        <p><i>"L’hébergement de ces systèmes d’information sur des solutions de confiance qualifiées SecNumCloud et HDS permet d’assurer un haut de niveau de sécurité des données recueillies. En outre, les technologies cloud apportent elasticité et scalabilité, permettant de prendre en charge une forte variabilité et un grand volume de demandes et de données. Le cloud facilite également la transférabilité lors des changements de marché de TMA/infogérance en conservant l’applicatif sur le même hébergeur Cloud."</i></p>
+      </ul>
+            <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
+      <ul>
+        <p><i>"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins de sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) ; et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."</i></p>
+      </ul>
+    </div>
+  </div>
