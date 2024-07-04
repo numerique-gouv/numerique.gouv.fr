@@ -58,9 +58,11 @@ Témoignage de la direction de l’information légale et administrative
 </div>
 </div>
 
+</script>
+
 FIN FIN
 
-<script>
+</script>
 function myFunction(id) {
 let x = document.getElementById(id);
 let button = document.getElementById("accordion-button");
