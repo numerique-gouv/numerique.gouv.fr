@@ -68,10 +68,10 @@ une-ou-diaporama:
       </ul>
     </div>
   </div>
-</div>
+  </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique.</button>
+    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique</button>
     <div class="accordion-content" id="Géoplateforme">
       <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
