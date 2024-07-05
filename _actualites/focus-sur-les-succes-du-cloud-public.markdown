@@ -1,6 +1,6 @@
 ---
 title: 'Cloud : série de témoignages portant sur les succès du cloud public'
-date: 2024-07-03 13:49:00 +02:00
+date: 2024-07-05 13:49:00 +02:00
 categories:
 - Actualités
 tags:
@@ -209,7 +209,7 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
       </ul>
     </div>
   </div>
-</div>  
+  </div>  
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
 
