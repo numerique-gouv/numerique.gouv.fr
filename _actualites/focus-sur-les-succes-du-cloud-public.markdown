@@ -7,14 +7,14 @@ tags:
 - Cloud
 - Numérique
 - Sécurité
-chapeau-text: 'L’informatique en nuage (Cloud computing) est une formidable opportunité
+chapeau-text: "L’informatique en nuage (Cloud computing) est une formidable opportunité
   pour accélérer la transformation numérique des administrations. Après la publication
   de la doctrine « Cloud au centre » de l’État en 2021, la direction interministérielle
   du numérique (DINUM), intervenant en tant que cheffe de file du numérique de l’État,
-  publie une série de X témoignages de responsables de projets cloud. L’objectif :
-  encourager les acteurs publics à se saisir du plein potentiel du cloud et ainsi
+  publie une série de témoignages de responsables de projets cloud. \n\nL’objectif
+  : encourager les acteurs publics à se saisir du plein potentiel du cloud et ainsi
   développer une nouvelle génération de services numériques de qualité, tout en protégeant
-  au mieux les données des entreprises et des citoyens français.'
+  au mieux les données des entreprises et des citoyens français."
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
@@ -229,7 +229,7 @@ En termes d’usages, la première génération de l’application offre les mê
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Service souverain et responsable de visioconférences</button>
+    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
     <div class="accordion-content" id="visioconférences">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Le projet de “service souverain et responsable de visioconférences” de la Direction du numérique pour l’éducation (DNE) a consisté à déployer à massivement le logiciel libre BigBlueButton (BBB), à l’échelle du ministère de l’éducation nationale et de son grand nombre d’utilisateurs, pour répondre à plusieurs besoins et de disposer :</i>
