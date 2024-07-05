@@ -59,14 +59,12 @@ function myFunction(id) {
       <button onclick="myFunction('Laboé-SI')" id="accordion-button-2" class="accordion-title" aria-controls="Laboé-SI" aria-expanded="false">Laboé-SI : le système d'information national destiné à centraliser les analyses de biologie médicale</button>
       <div class="accordion-content" id="Laboé-SI">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-        <ul>
           <p><i>"LABOé-SI (nouveau nom de l’Entrepot National des Données de Biologie - ENDB) est un système d'information national destiné à centraliser les analyses de biologie médicale, afin de soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l'amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens."</i></p>
           <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
           <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
           <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
           <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
-        </ul>
       </div>
     </div>
   </div>
@@ -75,8 +73,7 @@ function myFunction(id) {
       <button onclick="myFunction('Géoplateforme')" id="accordion-button-3" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique</button>
       <div class="accordion-content" id="Géoplateforme">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-        <ul>
-          <p><i>"La Géoplateforme est LE nouvel espace public de l’information géographique, qui a pour objectif d’<strong>optimiser la production</strong> et la diffusion des géodonnées au service de la décision publique. Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite la construction de portails et applications thématiques qui utilisent des données géographiques. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci."</i></p>
+        <p><i>"La Géoplateforme est LE nouvel espace public de l’information géographique, qui a pour objectif d’<strong>optimiser la production</strong> et la diffusion des géodonnées au service de la décision publique. Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite la construction de portails et applications thématiques qui utilisent des données géographiques. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci."</i></p>
           <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ? </strong></p>
           <p><i>"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur Internet. D’où la nécessité de disposer d’une infrastructure disponible, performante et capable de s’adapter à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa capacité d’innover, d’améliorer la gestion de ses services numériques notamment en termes de résilience et de répondre plus efficacement aux besoins du public."</i></p>
           <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
@@ -84,10 +81,11 @@ function myFunction(id) {
             La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-communaute"> communauté Géoplateforme</a> sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
           <p><strong>Quels ont été les principaux défis organisationnels rencontrés et comment les avez-vous surmontés ?</strong></p>
           <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
+        <ul>
           <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme <a href="https://cartes.gouv.fr"> cartes.gouv.fr</a> l’IGN a adapté l’application <a href="https://geoportail.gouv.fr"> geoportail.gouv.fr</a> pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
           <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « <a href="https://www.ign.fr/telechargez-application-cartographique-cartes-ign"> Cartes IGN</a> » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
-          <p>Témoignage de l’Institut national de l’information géographique et forestière</p>
         </ul>
+          <p>Témoignage de l’Institut national de l’information géographique et forestière</p>
       </div>
     </div>
   </div>
