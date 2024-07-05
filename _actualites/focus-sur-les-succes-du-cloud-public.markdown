@@ -137,10 +137,10 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
             <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (https://data.shom.fr, https://diffusion.shom.fr et https://maree.shom.fr), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
       </ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
-            <p><i>"Un accord cadre a été mis en place pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du Shom. Une équipe projet du SHOM s’est organisée pour assurer les aspects administratifs (montage dossier, gestion projet, rendre compte) et techniques dont SSI."</i></p>
+            <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt contenant les données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. Le choix d’une solution cloud qualifiée SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles, comme les données liées à la sécurité de la navigation. Cette migration a permis de réduire les coûts d’exploitation courante liés à l’infrastructure de diffusion, mais a en revanche a accru le coût d’hébergement."</i></p>
       <ul>
             <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
-            <p><i>"Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?"</i></p>
+            <p><i>"L’articulation entre, d’une part, l’intervention d’un prestataire prévue par un accord cardre pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du Shom, et, d’autre part, la mise en place au sein du Shom d’une équipe projet pour assurer les aspects administratifs (montage dossier, gestion projet, rendre compte) et techniques, dont la sécurité des systèmes d’information."</i></p>
       </ul>
     </div>
   </div>
@@ -182,7 +182,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     </div>
   </div>
   </div>
-<div class="margin-bottom-8 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('vie-publique')" id="accordion-button" class="accordion-title" aria-controls="vie-publique" aria-expanded="false">Le site vie-publique.fr</button>
     <div class="accordion-content" id="vie-publique">
@@ -195,5 +195,8 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
       <ul>
             <p><strong>Y-a-il eu un impact organisationnel de cette transformation ?</strong></p>
 <p><i>"Oui ! Nous sommes passés à d’une organisation avec des intégrateurs sur site à une usine de développement utilisant une plateforme CI/CD (Intégration Continue/Déploiement Continu) et des scripts de déploiement, qui permettent de développer des outils mutualisés permettant s’adapter rapidement aux besoins métiers (changement de fournisseur, gestion de la tarification, résilience…). La création de pipelines pour tous les projets par l’équipe socle permet de réduire le besoin en accompagnement des équipes de développement des projets. Cette transformation a représenté un important effort de formation de nos équipes, une composante cruciale pour la réussite du projet."</i></p>
-      </ul>
             <p>Témoignage de la direction de l'information légale et administrative</p>
+      </ul>
+    </div>
+  </div>
+  </div>
