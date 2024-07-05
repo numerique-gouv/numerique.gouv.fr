@@ -97,10 +97,12 @@ function myFunction(id) {
       <div class="accordion-content" id="numérique-en-santé">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
         <ul>
-          <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :
+          <i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :</i>
+            <ul>
             <li><i><strong>Le SI-SAMU</strong>, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.</i></li>
             <li><i><strong>Le SI-VIC</strong>, système d’information pour le suivi des victimes d’attentats et de situations sanitaires exceptionnelles, où plus de 700 000 dossiers ont été créés dans le cadre du suivi de l’épidémie Covid-19.</i></li>
-            <li><i><strong>Le SICAP</strong>, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</i></li></p>
+            <li><i><strong>Le SICAP</strong>, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</i></li>
+            </ul>
           <p><strong>En quoi le recours au cloud est-il déterminant pour votre projet ?</strong></p>
           <p><i>"L’hébergement de ces systèmes d’information sur des solutions de confiance qualifiées SecNumCloud et HDS permet d’assurer un haut de niveau de sécurité des données recueillies. En outre, les technologies cloud apportent elasticité et scalabilité, permettant de prendre en charge une forte variabilité et un grand volume de demandes et de données. Le cloud facilite également la transférabilité lors des changements de marché de TMA/infogérance en conservant l’applicatif sur le même hébergeur Cloud."</i></p>
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
