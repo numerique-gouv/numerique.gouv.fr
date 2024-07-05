@@ -1,5 +1,5 @@
 ---
-title: Focus sur les succès du cloud public
+title: 10 témoignages sur les succès du cloud public
 date: 2024-07-03 13:49:00 +02:00
 categories:
 - Actualités
