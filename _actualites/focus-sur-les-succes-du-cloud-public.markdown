@@ -103,6 +103,8 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
       <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
         <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme <a href="https://cartes.gouv.fr"> cartes.gouv.fr</a> l’IGN a adapté l’application <a href="https://geoportail.gouv.fr"> geoportail.gouv.fr</a> pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
         <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « <a href="https://www.ign.fr/telechargez-application-cartographique-cartes-ign"> Cartes IGN</a> » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
+      </ul>
+      <ul>
             <p>Témoignage de l’Institut national de l’information géographique et forestière</p>
       </ul>
     </div>
@@ -114,13 +116,15 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
     <div class="accordion-content" id="numérique-en-santé">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
-        <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :
-<br>
-Le SI-SAMU, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.
-<br>
-Le SI-VIC, système d’information pour le suivi des victimes d’attentats et de situations sanitaires exceptionnelles, où plus de 700 000 dossiers ont été créés dans le cadre du suivi de l’épidémie Covid-19.
-<br>
-Le SICAP, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</br></i></p>
+        <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :</p>
+      <ul>
+        <li><i><strong>Le SI-SAMU</strong>, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.</i></li>
+      </ul>
+      <ul>
+        <li><i><strong>Le SI-VIC</strong>, système d’information pour le suivi des victimes d’attentats et de situations sanitaires exceptionnelles, où plus de 700 000 dossiers ont été créés dans le cadre du suivi de l’épidémie Covid-19.</i></li>
+      </ul>
+      <ul>
+        <li><i><strong>Le SICAP</strong>, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</i></li>
       </ul>
             <p><strong>En quoi le recours au cloud est-il déterminant pour votre projet ?</strong></p>
       <ul>
@@ -233,15 +237,16 @@ En termes d’usages, la première génération de l’application offre les mê
     <div class="accordion-content" id="visioconférences">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Le projet de “service souverain et responsable de visioconférences” de la Direction du numérique pour l’éducation (DNE) a consisté à déployer à massivement le logiciel libre BigBlueButton (BBB), à l’échelle du ministère de l’éducation nationale et de son grand nombre d’utilisateurs, pour répondre à plusieurs besoins et de disposer :</i>
+      <ul>
         <li><i>d’un service de visioconférence pour les 1,2 millions d’agents du ministère ;</i></li>
         <li><i>d’un service visioconférence pour tous les agents de l’État ;</i></li>
         <li><i>d’un service de classe virtuelle pour les 850 000 enseignants et 12 millions d’élèves, permettant la continuité pédagogique dans le cas d’une fermeture de classe, partielle ou complète, en proposant un environnement de travail complet : vidéo, tableau blanc, votes, partage de documents, etc. ;</i></li>
         <li><i>ainsi que de mettre à disposition des universités des plateformes répondant aux besoins d’enseignement à distance pour les 1,6 millions d’étudiants."</i></li>
+      </ul>
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Le recours au Cloud public a été naturel afin de disposer de l’élasticité nécessaire des plateformes et payer à l’usage les infrastructures sous-jacentes au service délivré. Chacune des plateformes BigBlueButton est constituée de plusieurs instances qui permettent d’accueillir les participants aux webinaires/visioconférence/classes virtuelles. Dès le lancement du projet, une logique de provisionnement de ces instances a été retenu, avec un principe d’extinction des instances inutilisées les soirs, week-ends et congés scolaires. Elle était mise en œuvre grâce à un agenda et des créneaux horaires permettant la programmation de la mise en service ou l’extinction de chaque instance, et ainsi la réduction de 40 % de la facturation des ressources réservées mais éteintes.
-Dans un second temps, un algorithme d’observation de l’usage des différentes plateformes a été introduit, afin de restituer ou de provisionner dynamiquement les instances. L’algorithme développé permet à la fois de maintenir une marge suffisante d’instances provisionnées, pour que les webinaires puissent démarrer instantanément sans délai de provisionnement (minimum 3 minutes), et de réduire les ressources sur la base de l’observation des instances inutilisées (restitution complète des ressources informatiques, qui ne sont donc pas facturées).
-Concrètement, en cas de confinement par exemple, le recours à ces service augmente drastiquement et donc le besoin d’instances est massif. En revanche, posséder et entretenir une telle infrastructure dans la durée n’a pas de sens et est très couteux : le recours au Cloud public prend tout son sens, et permet non seulement une maîtrise de la dépense, mais aussi de l’empreinte carbone et donc une prise de responsabilités en matière énergétique.
+Dans un second temps, un algorithme d’observation de l’usage des différentes plateformes a été introduit, afin de restituer ou de provisionner dynamiquement les instances. L’algorithme développé permet à la fois de maintenir une marge suffisante d’instances provisionnées, pour que les webinaires puissent démarrer instantanément sans délai de provisionnement (minimum 3 minutes), et de réduire les ressources sur la base de l’observation des instances inutilisées (restitution complète des ressources informatiques, qui ne sont donc pas facturées). Concrètement, en cas de confinement par exemple, le recours à ces service augmente drastiquement et donc le besoin d’instances est massif. En revanche, posséder et entretenir une telle infrastructure dans la durée n’a pas de sens et est très couteux : le recours au Cloud public prend tout son sens, et permet non seulement une maîtrise de la dépense, mais aussi de l’empreinte carbone et donc une prise de responsabilités en matière énergétique.
 Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapidement sur la plupart des offres Cloud Public, dès lors que des API sont disponibles pour assurer le provisionnement ou dé-provisionnement des ressources par code. Le choix de l’offre ne s’est pas porté sur une solution qualifiée SecNumCloud dès lors que la nature des données hébergées ne le nécessitait pas."</i></p>
       </ul>
       <ul>
@@ -249,9 +254,6 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
             <p><i>"L’approche pluridisciplinaire, l’écosystème qui s’est créé et le niveau de coopération des acteurs dans ce projet porté par la DNE. Le ministère de l’Éducation nationale et de la Jeunesse a initié les travaux et a su fédérer largement, avec notamment la Direction interministérielle du numérique ou le ministère de l’Enseignement supérieur, qui cherchaient à lancer des services équivalents. La mise en commun des besoins a permis de massifier l’usage dans le Cloud du logiciel BigBlueButton et d’améliorer le logiciel libre BigBlueButton via des évolutions fonctionnelles ou techniques. Nous poursuivons les travaux d’amélioration fonctionnelle ou ergonomique de la solution en lien avec Blindsidenetwork qui développe BigBlueButton."</i></p>
             <p>Témoignage de la direction du numérique pour l’éducation</p>
       </ul>
-    </div>
-  </div>
-  </div>
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
 <br>
