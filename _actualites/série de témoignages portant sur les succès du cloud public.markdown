@@ -43,14 +43,14 @@ function myFunction(id) {
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
         <p><i>"La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site <a href="https://www.service-public.fr/">service-public.fr</a>, et leur offre également la possibilité d’interroger leur situation électorale."</i></p>
         <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
-        <ul>
           <p><i>"L’hébergement de cette application dans une solution cloud apporte deux avantages majeurs</i></p>
+        <ul>
           <li><i><strong>L’élasticité</strong>, qui permettent de prendre en charge instantanément une très grande variation du nombre de transactions réalisées dans l’application sans dégradation du service. A l’approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L’élasticité du cloud permet en quelque sorte de s’adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.</i></li>
           <li><i><strong>La sécurité</strong> est indispensable car le niveau de criticité de cette application est élevé (dès lors qu’elle peut par exemple faire l’objet d’une attaque de la part une puissance étrangère), de même que les données qu’elle héberge sont sensibles. Par conséquent, le choix s’est porté sur l’offre du fournisseur sélectionné, qualifié SecNumCloud par l’ANSSI."</i></li>
+        </ul>
           <p><strong>Quels sont les autres avantages que le cloud présente pour vos activités ?</strong></p>
           <p><i>"Le cloud apporte également de la résilience à l’application : les redondances mises en place permettent d’éliminer le risque de rupture de service en cas de problème technique sur l’un des hébergements. De plus, le déploiement de l’application a été complètement automatisé par la DILA, si bien qu’il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. [Cela offre une grande réactivité et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d’organisation d’élections anticipées dans un court délai - commentaire peut être trop en lien avec l’actualité]. Ce script d’automatisation a servi à la DILA de modèle pour l’automatisation d’autres applications."</i></p>
           <p>Témoignage de la direction de l'information légale et administrative</p>
-        </ul>
       </div>
     </div>
   </div>
