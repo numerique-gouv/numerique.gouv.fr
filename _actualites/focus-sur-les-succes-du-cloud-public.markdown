@@ -1,5 +1,5 @@
 ---
-title: 10 témoignages sur les succès du cloud public
+title: 'Cloud : série de témoignages portant sur les succès du cloud public'
 date: 2024-07-03 13:49:00 +02:00
 categories:
 - Actualités
@@ -7,17 +7,19 @@ tags:
 - Cloud
 - Numérique
 - Sécurité
-chapeau-text: "De nombreux projets d'utilité publique ont été rendus possibles grâce
-  au cloud ces dernières années, notamment dans le domaine de la dématérialisation,
-  donnant ainsi une opportunité au cœur des enjeux de simplification et d’accessibilité
-  des services publics.\n\nLa migration vers le cloud de l’État est un moyen de produire
-  des services numériques plus réactifs, centrés sur les utilisateurs, plus performants
-  et plus durables. "
+chapeau-text: 'L’informatique en nuage (Cloud computing) est une formidable opportunité
+  pour accélérer la transformation numérique des administrations. Après la publication
+  de la doctrine « Cloud au centre » de l’État en 2021, la direction interministérielle
+  du numérique (DINUM), intervenant en tant que cheffe de file du numérique de l’État,
+  publie une série de X témoignages de responsables de projets cloud. L’objectif :
+  encourager les acteurs publics à se saisir du plein potentiel du cloud et ainsi
+  développer une nouvelle génération de services numériques de qualité, tout en protégeant
+  au mieux les données des entreprises et des citoyens français.'
 une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-À travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de service, c’est un changement de culture transformateur qui s’engage au sein des équipes et entités.
+À travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de service, c’est un changement de culture transformateur qui s’engage au sein des équipes et entités. 
 
 <script>
   function myFunction(id) {
@@ -242,3 +244,11 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
     </div>
   </div>
   </div>
+
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
+
+<a href="https://www.numerique.gouv.fr/espace-presse/">Lire le communiqué de presse</a>
+
+Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
+
+<a href="https://www.numerique.gouv.fr/services/cloud/squads/#contenu">En savoir plus sur le cloud de l’État et solliciter l’accompagnement de la DINUM à travers ses experts cloud de la brigade d'intervention numérique</a>
