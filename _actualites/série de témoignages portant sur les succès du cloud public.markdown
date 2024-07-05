@@ -64,14 +64,14 @@ une-ou-diaporama:
         <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
             <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
         <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
-            <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
+      <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
       </ul>
     </div>
   </div>
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique</button>
+   <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique</button>
     <div class="accordion-content" id="Géoplateforme">
       <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
