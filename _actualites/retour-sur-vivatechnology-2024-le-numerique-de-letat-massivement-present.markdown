@@ -1,6 +1,7 @@
 ---
 title: 'Retour sur VivaTechnology 2024 : le numérique de l’État massivement présent'
 date: 2024-06-05 14:52:00 +02:00
+published: false
 categories:
 - Article
 tags:
@@ -20,6 +21,7 @@ une-ou-diaporama:
 En participant pour la deuxième année consécutive à VivaTech, le plus grand événement européen de l’innovation technologique, les directions engagées dans la transformation numérique de l’État présentaient, aux professionnels de la tech et au grand public, au sein d’un stand unique, leurs projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 
 ![ima_c551454.jpeg](/uploads/ima_c551454.jpeg)
+*Lauren Tron, responsable des partenariats département opérateur des produits interministériels de la DINUM*
 
 ## **Le numérique de l’État massivement représenté**
 
@@ -52,6 +54,7 @@ En savoir plus : [https://www.numerique.gouv.fr/services/la-suite/](https://www.
 Dans la continuité, Marie Lebec, ministre chargée des Relations avec le Parlement et Catherine Vautrin, ministre du Travail, de la Santé et des Solidarités, se sont également rendues sur place pour échanger avec les agents publics et découvrir les innovations technologiques de l’État.
 
 ![IMG_3310.jpeg](/uploads/IMG_3310.jpeg)
+  *Stanislas Guerini, Ministre de la Transformation et de la Fonction publiques*
 
 ### **Vendredi 24 mai**
 
@@ -60,6 +63,7 @@ Pour la dernière journée dédiée aux professionnels du numérique, Marina Fer
 Une occasion aussi pour l’État de revenir sur la confiance des français en FranceConnect qui progresse de 14 points en 5 ans soit 79 % cette année contre 65 % en 2019 selon le baromètre de l’association de l’économie numérique (Acsel).
 
 ![vednre.jpg](/uploads/vednre.jpg)
+ *De gauche à droite : Marina Ferrari, Secrétaire d'État auprès du ministre de l'Économie, des Finances et de la Souveraineté industrielle et numérique, chargée du Numérique et Pierre-Etienne Devineau, data scientist au pôle Etalab e la DINUM. *
 
 ### **Samedi 25 mai**
 
@@ -74,7 +78,7 @@ La place des femmes dans la tech et la féminisation de la filière numérique d
 Le dernier jour du salon, Elisabeth Borne, Première ministre de 2022 à 2024 a échangé avec les agents engagés dans la création de l’IA souveraine et la création de BaseGun, un outil d’IA du ministère de l’Intérieur et des Outre-mer permettant d’identifier et classer instantanément une arme sur le terrain.
 
 ![ima_52ea046.jpeg](/uploads/ima_52ea046.jpeg)
-
+*De la gauche à droite : Stéphanie Schaer, directrice interministérielle du numérique et *
 La DINUM remercie l’ensemble des administrations, des agents publics, des collaborateurs et l’équipe VivaTech pour avoir, ensemble, contribué à la réussite de cette nouvelle édition.
 
 **Administrations engagées dans la transformation numérique de l’État, vous souhaitez rejoindre le pavillon numérique de l’État à VivaTech en 2025 ? Contactez l’équipe communication de la DINUM : [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)**
