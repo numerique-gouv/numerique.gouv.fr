@@ -116,10 +116,8 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
             <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (<a href="https://data.shom.fr">data.shom.fr</a>, <a href="https://diffusion.shom.fr">diffusion.shom.fr</a> et <a href="https://maree.shom.fr ">maree.shom.fr</a>), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
-      </ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt contenant les données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. Le choix d’une solution cloud qualifiée SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles, comme les données liées à la sécurité de la navigation. Cette migration a permis de réduire les coûts d’exploitation courante liés à l’infrastructure de diffusion, mais a en revanche a accru le coût d’hébergement."</i></p>
-      <ul>
             <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
             <p><i>"L’articulation entre, d’une part, l’intervention d’un prestataire prévue par un accord cardre pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du Shom, et, d’autre part, la mise en place au sein du Shom d’une équipe projet pour assurer les aspects administratifs (montage dossier, gestion projet, rendre compte) et techniques, dont la sécurité des systèmes d’information."</i></p>
             <p>Témoignage du ministère des Armées</p>
@@ -133,15 +131,11 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
     <div class="accordion-content" id="cancérologie">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"La plateforme de données en cancérologie, développée par l’Institut national du cancer, est un entrepôt de données qui regroupe, dans les meilleures conditions de sécurité et de confidentialité, des données de santé issues de différentes sources. La mise en place de cette plateforme s’inscrit pleinement dans la stratégie décennale de lutte contre les cancers, qui prévoit la mobilisation de l’intelligence artificielle pour relever de nouveaux défis. L’Institut national du cancer prévoit à travers cette plateforme la mise à disposition de ces données dans un environnement de travail sécurisé pour les chercheurs dans le respect du cadre réglementaire. Elle ouvre des perspectives de travaux innovants sur, par exemple, les parcours de soins, l’association de données administratives et de données cliniques et sur les méthodes d’intelligence artificielle."</i></p>
-      <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Traitant les données de santé des français, il est indispensable de répondre aux exigences réglementaires correspondantes dont une des composantes est d’être HDS (Héberguer de données de santé). Cela nécessite de s’appuyer sur les experts certifiés afin d’assurer la sécurité et la conformité de la plateforme. Cela offre aussi une scalabilité plus importante afin de répondre aux besoins d’analyses à venir. Le fort besoin de réassurance et de garanties des personnes sur le traitement de leur données de santé a également été un argument dans le choix de cette stratégie d’hébergement."</i></p>
-      </ul>
-      <ul>
             <p><strong>Quels ont été les critères retenus dans la MŒ ?</strong></p>
             <p><i>"Qui dit maîtrise de nos données implique souveraineté sur l’hébergement ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi notre savoir-faire face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait parti des critères ayant conduit ce choix."</i></p>
             <p>Témoignage de l’Institut nationale du cancer</p>
-      </ul>
     </div>
   </div>
   </div>
@@ -154,12 +148,8 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Le principale clé a été la disponibilité de la ressource de calcul, déterminante pour de telles IA. Le cloud nous a permis d’avoir rapidement accès à ces ressources, dans des environnements sécurisés, en nous évitant de préjuger d’investissements qui auraient pu être lourds et mal dimensionnés, surtout en début de projet. Le cloud nous a donné une agilité précieuse pour avancer dans nos travaux."</i></p>
-      </ul>
-      <ul>
             <p><strong>Quelles sont les perspectives pour Albert ?</strong></p>
             <p><i>"L’IA n’échappe pas au risque du solutionnisme technologique. L’IA n’est pas une solution, mais une technologie au service d’une solution, elle-même au service d’un cas d’usage. Il est primordial de bien identifier les cas d’usage qui exploiteront la technologie de manière pertinente. Pour cela, tester, expérimenter est l’approche que nous privilégions, et le cloud se prête très bien à cette approche."</i></p>
-      </ul>
-      <ul>
             <p>Témoignage de la direction interministerielle du numérique</p>
       </ul>
     </div>
@@ -174,8 +164,6 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Alors que tous les développeurs partageaient la même plateforme de développement, ce qui créait des dépendances et interférences, ils disposent désormais chacun de leur environnement propre, qu’ils peuvent allumer ou éteindre chaque jour et indépendamment de leurs collègues, minimisant ainsi les coûts associés. Ces gains de flexibilité ont permis une amélioration du service, des mises à jour plus régulières du contenu du site, qui est moins sujet à des surcharges ou ruptures de service. Cette migration a également été l’occasion de réduire drastiquement le temps moyen de livraison des pages du site."</i></p>
-      </ul>
-      <ul>
             <p><strong>Y-a-il eu un impact organisationnel de cette transformation ?</strong></p>
 <p><i>"Oui ! Nous sommes passés à d’une organisation avec des intégrateurs sur site à une usine de développement utilisant une plateforme CI/CD (Intégration Continue/Déploiement Continu) et des scripts de déploiement, qui permettent de développer des outils mutualisés permettant s’adapter rapidement aux besoins métiers (changement de fournisseur, gestion de la tarification, résilience…). La création de pipelines pour tous les projets par l’équipe socle permet de réduire le besoin en accompagnement des équipes de développement des projets. Cette transformation a représenté un important effort de formation de nos équipes, une composante cruciale pour la réussite du projet."</i></p>
             <p>Témoignage de la direction de l'information légale et administrative</p>
@@ -192,8 +180,6 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Nous avons, dès le démarrage de notre projet, fait le choix d’une approche cloud pour bénéficier du haut niveau de confiance apporté par la certification SecNumCloud délivrée par l’ANSSI. Cela nous permet d’héberger le système d’information qui gère l’Appli carte Vitale en garantissant la sécurité et la protection des données personnelles des dizaines de millions d’assurés qui utiliseront l’application à l’avenir. La confiance est un facteur clé de succès indispensable : notre projet ne sera une réussite que si l’adoption par les utilisateurs se fait sans réserve. Par ailleurs, la solution cloud que nous avons retenue nous apporte les garanties nécessaires à une qualification eIDAS de niveau susbtantiel de notre application comme moyen d’identification électronique. Les certifications ISO 27001, bien que nécessaires, ne sont, à ce stade, pas suffisantes."</i></p>
-      </ul>
-      <ul>
             <p><strong>Quelles sont les prochaines étapes de votre projet ?</strong></p>
             <p><i>"L’application a été mise à disposition des assurés de huit premiers départements en juin 2023, un mode pilote étendu à 15 départements supplémentaires en juin 2024. Les prochaines étapes visent à étendre la disponibilité à l’ensemble du territoire pour la fin de l’année 2025. D’ici là, les modalités d’activation de l’application doivent être complétées, et notamment la possibilité de s’appuyer sur l’application France Identité Numérique - associée à la nouvelle Carte Nationale d’Identité électronique, qui permettra une activation plus rapide et sans recourir à la biométrie.
 En termes d’usages, la première génération de l’application offre les mêmes services que la carte Vitale lorsque l’assuré se trouve chez un professionnel de santé. Les générations suivantes lui permettront de s’identifier à son arrivée dans un établissement de santé ou encore de consulter les données de sa complémentaire santé en un seul geste, ce qui simplifiera drastiquement ses démarches, par exemple chez les médecins spécialistes ou les pharmaciens. Enfin, l’application offrira une clé d’accès simplifiée et sécurisée pour accéder aux services de santé numériques de l’ensemble de l’écosystème, acteurs publics comme privés."</i></p>
@@ -213,18 +199,18 @@ En termes d’usages, la première génération de l’application offre les mê
         <li><i>d’un service visioconférence pour tous les agents de l’État ;</i></li>
         <li><i>d’un service de classe virtuelle pour les 850 000 enseignants et 12 millions d’élèves, permettant la continuité pédagogique dans le cas d’une fermeture de classe, partielle ou complète, en proposant un environnement de travail complet : vidéo, tableau blanc, votes, partage de documents, etc. ;</i></li>
         <li><i>ainsi que de mettre à disposition des universités des plateformes répondant aux besoins d’enseignement à distance pour les 1,6 millions d’étudiants."</i></li>
-      </ul>
-      <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Le recours au Cloud public a été naturel afin de disposer de l’élasticité nécessaire des plateformes et payer à l’usage les infrastructures sous-jacentes au service délivré. Chacune des plateformes BigBlueButton est constituée de plusieurs instances qui permettent d’accueillir les participants aux webinaires/visioconférence/classes virtuelles. Dès le lancement du projet, une logique de provisionnement de ces instances a été retenu, avec un principe d’extinction des instances inutilisées les soirs, week-ends et congés scolaires. Elle était mise en œuvre grâce à un agenda et des créneaux horaires permettant la programmation de la mise en service ou l’extinction de chaque instance, et ainsi la réduction de 40 % de la facturation des ressources réservées mais éteintes.
 Dans un second temps, un algorithme d’observation de l’usage des différentes plateformes a été introduit, afin de restituer ou de provisionner dynamiquement les instances. L’algorithme développé permet à la fois de maintenir une marge suffisante d’instances provisionnées, pour que les webinaires puissent démarrer instantanément sans délai de provisionnement (minimum 3 minutes), et de réduire les ressources sur la base de l’observation des instances inutilisées (restitution complète des ressources informatiques, qui ne sont donc pas facturées). Concrètement, en cas de confinement par exemple, le recours à ces service augmente drastiquement et donc le besoin d’instances est massif. En revanche, posséder et entretenir une telle infrastructure dans la durée n’a pas de sens et est très couteux : le recours au Cloud public prend tout son sens, et permet non seulement une maîtrise de la dépense, mais aussi de l’empreinte carbone et donc une prise de responsabilités en matière énergétique.
 Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapidement sur la plupart des offres Cloud Public, dès lors que des API sont disponibles pour assurer le provisionnement ou dé-provisionnement des ressources par code. Le choix de l’offre ne s’est pas porté sur une solution qualifiée SecNumCloud dès lors que la nature des données hébergées ne le nécessitait pas."</i></p>
-      </ul>
-      <ul>
             <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
             <p><i>"L’approche pluridisciplinaire, l’écosystème qui s’est créé et le niveau de coopération des acteurs dans ce projet porté par la DNE. Le ministère de l’Éducation nationale et de la Jeunesse a initié les travaux et a su fédérer largement, avec notamment la Direction interministérielle du numérique ou le ministère de l’Enseignement supérieur, qui cherchaient à lancer des services équivalents. La mise en commun des besoins a permis de massifier l’usage dans le Cloud du logiciel BigBlueButton et d’améliorer le logiciel libre BigBlueButton via des évolutions fonctionnelles ou techniques. Nous poursuivons les travaux d’amélioration fonctionnelle ou ergonomique de la solution en lien avec Blindsidenetwork qui développe BigBlueButton."</i></p>
             <p>Témoignage de la direction du numérique pour l’éducation</p>
       </ul>
+    </div>
+  </div>
+</div>  
+
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
 
 <p>Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre</p>
