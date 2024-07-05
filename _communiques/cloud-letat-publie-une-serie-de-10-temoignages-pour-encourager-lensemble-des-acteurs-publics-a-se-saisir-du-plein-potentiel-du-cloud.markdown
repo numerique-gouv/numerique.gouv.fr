@@ -17,6 +17,8 @@ chapeau-text: 'L’informatique en nuage (Cloud computing) est une formidable op
   : encourager les acteurs publics à se saisir du plein potentiel du cloud et ainsi
   développer une nouvelle génération de services numériques de qualité, tout en protégeant
   au mieux les données des entreprises et des citoyens français.'
+une-ou-diaporama:
+- image: "/uploads/Design%20sans%20titre-5642e4.jpg"
 ---
 
 À travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de services, c’est un changement de culture transformateur qui s’engage au sein des équipes et des entités.
