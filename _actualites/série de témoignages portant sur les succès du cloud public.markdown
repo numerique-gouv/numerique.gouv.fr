@@ -55,7 +55,7 @@ une-ou-diaporama:
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Laboé-SI')" id="accordion-button" class="accordion-title" aria-controls="Laboé-SI" aria-expanded="false">Laboé-SI:le système d'information national destiné à centraliser les analyses de biologie médicale</button>
+    <button onclick="myFunction('Laboé-SI')" id="accordion-button" class="accordion-title" aria-controls="Laboé-SI" aria-expanded="false">Laboé-SI : le système d'information national destiné à centraliser les analyses de biologie médicale</button>
     <div class="accordion-content" id="Laboé-SI">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
