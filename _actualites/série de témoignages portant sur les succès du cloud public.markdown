@@ -94,7 +94,6 @@ function myFunction(id) {
       <button onclick="myFunction('numérique-en-santé')" id="accordion-button-4" class="accordion-title" aria-controls="numérique-en-santé" aria-expanded="false">Les systèmes d’information de l’Agence du numérique en santé (ANS)</button>
       <div class="accordion-content" id="numérique-en-santé">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-        <ul>
           <i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :</i>
             <ul>
             <li><i><strong>Le SI-SAMU</strong>, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.</i></li>
@@ -106,7 +105,6 @@ function myFunction(id) {
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
           <p><i>"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins de sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) ; et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."</i></p>
           <p>Témoignage de l’Agence Numérique en Santé</p>
-        </ul>
       </div>
     </div>
   </div>
@@ -115,14 +113,12 @@ function myFunction(id) {
       <button onclick="myFunction('océanographique')" id="accordion-button-5" class="accordion-title" aria-controls="océanographique" aria-expanded="false">Le Service hydrographique et océanographique de la marine (SHOM)</button>
       <div class="accordion-content" id="océanographique">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-        <ul>
           <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (<a href="https://data.shom.fr">data.shom.fr</a>, <a href="https://diffusion.shom.fr">diffusion.shom.fr</a> et <a href="https://maree.shom.fr ">maree.shom.fr</a>), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
           <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
           <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt contenant les données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. Le choix d’une solution cloud qualifiée SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles, comme les données liées à la sécurité de la navigation. Cette migration a permis de réduire les coûts d’exploitation courante liés à l’infrastructure de diffusion, mais a en revanche a accru le coût d’hébergement."</i></p>
           <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
           <p><i>"L’articulation entre, d’une part, l’intervention d’un prestataire prévue par un accord cardre pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du Shom, et, d’autre part, la mise en place au sein du Shom d’une équipe projet pour assurer les aspects administratifs (montage dossier, gestion projet, rendre compte) et techniques, dont la sécurité des systèmes d’information."</i></p>
           <p>Témoignage du ministère des Armées</p>
-        </ul>
       </div>
     </div>
   </div>
@@ -146,13 +142,11 @@ function myFunction(id) {
       <div class="accordion-content" id="Albert">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
         <p><i>"Albert est l’IA générative souveraine de l’État libre et ouverte, développée par la direction interministérielle du numérique (DINUM). Il s’agit de proposer une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Par exemple libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage."</i></p>
-        <ul>
           <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
           <p><i>"Le principale clé a été la disponibilité de la ressource de calcul, déterminante pour de telles IA. Le cloud nous a permis d’avoir rapidement accès à ces ressources, dans des environnements sécurisés, en nous évitant de préjuger d’investissements qui auraient pu être lourds et mal dimensionnés, surtout en début de projet. Le cloud nous a donné une agilité précieuse pour avancer dans nos travaux."</i></p>
           <p><strong>Quelles sont les perspectives pour Albert ?</strong></p>
           <p><i>"L’IA n’échappe pas au risque du solutionnisme technologique. L’IA n’est pas une solution, mais une technologie au service d’une solution, elle-même au service d’un cas d’usage. Il est primordial de bien identifier les cas d’usage qui exploiteront la technologie de manière pertinente. Pour cela, tester, expérimenter est l’approche que nous privilégions, et le cloud se prête très bien à cette approche."</i></p>
           <p>Témoignage de la direction interministerielle du numérique</p>
-        </ul>
       </div>
     </div>
   </div>
@@ -168,7 +162,6 @@ function myFunction(id) {
           <p><strong>Y-a-il eu un impact organisationnel de cette transformation ?</strong></p>
           <p><i>"Oui ! Nous sommes passés à d’une organisation avec des intégrateurs sur site à une usine de développement utilisant une plateforme CI/CD (Intégration Continue/Déploiement Continu) et des scripts de déploiement, qui permettent de développer des outils mutualisés permettant s’adapter rapidement aux besoins métiers (changement de fournisseur, gestion de la tarification, résilience…). La création de pipelines pour tous les projets par l’équipe socle permet de réduire le besoin en accompagnement des équipes de développement des projets. Cette transformation a représenté un important effort de formation de nos équipes, une composante cruciale pour la réussite du projet."</i></p>
           <p>Témoignage de la direction de l'information légale et administrative</p>
-        </ul>
       </div>
     </div>
   </div>
