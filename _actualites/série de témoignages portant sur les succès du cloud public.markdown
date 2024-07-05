@@ -1,6 +1,6 @@
 ---
 title: 'Cloud : série de témoignages portant sur les succès du cloud public'
-date: 2024-07-05 13:49:00 +02:00
+date: 2024-07-05 10:49:00 +02:00
 categories:
 - Actualités
 tags:
