@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-
+À travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de service, c’est un changement de culture transformateur qui s’engage au sein des équipes et entités.
 
 <script>
   function myFunction(id) {
