@@ -56,7 +56,7 @@ une-ou-diaporama:
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('Laboé-SI')" id="accordion-button" class="accordion-title" aria-controls="Laboé-SI" aria-expanded="false">Laboé-SI</button>
-    <div class="accordion-content" id="Laboé-SI">
+    <div class="accordion-content" id="Laboé-SI : : le système d'information national destiné à centraliser les analyses de biologie médicale">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"LABOé-SI (nouveau nom de l’Entrepot National des Données de Biologie - ENDB) est un système d'information national destiné à centraliser les analyses de biologie médicale, afin de soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l'amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens."</i></p>
@@ -71,7 +71,7 @@ une-ou-diaporama:
 </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme</button>
+    <button onclick="myFunction('Géoplateforme')" id="accordion-button" class="accordion-title" aria-controls="Géoplateforme" aria-expanded="false">La Géoplateforme : la plateforme dédiée à optimiser la production et la diffusion des géodatas au service de la décision publique.</button>
     <div class="accordion-content" id="Géoplateforme">
       <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
@@ -141,7 +141,7 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert" aria-expanded="false">Albert l'IA souveraine de l’État</button>
+    <button onclick="myFunction('Albert')" id="accordion-button" class="accordion-title" aria-controls="Albert" aria-expanded="false">Albert : l’IA générative souveraine de l’État libre et ouverte</button>
     <div class="accordion-content" id="Albert">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Albert est l’IA générative souveraine de l’État libre et ouverte, développée par la direction interministérielle du numérique (DINUM). Il s’agit de proposer une solution souveraine aux administrations qui souhaiteraient construire des produits numériques s’appuyant sur de l’IA générative. Par exemple libérer du temps aux agents pour de l’accompagnement humain des usagers, en facilitant la recherche de réponses souvent chronophage."</i></p>
@@ -173,7 +173,7 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('Sésame-Vitale')" id="accordion-button" class="accordion-title" aria-controls="Sésame-Vitale" aria-expanded="false">L'application Sésame Vitale</button>
+    <button onclick="myFunction('Sésame-Vitale')" id="accordion-button" class="accordion-title" aria-controls="Sésame-Vitale" aria-expanded="false">L'application Sésame Vitale des systèmes d’information des professionnels et établissements de santé</button>
     <div class="accordion-content" id="Sésame-Vitale">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"L’Identité Nationale de Santé, véhiculée par l’Appli carte Vitale permettra aux assurés d’accéder à leurs données de santé de manière sécurisée dans les nombreuses applications et nouveaux services en ligne qui émergent actuellement dans le domaine de la santé."</i></p>
@@ -190,7 +190,7 @@ En termes d’usages, la première génération de l’application offre les mê
   </div>
 <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
+    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Le service souverain et responsable de visioconférences de la direction du numérique pour l’Éducation</button>
     <div class="accordion-content" id="visioconférences">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Le projet de “service souverain et responsable de visioconférences” de la Direction du numérique pour l’éducation (DNE) a consisté à déployer à massivement le logiciel libre BigBlueButton (BBB), à l’échelle du ministère de l’éducation nationale et de son grand nombre d’utilisateurs, pour répondre à plusieurs besoins et de disposer :</i>
