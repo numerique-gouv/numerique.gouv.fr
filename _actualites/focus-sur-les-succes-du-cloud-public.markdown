@@ -222,7 +222,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
             <p><strong>Quelles sont les prochaines étapes de votre projet ?</strong></p>
             <p><i>"L’application a été mise à disposition des assurés de huit premiers départements en juin 2023, un mode pilote étendu à 15 départements supplémentaires en juin 2024. Les prochaines étapes visent à étendre la disponibilité à l’ensemble du territoire pour la fin de l’année 2025. D’ici là, les modalités d’activation de l’application doivent être complétées, et notamment la possibilité de s’appuyer sur l’application France Identité Numérique - associée à la nouvelle Carte Nationale d’Identité électronique, qui permettra une activation plus rapide et sans recourir à la biométrie.
 En termes d’usages, la première génération de l’application offre les mêmes services que la carte Vitale lorsque l’assuré se trouve chez un professionnel de santé. Les générations suivantes lui permettront de s’identifier à son arrivée dans un établissement de santé ou encore de consulter les données de sa complémentaire santé en un seul geste, ce qui simplifiera drastiquement ses démarches, par exemple chez les médecins spécialistes ou les pharmaciens. Enfin, l’application offrira une clé d’accès simplifiée et sécurisée pour accéder aux services de santé numériques de l’ensemble de l’écosystème, acteurs publics comme privés."</i></p>
-            <p>Témoignage de (?)</p>
+            <p>Témoignage du GIE SESAM-Vitale, un groupement expert des systèmes d’information des professionnels et établissements de santé</p>
       </ul>
     </div>
   </div>
