@@ -254,9 +254,9 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
   </div>
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
-
-<a href="https://www.numerique.gouv.fr/espace-presse/">Lire le communiqué de presse</a>
-
+<br>
 Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
-
+</br>
+<br>
 <a href="https://www.numerique.gouv.fr/services/cloud/squads/#contenu">En savoir plus sur le cloud de l’État et solliciter l’accompagnement de la DINUM à travers ses experts cloud de la brigade d'intervention numérique</a>
+</br>
