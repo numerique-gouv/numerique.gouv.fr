@@ -57,6 +57,7 @@ une-ou-diaporama:
             <p><strong>Quels sont les autres avantages que le cloud présente pour vos activités ?</strong></p>
       <ul>
         <p><i>"Le cloud apporte également de la résilience à l’application : les redondances mises en place permettent d’éliminer le risque de rupture de service en cas de problème technique sur l’un des hébergements. De plus, le déploiement de l’application a été complètement automatisé par la DILA, si bien qu’il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. [Cela offre une grande réactivité et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d’organisation d’élections anticipées dans un court délai - commentaire peut être trop en lien avec l’actualité]. Ce script d’automatisation a servi à la DILA de modèle pour l’automatisation d’autres applications."</i></p>
+            <p>Témoignage de la direction de l'information légale et administrative</p>
       </ul>
     </div>
   </div>
@@ -75,6 +76,7 @@ une-ou-diaporama:
             <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
       <ul>
         <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
+            <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
       </ul>
     </div>
   </div>
@@ -101,6 +103,7 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
       <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
         <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme <a href="https://cartes.gouv.fr"> cartes.gouv.fr</a> l’IGN a adapté l’application <a href="https://geoportail.gouv.fr"> geoportail.gouv.fr</a> pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
         <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « <a href="https://www.ign.fr/telechargez-application-cartographique-cartes-ign"> Cartes IGN</a> » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
+            <p>Témoignage de l’Institut national de l’information géographique et forestière</p>
       </ul>
     </div>
   </div>
@@ -126,6 +129,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
             <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
       <ul>
         <p><i>"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins de sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) ; et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."</i></p>
+            <p>Témoignage de l’Agence Numérique en Santé</p>
       </ul>
     </div>
   </div>
@@ -143,6 +147,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
       <ul>
             <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
             <p><i>"L’articulation entre, d’une part, l’intervention d’un prestataire prévue par un accord cardre pour les développements, la maintenance et l’hébergement de l’infrastructure de diffusion du Shom, et, d’autre part, la mise en place au sein du Shom d’une équipe projet pour assurer les aspects administratifs (montage dossier, gestion projet, rendre compte) et techniques, dont la sécurité des systèmes d’information."</i></p>
+            <p>Témoignage du ministère des Armées</p>
       </ul>
     </div>
   </div>
@@ -160,6 +165,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
       <ul>
             <p><strong>Quels ont été les critères retenus dans la MŒ ?</strong></p>
             <p><i>"Qui dit maîtrise de nos données implique souveraineté sur l’hébergement ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi notre savoir-faire face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait parti des critères ayant conduit ce choix."</i></p>
+            <p>Témoignage de l’Institut nationale du cancer</p>
       </ul>
     </div>
   </div>
@@ -216,6 +222,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
             <p><strong>Quelles sont les prochaines étapes de votre projet ?</strong></p>
             <p><i>"L’application a été mise à disposition des assurés de huit premiers départements en juin 2023, un mode pilote étendu à 15 départements supplémentaires en juin 2024. Les prochaines étapes visent à étendre la disponibilité à l’ensemble du territoire pour la fin de l’année 2025. D’ici là, les modalités d’activation de l’application doivent être complétées, et notamment la possibilité de s’appuyer sur l’application France Identité Numérique - associée à la nouvelle Carte Nationale d’Identité électronique, qui permettra une activation plus rapide et sans recourir à la biométrie.
 En termes d’usages, la première génération de l’application offre les mêmes services que la carte Vitale lorsque l’assuré se trouve chez un professionnel de santé. Les générations suivantes lui permettront de s’identifier à son arrivée dans un établissement de santé ou encore de consulter les données de sa complémentaire santé en un seul geste, ce qui simplifiera drastiquement ses démarches, par exemple chez les médecins spécialistes ou les pharmaciens. Enfin, l’application offrira une clé d’accès simplifiée et sécurisée pour accéder aux services de santé numériques de l’ensemble de l’écosystème, acteurs publics comme privés."</i></p>
+            <p>Témoignage de (?)</p>
       </ul>
     </div>
   </div>
@@ -240,6 +247,7 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
       <ul>
             <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
             <p><i>"L’approche pluridisciplinaire, l’écosystème qui s’est créé et le niveau de coopération des acteurs dans ce projet porté par la DNE. Le ministère de l’Éducation nationale et de la Jeunesse a initié les travaux et a su fédérer largement, avec notamment la Direction interministérielle du numérique ou le ministère de l’Enseignement supérieur, qui cherchaient à lancer des services équivalents. La mise en commun des besoins a permis de massifier l’usage dans le Cloud du logiciel BigBlueButton et d’améliorer le logiciel libre BigBlueButton via des évolutions fonctionnelles ou techniques. Nous poursuivons les travaux d’amélioration fonctionnelle ou ergonomique de la solution en lien avec Blindsidenetwork qui développe BigBlueButton."</i></p>
+            <p>Témoignage de la direction du numérique pour l’éducation</p>
       </ul>
     </div>
   </div>
