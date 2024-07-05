@@ -231,9 +231,8 @@ En termes d’usages, la première génération de l’application offre les mê
     </div>
   </div>
   </div>
-<div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
+    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
     <div class="accordion-content" id="visioconférences">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Le projet de “service souverain et responsable de visioconférences” de la Direction du numérique pour l’éducation (DNE) a consisté à déployer à massivement le logiciel libre BigBlueButton (BBB), à l’échelle du ministère de l’éducation nationale et de son grand nombre d’utilisateurs, pour répondre à plusieurs besoins et de disposer :</i>
@@ -254,11 +253,11 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
             <p><i>"L’approche pluridisciplinaire, l’écosystème qui s’est créé et le niveau de coopération des acteurs dans ce projet porté par la DNE. Le ministère de l’Éducation nationale et de la Jeunesse a initié les travaux et a su fédérer largement, avec notamment la Direction interministérielle du numérique ou le ministère de l’Enseignement supérieur, qui cherchaient à lancer des services équivalents. La mise en commun des besoins a permis de massifier l’usage dans le Cloud du logiciel BigBlueButton et d’améliorer le logiciel libre BigBlueButton via des évolutions fonctionnelles ou techniques. Nous poursuivons les travaux d’amélioration fonctionnelle ou ergonomique de la solution en lien avec Blindsidenetwork qui développe BigBlueButton."</i></p>
             <p>Témoignage de la direction du numérique pour l’éducation</p>
       </ul>
+</div>
 
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
-<br>
+
 Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
-</br>
-<br>
+      <ul>
 <a href="https://www.numerique.gouv.fr/services/cloud/squads/#contenu">En savoir plus sur le cloud de l’État et solliciter l’accompagnement de la DINUM à travers ses experts cloud de la brigade d'intervention numérique</a>
-</br>
+      </ul>
