@@ -40,7 +40,7 @@ une-ou-diaporama:
     <div class="accordion-content" id="listes-électorales">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
-        <p><i>"La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site [service-public.fr](https://www.service-public.fr/), et leur offre également la possibilité d’interroger leur situation électorale."</i></p>
+        <p><i>"La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site <a href="https://www.service-public.fr/">service-public.fr</a>, et leur offre également la possibilité d’interroger leur situation électorale."</i></p>
       </ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
       <ul>
@@ -92,13 +92,13 @@ une-ou-diaporama:
       </ul>
       <ul>
       <p><i>"La Géoplateforme devant traiter plus de 250 millions de requêtes utilisateurs par jour avec une optimisation des temps de réponse, l’organisation du projet a nécessité une implication forte de l’ensemble des parties prenantes du projet. Cela s’est traduit notamment par l’organisation d’ateliers d’intelligence collective pour la conception du système, de nombreux tests sous forme de POC (Proof of concept), mais également la mise en œuvre de task force sur des sujets plus techniques en impliquant notamment le fournisseur de cloud (OVHCloud).
-La création d’une communauté Géoplateforme sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
+La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-communaute"> communauté Géoplateforme</a> sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
       </ul>
       <p><strong>Quels ont été les principaux défis organisationnels rencontrés et comment les avez-vous surmontés ?</strong></p>
       <ul>
       <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
-        <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme https://cartes.gouv.fr), l’IGN a adapté l’application https://geoportail.gouv.fr pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
-        <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « Cartes IGN » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
+        <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme <a href="https://cartes.gouv.fr"> cartes.gouv.fr</a> l’IGN a adapté l’application <a href="https://geoportail.gouv.fr"> geoportail.gouv.fr</a> pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
+        <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « <a href="https://www.ign.fr/telechargez-application-cartographique-cartes-ign"> Cartes IGN</a> » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
       </ul>
     </div>
   </div>
@@ -134,7 +134,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     <div class="accordion-content" id="océanographique">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
-            <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (https://data.shom.fr, https://diffusion.shom.fr et https://maree.shom.fr), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
+            <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (<a href="https://data.shom.fr">data.shom.fr</a>, <a href="https://diffusion.shom.fr">diffusion.shom.fr</a> et <a href="https://maree.shom.fr ">maree.shom.fr</a>), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
       </ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt contenant les données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. Le choix d’une solution cloud qualifiée SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles, comme les données liées à la sécurité de la navigation. Cette migration a permis de réduire les coûts d’exploitation courante liés à l’infrastructure de diffusion, mais a en revanche a accru le coût d’hébergement."</i></p>
@@ -187,7 +187,7 @@ Le SICAP, système d’information des centres antipoison et de toxicovigilance,
     <button onclick="myFunction('vie-publique')" id="accordion-button" class="accordion-title" aria-controls="vie-publique" aria-expanded="false">Le site vie-publique.fr</button>
     <div class="accordion-content" id="vie-publique">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-            <p><i>"Le site vie-publique.fr est un site public d’information gratuit, dédié aux politiques publiques et au fonctionnement des institutions. Il accueille plus de 30 millions de visiteurs par an et leur donne accès à des contenus et ressources fiables pour approfondir leurs connaissances civiques."</i></p>
+            <p><i>"Le site <a href="https://www.vie-publique.fr/">vie-publique.fr</a> est un site public d’information gratuit, dédié aux politiques publiques et au fonctionnement des institutions. Il accueille plus de 30 millions de visiteurs par an et leur donne accès à des contenus et ressources fiables pour approfondir leurs connaissances civiques."</i></p>
       <ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
             <p><i>"Alors que tous les développeurs partageaient la même plateforme de développement, ce qui créait des dépendances et interférences, ils disposent désormais chacun de leur environnement propre, qu’ils peuvent allumer ou éteindre chaque jour et indépendamment de leurs collègues, minimisant ainsi les coûts associés. Ces gains de flexibilité ont permis une amélioration du service, des mises à jour plus régulières du contenu du site, qui est moins sujet à des surcharges ou ruptures de service. Cette migration a également été l’occasion de réduire drastiquement le temps moyen de livraison des pages du site."</i></p>
