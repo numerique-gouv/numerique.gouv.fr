@@ -215,7 +215,7 @@ function myFunction(id) {
   </div>
 
   <p>
-  <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div></p>
+  <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/cloud-letat-publie-une-serie-de-10-temoignages-pour-encourager-lensemble-des-acteurs-publics-a-se-saisir-du-plein-potentiel-du-cloud/">Lire le communiqué de presse</a></p></div></p>
 
   <p>Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre</p>
 

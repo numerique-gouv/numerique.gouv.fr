@@ -33,6 +33,6 @@ Depuis la publication de la doctrine « Cloud au centre » de l’État, de nomb
 
 Souveraineté numérique, maîtrise des coûts, résilience, sécurité, agilité, simplification, élasticité, scalabilité… telles sont les thématiques abordées dans cette série.
 
-Consulter la série : [https://www.numerique.gouv.fr/](https://www.numerique.gouv.fr/) et sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
+[Consulter la série](https://www.numerique.gouv.fr/actualites/s%C3%A9rie-de-t%C3%A9moignages-portant-sur-les-succ%C3%A8s-du-cloud-public/) et sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
 
 [Solliciter l’accompagnement de la DINUM à travers les experts cloud de la brigade d’intervention numérique](https://www.numerique.gouv.fr/services/cloud/squads/#contenu)
