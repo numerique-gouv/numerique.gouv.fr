@@ -19,7 +19,7 @@ une-ou-diaporama:
 - image: "/uploads/Design%20sans%20titre(1).png"
 ---
 
-À travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de service, c’est un changement de culture transformateur qui s’engage au sein des équipes et entités. 
+AAÀ travers ces témoignages, l’ambition est également de démontrer qu’au-delà des technologies et des offres de service, c’est un changement de culture transformateur qui s’engage au sein des équipes et entités. 
 
 <script>
   function myFunction(id) {
@@ -41,21 +41,13 @@ une-ou-diaporama:
     <button onclick="myFunction('listes-électorales')" id="accordion-button" class="accordion-title" aria-controls="listes-électorales" aria-expanded="false">La démarche d’inscription sur les listes électorales (DILE) </button>
     <div class="accordion-content" id="listes-électorales">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-      <ul>
         <p><i>"La dématérialisation de la démarche d’inscription sur les listes électorales (DILE) permet à tous les citoyens souhaitant demander leur inscription sur les listes électorales de le faire en ligne depuis le site <a href="https://www.service-public.fr/">service-public.fr</a>, et leur offre également la possibilité d’interroger leur situation électorale."</i></p>
-      </ul>
             <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
       <ul>
             <p><i>"L’hébergement de cette application dans une solution cloud apporte deux avantages majeurs</i></p>
-      </ul>
-      <ul>
         <li><i><strong>L’élasticité</strong>, qui permettent de prendre en charge instantanément une très grande variation du nombre de transactions réalisées dans l’application sans dégradation du service. A l’approche de chaque élection, la clôture des inscriptions sur les listes électorales provoque un important pic de fréquentation avec des centaines de milliers de demandes dans les dernières heures. L’élasticité du cloud permet en quelque sorte de s’adapter au rythme de vie des français. Elle permet également une optimisation des dépenses, puisque dès que le pic de fréquentation est passé, les capacités utilisées sont réduites et que la facturation ne porte que sur la consommation réelle.</i></li>
-      </ul>
-      <ul>
         <li><i><strong>La sécurité</strong> est indispensable car le niveau de criticité de cette application est élevé (dès lors qu’elle peut par exemple faire l’objet d’une attaque de la part une puissance étrangère), de même que les données qu’elle héberge sont sensibles. Par conséquent, le choix s’est porté sur l’offre du fournisseur sélectionné, qualifié SecNumCloud par l’ANSSI."</i></li>
-      </ul>
             <p><strong>Quels sont les autres avantages que le cloud présente pour vos activités ?</strong></p>
-      <ul>
         <p><i>"Le cloud apporte également de la résilience à l’application : les redondances mises en place permettent d’éliminer le risque de rupture de service en cas de problème technique sur l’un des hébergements. De plus, le déploiement de l’application a été complètement automatisé par la DILA, si bien qu’il ne faut que quelques clics, un hébergeur et un mot de passe pour que les scripts montent ou détruisent une plateforme complète. [Cela offre une grande réactivité et permet par exemple de déployer très rapidement le dispositif nécessaire en cas d’organisation d’élections anticipées dans un court délai - commentaire peut être trop en lien avec l’actualité]. Ce script d’automatisation a servi à la DILA de modèle pour l’automatisation d’autres applications."</i></p>
             <p>Témoignage de la direction de l'information légale et administrative</p>
       </ul>
@@ -68,13 +60,9 @@ une-ou-diaporama:
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"LABOé-SI (nouveau nom de l’Entrepot National des Données de Biologie - ENDB) est un système d'information national destiné à centraliser les analyses de biologie médicale, afin de soutenir la politique nationale de veille sanitaire. Son objectif est de mesurer la propagation de certaines pathologies et de contribuer à l'amélioration de la santé publique. La sensibilité des données exige un cadre juridique et technique rigoureux pour garantir la sécurité des citoyens."</i></p>
-      </ul>
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
-      <ul>
         <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
-      </ul>
             <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
-      <ul>
         <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
             <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
       </ul>
@@ -88,23 +76,15 @@ une-ou-diaporama:
       <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
       <p><i>"La Géoplateforme est LE nouvel espace public de l’information géographique, qui a pour objectif d’<strong>optimiser la production</strong> et la diffusion des géodonnées au service de la décision publique. Cette plateforme, ouverte et mutualisée, permet aux acteurs publics et privés de charger et d’héberger des données géographiques en toute autonomie pour les traiter, les diffuser, les entretenir au sein de communautés. Elle facilite la construction de portails et applications thématiques qui utilisent des données géographiques. Elle facilite également la valorisation de l’ensemble des données du territoire en offrant aux consommateurs de données et services géographiques un accès simplifié à celles-ci."</i></p>
-      </ul>
       <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ? </strong></p>
-      <ul>
       <p><i>"D’un point de vue plus technique, la Géoplateforme est une offre de données (plusieurs centaines de Téra Octets) et de services exposés sous forme d’API sur Internet. D’où la nécessité de disposer d’une infrastructure disponible, performante et capable de s’adapter à la charge. L’IGN a fait le choix d’un développement en mode cloud native chez OVHcloud. L’adoption de technologies telles que Docker pour la containerisation et Kubernetes pour l’orchestration de containers a permis à l’IGN de renforcer sa capacité d’innover, d’améliorer la gestion de ses services numériques notamment en termes de résilience et de répondre plus efficacement aux besoins du public."</i></p>
       <p><strong>Quels ont été les facteurs clés de succès ?</strong></p>
-      </ul>
-      <ul>
       <p><i>"La Géoplateforme devant traiter plus de 250 millions de requêtes utilisateurs par jour avec une optimisation des temps de réponse, l’organisation du projet a nécessité une implication forte de l’ensemble des parties prenantes du projet. Cela s’est traduit notamment par l’organisation d’ateliers d’intelligence collective pour la conception du système, de nombreux tests sous forme de POC (Proof of concept), mais également la mise en œuvre de task force sur des sujets plus techniques en impliquant notamment le fournisseur de cloud (OVHCloud).
 La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-communaute"> communauté Géoplateforme</a> sur une plateforme collaborative de l’État comprenant plus de 1700 membres a permis d’impliquer les futurs utilisateurs de la Géoplateforme dans la construction de la Géoplateforme et, le cas échéant, dans la migration de leurs applications vers leurs nouvelles API de la Géoplateforme."</i></p>
-      </ul>
       <p><strong>Quels ont été les principaux défis organisationnels rencontrés et comment les avez-vous surmontés ?</strong></p>
-      <ul>
       <p><i>"Au-delà du suivi du projet de construction de la Géoplateforme qui est sous-traité, l’IGN a souhaité assurer une montée en compétence de ses équipes techniques sur le cloud en mode DevOps afin de garder une certaine maitrise de la Géoplateforme. Une opération de Movetocloud de plusieurs dizaines d’applications Web a ainsi été réalisée chez OVHcloud par l’IGN. Fort de cette expérience réussie, l’IGN a amorcé une démarche de réinternalisation de certaines applications (Build & run), ce qui s’illustre notamment par les deux exemples qui suivent :</i></p>
         <li><i>En attendant l’arrivée de la nouvelle interface de la Géoplateforme <a href="https://cartes.gouv.fr"> cartes.gouv.fr</a> l’IGN a adapté l’application <a href="https://geoportail.gouv.fr"> geoportail.gouv.fr</a> pour la rendre cloud native et l’exploite depuis plusieurs mois. Cette application qui est dans le top 10 des applications gouvernementales en termes d’audience offre un accès en visualisation aux données de la Géoplateforme.</i></li>
         <li><i>L’IGN vient également de développer et de publier une nouvelle application mobile gratuite « <a href="https://www.ign.fr/telechargez-application-cartographique-cartes-ign"> Cartes IGN</a> » pour explorer le territoire, suivre ses évolutions et s’orienter facilement"</i></li>
-      </ul>
-      <ul>
             <p>Témoignage de l’Institut national de l’information géographique et forestière</p>
       </ul>
     </div>
@@ -117,21 +97,12 @@ La création d’une <a href="https://www.ign.fr/geoplateforme/rejoindre-la-comm
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
       <ul>
         <p><i>"Pour accélérer la transformation numérique du système de santé, l’ANS mettre en œuvre des projets d’ampleur comme la construction et le déploiement de systèmes nationaux :</p>
-      <ul>
         <li><i><strong>Le SI-SAMU</strong>, qui permet aux SAMU de répondre plus efficacement à leurs missions de prise en charge des demandes de soins formulées par la population, soit plus de 30 millions d’appels par an en cible.</i></li>
-      </ul>
-      <ul>
         <li><i><strong>Le SI-VIC</strong>, système d’information pour le suivi des victimes d’attentats et de situations sanitaires exceptionnelles, où plus de 700 000 dossiers ont été créés dans le cadre du suivi de l’épidémie Covid-19.</i></li>
-      </ul>
-      <ul>
         <li><i><strong>Le SICAP</strong>, système d’information des centres antipoison et de toxicovigilance, qui gèrent plus de 400 000 appels par an."</i></li>
-      </ul>
             <p><strong>En quoi le recours au cloud est-il déterminant pour votre projet ?</strong></p>
-      <ul>
         <p><i>"L’hébergement de ces systèmes d’information sur des solutions de confiance qualifiées SecNumCloud et HDS permet d’assurer un haut de niveau de sécurité des données recueillies. En outre, les technologies cloud apportent elasticité et scalabilité, permettant de prendre en charge une forte variabilité et un grand volume de demandes et de données. Le cloud facilite également la transférabilité lors des changements de marché de TMA/infogérance en conservant l’applicatif sur le même hébergeur Cloud."</i></p>
-      </ul>
             <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
-      <ul>
         <p><i>"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins de sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) ; et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."</i></p>
             <p>Témoignage de l’Agence Numérique en Santé</p>
       </ul>
@@ -231,8 +202,9 @@ En termes d’usages, la première génération de l’application offre les mê
     </div>
   </div>
   </div>
+<div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
+    <button onclick="myFunction('visioconférences')" id="accordion-button" class="accordion-title" aria-controls="visioconférences" aria-expanded="false">Le service souverain et responsable de visioconférences</button>
     <div class="accordion-content" id="visioconférences">
             <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
             <p><i>"Le projet de “service souverain et responsable de visioconférences” de la Direction du numérique pour l’éducation (DNE) a consisté à déployer à massivement le logiciel libre BigBlueButton (BBB), à l’échelle du ministère de l’éducation nationale et de son grand nombre d’utilisateurs, pour répondre à plusieurs besoins et de disposer :</i>
@@ -253,11 +225,8 @@ Le service, actuellement opéré sur le Cloud de Scaleway, peut être posé rapi
             <p><i>"L’approche pluridisciplinaire, l’écosystème qui s’est créé et le niveau de coopération des acteurs dans ce projet porté par la DNE. Le ministère de l’Éducation nationale et de la Jeunesse a initié les travaux et a su fédérer largement, avec notamment la Direction interministérielle du numérique ou le ministère de l’Enseignement supérieur, qui cherchaient à lancer des services équivalents. La mise en commun des besoins a permis de massifier l’usage dans le Cloud du logiciel BigBlueButton et d’améliorer le logiciel libre BigBlueButton via des évolutions fonctionnelles ou techniques. Nous poursuivons les travaux d’amélioration fonctionnelle ou ergonomique de la solution en lien avec Blindsidenetwork qui développe BigBlueButton."</i></p>
             <p>Témoignage de la direction du numérique pour l’éducation</p>
       </ul>
-</div>
-
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/letat-lance-une-communaute-numerique-des-ingenieurs-des-grands-corps-techniques-afin-de-repondre-aux-enjeux-dattractivite-et-de-fidelisation-au-sein-de-la-filiere-numerique-de-letat/">Lire le communiqué de presse</a></p></div>
 
-Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre
-      <ul>
-<a href="https://www.numerique.gouv.fr/services/cloud/squads/#contenu">En savoir plus sur le cloud de l’État et solliciter l’accompagnement de la DINUM à travers ses experts cloud de la brigade d'intervention numérique</a>
-      </ul>
+<p>Suivre la série sur les réseaux sociaux via #ClouddelEtat #Cloudaucentre</p>
+
+<p><a href="https://www.numerique.gouv.fr/services/cloud/squads/#contenu">En savoir plus sur le cloud de l’État et solliciter l’accompagnement de la DINUM à travers ses experts cloud de la brigade d'intervention numérique</a></p>
