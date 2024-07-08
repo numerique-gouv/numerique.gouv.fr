@@ -25,7 +25,7 @@ L’occasion aussi pour les agents publics de la tech de guider et accompagner l
 
 Pour ce faire, l’immersion de ces lycéens s’est complétée d’un parcours riche et varié : 
 * Rencontres avec des agents publics investis dans les grands chantiers du numérique public
-* Ateliers pédagogiques sur des thématiques variées : lutte contre les stéréotypes, découverte de l'IA générative « Albert », atelier contre la désinformation sur internet et bien d'autres encore...,
+* Ateliers pédagogiques sur des thématiques variées : découverte de l'IA générative « Albert », atelier anime par la DILCRAH contre la désinformation et la haine sur internet et bien d'autres encore...,
 * Initiation au codage avec l'association Prologin,
 * Atelier de création d’une startup d’État en partenariat avec beta.gouv.fr avec 3 récompenses : Prix de l’innovation, Prix de l’impact positif, Meilleur pitch !
 
