@@ -11,7 +11,7 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://podcast.ausha.co/politiques-numeriques/l-ia-ce-n-est-pas-magique-et-ce-n-est-pas-qu-une-affaire-de-techniciens" title=""L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens" - Lien externe">"L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens"</a></titre>
+<titre><a href="https://podcast.ausha.co/politiques-numeriques/l-ia-ce-n-est-pas-magique-et-ce-n-est-pas-qu-une-affaire-de-techniciens" title="«L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens» - Lien externe">«L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens»</a></titre>
 <date>15 juin 2024</date>
 <media> Politiques Numériques (POL/N) </media>
 
@@ -36,7 +36,7 @@ La Suite Numérique : lancement du collaboratif souverain et agile de l’Etat</
 <date>7 mai 2024</date>
 <media> Parlons RH </media>
 
-<titre><a href="https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2655228" title="Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services - Lien externe">Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services</a></titre>
+<titre><a href="https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2655228" title="Albert, l'IA conçue pour «faire gagner en efficacité» les agents des maisons France services - Lien externe">Albert, l'IA conçue pour «faire gagner en efficacité» les agents des maisons France services</a></titre>
 <date>7 mai 2024</date>
 <media> France Inter </media>
 
