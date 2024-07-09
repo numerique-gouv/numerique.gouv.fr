@@ -11,6 +11,14 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://podcast.ausha.co/politiques-numeriques/l-ia-ce-n-est-pas-magique-et-ce-n-est-pas-qu-une-affaire-de-techniciens" title=""L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens" - Lien externe">"L'IA, ce n'est pas magique, et ce n'est pas qu'une affaire de techniciens"</a></titre>
+<date>15 juin 2024</date>
+<media> Politiques Numériques (POL/N) </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/un-hackathon-pour-exploiter-le-gisement-de-donnees-de-la-dsn.html" title="Un hackathon pour exploiter le gisement de données de la DSN - Lien externe">Un hackathon pour exploiter le gisement de données de la DSN</a></titre>
+<date>11 juin 2024</date>
+<media> Republik IT </media>
+
 <titre><a href="https://acteurspublics.fr/articles/a-defaut-dune-fusion-une-communaute-numerique-pour-federer-les-corps-techniques-de-letat" title="À défaut d’une fusion, une communauté numérique pour fédérer les corps techniques de l’État - Lien externe">À défaut d’une fusion, une communauté numérique pour fédérer les corps techniques de l’État</a></titre>
 <date>4 juin 2024</date>
 <media> Acteurs Publics </media>
