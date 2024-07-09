@@ -11,13 +11,27 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/la-suite-numerique-lancement-du-collaboratif-souverain-et-agile-de-l-etat.html" title="La Suite Numérique : lancement du collaboratif souverain et agile de l’Etat - Lien externe">
+La Suite Numérique : lancement du collaboratif souverain et agile de l’Etat</a></titre>
+<date> 23 mai 2024 </date>
+<media> Republik IT </media>
+
+<titre><a href="https://www.republik-it.fr/decideurs-it/cas-usage/la-suite-numerique-lancement-du-collaboratif-souverain-et-agile-de-l-etat.html" title="La Suite Numérique : lancement du collaboratif souverain et agile de l’Etat - Lien externe">
+La Suite Numérique : lancement du collaboratif souverain et agile de l’Etat</a></titre>
+<date> 23 mai 2024 </date>
+<media> Republik IT </media>
+
+<titre><a href="https://www.parlonsrh.com/media/dans-le-numerique-public-lagilite-ce-nest-pas-un-concept-cest-du-concret/" title="Dans le numérique public, l’agilité, ce n’est pas un concept, c’est du concret - Lien externe">Dans le numérique public, l’agilité, ce n’est pas un concept, c’est du concret</a></titre>
+<date>7 mai 2024</date>
+<media> Parlons RH </media>
+
 <titre><a href="https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2655228" title="Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services - Lien externe">Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services</a></titre>
-<date>7 mai 2024 </date>
-<media> Acteurs Publics </media>
+<date>7 mai 2024</date>
+<media> France Inter </media>
 
 <titre><a href="https://acteurspublics.fr/articles/donnees-sociales-titre-de-transport-unique-stanislas-guerini" title="Données sociales – Titre de transport unique – Stanislas Guerini - Lien externe">Données sociales – Titre de transport unique – Stanislas Guerini</a></titre>
 <date>25 avril 2024</date>
-<media> France Inter </media>
+<media> Acteurs publics </media>
 
 <titre><a href="https://www.solutions-numeriques.com/albert-une-ia-generative-de-genie-pour-les-use-cases-de-ladministration-francaise/" title="Albert, une IA générative de génie pour les « use cases » de l’administration française - Lien externe">Albert, une IA générative de génie pour les « use cases » de l’administration française</a></titre>
 <date>22 avril 2024</date>
