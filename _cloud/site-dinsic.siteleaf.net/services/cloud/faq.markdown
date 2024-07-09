@@ -43,7 +43,7 @@ Quel que soit le format de solution cloud choisi, le mode produit doit être pri
 * l’autonomie des équipes
 * la prise en charge continue des opérations
 * la confrontation rapide avec les utilisateurs du produit
-un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
+* un jalonnement par l’impact permettant d’arrêter, d’infléchir ou d’accélérer la trajectoire du produit en fonction des résultats constatés.
 
 <div class="encadre noir" style="margin-bottom:40px"><h4>
 Par où commencer &nbsp;?</h4>Nous vous recommandons 5 étapes à suivre pour bien démarrer avec la doctrine et ainsi faciliter sa mise en œuvre au sein de vos services. Elles sont disponibles sur la page 5 étapes pour bien commencer avec la doctrine Cloud : <a href="https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu" title="5 étapes pour bien commencer avec la doctrine Cloud">5 étapes pour bien commencer avec la doctrine Cloud</a></div>
@@ -54,8 +54,8 @@ Par où commencer &nbsp;?</h4>Nous vous recommandons 5 étapes à suivre pour bi
 
 Deux conditions doivent être réunies pour que les données soient qualifiées comme particulièrement sensibles au sens de la doctrine :
 
-* d’une part, elles doivent être sensibles soit par nature (parce qu’identifiées comme un secret légal) soit du fait de leur emploi (parce qu’impliquées dans une mission essentielle de l’Etat) ;
-* d’autre part, leur violation aurait pour conséquence une atteinte à l’ordre public, la sécurité publique, la santé, la vie des personnes ou la propriété intellectuelle.
+* d’une part, elles doivent être sensibles soit par nature (parce qu’identifiées comme un secret légal) soit du fait de leur emploi (parce qu’impliquées dans une mission essentielle de l’État) ;
+* **et** d’autre part, leur violation aurait pour conséquence une atteinte à l’ordre public, la sécurité publique, la santé, la vie des personnes ou la propriété intellectuelle.
 
 **Notes importantes :**
 
@@ -67,6 +67,10 @@ Deux conditions doivent être réunies pour que les données soient qualifiées 
 **Qui est responsable de l’évaluation de la sensibilité particulière des données dans un cas précis ?**
 
 L’entité porteuse du projet concerné est en charge de cette analyse.
+
+**Faut-il utiliser du SecNumCloud même lorsque ce n’est pas exigé par la circulaire ?**
+
+Non. S'il n'y a pas de besoin SecNumCloud identifié, il ne faut pas y recourir.
 
 ### Contrôle
 
@@ -84,6 +88,15 @@ La doctrine prévoit dans sa règle [R3] que chaque administration mette en plac
 | Au-delà de 9 millions d'euros| Le contrôle est intégré à la procédure de contrôle de conception des grands projets informatiques de l'État issue de l'article 3 du décret n°2019-1088 du 25 octobre 2019.| 
 
 L'adoption du cloud computing est associée à un effort important de transformation, et il importe plus d'avoir un plan global (intégrant les volets humains, infrastructures, économiques...) que d'appliquer la doctrine projet par projet. Les raisons qui vous conduisent à penser qu'il est légitime de déroger à la doctrine cloud de l'Etat peuvent vous donner des pistes sur la nature des freins subsistant dans votre organisation.
+
+**En quoi consiste le contrôle prévu à la règle [R8] ?**
+
+Ce contrôle porte sur le plan d’adoption du cloud, qui doit couvrir, à minima, les dimensions suivantes, détaillées sur la page [https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu](https://www.numerique.gouv.fr/services/cloud/demarrer/#contenu) : 
+
+* Définition des enjeux ;
+* Cadre global d’usage ;
+* Prérequis majeurs ;
+* Dispositif d’acquisition des compétences et d’accompagnement opérationnel des équipes.
 
 Si vous pensez que le cloud n'est pas pour votre projet, [contactez-nous ](mailto:infonuage.dinum@modernisation.gouv.fr) et parlons-en ! 
 
