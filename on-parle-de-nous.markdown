@@ -11,9 +11,13 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-2655228" title="Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services - Lien externe">Albert, l'IA conçue pour "faire gagner en efficacité" les agents des maisons France services</a></titre>
+<date>7 mai 2024 </date>
+<media> Acteurs Publics </media>
+
 <titre><a href="https://acteurspublics.fr/articles/donnees-sociales-titre-de-transport-unique-stanislas-guerini" title="Données sociales – Titre de transport unique – Stanislas Guerini - Lien externe">Données sociales – Titre de transport unique – Stanislas Guerini</a></titre>
 <date>25 avril 2024</date>
-<media> Acteurs Publics </media>
+<media> France Inter </media>
 
 <titre><a href="https://www.solutions-numeriques.com/albert-une-ia-generative-de-genie-pour-les-use-cases-de-ladministration-francaise/" title="Albert, une IA générative de génie pour les « use cases » de l’administration française - Lien externe">Albert, une IA générative de génie pour les « use cases » de l’administration française</a></titre>
 <date>22 avril 2024</date>
