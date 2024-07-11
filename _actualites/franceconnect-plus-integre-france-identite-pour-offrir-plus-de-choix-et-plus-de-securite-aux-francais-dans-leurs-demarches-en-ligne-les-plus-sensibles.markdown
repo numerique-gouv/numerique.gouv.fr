@@ -18,4 +18,4 @@ une-ou-diaporama:
   alternative-textuelle: image déco
 ---
 
-<div class="lien-important"><p><a href="LIEN A INSERER">Lire le communiqué de presse</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/espace-presse/franceconnect-plus-integre-france-identite-pour-offrir-plus-de-choix-et-plus-de-securite-aux-francais-dans-leurs-demarches-en-ligne-les-plus-sensibles/">Lire le communiqué de presse</a></p></div>
