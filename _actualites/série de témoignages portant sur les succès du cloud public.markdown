@@ -65,7 +65,7 @@ function myFunction(id) {
           <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
           <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
-          <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
+          <p>Témoignage de la direction du numérique des ministères sociaux, sur des travaux menés en lien avec la direction générale de la santé et la délégation au numérique en santé</p>
         </ul>
       </div>
     </div>
@@ -107,18 +107,18 @@ function myFunction(id) {
           <p><i>"L’hébergement de ces systèmes d’information sur des solutions de confiance qualifiées SecNumCloud et HDS permet d’assurer un haut de niveau de sécurité des données recueillies. En outre, les technologies cloud apportent elasticité et scalabilité, permettant de prendre en charge une forte variabilité et un grand volume de demandes et de données. Le cloud facilite également la transférabilité lors des changements de marché de TMA/infogérance en conservant l’applicatif sur le même hébergeur Cloud."</i></p>
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
           <p><i>"Les clés de notre succès ont été d’une part d’anticiper les besoins de ressources (CPU, RAM, ESX etc…), les spécificités des applicatifs (bi-site, PRA etc…) et les besoins de sécurité (parefeux, cloisonnement réseau, gestion des accès administrateur, traçabilité, protections contre les malwares, etc.) ; et d’autre part de prévoir les évolutions, voire la refonte des applications, pour pleinement exploiter les avantages du cloud (notamment le paiement à l’usage) et maitriser les coûts dans une démarche Finops."</i></p>
-          <p>Témoignage de l’Agence Numérique en Santé</p>
+          <p>Témoignage de l’Agence du Numérique en Santé</p>
         </ul>
       </div>
     </div>
   </div>
   <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
     <div class="accordion-item">
-      <button onclick="myFunction('océanographique')" id="accordion-button-5" class="accordion-title" aria-controls="océanographique" aria-expanded="false">Le Service hydrographique et océanographique de la marine (SHOM)</button>
+      <button onclick="myFunction('océanographique')" id="accordion-button-5" class="accordion-title" aria-controls="océanographique" aria-expanded="false">Le Service hydrographique et océanographique de la marine (Shom)</button>
       <div class="accordion-content" id="océanographique">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
         <ul>
-          <p><i>"L’infrastructure de diffusion du Service hydrographique et océanographique de la marine(SHOM), au travers de ses portails (<a href="https://data.shom.fr">data.shom.fr</a>, <a href="https://diffusion.shom.fr">diffusion.shom.fr</a> et <a href="https://maree.shom.fr ">maree.shom.fr</a>), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
+          <p><i>"L’infrastructure de diffusion du Shom, au travers de ses portails (<a href="https://data.shom.fr">data.shom.fr</a>, <a href="https://diffusion.shom.fr">diffusion.shom.fr</a> et <a href="https://maree.shom.fr ">maree.shom.fr</a>), permet à tous d’accéder à des informations caractérisant de l’environnement physique marin (bathymétrie, limites maritimes, horaires des marées, données océanographiques…)."</i></p>
           <p><strong>En quoi le recours au cloud a-t-il été déterminant pour votre projet ?</strong></p>
           <p><i>"Les portails de diffusion du Shom sont adossés à un entrepôt contenant les données et services décrivant l’environnement physique marin. Pour assurer encore plus de sécurité, d’agilité et de maîtrise des coûts, le développement de cet entrepôt s’est fait sur le cloud. Le choix d’une solution cloud qualifiée SecNumCloud a permis de sécuriser davantage les données et services du Shom, certaines données étant jugées sensibles, comme les données liées à la sécurité de la navigation. Cette migration a permis de réduire les coûts d’exploitation courante liés à l’infrastructure de diffusion, mais a en revanche a accru le coût d’hébergement."</i></p>
           <p><strong>Quels ont été les facteurs clefs de succès pour la migration vers un cloud qualifié SecNumCloud ?</strong></p>
@@ -138,7 +138,7 @@ function myFunction(id) {
         <p><i>"Traitant les données de santé des français, il est indispensable de répondre aux exigences réglementaires correspondantes dont une des composantes est d’être HDS (Héberguer de données de santé). Cela nécessite de s’appuyer sur les experts certifiés afin d’assurer la sécurité et la conformité de la plateforme. Cela offre aussi une scalabilité plus importante afin de répondre aux besoins d’analyses à venir. Le fort besoin de réassurance et de garanties des personnes sur le traitement de leur données de santé a également été un argument dans le choix de cette stratégie d’hébergement."</i></p>
         <p><strong>Quels ont été les critères retenus dans la MŒ ?</strong></p>
         <p><i>"Qui dit maîtrise de nos données implique souveraineté sur l’hébergement ainsi que sur la plupart des composants. Le choix de l’hébergeur OVHcloud découle ainsi des préconisations de la DINUM pour mettre en œuvre la plateforme sur un cloud privé souverain prouvant ainsi notre savoir-faire face aux géants du marché. Il s’agissait également de répondre aux inquiétudes relatives à des hébergements en dehors de France. Les enjeux de garanties pour les personnes sont majeurs pour une bonne collecte et une bonne utilisation des données et ils ont ici fait parti des critères ayant conduit ce choix."</i></p>
-        <p>Témoignage de l’Institut nationale du cancer</p>
+        <p>Témoignage de l’Institut National du Cancer</p>
       </div>
     </div>
   </div>
@@ -176,7 +176,7 @@ function myFunction(id) {
   </div>
   <div class="margin-bottom-10 accordion no-bullet" data-allow-all-closed="true">
     <div class="accordion-item">
-      <button onclick="myFunction('Sésame-Vitale')" id="accordion-button-9" class="accordion-title" aria-controls="Sésame-Vitale" aria-expanded="false">L'application Sésame Vitale des systèmes d’information des professionnels et établissements de santé</button>
+      <button onclick="myFunction('Sésame-Vitale')" id="accordion-button-9" class="accordion-title" aria-controls="Sésame-Vitale" aria-expanded="false">L'application carte Vitale des systèmes d’information des professionnels et établissements de santé</button>
       <div class="accordion-content" id="Sésame-Vitale">
         <p><strong>Pouvez-vous décrire brièvement le projet ?</strong></p>
         <p><i>"L’Identité Nationale de Santé, véhiculée par l’Appli carte Vitale permettra aux assurés d’accéder à leurs données de santé de manière sécurisée dans les nombreuses applications et nouveaux services en ligne qui émergent actuellement dans le domaine de la santé."</i></p>
