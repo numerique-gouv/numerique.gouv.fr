@@ -65,7 +65,7 @@ function myFunction(id) {
           <p><i>"Le cloud nous permet de déléguer certaines contraintes internes telles que la très haute disponibilité, les certifications et la capacité de gérer d'importantes variations d'activité."</i></p>
           <p><strong>Quels ont été les facteurs de la réussite de ce projet ?</strong></p>
           <p><i>"Les clés de notre succès ont été de nous appuyer sur l’expertise des prestataires choisis dans le cadre du marché cloud et d’établir une communication quotidienne et dynamique tout au long du développement."</i></p>
-          <p>Témoignage du ministère du Travail, de la Santé et de la Solidarité</p>
+          <p>Témoignage de la direction du numérique des ministères sociaux, sur des travaux menés en lien avec la direction générale de la santé et la délégation au numérique en santé</p>
         </ul>
       </div>
     </div>
