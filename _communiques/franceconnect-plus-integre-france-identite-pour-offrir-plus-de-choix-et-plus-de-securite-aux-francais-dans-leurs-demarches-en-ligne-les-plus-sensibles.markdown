@@ -1,7 +1,14 @@
 ---
 title: FranceConnect+ intègre France Identité pour offrir plus de choix et plus de
-  sécurité aux français dans leurs démarches en ligne les plus sensibles.
+  sécurité aux français dans leurs démarches en ligne les plus sensibles
 date: 2024-07-11 10:02:00 +02:00
+categories:
+- Communiqué de presse
+tags:
+- FranceConnect
+- Numérique
+- Identité numérique
+- Démarches administratives
 chapeau-text: "**Afin d’enrichir son offre et proposer plus de choix aux Français
   dans leurs modes de connexion aux services en ligne, FranceConnect+ intègre désormais
   France Identité, l’identité numérique régalienne créée et portée par l’agence France
