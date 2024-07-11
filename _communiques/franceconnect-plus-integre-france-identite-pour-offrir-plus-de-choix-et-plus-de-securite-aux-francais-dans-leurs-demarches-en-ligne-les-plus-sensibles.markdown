@@ -13,6 +13,9 @@ chapeau-text: "**Afin d’enrichir son offre et proposer plus de choix aux Fran�
   dans leurs modes de connexion aux services en ligne, FranceConnect+ intègre désormais
   France Identité, l’identité numérique régalienne créée et portée par l’agence France
   Titres et le ministère de l’Intérieur et des Outre-mer.**"
+une-ou-diaporama:
+- image: "/uploads/FC%20%20FI.png"
+  alternative-textuelle: image déco
 files:
 - file: "/uploads/CP_FRANCECONNECT%20_INTEGRE_FRANCE_IDENTITE.pdf"
   nom: Télécharger le communiqué de presse
