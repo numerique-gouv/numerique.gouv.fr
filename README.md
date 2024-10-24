@@ -2,7 +2,7 @@
 
 
 Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
-[Un wiki est disponible au lien suivant](https://github.com/MatthiasFeraga/site-dinsic/wiki)
+[Un wiki est disponible au lien suivant](https://github.com/numerique-gouv/numerique.gouv.fr/wiki)
 
 ## System Preparation
 
